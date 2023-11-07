@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+
+    <title>Add Algorithms</title>
+</head>
+<body>
+    <form class=" @p-4">
+        <div class ="form-group">
+            <input type="text" id="name" class="form-control"
+            placeholder="Algorithm's Name" autofocus>
+        </div>
+        <div class ="form-group">
+            <input type="text" id = "lenguage" class="form-control"
+            placeholder="Algorithm's Lenguage">
+        </div>
+        <div class ="form-group">
+            <input type="text" id = "brief_description" class="form-control"
+            placeholder="Author(s)">
+        </div>
+        <div class ="form-group">
+            <input type="textarea" id="about" class="form-control"
+            placeholder="About the algorithm">
+        </div>
+        <div class="form-group">    
+            <input type="text" id="Inputs_and_Outputs" class="form-control"
+            placeholder="Information about input and output">
+        </div>
+        <button class="btn btn-primary btn-block">
+            Add
+        </button>
+    </form>
+    <script>    
+    const {ipcRenderer} = require('electron');
+
+    const form =document.querySelector('form');
+
+    form.addEventListener('submit', e => 
+    {
+        const nameAlgorithm = document.querySelector('#name').value;
+        const lenguageAlgorithm = document.querySelector('#lenguage').value;
+        const brief_descriptionAlgorithm = document.querySelector('#brief_description').value;
+        const aboutAlgorithm = document.querySelector('#about').value;
+        const Inputs_and_OutputsAlgorithm = document.querySelector('#Inputs_and_Outputs').value;
+
+        ipcRenderer.send('new-algorithm', nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
+
+        });
+
+    </script>
+</body>
+</html>

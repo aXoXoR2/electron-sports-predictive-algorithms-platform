@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="../css/style.css">
+    
+    <title>Sports Predictive Algorithms Platform</title>
+
+</head>
+<body>
+    <div class="row">
+        <div class="col-4" id="left">
+            <button class="btn btn-primary" onclick="goStart()">Home</button>
+            <ul class="algorithms list-unstyled mb-0 mt-2">
+            </ul>
+        </div>
+        <div class="col-8 descriptions_section" id="right">
+            <div class="d-flex descriptions">
+                    <div class="card">
+                        <div class="card-body">
+                            Este apartado sera el estado inicial de la app.
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+    const {ipcRenderer} = require('electron');
+
+    ipcRenderer.on('data-algorithms-from-database',(event,args)=>
+    {
+        createAlgorithms( args);
+    }) // initial data recive from database
+
+    ipcRenderer.on('new-data-from-database',(event,args)=>
+    {
+        createAlgorithms(args);
+        alert("Han sido actuaizados la informacion sobre los algoritmos")
+        goStart();
+    }) // actualization event, in case of add or remove some algorithm
+
+    ipcRenderer.on('create-description-section',(event,args)=>
+    {
+        createDescriptions(args);
+    }) // here recive the algorithm description from database 
+
+    function createAlgorithms(algorithms) 
+    {
+    var algorithm_lis =''
+    algorithms.forEach((c)=>
+    {
+        algorithm_lis +=`<li class="p-2 mt-2 card" onclick='changeDescription(${c.id})'>
+            <div>
+                <p class="fw-bold mb-0"> ${c.name}</p>
+                <p class="small text-muted">${c.brief_description}</p>
+            </div>
+        </li>`
+    })
+    document.querySelector('.algorithms').innerHTML=algorithm_lis;
+    }//create algorithms section
+
+    function createDescriptions(descriptions) //create description section
+    {
+    var description_lis =''
+    descriptions.forEach((d)=>
+    {
+        description_lis +=`<div class="d-flex descriptions">
+            <div class="w-75">
+                <div class="card">
+                    <div class="card-body">
+                      ${d.about}
+                    </div>
+                </div>
+            </div>
+            <div class="w-25">
+            </div>
+        </div>
+        <div class="d-flex descriptions">
+            <div class="w-25">
+            </div>
+            <div class="w-75 mt-2">
+                <div class="card">
+                    <div class="card-body">
+                        ${d.Inputs_and_Outputs}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="btn btn-primary" onclick='executeRequest(${d.id})'>Execute</button>`
+    })
+    document.querySelector('.descriptions_section').innerHTML=description_lis;
+    }
+
+    function changeDescription(id) // algorithm description request
+    {
+        ipcRenderer.send('description-request',id);
+    }
+
+    function executeRequest(id)// algorithm execution request to the node index file
+    {
+        ipcRenderer.send('execute-algorithm-request',id)
+    } 
+
+    function goStart()
+    {
+        document.querySelector('.descriptions_section').innerHTML= `<div class="d-flex descriptions">
+            <div>
+                <div class="card">
+                    <div class="card-body">
+                        Este apartado sera el estado inicial de la app luego darle a Home.
+                    </div>
+                </div>
+            </div>
+        </div>`
+    } // bottom home interaction
+
+</script>
+</body>
+</html>

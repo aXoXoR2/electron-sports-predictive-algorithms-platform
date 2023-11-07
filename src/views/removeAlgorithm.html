@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Remove Algorithms</title>
+</head>
+<body>
+    <div class="col-8" id="left">
+        <ul class="algorithms list-unstyled mb-0 mt-2">
+        </ul>
+    </div>
+    <div class="col-4 confirmation_section" id="right">
+        <div class="d-flex descriptions">
+                <div class="card">
+                    <div class="card-body">
+                        Make sure that you have read all about the algorithm you wish remove before do it.
+                    </div>
+                </div>
+        </div>
+    </div>
+
+    <script>    
+        const {ipcRenderer} = require('electron');
+
+        ipcRenderer.on('new-data-from-database-removed',(event,algorithms)=>
+        {
+            createAlgorithms(algorithms);
+        })
+
+        ipcRenderer.on('create-algorithm-list', (event,args)=>
+        {
+            createAlgorithms(args);
+        })
+        
+        function createAlgorithms(algorithms) 
+    {
+    var algorithm_lis =''
+    algorithms.forEach((c)=>
+    {
+        algorithm_lis +=`<li class="p-2 mt-2 card" onclick='removeConfirmation(${c.id})'>
+            <div>
+                <p class="fw-bold mb-0"> ${c.name}</p>
+                <p class="small text-muted">${c.brief_description}</p>
+            </div>
+        </li>`
+    })
+    document.querySelector('.algorithms').innerHTML=algorithm_lis;
+    }//create algorithms section
+
+        function removeConfirmation (id)
+        {
+            var description_lis =`<div class="d-flex descriptions">
+                    <div class="w-75">
+                        <div class="card">
+                            <div class="card-body">
+                              Are you sure about this desicion? Once you clik on the bottom the action its irreversible.
+                            </div>
+                        </div>
+                    </div>
+                <button class="btn btn-primary" onclick='removeAlgorithm(${id})'>Remove</button>`
+            document.querySelector('.confirmation_section').innerHTML=description_lis;
+    }
+
+    function removeAlgorithm(id)
+    {
+        ipcRenderer.send('remove-algorithm-request',id);
+    }
+</script>
+</body>
+</html>
