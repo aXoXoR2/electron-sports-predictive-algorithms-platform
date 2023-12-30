@@ -15,7 +15,177 @@
             "position": "M",
             "tactical": "51",
             "technical": "65"
-        }
+        },
+        "pedro-porro": {
+            "attack": "63",
+            "creativity": "76",
+            "defending": "45",
+            "position": "M",
+            "tactical": "40",
+            "technical": "65"
+        },
+        "cristian-romero": {
+            "attack": "39",
+            "creativity": "45",
+            "defending": "82",
+            "position": "D",
+            "tactical": "67",
+            "technical": "49"
+        },
+        "manor-solomon": {
+            "attack": "71",
+            "creativity": "70",
+            "defending": "40",
+            "position": "F",
+            "tactical": "50",
+            "technical": "86"
+        },
+        "dejan-kulusevski": {
+            "attack": "72",
+            "creativity": "73",
+            "defending": "26",
+            "position": "F",
+            "tactical": "40",
+            "technical": "66"
+        },
+        "guglielmo-vicario": {
+            "aerial": "81",
+            "anticipation": "53",
+            "ballDistribution": "86",
+            "position": "G",
+            "saves": "82",
+            "tactical": "78"
+        },
+        "pape-matar-sarr": {
+            "attack": "54",
+            "creativity": "60",
+            "defending": "53",
+            "position": "M",
+            "tactical": "58",
+            "technical": "55"
+        },
+        "lo-celso-giovani": {
+            "attack": "67",
+            "creativity": "75",
+            "defending": "46",
+            "position": "M",
+            "tactical": "61",
+            "technical": "69"
+        },
+        "yves-bissouma": {
+            "attack": "54",
+            "creativity": "56",
+            "defending": "55",
+            "position": "M",
+            "tactical": "61",
+            "technical": "60"
+        },
+        "ben-davies": {
+            "attack": "42",
+            "creativity": "48",
+            "defending": "67",
+            "position": "D",
+            "tactical": "52",
+            "technical": "49"
+        },
+        "ivan-perisic": {
+            "attack": "68",
+            "creativity": "80",
+            "defending": "56",
+            "position": "M",
+            "tactical": "59",
+            "technical": "63"
+        },
+        "micky-van-de-ven": {
+            "attack": "40",
+            "creativity": "39",
+            "defending": "75",
+            "position": "D",
+            "tactical": "68",
+            "technical": "52"
+        },
+        "davinson-sanchez": {
+            "attack": "39",
+            "creativity": "45",
+            "defending": "74",
+            "position": "D",
+            "tactical": "63",
+            "technical": "48"
+        },
+        "richarlison": {
+            "attack": "69",
+            "creativity": "57",
+            "defending": "27",
+            "position": "F",
+            "tactical": "43",
+            "technical": "48"
+        },
+        "brennan-johnson": {
+            "attack": "68",
+            "creativity": "55",
+            "defending": "31",
+            "position": "F",
+            "tactical": "41",
+            "technical": "53"
+        },
+        "destiny-udogie": {
+            "attack": "52",
+            "creativity": "60",
+            "defending": "55",
+            "position": "D",
+            "tactical": "50",
+            "technical": "55"
+        },
+        "emerson-royal": {
+            "attack": "48",
+            "creativity": "50",
+            "defending": "61",
+            "position": "D",
+            "tactical": "49",
+            "technical": "51"
+        },
+        "pierre-emile-hojbjerg": {
+            "attack": "59",
+            "creativity": "68",
+            "defending": "55",
+            "position": "M",
+            "tactical": "70",
+            "technical": "68"
+        },
+        "bryan-gil": {
+            "attack": "61",
+            "creativity": "59",
+            "defending": "32",
+            "position": "F",
+            "tactical": "36",
+            "technical": "55"
+        },
+        "alejo-veliz": {
+            "attack": "67",
+            "creativity": "39",
+            "defending": "35",
+            "position": "F",
+            "tactical": "57",
+            "technical": "45"
+        },
+        "skipp-oliver": {
+            "attack": "48",
+            "creativity": "51",
+            "defending": "48",
+            "position": "M",
+            "tactical": "51",
+            "technical": "55"
+        },
+        "bentancur-rodrigo": {},
+        "eric-dier": {
+            "attack": "37",
+            "creativity": "43",
+            "defending": "72",
+            "position": "M",
+            "tactical": "66",
+            "technical": "45"
+        },
+        "jamie-donley": {}
     },
     "manchester-city": {
         "rodri": {
@@ -33,42 +203,174 @@
             "position": "M",
             "tactical": "57",
             "technical": "99"
-        }
-    },
-    "liverpool": {
-        "mohamed-salah": {
-            "attack": "89",
-            "creativity": "79",
-            "defending": "24",
-            "position": "F",
-            "tactical": "60",
-            "technical": "63"
         },
-        "virgil-van-dijk": {
+        "bernardo-silva": {
+            "attack": "66",
+            "creativity": "70",
+            "defending": "43",
+            "position": "M",
+            "tactical": "57",
+            "technical": "68"
+        },
+        "phil-foden": {
+            "attack": "79",
+            "creativity": "77",
+            "defending": "40",
+            "position": "M",
+            "tactical": "62",
+            "technical": "80"
+        },
+        "erling-haaland": {
+            "attack": "88",
+            "creativity": "55",
+            "defending": "33",
+            "position": "F",
+            "tactical": "74",
+            "technical": "66"
+        },
+        "julian-alvarez": {
+            "attack": "76",
+            "creativity": "65",
+            "defending": "35",
+            "position": "F",
+            "tactical": "57",
+            "technical": "64"
+        },
+        "jack-grealish": {
+            "attack": "74",
+            "creativity": "78",
+            "defending": "44",
+            "position": "M",
+            "tactical": "64",
+            "technical": "79"
+        },
+        "sergio-gomez": {
+            "attack": "55",
+            "creativity": "61",
+            "defending": "57",
+            "position": "F",
+            "tactical": "47",
+            "technical": "57"
+        },
+        "manuel-akanji": {
+            "attack": "41",
+            "creativity": "47",
+            "defending": "70",
+            "position": "D",
+            "tactical": "67",
+            "technical": "52"
+        },
+        "nathan-ake": {
             "attack": "42",
-            "creativity": "51",
+            "creativity": "45",
             "defending": "79",
             "position": "D",
-            "tactical": "77",
-            "technical": "56"
-        }
-    },
-    "arsenal": {
-        "bukayo-saka": {
-            "attack": "83",
-            "creativity": "76",
-            "defending": "34",
-            "position": "D",
-            "tactical": "56",
-            "technical": "72"
+            "tactical": "68",
+            "technical": "49"
         },
-        "martin-odegaard": {
-            "attack": "71",
-            "creativity": "80",
-            "defending": "32",
-            "position": "F",
-            "tactical": "49",
-            "technical": "73"
+        "josko-gvardiol": {
+            "attack": "43",
+            "creativity": "54",
+            "defending": "73",
+            "position": "D",
+            "tactical": "72",
+            "technical": "57"
+        },
+        "oscar-bobb": {
+            "attack": "57",
+            "creativity": "59",
+            "defending": "33",
+            "position": "M",
+            "tactical": "42",
+            "technical": "67"
+        },
+        "ruben-dias": {
+            "attack": "37",
+            "creativity": "47",
+            "defending": "79",
+            "position": "D",
+            "tactical": "72",
+            "technical": "52"
+        },
+        "kyle-walker": {
+            "attack": "43",
+            "creativity": "52",
+            "defending": "64",
+            "position": "D",
+            "tactical": "59",
+            "technical": "54"
+        },
+        "aymeric-laporte": {
+            "attack": "38",
+            "creativity": "47",
+            "defending": "75",
+            "position": "D",
+            "tactical": "69",
+            "technical": "52"
+        },
+        "ederson": {
+            "aerial": "67",
+            "anticipation": "64",
+            "ballDistribution": "89",
+            "position": "G",
+            "saves": "69",
+            "tactical": "75"
+        },
+        "mateo-kovacic": {
+            "attack": "55",
+            "creativity": "64",
+            "defending": "43",
+            "position": "M",
+            "tactical": "46",
+            "technical": "67"
+        },
+        "kevin-de-bruyne": {
+            "attack": "86",
+            "creativity": "99",
+            "defending": "37",
+            "position": "M",
+            "tactical": "58",
+            "technical": "86"
+        },
+        "rico-lewis": {
+            "attack": "48",
+            "creativity": "59",
+            "defending": "50",
+            "position": "D",
+            "tactical": "44",
+            "technical": "52"
+        },
+        "matheus-nunes": {
+            "attack": "58",
+            "creativity": "67",
+            "defending": "41",
+            "position": "M",
+            "tactical": "48",
+            "technical": "68"
+        },
+        "john-stones": {
+            "attack": "43",
+            "creativity": "51",
+            "defending": "72",
+            "position": "D",
+            "tactical": "72",
+            "technical": "56"
+        },
+        "kalvin-phillips": {
+            "attack": "47",
+            "creativity": "49",
+            "defending": "54",
+            "position": "M",
+            "tactical": "59",
+            "technical": "48"
+        },
+        "stefan-ortega": {
+            "aerial": "51",
+            "anticipation": "63",
+            "ballDistribution": "98",
+            "position": "G",
+            "saves": "78",
+            "tactical": "71"
         }
     },
     "crystal-palace": {
@@ -87,6 +389,498 @@
             "position": "F",
             "tactical": "49",
             "technical": "83"
+        },
+        "dean-henderson": {},
+        "joachim-andersen": {
+            "attack": "44",
+            "creativity": "55",
+            "defending": "76",
+            "position": "D",
+            "tactical": "77",
+            "technical": "54"
+        },
+        "jefferson-lerma": {
+            "attack": "54",
+            "creativity": "56",
+            "defending": "58",
+            "position": "M",
+            "tactical": "58",
+            "technical": "54"
+        },
+        "odsonne-edouard": {
+            "attack": "71",
+            "creativity": "50",
+            "defending": "23",
+            "position": "F",
+            "tactical": "41",
+            "technical": "47"
+        },
+        "cheick-doucoure": {
+            "attack": "54",
+            "creativity": "61",
+            "defending": "67",
+            "position": "M",
+            "tactical": "65",
+            "technical": "55"
+        },
+        "jordan-ayew": {
+            "attack": "63",
+            "creativity": "59",
+            "defending": "29",
+            "position": "F",
+            "tactical": "46",
+            "technical": "54"
+        },
+        "tyrick-mitchell": {
+            "attack": "40",
+            "creativity": "45",
+            "defending": "74",
+            "position": "D",
+            "tactical": "45",
+            "technical": "47"
+        },
+        "marc-guehi": {
+            "attack": "38",
+            "creativity": "45",
+            "defending": "79",
+            "position": "D",
+            "tactical": "70",
+            "technical": "53"
+        },
+        "jean-philippe-mateta": {
+            "attack": "68",
+            "creativity": "44",
+            "defending": "24",
+            "position": "F",
+            "tactical": "39",
+            "technical": "44"
+        },
+        "sam-johnstone": {
+            "aerial": "71",
+            "anticipation": "53",
+            "ballDistribution": "74",
+            "position": "G",
+            "saves": "75",
+            "tactical": "63"
+        },
+        "will-hughes": {
+            "attack": "53",
+            "creativity": "54",
+            "defending": "59",
+            "position": "M",
+            "tactical": "59",
+            "technical": "52"
+        },
+        "jeffrey-schlupp": {
+            "attack": "57",
+            "creativity": "56",
+            "defending": "46",
+            "position": "M",
+            "tactical": "47",
+            "technical": "52"
+        },
+        "chris-richards": {
+            "attack": "33",
+            "creativity": "38",
+            "defending": "67",
+            "position": "D",
+            "tactical": "60",
+            "technical": "42"
+        },
+        "jesurun-rak-sakyi": {
+            "attack": "60",
+            "creativity": "49",
+            "defending": "36",
+            "position": "F",
+            "tactical": "45",
+            "technical": "55"
+        },
+        "nathaniel-clyne": {
+            "attack": "39",
+            "creativity": "40",
+            "defending": "70",
+            "position": "D",
+            "tactical": "47",
+            "technical": "45"
+        },
+        "joel-ward": {
+            "attack": "37",
+            "creativity": "38",
+            "defending": "71",
+            "position": "D",
+            "tactical": "54",
+            "technical": "41"
+        },
+        "matheus-franca": {
+            "attack": "59",
+            "creativity": "49",
+            "defending": "34",
+            "position": "F",
+            "tactical": "47",
+            "technical": "63"
+        },
+        "jairo-riedewald": {},
+        "naouirou-ahamada": {
+            "attack": "57",
+            "creativity": "61",
+            "defending": "31",
+            "position": "M",
+            "tactical": "28",
+            "technical": "51"
+        },
+        "david-ozoh": {},
+        "remi-matthews": {
+            "aerial": "53",
+            "anticipation": "40",
+            "ballDistribution": "50",
+            "position": "G",
+            "saves": "46",
+            "tactical": "39"
+        },
+        "james-tomkins": {}
+    },
+    "liverpool": {
+        "mohamed-salah": {
+            "attack": "89",
+            "creativity": "79",
+            "defending": "24",
+            "position": "F",
+            "tactical": "60",
+            "technical": "63"
+        },
+        "virgil-van-dijk": {
+            "attack": "42",
+            "creativity": "51",
+            "defending": "79",
+            "position": "D",
+            "tactical": "77",
+            "technical": "56"
+        },
+        "trent-alexander-arnold": {
+            "attack": "63",
+            "creativity": "84",
+            "defending": "62",
+            "position": "D",
+            "tactical": "65",
+            "technical": "75"
+        },
+        "andrew-robertson": {
+            "attack": "54",
+            "creativity": "72",
+            "defending": "61",
+            "position": "D",
+            "tactical": "47",
+            "technical": "59"
+        },
+        "dominik-szoboszlai": {
+            "attack": "75",
+            "creativity": "79",
+            "defending": "31",
+            "position": "M",
+            "tactical": "53",
+            "technical": "75"
+        },
+        "alisson": {
+            "aerial": "77",
+            "anticipation": "69",
+            "ballDistribution": "87",
+            "position": "G",
+            "saves": "82",
+            "tactical": "84"
+        },
+        "diogo-jota": {
+            "attack": "76",
+            "creativity": "63",
+            "defending": "30",
+            "position": "F",
+            "tactical": "57",
+            "technical": "64"
+        },
+        "ibrahima-konate": {
+            "attack": "37",
+            "creativity": "38",
+            "defending": "77",
+            "position": "D",
+            "tactical": "61",
+            "technical": "48"
+        },
+        "konstantinos-tsimikas": {
+            "attack": "50",
+            "creativity": "68",
+            "defending": "59",
+            "position": "D",
+            "tactical": "52",
+            "technical": "56"
+        },
+        "darwin-nunez": {
+            "attack": "76",
+            "creativity": "58",
+            "defending": "26",
+            "position": "F",
+            "tactical": "60",
+            "technical": "56"
+        },
+        "joel-matip": {
+            "attack": "41",
+            "creativity": "45",
+            "defending": "70",
+            "position": "D",
+            "tactical": "59",
+            "technical": "46"
+        },
+        "alexis-mac-allister": {
+            "attack": "60",
+            "creativity": "67",
+            "defending": "42",
+            "position": "M",
+            "tactical": "53",
+            "technical": "63"
+        },
+        "joe-gomez": {
+            "attack": "43",
+            "creativity": "55",
+            "defending": "73",
+            "position": "D",
+            "tactical": "65",
+            "technical": "51"
+        },
+        "luis-diaz": {
+            "attack": "71",
+            "creativity": "59",
+            "defending": "25",
+            "position": "M",
+            "tactical": "47",
+            "technical": "69"
+        },
+        "harvey-elliott": {
+            "attack": "61",
+            "creativity": "65",
+            "defending": "44",
+            "position": "M",
+            "tactical": "45",
+            "technical": "61"
+        },
+        "cody-gakpo": {
+            "attack": "77",
+            "creativity": "67",
+            "defending": "33",
+            "position": "F",
+            "tactical": "52",
+            "technical": "70"
+        },
+        "jarell-quansah": {
+            "attack": "36",
+            "creativity": "41",
+            "defending": "65",
+            "position": "D",
+            "tactical": "52",
+            "technical": "49"
+        },
+        "wataru-endo": {
+            "attack": "59",
+            "creativity": "64",
+            "defending": "42",
+            "position": "M",
+            "tactical": "43",
+            "technical": "56"
+        },
+        "ryan-gravenberch": {
+            "attack": "60",
+            "creativity": "66",
+            "defending": "53",
+            "position": "M",
+            "tactical": "53",
+            "technical": "61"
+        },
+        "caoimhin-kelleher": {},
+        "curtis-jones": {
+            "attack": "55",
+            "creativity": "57",
+            "defending": "42",
+            "position": "M",
+            "tactical": "42",
+            "technical": "54"
+        },
+        "ben-doak": {},
+        "mcconnell-james": {}
+    },
+    "arsenal": {
+        "bukayo-saka": {
+            "attack": "83",
+            "creativity": "76",
+            "defending": "34",
+            "position": "D",
+            "tactical": "56",
+            "technical": "72"
+        },
+        "martin-odegaard": {
+            "attack": "71",
+            "creativity": "80",
+            "defending": "32",
+            "position": "F",
+            "tactical": "49",
+            "technical": "73"
+        },
+        "declan-rice": {
+            "attack": "56",
+            "creativity": "60",
+            "defending": "69",
+            "position": "M",
+            "tactical": "75",
+            "technical": "65"
+        },
+        "thomas-partey": {
+            "attack": "56",
+            "creativity": "62",
+            "defending": "59",
+            "position": "M",
+            "tactical": "63",
+            "technical": "69"
+        },
+        "gabriel-jesus": {
+            "attack": "79",
+            "creativity": "61",
+            "defending": "32",
+            "position": "F",
+            "tactical": "64",
+            "technical": "63"
+        },
+        "oleksandr-zinchenko": {
+            "attack": "50",
+            "creativity": "62",
+            "defending": "60",
+            "position": "D",
+            "tactical": "52",
+            "technical": "56"
+        },
+        "gabriel-martinelli": {
+            "attack": "78",
+            "creativity": "71",
+            "defending": "26",
+            "position": "M",
+            "tactical": "53",
+            "technical": "72"
+        },
+        "gabriel-magalhaes": {
+            "attack": "38",
+            "creativity": "38",
+            "defending": "79",
+            "position": "D",
+            "tactical": "64",
+            "technical": "43"
+        },
+        "benjamin-white": {
+            "attack": "45",
+            "creativity": "53",
+            "defending": "68",
+            "position": "D",
+            "tactical": "57",
+            "technical": "47"
+        },
+        "mohamed-elneny": {},
+        "william-saliba": {
+            "attack": "38",
+            "creativity": "41",
+            "defending": "70",
+            "position": "D",
+            "tactical": "62",
+            "technical": "51"
+        },
+        "kai-havertz": {
+            "attack": "64",
+            "creativity": "58",
+            "defending": "37",
+            "position": "M",
+            "tactical": "54",
+            "technical": "49"
+        },
+        "leandro-trossard": {
+            "attack": "76",
+            "creativity": "74",
+            "defending": "25",
+            "position": "F",
+            "tactical": "45",
+            "technical": "63"
+        },
+        "fabio-vieira": {
+            "attack": "65",
+            "creativity": "73",
+            "defending": "36",
+            "position": "M",
+            "tactical": "49",
+            "technical": "59"
+        },
+        "edward-nketiah": {
+            "attack": "74",
+            "creativity": "44",
+            "defending": "28",
+            "position": "F",
+            "tactical": "59",
+            "technical": "56"
+        },
+        "tomiyasu-takehiro": {
+            "attack": "39",
+            "creativity": "45",
+            "defending": "64",
+            "position": "D",
+            "tactical": "46",
+            "technical": "44"
+        },
+        "david-raya": {
+            "aerial": "70",
+            "anticipation": "70",
+            "ballDistribution": "90",
+            "position": "G",
+            "saves": "87",
+            "tactical": "79"
+        },
+        "emile-smith-rowe": {
+            "attack": "58",
+            "creativity": "57",
+            "defending": "36",
+            "position": "M",
+            "tactical": "37",
+            "technical": "56"
+        },
+        "jorginho": {
+            "attack": "53",
+            "creativity": "58",
+            "defending": "54",
+            "position": "M",
+            "tactical": "55",
+            "technical": "55"
+        },
+        "kiwior-jakub": {
+            "attack": "39",
+            "creativity": "44",
+            "defending": "68",
+            "position": "M",
+            "tactical": "62",
+            "technical": "45"
+        },
+        "jurrien-timber": {
+            "attack": "39",
+            "creativity": "42",
+            "defending": "71",
+            "position": "D",
+            "tactical": "60",
+            "technical": "48"
+        },
+        "aaron-ramsdale": {
+            "aerial": "61",
+            "anticipation": "56",
+            "ballDistribution": "71",
+            "position": "G",
+            "saves": "67",
+            "tactical": "61"
+        },
+        "reiss-nelson": {
+            "attack": "69",
+            "creativity": "62",
+            "defending": "33",
+            "position": "F",
+            "tactical": "48",
+            "technical": "72"
         }
     },
     "brighton-and-hove-albion": {
@@ -105,25 +899,179 @@
             "position": "M",
             "tactical": "55",
             "technical": "76"
-        }
-    },
-    "manchester-united": {
-        "bruno-fernandes": {
-            "attack": "79",
-            "creativity": "95",
-            "defending": "45",
-            "position": "M",
-            "tactical": "61",
-            "technical": "76"
         },
-        "andre-onana": {
-            "aerial": "65",
-            "anticipation": "51",
+        "julio-enciso": {
+            "attack": "72",
+            "creativity": "70",
+            "defending": "29",
+            "position": "F",
+            "tactical": "40",
+            "technical": "78"
+        },
+        "pervis-estupinan": {
+            "attack": "51",
+            "creativity": "67",
+            "defending": "62",
+            "position": "D",
+            "tactical": "49",
+            "technical": "52"
+        },
+        "joao-pedro": {
+            "attack": "71",
+            "creativity": "58",
+            "defending": "33",
+            "position": "F",
+            "tactical": "55",
+            "technical": "66"
+        },
+        "lewis-dunk": {
+            "attack": "41",
+            "creativity": "49",
+            "defending": "71",
+            "position": "D",
+            "tactical": "73",
+            "technical": "53"
+        },
+        "mitoma-kaoru": {
+            "attack": "65",
+            "creativity": "70",
+            "defending": "38",
+            "position": "M",
+            "tactical": "48",
+            "technical": "63"
+        },
+        "jan-paul-van-hecke": {
+            "attack": "36",
+            "creativity": "41",
+            "defending": "81",
+            "position": "D",
+            "tactical": "64",
+            "technical": "46"
+        },
+        "gilmour-billy": {
+            "attack": "54",
+            "creativity": "60",
+            "defending": "33",
+            "position": "M",
+            "tactical": "40",
+            "technical": "53"
+        },
+        "evan-ferguson": {
+            "attack": "71",
+            "creativity": "48",
+            "defending": "21",
+            "position": "F",
+            "tactical": "42",
+            "technical": "54"
+        },
+        "bart-verbruggen": {
+            "aerial": "57",
+            "anticipation": "49",
+            "ballDistribution": "76",
+            "position": "G",
+            "saves": "79",
+            "tactical": "62"
+        },
+        "simon-adingra": {
+            "attack": "70",
+            "creativity": "66",
+            "defending": "34",
+            "position": "F",
+            "tactical": "44",
+            "technical": "67"
+        },
+        "igor-julio": {
+            "attack": "36",
+            "creativity": "45",
+            "defending": "76",
+            "position": "D",
+            "tactical": "65",
+            "technical": "49"
+        },
+        "jack-hinshelwood": {},
+        "james-milner": {
+            "attack": "47",
+            "creativity": "58",
+            "defending": "51",
+            "position": "M",
+            "tactical": "45",
+            "technical": "47"
+        },
+        "ansu-fati": {
+            "attack": "68",
+            "creativity": "51",
+            "defending": "23",
+            "position": "F",
+            "tactical": "47",
+            "technical": "57"
+        },
+        "danny-welbeck": {
+            "attack": "67",
+            "creativity": "56",
+            "defending": "28",
+            "position": "F",
+            "tactical": "51",
+            "technical": "49"
+        },
+        "joel-veltman": {
+            "attack": "40",
+            "creativity": "45",
+            "defending": "71",
+            "position": "D",
+            "tactical": "53",
+            "technical": "42"
+        },
+        "facundo-buonanotte": {
+            "attack": "56",
+            "creativity": "58",
+            "defending": "28",
+            "position": "M",
+            "tactical": "29",
+            "technical": "54"
+        },
+        "baleba-carlos": {},
+        "adam-webster": {
+            "attack": "39",
+            "creativity": "47",
+            "defending": "69",
+            "position": "D",
+            "tactical": "54",
+            "technical": "48"
+        },
+        "mahmoud-dahoud": {
+            "attack": "60",
+            "creativity": "73",
+            "defending": "50",
+            "position": "M",
+            "tactical": "53",
+            "technical": "61"
+        },
+        "adam-lallana": {
+            "attack": "58",
+            "creativity": "57",
+            "defending": "31",
+            "position": "M",
+            "tactical": "36",
+            "technical": "53"
+        },
+        "jason-steele": {
+            "aerial": "55",
+            "anticipation": "57",
             "ballDistribution": "88",
             "position": "G",
-            "saves": "84",
-            "tactical": "73"
-        }
+            "saves": "67",
+            "tactical": "71"
+        },
+        "benicio-boaitey": {},
+        "lamptey-tariq": {
+            "attack": "50",
+            "creativity": "55",
+            "defending": "65",
+            "position": "D",
+            "tactical": "56",
+            "technical": "44"
+        },
+        "jakub-moder": {}
     },
     "newcastle-united": {
         "jacob-murphy": {
@@ -141,7 +1089,367 @@
             "position": "D",
             "tactical": "64",
             "technical": "72"
-        }
+        },
+        "bruno-guimaraes": {
+            "attack": "59",
+            "creativity": "72",
+            "defending": "52",
+            "position": "M",
+            "tactical": "66",
+            "technical": "69"
+        },
+        "gordon-anthony": {
+            "attack": "71",
+            "creativity": "56",
+            "defending": "32",
+            "position": "M",
+            "tactical": "53",
+            "technical": "58"
+        },
+        "sven-botman": {
+            "attack": "38",
+            "creativity": "46",
+            "defending": "81",
+            "position": "D",
+            "tactical": "68",
+            "technical": "47"
+        },
+        "miguel-almiron": {
+            "attack": "69",
+            "creativity": "54",
+            "defending": "40",
+            "position": "M",
+            "tactical": "54",
+            "technical": "56"
+        },
+        "martin-dubravka": {},
+        "alexander-isak": {
+            "attack": "75",
+            "creativity": "53",
+            "defending": "20",
+            "position": "F",
+            "tactical": "54",
+            "technical": "67"
+        },
+        "lewis-miley": {},
+        "nick-pope": {
+            "aerial": "77",
+            "anticipation": "74",
+            "ballDistribution": "70",
+            "position": "G",
+            "saves": "86",
+            "tactical": "83"
+        },
+        "emil-krafth": {},
+        "dan-burn": {
+            "attack": "41",
+            "creativity": "42",
+            "defending": "77",
+            "position": "D",
+            "tactical": "59",
+            "technical": "41"
+        },
+        "harvey-barnes": {
+            "attack": "67",
+            "creativity": "61",
+            "defending": "23",
+            "position": "F",
+            "tactical": "29",
+            "technical": "57"
+        },
+        "joelinton": {
+            "attack": "62",
+            "creativity": "60",
+            "defending": "51",
+            "position": "F",
+            "tactical": "67",
+            "technical": "59"
+        },
+        "fabian-schar": {
+            "attack": "41",
+            "creativity": "49",
+            "defending": "78",
+            "position": "D",
+            "tactical": "74",
+            "technical": "43"
+        },
+        "callum-wilson": {
+            "attack": "78",
+            "creativity": "50",
+            "defending": "16",
+            "position": "F",
+            "tactical": "48",
+            "technical": "54"
+        },
+        "jamaal-lascelles": {
+            "attack": "36",
+            "creativity": "33",
+            "defending": "72",
+            "position": "D",
+            "tactical": "47",
+            "technical": "38"
+        },
+        "sean-longstaff": {
+            "attack": "54",
+            "creativity": "58",
+            "defending": "53",
+            "position": "M",
+            "tactical": "54",
+            "technical": "44"
+        },
+        "sandro-tonali": {
+            "attack": "61",
+            "creativity": "75",
+            "defending": "57",
+            "position": "M",
+            "tactical": "61",
+            "technical": "59"
+        },
+        "valentino-livramento": {
+            "attack": "43",
+            "creativity": "52",
+            "defending": "65",
+            "position": "D",
+            "tactical": "50",
+            "technical": "44"
+        },
+        "elliot-anderson": {
+            "attack": "59",
+            "creativity": "62",
+            "defending": "41",
+            "position": "M",
+            "tactical": "43",
+            "technical": "52"
+        },
+        "joe-willock": {
+            "attack": "60",
+            "creativity": "66",
+            "defending": "46",
+            "position": "M",
+            "tactical": "49",
+            "technical": "55"
+        },
+        "matt-ritchie": {},
+        "paul-dummett": {},
+        "alex-murphy": {},
+        "parkinson-ben": {},
+        "lewis-hall": {
+            "attack": "51",
+            "creativity": "58",
+            "defending": "53",
+            "position": "M",
+            "tactical": "51",
+            "technical": "56"
+        },
+        "matt-targett": {},
+        "diallo-amadou": {},
+        "ndiweni-michael": {}
+    },
+    "manchester-united": {
+        "bruno-fernandes": {
+            "attack": "79",
+            "creativity": "95",
+            "defending": "45",
+            "position": "M",
+            "tactical": "61",
+            "technical": "76"
+        },
+        "andre-onana": {
+            "aerial": "65",
+            "anticipation": "51",
+            "ballDistribution": "88",
+            "position": "G",
+            "saves": "84",
+            "tactical": "73"
+        },
+        "harry-maguire": {
+            "attack": "40",
+            "creativity": "49",
+            "defending": "80",
+            "position": "D",
+            "tactical": "75",
+            "technical": "54"
+        },
+        "diogo-dalot": {
+            "attack": "47",
+            "creativity": "58",
+            "defending": "76",
+            "position": "D",
+            "tactical": "64",
+            "technical": "56"
+        },
+        "casemiro": {
+            "attack": "61",
+            "creativity": "69",
+            "defending": "62",
+            "position": "M",
+            "tactical": "66",
+            "technical": "64"
+        },
+        "luke-shaw": {
+            "attack": "49",
+            "creativity": "63",
+            "defending": "71",
+            "position": "D",
+            "tactical": "58",
+            "technical": "58"
+        },
+        "scott-mctominay": {
+            "attack": "57",
+            "creativity": "54",
+            "defending": "54",
+            "position": "M",
+            "tactical": "59",
+            "technical": "59"
+        },
+        "raphael-varane": {
+            "attack": "36",
+            "creativity": "40",
+            "defending": "72",
+            "position": "D",
+            "tactical": "61",
+            "technical": "49"
+        },
+        "aaron-wan-bissaka": {
+            "attack": "41",
+            "creativity": "52",
+            "defending": "81",
+            "position": "D",
+            "tactical": "60",
+            "technical": "54"
+        },
+        "diallo-amad": {
+            "attack": "64",
+            "creativity": "54",
+            "defending": "37",
+            "position": "F",
+            "tactical": "47",
+            "technical": "61"
+        },
+        "sofyan-amrabat": {
+            "attack": "49",
+            "creativity": "56",
+            "defending": "54",
+            "position": "M",
+            "tactical": "64",
+            "technical": "54"
+        },
+        "alejandro-garnacho": {
+            "attack": "56",
+            "creativity": "52",
+            "defending": "26",
+            "position": "M",
+            "tactical": "31",
+            "technical": "53"
+        },
+        "victor-lindelof": {
+            "attack": "36",
+            "creativity": "43",
+            "defending": "68",
+            "position": "D",
+            "tactical": "59",
+            "technical": "49"
+        },
+        "antony": {
+            "attack": "67",
+            "creativity": "64",
+            "defending": "34",
+            "position": "M",
+            "tactical": "43",
+            "technical": "61"
+        },
+        "kobbie-mainoo": {},
+        "marcus-rashford": {
+            "attack": "70",
+            "creativity": "62",
+            "defending": "30",
+            "position": "F",
+            "tactical": "48",
+            "technical": "63"
+        },
+        "hannibal-mejbri": {
+            "attack": "51",
+            "creativity": "56",
+            "defending": "43",
+            "position": "M",
+            "tactical": "42",
+            "technical": "43"
+        },
+        "christian-eriksen": {
+            "attack": "64",
+            "creativity": "78",
+            "defending": "38",
+            "position": "M",
+            "tactical": "49",
+            "technical": "63"
+        },
+        "jonny-evans": {
+            "attack": "39",
+            "creativity": "44",
+            "defending": "70",
+            "position": "D",
+            "tactical": "59",
+            "technical": "49"
+        },
+        "sergio-reguilon": {
+            "attack": "49",
+            "creativity": "57",
+            "defending": "47",
+            "position": "D",
+            "tactical": "27",
+            "technical": "48"
+        },
+        "mason-mount": {
+            "attack": "65",
+            "creativity": "67",
+            "defending": "40",
+            "position": "M",
+            "tactical": "53",
+            "technical": "54"
+        },
+        "facundo-pellistri": {
+            "attack": "51",
+            "creativity": "51",
+            "defending": "45",
+            "position": "M",
+            "tactical": "39",
+            "technical": "57"
+        },
+        "anthony-martial": {
+            "attack": "68",
+            "creativity": "50",
+            "defending": "22",
+            "position": "F",
+            "tactical": "45",
+            "technical": "55"
+        },
+        "lisandro-martinez": {
+            "attack": "40",
+            "creativity": "47",
+            "defending": "79",
+            "position": "D",
+            "tactical": "72",
+            "technical": "54"
+        },
+        "sancho-jadon": {
+            "attack": "65",
+            "creativity": "69",
+            "defending": "30",
+            "position": "M",
+            "tactical": "29",
+            "technical": "67"
+        },
+        "rasmus-hojlund": {
+            "attack": "70",
+            "creativity": "53",
+            "defending": "15",
+            "position": "F",
+            "tactical": "44",
+            "technical": "56"
+        },
+        "willy-kambwala": {},
+        "donny-van-de-beek": {},
+        "gore-daniel": {}
     },
     "aston-villa": {
         "douglas-luiz": {
@@ -159,6 +1467,183 @@
             "position": "F",
             "tactical": "64",
             "technical": "53"
+        },
+        "john-mcginn": {
+            "attack": "66",
+            "creativity": "71",
+            "defending": "42",
+            "position": "M",
+            "tactical": "58",
+            "technical": "71"
+        },
+        "emiliano-martinez": {
+            "aerial": "72",
+            "anticipation": "70",
+            "ballDistribution": "80",
+            "position": "G",
+            "saves": "76",
+            "tactical": "75"
+        },
+        "ezri-konsa": {
+            "attack": "36",
+            "creativity": "38",
+            "defending": "72",
+            "position": "D",
+            "tactical": "59",
+            "technical": "46"
+        },
+        "diaby-moussa": {
+            "attack": "77",
+            "creativity": "75",
+            "defending": "21",
+            "position": "M",
+            "tactical": "44",
+            "technical": "68"
+        },
+        "boubacar-kamara": {
+            "attack": "49",
+            "creativity": "57",
+            "defending": "57",
+            "position": "D",
+            "tactical": "59",
+            "technical": "56"
+        },
+        "lucas-digne": {
+            "attack": "48",
+            "creativity": "64",
+            "defending": "54",
+            "position": "D",
+            "tactical": "37",
+            "technical": "48"
+        },
+        "matty-cash": {
+            "attack": "46",
+            "creativity": "50",
+            "defending": "64",
+            "position": "M",
+            "tactical": "54",
+            "technical": "49"
+        },
+        "leon-bailey": {
+            "attack": "65",
+            "creativity": "66",
+            "defending": "24",
+            "position": "M",
+            "tactical": "35",
+            "technical": "62"
+        },
+        "pau-torres": {
+            "attack": "44",
+            "creativity": "51",
+            "defending": "71",
+            "position": "D",
+            "tactical": "66",
+            "technical": "61"
+        },
+        "clement-lenglet": {
+            "attack": "39",
+            "creativity": "49",
+            "defending": "65",
+            "position": "D",
+            "tactical": "59",
+            "technical": "52"
+        },
+        "jhon-duran": {
+            "attack": "66",
+            "creativity": "41",
+            "defending": "34",
+            "position": "F",
+            "tactical": "52",
+            "technical": "53"
+        },
+        "youri-tielemans": {
+            "attack": "58",
+            "creativity": "64",
+            "defending": "46",
+            "position": "M",
+            "tactical": "45",
+            "technical": "61"
+        },
+        "philippe-coutinho": {
+            "attack": "67",
+            "creativity": "68",
+            "defending": "30",
+            "position": "M",
+            "tactical": "48",
+            "technical": "58"
+        },
+        "alex-moreno": {
+            "attack": "47",
+            "creativity": "57",
+            "defending": "63",
+            "position": "D",
+            "tactical": "43",
+            "technical": "46"
+        },
+        "diego-carlos": {},
+        "jacob-ramsey": {
+            "attack": "63",
+            "creativity": "66",
+            "defending": "46",
+            "position": "M",
+            "tactical": "50",
+            "technical": "60"
+        },
+        "leander-dendoncker": {
+            "attack": "48",
+            "creativity": "46",
+            "defending": "60",
+            "position": "M",
+            "tactical": "52",
+            "technical": "47"
+        },
+        "tyrone-mings": {
+            "attack": "38",
+            "creativity": "43",
+            "defending": "76",
+            "position": "D",
+            "tactical": "66",
+            "technical": "48"
+        },
+        "robin-olsen": {
+            "aerial": "56",
+            "anticipation": "45",
+            "ballDistribution": "65",
+            "position": "G",
+            "saves": "63",
+            "tactical": "58"
+        },
+        "nicolo-zaniolo": {
+            "attack": "61",
+            "creativity": "54",
+            "defending": "18",
+            "position": "M",
+            "tactical": "30",
+            "technical": "43"
+        },
+        "tim-iroegbunam": {
+            "attack": "47",
+            "creativity": "45",
+            "defending": "45",
+            "position": "M",
+            "tactical": "40",
+            "technical": "46"
+        },
+        "jaden-philogene-bidace": {
+            "attack": "63",
+            "creativity": "53",
+            "defending": "37",
+            "position": "M",
+            "tactical": "39",
+            "technical": "58"
+        },
+        "bertrand-traore": {
+            "attack": "66",
+            "creativity": "49",
+            "defending": "31",
+            "position": "F",
+            "tactical": "40",
+            "technical": "51"
         }
     },
     "west-ham-united": {
@@ -177,6 +1662,167 @@
             "position": "M",
             "tactical": "44",
             "technical": "67"
+        },
+        "alphonse-areola": {
+            "aerial": "56",
+            "anticipation": "36",
+            "ballDistribution": "68",
+            "position": "G",
+            "saves": "66",
+            "tactical": "56"
+        },
+        "jarrod-bowen": {
+            "attack": "73",
+            "creativity": "64",
+            "defending": "30",
+            "position": "M",
+            "tactical": "49",
+            "technical": "61"
+        },
+        "mohammed-kudus": {
+            "attack": "68",
+            "creativity": "61",
+            "defending": "29",
+            "position": "F",
+            "tactical": "44",
+            "technical": "73"
+        },
+        "lukasz-fabianski": {
+            "aerial": "74",
+            "anticipation": "52",
+            "ballDistribution": "74",
+            "position": "G",
+            "saves": "77",
+            "tactical": "69"
+        },
+        "emerson-palmieri": {
+            "attack": "49",
+            "creativity": "56",
+            "defending": "60",
+            "position": "D",
+            "tactical": "46",
+            "technical": "51"
+        },
+        "tomas-soucek": {
+            "attack": "57",
+            "creativity": "54",
+            "defending": "60",
+            "position": "M",
+            "tactical": "58",
+            "technical": "49"
+        },
+        "angelo-ogbonna": {
+            "attack": "34",
+            "creativity": "36",
+            "defending": "72",
+            "position": "D",
+            "tactical": "61",
+            "technical": "41"
+        },
+        "vladimir-coufal": {
+            "attack": "48",
+            "creativity": "60",
+            "defending": "64",
+            "position": "D",
+            "tactical": "50",
+            "technical": "44"
+        },
+        "kurt-zouma": {
+            "attack": "37",
+            "creativity": "35",
+            "defending": "74",
+            "position": "D",
+            "tactical": "66",
+            "technical": "44"
+        },
+        "michail-antonio": {
+            "attack": "69",
+            "creativity": "54",
+            "defending": "20",
+            "position": "M",
+            "tactical": "42",
+            "technical": "56"
+        },
+        "edson-alvarez": {
+            "attack": "49",
+            "creativity": "49",
+            "defending": "62",
+            "position": "D",
+            "tactical": "56",
+            "technical": "55"
+        },
+        "nayef-aguerd": {
+            "attack": "37",
+            "creativity": "43",
+            "defending": "76",
+            "position": "D",
+            "tactical": "65",
+            "technical": "46"
+        },
+        "konstantinos-mavropanos": {
+            "attack": "43",
+            "creativity": "52",
+            "defending": "74",
+            "position": "D",
+            "tactical": "77",
+            "technical": "57"
+        },
+        "pablo-fornals": {
+            "attack": "59",
+            "creativity": "64",
+            "defending": "42",
+            "position": "M",
+            "tactical": "44",
+            "technical": "53"
+        },
+        "said-benrahma": {
+            "attack": "69",
+            "creativity": "67",
+            "defending": "27",
+            "position": "F",
+            "tactical": "36",
+            "technical": "61"
+        },
+        "aaron-cresswell": {
+            "attack": "45",
+            "creativity": "59",
+            "defending": "60",
+            "position": "D",
+            "tactical": "43",
+            "technical": "54"
+        },
+        "thilo-kehrer": {
+            "attack": "37",
+            "creativity": "44",
+            "defending": "66",
+            "position": "D",
+            "tactical": "55",
+            "technical": "44"
+        },
+        "danny-ings": {
+            "attack": "68",
+            "creativity": "50",
+            "defending": "26",
+            "position": "F",
+            "tactical": "41",
+            "technical": "52"
+        },
+        "mubama-divin": {},
+        "maxwel-cornet": {
+            "attack": "57",
+            "creativity": "49",
+            "defending": "35",
+            "position": "F",
+            "tactical": "33",
+            "technical": "36"
+        },
+        "ben-johnson": {
+            "attack": "39",
+            "creativity": "44",
+            "defending": "71",
+            "position": "D",
+            "tactical": "54",
+            "technical": "46"
         }
     },
     "brentford": {
@@ -188,7 +1834,349 @@
             "position": "M",
             "tactical": "49",
             "technical": "62"
+        },
+        "mathias-jensen": {
+            "attack": "67",
+            "creativity": "74",
+            "defending": "37",
+            "position": "M",
+            "tactical": "49",
+            "technical": "69"
+        },
+        "ethan-pinnock": {
+            "attack": "38",
+            "creativity": "39",
+            "defending": "88",
+            "position": "D",
+            "tactical": "73",
+            "technical": "45"
+        },
+        "christian-norgaard": {
+            "attack": "58",
+            "creativity": "62",
+            "defending": "65",
+            "position": "M",
+            "tactical": "64",
+            "technical": "56"
+        },
+        "rico-henry": {
+            "attack": "46",
+            "creativity": "56",
+            "defending": "58",
+            "position": "M",
+            "tactical": "53",
+            "technical": "47"
+        },
+        "yoane-wissa": {
+            "attack": "67",
+            "creativity": "53",
+            "defending": "33",
+            "position": "M",
+            "tactical": "43",
+            "technical": "57"
+        },
+        "vitaly-janelt": {
+            "attack": "53",
+            "creativity": "60",
+            "defending": "56",
+            "position": "M",
+            "tactical": "52",
+            "technical": "52"
+        },
+        "neal-maupay": {
+            "attack": "67",
+            "creativity": "54",
+            "defending": "18",
+            "position": "F",
+            "tactical": "42",
+            "technical": "46"
+        },
+        "nathan-collins": {
+            "attack": "39",
+            "creativity": "42",
+            "defending": "78",
+            "position": "D",
+            "tactical": "66",
+            "technical": "49"
+        },
+        "mark-flekken": {
+            "aerial": "67",
+            "anticipation": "49",
+            "ballDistribution": "90",
+            "position": "G",
+            "saves": "76",
+            "tactical": "68"
+        },
+        "kristoffer-ajer": {
+            "attack": "41",
+            "creativity": "47",
+            "defending": "63",
+            "position": "D",
+            "tactical": "48",
+            "technical": "48"
+        },
+        "frank-onyeka": {
+            "attack": "46",
+            "creativity": "46",
+            "defending": "44",
+            "position": "M",
+            "tactical": "36",
+            "technical": "45"
+        },
+        "keane-lewis-potter": {},
+        "saman-ghoddos": {
+            "attack": "59",
+            "creativity": "58",
+            "defending": "43",
+            "position": "F",
+            "tactical": "40",
+            "technical": "53"
+        },
+        "shandon-baptiste": {},
+        "damsgaard-mikkel": {
+            "attack": "52",
+            "creativity": "59",
+            "defending": "43",
+            "position": "F",
+            "tactical": "43",
+            "technical": "53"
+        },
+        "ben-mee": {
+            "attack": "42",
+            "creativity": "44",
+            "defending": "85",
+            "position": "D",
+            "tactical": "72",
+            "technical": "51"
+        },
+        "yarmoliuk-yehor": {},
+        "zanka": {
+            "attack": "35",
+            "creativity": "42",
+            "defending": "68",
+            "position": "D",
+            "tactical": "59",
+            "technical": "44"
+        },
+        "hickey-aaron": {
+            "attack": "44",
+            "creativity": "48",
+            "defending": "53",
+            "position": "D",
+            "tactical": "45",
+            "technical": "48"
+        },
+        "kevin-schade": {
+            "attack": "68",
+            "creativity": "52",
+            "defending": "36",
+            "position": "F",
+            "tactical": "52",
+            "technical": "51"
+        },
+        "mads-roerslev": {
+            "attack": "46",
+            "creativity": "52",
+            "defending": "51",
+            "position": "D",
+            "tactical": "30",
+            "technical": "46"
+        },
+        "olakigbe-michael": {},
+        "joshua-dasilva": {
+            "attack": "59",
+            "creativity": "55",
+            "defending": "31",
+            "position": "M",
+            "tactical": "29",
+            "technical": "66"
+        },
+        "myles-peart-harris": {
+            "attack": "55",
+            "creativity": "44",
+            "defending": "35",
+            "position": "M",
+            "tactical": "40",
+            "technical": "48"
         }
+    },
+    "chelsea": {
+        "cole-palmer": {
+            "attack": "74",
+            "creativity": "76",
+            "defending": "39",
+            "position": "M",
+            "tactical": "58",
+            "technical": "73"
+        },
+        "conor-gallagher": {
+            "attack": "62",
+            "creativity": "66",
+            "defending": "51",
+            "position": "M",
+            "tactical": "59",
+            "technical": "63"
+        },
+        "enzo-fernandez": {
+            "attack": "61",
+            "creativity": "72",
+            "defending": "49",
+            "position": "M",
+            "tactical": "66",
+            "technical": "64"
+        },
+        "robert-sanchez": {
+            "aerial": "71",
+            "anticipation": "55",
+            "ballDistribution": "83",
+            "position": "G",
+            "saves": "71",
+            "tactical": "61"
+        },
+        "raheem-sterling": {
+            "attack": "73",
+            "creativity": "67",
+            "defending": "21",
+            "position": "F",
+            "tactical": "43",
+            "technical": "65"
+        },
+        "thiago-silva": {
+            "attack": "40",
+            "creativity": "50",
+            "defending": "85",
+            "position": "D",
+            "tactical": "84",
+            "technical": "55"
+        },
+        "ben-chilwell": {
+            "attack": "57",
+            "creativity": "71",
+            "defending": "49",
+            "position": "M",
+            "tactical": "39",
+            "technical": "56"
+        },
+        "reece-james": {
+            "attack": "59",
+            "creativity": "73",
+            "defending": "56",
+            "position": "D",
+            "tactical": "57",
+            "technical": "72"
+        },
+        "moises-caicedo": {
+            "attack": "55",
+            "creativity": "63",
+            "defending": "60",
+            "position": "M",
+            "tactical": "61",
+            "technical": "61"
+        },
+        "levi-colwill": {
+            "attack": "36",
+            "creativity": "44",
+            "defending": "71",
+            "position": "D",
+            "tactical": "50",
+            "technical": "42"
+        },
+        "noni-madueke": {
+            "attack": "69",
+            "creativity": "59",
+            "defending": "33",
+            "position": "F",
+            "tactical": "45",
+            "technical": "81"
+        },
+        "gusto-malo": {
+            "attack": "50",
+            "creativity": "62",
+            "defending": "63",
+            "position": "D",
+            "tactical": "58",
+            "technical": "59"
+        },
+        "dorde-petrovic": {
+            "aerial": "55",
+            "anticipation": "41",
+            "ballDistribution": "53",
+            "position": "G",
+            "saves": "69",
+            "tactical": "49"
+        },
+        "carney-chukwuemeka": {},
+        "nicolas-jackson": {
+            "attack": "76",
+            "creativity": "59",
+            "defending": "23",
+            "position": "F",
+            "tactical": "45",
+            "technical": "67"
+        },
+        "marc-cucurella": {
+            "attack": "40",
+            "creativity": "51",
+            "defending": "80",
+            "position": "D",
+            "tactical": "54",
+            "technical": "45"
+        },
+        "axel-disasi": {
+            "attack": "42",
+            "creativity": "46",
+            "defending": "69",
+            "position": "D",
+            "tactical": "67",
+            "technical": "52"
+        },
+        "christopher-nkunku": {
+            "attack": "89",
+            "creativity": "76",
+            "defending": "24",
+            "position": "M",
+            "tactical": "62",
+            "technical": "80"
+        },
+        "mykhaylo-mudryk": {
+            "attack": "60",
+            "creativity": "63",
+            "defending": "30",
+            "position": "M",
+            "tactical": "35",
+            "technical": "53"
+        },
+        "benoit-badiashile": {},
+        "lesley-ugochukwu": {
+            "attack": "46",
+            "creativity": "50",
+            "defending": "62",
+            "position": "M",
+            "tactical": "60",
+            "technical": "56"
+        },
+        "armando-broja": {},
+        "deivid-washington": {},
+        "romeo-lavia": {
+            "attack": "53",
+            "creativity": "58",
+            "defending": "43",
+            "position": "M",
+            "tactical": "50",
+            "technical": "61"
+        },
+        "mason-burstow": {},
+        "ian-maatsen": {
+            "attack": "44",
+            "creativity": "49",
+            "defending": "58",
+            "position": "D",
+            "tactical": "43",
+            "technical": "44"
+        },
+        "marcus-bettinelli": {},
+        "matos-alex": {},
+        "alfie-gilchrist": {}
     },
     "wolverhampton": {
         "pedro-neto": {
@@ -206,24 +2194,145 @@
             "position": "M",
             "tactical": "35",
             "technical": "50"
-        }
-    },
-    "chelsea": {
-        "conor-gallagher": {
-            "attack": "62",
-            "creativity": "66",
-            "defending": "51",
+        },
+        "matheus-cunha": {
+            "attack": "73",
+            "creativity": "55",
+            "defending": "25",
+            "position": "F",
+            "tactical": "48",
+            "technical": "65"
+        },
+        "craig-dawson": {
+            "attack": "39",
+            "creativity": "43",
+            "defending": "78",
+            "position": "D",
+            "tactical": "75",
+            "technical": "47"
+        },
+        "hee-chan-hwang": {
+            "attack": "70",
+            "creativity": "56",
+            "defending": "33",
+            "position": "F",
+            "tactical": "47",
+            "technical": "69"
+        },
+        "mario-lemina": {
+            "attack": "52",
+            "creativity": "50",
+            "defending": "62",
             "position": "M",
-            "tactical": "59",
+            "tactical": "62",
+            "technical": "58"
+        },
+        "jose-sa": {
+            "aerial": "73",
+            "anticipation": "52",
+            "ballDistribution": "76",
+            "position": "G",
+            "saves": "80",
+            "tactical": "58"
+        },
+        "max-kilman": {
+            "attack": "37",
+            "creativity": "42",
+            "defending": "77",
+            "position": "D",
+            "tactical": "66",
+            "technical": "50"
+        },
+        "sasa-kalajdzic": {
+            "attack": "76",
+            "creativity": "65",
+            "defending": "25",
+            "position": "F",
+            "tactical": "56",
+            "technical": "60"
+        },
+        "rayan-ait-nouri": {
+            "attack": "48",
+            "creativity": "52",
+            "defending": "58",
+            "position": "D",
+            "tactical": "42",
             "technical": "63"
         },
-        "cole-palmer": {
-            "attack": "74",
-            "creativity": "76",
-            "defending": "39",
+        "toti-gomes": {
+            "attack": "42",
+            "creativity": "42",
+            "defending": "78",
+            "position": "D",
+            "tactical": "50",
+            "technical": "55"
+        },
+        "jean-ricner-bellegarde": {
+            "attack": "67",
+            "creativity": "72",
+            "defending": "35",
             "position": "M",
+            "tactical": "51",
+            "technical": "74"
+        },
+        "daniel-bentley": {},
+        "joao-gomes": {
+            "attack": "51",
+            "creativity": "54",
+            "defending": "45",
+            "position": "M",
+            "tactical": "39",
+            "technical": "58"
+        },
+        "nelson-semedo": {
+            "attack": "41",
+            "creativity": "46",
+            "defending": "63",
+            "position": "D",
+            "tactical": "45",
+            "technical": "52"
+        },
+        "tommy-doyle": {
+            "attack": "57",
+            "creativity": "61",
+            "defending": "50",
+            "position": "M",
+            "tactical": "51",
+            "technical": "58"
+        },
+        "matt-doherty": {
+            "attack": "54",
+            "creativity": "55",
+            "defending": "56",
+            "position": "M",
+            "tactical": "51",
+            "technical": "57"
+        },
+        "santiago-bueno": {
+            "attack": "38",
+            "creativity": "41",
+            "defending": "72",
+            "position": "D",
             "tactical": "58",
-            "technical": "73"
+            "technical": "45"
+        },
+        "jonny-otto": {},
+        "boubacar-traore": {},
+        "hugo-bueno": {
+            "attack": "46",
+            "creativity": "59",
+            "defending": "53",
+            "position": "D",
+            "tactical": "35",
+            "technical": "54"
+        },
+        "fabio-silva": {
+            "attack": "63",
+            "creativity": "51",
+            "defending": "27",
+            "position": "F",
+            "tactical": "45",
+            "technical": "51"
         }
     },
     "everton": {
@@ -242,7 +2351,161 @@
             "position": "M",
             "tactical": "58",
             "technical": "72"
-        }
+        },
+        "james-garner": {
+            "attack": "55",
+            "creativity": "61",
+            "defending": "62",
+            "position": "M",
+            "tactical": "61",
+            "technical": "57"
+        },
+        "amadou-onana": {
+            "attack": "54",
+            "creativity": "60",
+            "defending": "64",
+            "position": "M",
+            "tactical": "65",
+            "technical": "52"
+        },
+        "jordan-pickford": {
+            "aerial": "57",
+            "anticipation": "56",
+            "ballDistribution": "80",
+            "position": "G",
+            "saves": "76",
+            "tactical": "59"
+        },
+        "vitaliy-mykolenko": {
+            "attack": "42",
+            "creativity": "46",
+            "defending": "72",
+            "position": "D",
+            "tactical": "59",
+            "technical": "41"
+        },
+        "abdoulaye-doucoure": {
+            "attack": "62",
+            "creativity": "62",
+            "defending": "35",
+            "position": "M",
+            "tactical": "45",
+            "technical": "56"
+        },
+        "jarrad-branthwaite": {
+            "attack": "38",
+            "creativity": "41",
+            "defending": "76",
+            "position": "D",
+            "tactical": "63",
+            "technical": "46"
+        },
+        "andre-gomes": {
+            "attack": "59",
+            "creativity": "60",
+            "defending": "24",
+            "position": "M",
+            "tactical": "42",
+            "technical": "70"
+        },
+        "seamus-coleman": {
+            "attack": "44",
+            "creativity": "44",
+            "defending": "66",
+            "position": "D",
+            "tactical": "53",
+            "technical": "55"
+        },
+        "idrissa-gueye": {
+            "attack": "51",
+            "creativity": "51",
+            "defending": "60",
+            "position": "M",
+            "tactical": "58",
+            "technical": "52"
+        },
+        "jack-harrison": {
+            "attack": "66",
+            "creativity": "72",
+            "defending": "22",
+            "position": "M",
+            "tactical": "30",
+            "technical": "58"
+        },
+        "dominic-calvert-lewin": {
+            "attack": "67",
+            "creativity": "50",
+            "defending": "18",
+            "position": "F",
+            "tactical": "39",
+            "technical": "50"
+        },
+        "beto": {
+            "attack": "71",
+            "creativity": "54",
+            "defending": "17",
+            "position": "F",
+            "tactical": "45",
+            "technical": "49"
+        },
+        "lewis-dobbin": {
+            "attack": "53",
+            "creativity": "51",
+            "defending": "37",
+            "position": "F",
+            "tactical": "36",
+            "technical": "47"
+        },
+        "ben-godfrey": {
+            "attack": "38",
+            "creativity": "39",
+            "defending": "67",
+            "position": "D",
+            "tactical": "44",
+            "technical": "35"
+        },
+        "michael-keane": {
+            "attack": "41",
+            "creativity": "44",
+            "defending": "62",
+            "position": "D",
+            "tactical": "53",
+            "technical": "51"
+        },
+        "patterson-nathan": {
+            "attack": "39",
+            "creativity": "50",
+            "defending": "55",
+            "position": "D",
+            "tactical": "43",
+            "technical": "43"
+        },
+        "arnaut-danjuma": {
+            "attack": "71",
+            "creativity": "49",
+            "defending": "26",
+            "position": "F",
+            "tactical": "42",
+            "technical": "58"
+        },
+        "youssef-chermiti": {},
+        "ashley-young": {
+            "attack": "42",
+            "creativity": "48",
+            "defending": "67",
+            "position": "D",
+            "tactical": "54",
+            "technical": "47"
+        },
+        "cannon-thomas": {
+            "attack": "71",
+            "creativity": "47",
+            "defending": "28",
+            "position": "F",
+            "tactical": "47",
+            "technical": "59"
+        },
+        "tyler-onyango": {}
     },
     "nottingham-forest": {
         "morgan-gibbs-white": {
@@ -253,6 +2516,14 @@
             "tactical": "52",
             "technical": "61"
         },
+        "anthony-elanga": {
+            "attack": "64",
+            "creativity": "58",
+            "defending": "32",
+            "position": "M",
+            "tactical": "31",
+            "technical": "48"
+        },
         "matt-turner": {
             "aerial": "71",
             "anticipation": "55",
@@ -260,6 +2531,191 @@
             "position": "G",
             "saves": "65",
             "tactical": "63"
+        },
+        "chris-wood": {
+            "attack": "60",
+            "creativity": "46",
+            "defending": "26",
+            "position": "F",
+            "tactical": "36",
+            "technical": "38"
+        },
+        "nicolas-dominguez": {
+            "attack": "60",
+            "creativity": "63",
+            "defending": "51",
+            "position": "M",
+            "tactical": "54",
+            "technical": "56"
+        },
+        "taiwo-awoniyi": {
+            "attack": "73",
+            "creativity": "50",
+            "defending": "20",
+            "position": "F",
+            "tactical": "42",
+            "technical": "48"
+        },
+        "scott-mckenna": {
+            "attack": "36",
+            "creativity": "39",
+            "defending": "68",
+            "position": "M",
+            "tactical": "55",
+            "technical": "45"
+        },
+        "willy-boly": {
+            "attack": "41",
+            "creativity": "39",
+            "defending": "86",
+            "position": "D",
+            "tactical": "70",
+            "technical": "47"
+        },
+        "murillo": {
+            "attack": "37",
+            "creativity": "48",
+            "defending": "83",
+            "position": "D",
+            "tactical": "71",
+            "technical": "56"
+        },
+        "gonzalo-montiel": {
+            "attack": "39",
+            "creativity": "50",
+            "defending": "61",
+            "position": "D",
+            "tactical": "41",
+            "technical": "39"
+        },
+        "williams-neco": {
+            "attack": "49",
+            "creativity": "51",
+            "defending": "60",
+            "position": "D",
+            "tactical": "49",
+            "technical": "47"
+        },
+        "harry-toffolo": {
+            "attack": "49",
+            "creativity": "58",
+            "defending": "65",
+            "position": "D",
+            "tactical": "51",
+            "technical": "47"
+        },
+        "serge-aurier": {
+            "attack": "43",
+            "creativity": "48",
+            "defending": "67",
+            "position": "D",
+            "tactical": "51",
+            "technical": "46"
+        },
+        "ibrahim-sangare": {
+            "attack": "57",
+            "creativity": "60",
+            "defending": "63",
+            "position": "M",
+            "tactical": "62",
+            "technical": "65"
+        },
+        "ryan-yates": {
+            "attack": "49",
+            "creativity": "46",
+            "defending": "57",
+            "position": "M",
+            "tactical": "57",
+            "technical": "43"
+        },
+        "callum-hudson-odoi": {},
+        "moussa-niakhate": {
+            "attack": "37",
+            "creativity": "35",
+            "defending": "68",
+            "position": "D",
+            "tactical": "59",
+            "technical": "40"
+        },
+        "orel-mangala": {
+            "attack": "52",
+            "creativity": "50",
+            "defending": "49",
+            "position": "M",
+            "tactical": "51",
+            "technical": "54"
+        },
+        "odysseas-vlachodimos": {
+            "aerial": "69",
+            "anticipation": "53",
+            "ballDistribution": "68",
+            "position": "G",
+            "saves": "73",
+            "tactical": "72"
+        },
+        "joe-worrall": {
+            "attack": "37",
+            "creativity": "40",
+            "defending": "78",
+            "position": "D",
+            "tactical": "67",
+            "technical": "46"
+        },
+        "ola-aina": {
+            "attack": "50",
+            "creativity": "56",
+            "defending": "61",
+            "position": "M",
+            "tactical": "49",
+            "technical": "56"
+        },
+        "cheikhou-kouyate": {
+            "attack": "48",
+            "creativity": "41",
+            "defending": "62",
+            "position": "M",
+            "tactical": "51",
+            "technical": "48"
+        },
+        "felipe": {
+            "attack": "41",
+            "creativity": "44",
+            "defending": "80",
+            "position": "D",
+            "tactical": "65",
+            "technical": "54"
+        },
+        "divock-origi": {
+            "attack": "78",
+            "creativity": "46",
+            "defending": "26",
+            "position": "F",
+            "tactical": "50",
+            "technical": "52"
+        },
+        "danilo": {
+            "attack": "56",
+            "creativity": "54",
+            "defending": "47",
+            "position": "M",
+            "tactical": "48",
+            "technical": "59"
+        },
+        "santos-andrey": {
+            "attack": "53",
+            "creativity": "47",
+            "defending": "52",
+            "position": "M",
+            "tactical": "46",
+            "technical": "51"
+        },
+        "nuno-tavares": {
+            "attack": "52",
+            "creativity": "54",
+            "defending": "35",
+            "position": "D",
+            "tactical": "27",
+            "technical": "49"
         }
     },
     "fulham": {
@@ -278,7 +2734,163 @@
             "position": "F",
             "tactical": "41",
             "technical": "71"
-        }
+        },
+        "joao-palhinha": {
+            "attack": "51",
+            "creativity": "54",
+            "defending": "66",
+            "position": "M",
+            "tactical": "69",
+            "technical": "53"
+        },
+        "tosin-adarabioyo": {
+            "attack": "40",
+            "creativity": "48",
+            "defending": "75",
+            "position": "D",
+            "tactical": "66",
+            "technical": "52"
+        },
+        "aleksandar-mitrovic": {
+            "attack": "78",
+            "creativity": "53",
+            "defending": "27",
+            "position": "F",
+            "tactical": "54",
+            "technical": "60"
+        },
+        "alex-iwobi": {
+            "attack": "64",
+            "creativity": "72",
+            "defending": "40",
+            "position": "M",
+            "tactical": "47",
+            "technical": "64"
+        },
+        "tom-cairney": {
+            "attack": "62",
+            "creativity": "63",
+            "defending": "38",
+            "position": "M",
+            "tactical": "45",
+            "technical": "61"
+        },
+        "andreas-pereira": {
+            "attack": "65",
+            "creativity": "73",
+            "defending": "21",
+            "position": "M",
+            "tactical": "29",
+            "technical": "60"
+        },
+        "harry-wilson": {
+            "attack": "67",
+            "creativity": "67",
+            "defending": "41",
+            "position": "M",
+            "tactical": "50",
+            "technical": "56"
+        },
+        "antonee-robinson": {
+            "attack": "46",
+            "creativity": "56",
+            "defending": "68",
+            "position": "D",
+            "tactical": "50",
+            "technical": "58"
+        },
+        "kenny-tete": {
+            "attack": "47",
+            "creativity": "57",
+            "defending": "78",
+            "position": "M",
+            "tactical": "58",
+            "technical": "51"
+        },
+        "timothy-castagne": {
+            "attack": "43",
+            "creativity": "51",
+            "defending": "67",
+            "position": "M",
+            "tactical": "46",
+            "technical": "44"
+        },
+        "issa-diop": {
+            "attack": "37",
+            "creativity": "41",
+            "defending": "72",
+            "position": "D",
+            "tactical": "62",
+            "technical": "42"
+        },
+        "raul-jimenez": {
+            "attack": "66",
+            "creativity": "54",
+            "defending": "22",
+            "position": "F",
+            "tactical": "39",
+            "technical": "40"
+        },
+        "bobby-decordova-reid": {
+            "attack": "58",
+            "creativity": "50",
+            "defending": "35",
+            "position": "F",
+            "tactical": "36",
+            "technical": "46"
+        },
+        "tim-ream": {
+            "attack": "36",
+            "creativity": "45",
+            "defending": "72",
+            "position": "D",
+            "tactical": "62",
+            "technical": "50"
+        },
+        "calvin-bassey": {
+            "attack": "37",
+            "creativity": "42",
+            "defending": "69",
+            "position": "D",
+            "tactical": "50",
+            "technical": "46"
+        },
+        "harrison-reed": {
+            "attack": "52",
+            "creativity": "59",
+            "defending": "43",
+            "position": "M",
+            "tactical": "44",
+            "technical": "42"
+        },
+        "carlos-vinicius": {
+            "attack": "72",
+            "creativity": "57",
+            "defending": "22",
+            "position": "F",
+            "tactical": "46",
+            "technical": "54"
+        },
+        "rodrigo-muniz": {},
+        "fode-ballo-toure": {},
+        "sasa-lukic": {
+            "attack": "55",
+            "creativity": "56",
+            "defending": "48",
+            "position": "M",
+            "tactical": "52",
+            "technical": "56"
+        },
+        "adama-traore": {
+            "attack": "70",
+            "creativity": "64",
+            "defending": "27",
+            "position": "F",
+            "tactical": "30",
+            "technical": "78"
+        },
+        "luke-harris": {},
+        "marek-rodak": {}
     },
     "burnley": {
         "james-trafford": {
@@ -289,6 +2901,14 @@
             "saves": "61",
             "tactical": "66"
         },
+        "josh-brownhill": {
+            "attack": "58",
+            "creativity": "64",
+            "defending": "58",
+            "position": "M",
+            "tactical": "55",
+            "technical": "54"
+        },
         "wilson-odobert": {
             "attack": "68",
             "creativity": "55",
@@ -296,6 +2916,169 @@
             "position": "F",
             "tactical": "44",
             "technical": "63"
+        },
+        "johann-gudmundsson": {
+            "attack": "59",
+            "creativity": "67",
+            "defending": "38",
+            "position": "M",
+            "tactical": "45",
+            "technical": "58"
+        },
+        "zeki-amdouni": {
+            "attack": "68",
+            "creativity": "49",
+            "defending": "30",
+            "position": "F",
+            "tactical": "52",
+            "technical": "60"
+        },
+        "foster-lyle": {
+            "attack": "69",
+            "creativity": "55",
+            "defending": "23",
+            "position": "F",
+            "tactical": "41",
+            "technical": "49"
+        },
+        "jordan-beyer": {
+            "attack": "37",
+            "creativity": "45",
+            "defending": "72",
+            "position": "D",
+            "tactical": "59",
+            "technical": "52"
+        },
+        "dara-oshea": {
+            "attack": "36",
+            "creativity": "45",
+            "defending": "72",
+            "position": "D",
+            "tactical": "61",
+            "technical": "47"
+        },
+        "cullen-josh": {
+            "attack": "50",
+            "creativity": "55",
+            "defending": "55",
+            "position": "M",
+            "tactical": "52",
+            "technical": "53"
+        },
+        "charlie-taylor": {
+            "attack": "40",
+            "creativity": "48",
+            "defending": "67",
+            "position": "D",
+            "tactical": "60",
+            "technical": "45"
+        },
+        "sander-berge": {
+            "attack": "54",
+            "creativity": "57",
+            "defending": "50",
+            "position": "M",
+            "tactical": "49",
+            "technical": "61"
+        },
+        "michael-obafemi": {
+            "attack": "66",
+            "creativity": "53",
+            "defending": "28",
+            "position": "F",
+            "tactical": "45",
+            "technical": "49"
+        },
+        "jacob-bruun-larsen": {
+            "attack": "61",
+            "creativity": "52",
+            "defending": "24",
+            "position": "F",
+            "tactical": "32",
+            "technical": "41"
+        },
+        "jay-rodriguez": {
+            "attack": "64",
+            "creativity": "43",
+            "defending": "35",
+            "position": "F",
+            "tactical": "45",
+            "technical": "48"
+        },
+        "hjalmar-ekdal": {},
+        "mike-tresor": {
+            "attack": "69",
+            "creativity": "81",
+            "defending": "26",
+            "position": "M",
+            "tactical": "33",
+            "technical": "60"
+        },
+        "luca-koleosho": {},
+        "nathan-redmond": {
+            "attack": "64",
+            "creativity": "66",
+            "defending": "32",
+            "position": "M",
+            "tactical": "38",
+            "technical": "63"
+        },
+        "hannes-delcroix": {},
+        "manuel-benson": {
+            "attack": "67",
+            "creativity": "57",
+            "defending": "29",
+            "position": "F",
+            "tactical": "37",
+            "technical": "58"
+        },
+        "aaron-ramsey": {
+            "attack": "54",
+            "creativity": "54",
+            "defending": "39",
+            "position": "M",
+            "tactical": "38",
+            "technical": "50"
+        },
+        "connor-roberts": {
+            "attack": "41",
+            "creativity": "49",
+            "defending": "60",
+            "position": "D",
+            "tactical": "44",
+            "technical": "44"
+        },
+        "vitinho": {
+            "attack": "41",
+            "creativity": "45",
+            "defending": "46",
+            "position": "D",
+            "tactical": "29",
+            "technical": "39"
+        },
+        "ameen-al-dakhil": {
+            "attack": "35",
+            "creativity": "40",
+            "defending": "59",
+            "position": "D",
+            "tactical": "50",
+            "technical": "41"
+        },
+        "anass-zaroury": {
+            "attack": "65",
+            "creativity": "58",
+            "defending": "35",
+            "position": "F",
+            "tactical": "38",
+            "technical": "64"
+        },
+        "jack-cork": {
+            "attack": "46",
+            "creativity": "46",
+            "defending": "56",
+            "position": "M",
+            "tactical": "54",
+            "technical": "48"
         }
     },
     "bournemouth": {
@@ -314,6 +3097,190 @@
             "position": "D",
             "tactical": "41",
             "technical": "64"
+        },
+        "dominic-solanke": {
+            "attack": "74",
+            "creativity": "54",
+            "defending": "13",
+            "position": "F",
+            "tactical": "41",
+            "technical": "46"
+        },
+        "ryan-christie": {
+            "attack": "60",
+            "creativity": "64",
+            "defending": "29",
+            "position": "M",
+            "tactical": "44",
+            "technical": "55"
+        },
+        "luis-sinisterra": {
+            "attack": "68",
+            "creativity": "57",
+            "defending": "33",
+            "position": "F",
+            "tactical": "49",
+            "technical": "71"
+        },
+        "alex-scott": {
+            "attack": "53",
+            "creativity": "55",
+            "defending": "43",
+            "position": "M",
+            "tactical": "46",
+            "technical": "54"
+        },
+        "philip-billing": {
+            "attack": "59",
+            "creativity": "59",
+            "defending": "44",
+            "position": "M",
+            "tactical": "47",
+            "technical": "58"
+        },
+        "marcos-senesi": {
+            "attack": "40",
+            "creativity": "46",
+            "defending": "62",
+            "position": "D",
+            "tactical": "57",
+            "technical": "52"
+        },
+        "lewis-cook": {
+            "attack": "50",
+            "creativity": "54",
+            "defending": "52",
+            "position": "M",
+            "tactical": "53",
+            "technical": "53"
+        },
+        "dango-ouattara": {
+            "attack": "62",
+            "creativity": "63",
+            "defending": "43",
+            "position": "F",
+            "tactical": "44",
+            "technical": "50"
+        },
+        "adam-smith": {
+            "attack": "39",
+            "creativity": "49",
+            "defending": "52",
+            "position": "D",
+            "tactical": "41",
+            "technical": "42"
+        },
+        "antoine-semenyo": {
+            "attack": "65",
+            "creativity": "53",
+            "defending": "28",
+            "position": "F",
+            "tactical": "41",
+            "technical": "52"
+        },
+        "illia-zabarnyi": {
+            "attack": "35",
+            "creativity": "37",
+            "defending": "70",
+            "position": "D",
+            "tactical": "61",
+            "technical": "49"
+        },
+        "kieffer-moore": {
+            "attack": "59",
+            "creativity": "40",
+            "defending": "24",
+            "position": "F",
+            "tactical": "43",
+            "technical": "38"
+        },
+        "david-brooks": {
+            "attack": "64",
+            "creativity": "56",
+            "defending": "34",
+            "position": "M",
+            "tactical": "46",
+            "technical": "60"
+        },
+        "lloyd-kelly": {
+            "attack": "36",
+            "creativity": "44",
+            "defending": "72",
+            "position": "D",
+            "tactical": "66",
+            "technical": "39"
+        },
+        "milos-kerkez": {
+            "attack": "43",
+            "creativity": "48",
+            "defending": "59",
+            "position": "D",
+            "tactical": "42",
+            "technical": "48"
+        },
+        "max-aarons": {
+            "attack": "39",
+            "creativity": "45",
+            "defending": "58",
+            "position": "D",
+            "tactical": "35",
+            "technical": "46"
+        },
+        "hamed-junior-traore": {
+            "attack": "66",
+            "creativity": "76",
+            "defending": "20",
+            "position": "M",
+            "tactical": "24",
+            "technical": "66"
+        },
+        "justin-kluivert": {
+            "attack": "69",
+            "creativity": "65",
+            "defending": "30",
+            "position": "F",
+            "tactical": "38",
+            "technical": "64"
+        },
+        "james-hill": {
+            "attack": "38",
+            "creativity": "37",
+            "defending": "70",
+            "position": "D",
+            "tactical": "46",
+            "technical": "41"
+        },
+        "joe-rothwell": {
+            "attack": "56",
+            "creativity": "60",
+            "defending": "46",
+            "position": "M",
+            "tactical": "49",
+            "technical": "67"
+        },
+        "chris-mepham": {
+            "attack": "36",
+            "creativity": "40",
+            "defending": "76",
+            "position": "D",
+            "tactical": "58",
+            "technical": "44"
+        },
+        "jaidon-anthony": {
+            "attack": "57",
+            "creativity": "55",
+            "defending": "35",
+            "position": "F",
+            "tactical": "32",
+            "technical": "48"
+        },
+        "ionut-radu": {
+            "aerial": "60",
+            "anticipation": "44",
+            "ballDistribution": "73",
+            "position": "G",
+            "saves": "74",
+            "tactical": "57"
         }
     },
     "luton-town": {
@@ -332,6 +3299,153 @@
             "position": "M",
             "tactical": "51",
             "technical": "65"
+        },
+        "thomas-kaminski": {
+            "aerial": "53",
+            "anticipation": "44",
+            "ballDistribution": "65",
+            "position": "G",
+            "saves": "67",
+            "tactical": "54"
+        },
+        "andros-townsend": {},
+        "reece-burke": {
+            "attack": "37",
+            "creativity": "40",
+            "defending": "71",
+            "position": "D",
+            "tactical": "48",
+            "technical": "42"
+        },
+        "albert-sambi-lokonga": {},
+        "tom-lockyer": {
+            "attack": "38",
+            "creativity": "42",
+            "defending": "75",
+            "position": "D",
+            "tactical": "63",
+            "technical": "46"
+        },
+        "ogbene-chiedozie": {
+            "attack": "61",
+            "creativity": "53",
+            "defending": "38",
+            "position": "M",
+            "tactical": "46",
+            "technical": "48"
+        },
+        "carlton-morris": {
+            "attack": "71",
+            "creativity": "49",
+            "defending": "23",
+            "position": "F",
+            "tactical": "43",
+            "technical": "53"
+        },
+        "mads-juel-andersen": {
+            "attack": "35",
+            "creativity": "33",
+            "defending": "75",
+            "position": "D",
+            "tactical": "46",
+            "technical": "41"
+        },
+        "gabriel-osho": {
+            "attack": "39",
+            "creativity": "36",
+            "defending": "68",
+            "position": "D",
+            "tactical": "56",
+            "technical": "47"
+        },
+        "teden-mengi": {},
+        "marvelous-nakamba": {
+            "attack": "46",
+            "creativity": "46",
+            "defending": "56",
+            "position": "M",
+            "tactical": "50",
+            "technical": "48"
+        },
+        "jacob-brown": {
+            "attack": "58",
+            "creativity": "44",
+            "defending": "34",
+            "position": "M",
+            "tactical": "39",
+            "technical": "39"
+        },
+        "issa-kabore": {
+            "attack": "50",
+            "creativity": "56",
+            "defending": "54",
+            "position": "D",
+            "tactical": "39",
+            "technical": "55"
+        },
+        "cauley-woodrow": {
+            "attack": "63",
+            "creativity": "46",
+            "defending": "25",
+            "position": "F",
+            "tactical": "37",
+            "technical": "47"
+        },
+        "tahith-chong": {
+            "attack": "53",
+            "creativity": "50",
+            "defending": "36",
+            "position": "M",
+            "tactical": "36",
+            "technical": "42"
+        },
+        "adebayo-elijah": {
+            "attack": "61",
+            "creativity": "45",
+            "defending": "28",
+            "position": "F",
+            "tactical": "45",
+            "technical": "36"
+        },
+        "amarii-bell": {
+            "attack": "42",
+            "creativity": "45",
+            "defending": "66",
+            "position": "D",
+            "tactical": "53",
+            "technical": "46"
+        },
+        "ryan-giles": {
+            "attack": "50",
+            "creativity": "62",
+            "defending": "52",
+            "position": "M",
+            "tactical": "32",
+            "technical": "54"
+        },
+        "pelly-ruddock-mpanzu": {
+            "attack": "49",
+            "creativity": "49",
+            "defending": "48",
+            "position": "M",
+            "tactical": "47",
+            "technical": "47"
+        },
+        "luke-berry": {
+            "attack": "58",
+            "creativity": "45",
+            "defending": "44",
+            "position": "M",
+            "tactical": "48",
+            "technical": "50"
+        },
+        "jordan-clark": {
+            "attack": "55",
+            "creativity": "53",
+            "defending": "44",
+            "position": "M",
+            "tactical": "44",
+            "technical": "53"
         }
     },
     "sheffield-united": {
@@ -350,6 +3464,173 @@
             "position": "M",
             "tactical": "52",
             "technical": "62"
-        }
+        },
+        "oliver-mcburnie": {
+            "attack": "68",
+            "creativity": "48",
+            "defending": "32",
+            "position": "F",
+            "tactical": "57",
+            "technical": "52"
+        },
+        "cameron-archer": {
+            "attack": "70",
+            "creativity": "53",
+            "defending": "23",
+            "position": "F",
+            "tactical": "39",
+            "technical": "55"
+        },
+        "vinicius-souza": {
+            "attack": "48",
+            "creativity": "47",
+            "defending": "60",
+            "position": "M",
+            "tactical": "65",
+            "technical": "48"
+        },
+        "oliver-norwood": {
+            "attack": "59",
+            "creativity": "67",
+            "defending": "65",
+            "position": "M",
+            "tactical": "67",
+            "technical": "63"
+        },
+        "james-mcatee": {
+            "attack": "62",
+            "creativity": "57",
+            "defending": "32",
+            "position": "M",
+            "tactical": "37",
+            "technical": "63"
+        },
+        "george-baldock": {
+            "attack": "48",
+            "creativity": "49",
+            "defending": "55",
+            "position": "M",
+            "tactical": "44",
+            "technical": "46"
+        },
+        "luke-thomas": {
+            "attack": "40",
+            "creativity": "45",
+            "defending": "59",
+            "position": "M",
+            "tactical": "44",
+            "technical": "43"
+        },
+        "larouci-yasser": {
+            "attack": "48",
+            "creativity": "49",
+            "defending": "39",
+            "position": "D",
+            "tactical": "36",
+            "technical": "53"
+        },
+        "jack-robinson": {
+            "attack": "39",
+            "creativity": "39",
+            "defending": "70",
+            "position": "D",
+            "tactical": "52",
+            "technical": "40"
+        },
+        "bogle-jayden": {
+            "attack": "50",
+            "creativity": "48",
+            "defending": "40",
+            "position": "M",
+            "tactical": "34",
+            "technical": "43"
+        },
+        "anel-ahmedhodzic": {
+            "attack": "38",
+            "creativity": "40",
+            "defending": "73",
+            "position": "D",
+            "tactical": "58",
+            "technical": "41"
+        },
+        "chris-basham": {
+            "attack": "37",
+            "creativity": "42",
+            "defending": "72",
+            "position": "D",
+            "tactical": "51",
+            "technical": "47"
+        },
+        "brooks-andre": {},
+        "auston-trusty": {
+            "attack": "36",
+            "creativity": "37",
+            "defending": "75",
+            "position": "D",
+            "tactical": "52",
+            "technical": "40"
+        },
+        "ben-osborn": {
+            "attack": "52",
+            "creativity": "54",
+            "defending": "50",
+            "position": "M",
+            "tactical": "42",
+            "technical": "43"
+        },
+        "max-lowe": {
+            "attack": "47",
+            "creativity": "48",
+            "defending": "67",
+            "position": "M",
+            "tactical": "52",
+            "technical": "46"
+        },
+        "rhian-brewster": {},
+        "osula-william": {},
+        "john-fleck": {
+            "attack": "52",
+            "creativity": "58",
+            "defending": "45",
+            "position": "M",
+            "tactical": "34",
+            "technical": "55"
+        },
+        "sydie-peck": {},
+        "antwoine-hackford": {},
+        "john-egan": {
+            "attack": "38",
+            "creativity": "39",
+            "defending": "72",
+            "position": "D",
+            "tactical": "59",
+            "technical": "45"
+        },
+        "anis-ben-slimane": {
+            "attack": "55",
+            "creativity": "54",
+            "defending": "32",
+            "position": "M",
+            "tactical": "37",
+            "technical": "49"
+        },
+        "benie-traore": {
+            "attack": "71",
+            "creativity": "50",
+            "defending": "17",
+            "position": "F",
+            "tactical": "41",
+            "technical": "52"
+        },
+        "ryan-one": {},
+        "tom-davies": {
+            "attack": "50",
+            "creativity": "50",
+            "defending": "42",
+            "position": "M",
+            "tactical": "31",
+            "technical": "50"
+        },
+        "rhys-norrington-davies": {}
     }
 }

@@ -18,6 +18,44 @@
             "mike-tresor"
         ]
     },
+    "aston-villa": {
+        "att": [
+            "leon-bailey",
+            "diaby-moussa",
+            "ollie-watkins"
+        ],
+        "def": [
+            "ezri-konsa",
+            "diego-carlos",
+            "clement-lenglet",
+            "alex-moreno"
+        ],
+        "goalkeeper": "emiliano-martinez",
+        "mid": [
+            "john-mcginn",
+            "douglas-luiz",
+            "jacob-ramsey"
+        ]
+    },
+    "manchester-city": {
+        "att": [
+            "jack-grealish",
+            "julian-alvarez"
+        ],
+        "def": [
+            "kyle-walker",
+            "manuel-akanji",
+            "nathan-ake",
+            "josko-gvardiol"
+        ],
+        "goalkeeper": "ederson",
+        "mid": [
+            "mateo-kovacic",
+            "rodri",
+            "bernardo-silva",
+            "phil-foden"
+        ]
+    },
     "arsenal": {
         "att": [
             "leandro-trossard",
@@ -35,44 +73,6 @@
         "mid": [
             "martin-odegaard",
             "declan-rice"
-        ]
-    },
-    "aston-villa": {
-        "att": [
-            "rasmus-hojlund"
-        ],
-        "def": [
-            "aaron-wan-bissaka",
-            "raphael-varane",
-            "jonny-evans",
-            "diogo-dalot"
-        ],
-        "goalkeeper": "andre-onana",
-        "mid": [
-            "kobbie-mainoo",
-            "christian-eriksen",
-            "alejandro-garnacho",
-            "bruno-fernandes",
-            "marcus-rashford"
-        ]
-    },
-    "manchester-city": {
-        "att": [
-            "beto"
-        ],
-        "def": [
-            "patterson-nathan",
-            "james-tarkowski",
-            "jarrad-branthwaite",
-            "vitaliy-mykolenko"
-        ],
-        "goalkeeper": "jordan-pickford",
-        "mid": [
-            "andre-gomes",
-            "amadou-onana",
-            "jack-harrison",
-            "james-garner",
-            "dwight-mcneil"
         ]
     },
     "tottenham-hotspur": {
@@ -115,21 +115,21 @@
     },
     "manchester-united": {
         "att": [
-            "rasmus-hojlund"
+            "anthony-elanga",
+            "morgan-gibbs-white",
+            "chris-wood"
         ],
         "def": [
-            "aaron-wan-bissaka",
-            "raphael-varane",
-            "jonny-evans",
-            "diogo-dalot"
+            "gonzalo-montiel",
+            "moussa-niakhate",
+            "murillo",
+            "ola-aina"
         ],
-        "goalkeeper": "andre-onana",
+        "goalkeeper": "matt-turner",
         "mid": [
-            "kobbie-mainoo",
-            "christian-eriksen",
-            "alejandro-garnacho",
-            "bruno-fernandes",
-            "marcus-rashford"
+            "ryan-yates",
+            "danilo",
+            "nicolas-dominguez"
         ]
     },
     "brighton-and-hove-albion": {
@@ -172,40 +172,40 @@
     },
     "chelsea": {
         "att": [
-            "christopher-nkunku",
-            "nicolas-jackson"
+            "adebayo-elijah"
         ],
         "def": [
-            "gusto-malo",
-            "axel-disasi",
-            "benoit-badiashile",
-            "levi-colwill",
-            "ian-maatsen"
+            "teden-mengi",
+            "gabriel-osho",
+            "amarii-bell",
+            "issa-kabore"
         ],
-        "goalkeeper": "dorde-petrovic",
+        "goalkeeper": "thomas-kaminski",
         "mid": [
-            "conor-gallagher",
-            "moises-caicedo",
-            "mykhaylo-mudryk"
+            "albert-sambi-lokonga",
+            "ross-barkley",
+            "alfie-doughty",
+            "andros-townsend",
+            "jacob-brown"
         ]
     },
     "wolverhampton": {
         "att": [
-            "saman-ghoddos",
-            "yoane-wissa",
-            "neal-maupay",
-            "keane-lewis-potter"
+            "matheus-cunha",
+            "hee-chan-hwang"
         ],
         "def": [
-            "nathan-collins",
-            "ethan-pinnock"
+            "max-kilman",
+            "craig-dawson",
+            "toti-gomes",
+            "nelson-semedo",
+            "rayan-ait-nouri"
         ],
-        "goalkeeper": "mark-flekken",
+        "goalkeeper": "jose-sa",
         "mid": [
-            "mads-roerslev",
-            "yarmoliuk-yehor",
-            "christian-norgaard",
-            "vitaly-janelt"
+            "joao-gomes",
+            "tommy-doyle",
+            "pablo-sarabia"
         ]
     },
     "bournemouth": {
@@ -227,6 +227,25 @@
             "marcus-tavernier"
         ]
     },
+    "crystal-palace": {
+        "att": [
+            "jean-philippe-mateta",
+            "jordan-ayew"
+        ],
+        "def": [
+            "nathaniel-clyne",
+            "joachim-andersen",
+            "marc-guehi",
+            "tyrick-mitchell",
+            "chris-richards"
+        ],
+        "goalkeeper": "dean-henderson",
+        "mid": [
+            "jefferson-lerma",
+            "eberechi-eze",
+            "michael-olise"
+        ]
+    },
     "fulham": {
         "att": [
             "antoine-semenyo",
@@ -246,137 +265,118 @@
             "marcus-tavernier"
         ]
     },
-    "brentford": {
-        "att": [
-            "saman-ghoddos",
-            "yoane-wissa",
-            "neal-maupay",
-            "keane-lewis-potter"
-        ],
-        "def": [
-            "nathan-collins",
-            "ethan-pinnock"
-        ],
-        "goalkeeper": "mark-flekken",
-        "mid": [
-            "mads-roerslev",
-            "yarmoliuk-yehor",
-            "christian-norgaard",
-            "vitaly-janelt"
-        ]
-    },
-    "crystal-palace": {
-        "att": [
-            "christopher-nkunku",
-            "nicolas-jackson"
-        ],
-        "def": [
-            "gusto-malo",
-            "axel-disasi",
-            "benoit-badiashile",
-            "levi-colwill",
-            "ian-maatsen"
-        ],
-        "goalkeeper": "dorde-petrovic",
-        "mid": [
-            "conor-gallagher",
-            "moises-caicedo",
-            "mykhaylo-mudryk"
-        ]
-    },
     "nottingham-forest": {
         "att": [
-            "miguel-almiron",
-            "alexander-isak",
-            "gordon-anthony"
+            "anthony-elanga",
+            "morgan-gibbs-white",
+            "chris-wood"
         ],
         "def": [
-            "kieran-trippier",
-            "fabian-schar",
-            "sven-botman",
-            "dan-burn"
+            "gonzalo-montiel",
+            "moussa-niakhate",
+            "murillo",
+            "ola-aina"
         ],
-        "goalkeeper": "martin-dubravka",
+        "goalkeeper": "matt-turner",
         "mid": [
-            "lewis-miley",
-            "bruno-guimaraes",
-            "sean-longstaff"
+            "ryan-yates",
+            "danilo",
+            "nicolas-dominguez"
+        ]
+    },
+    "brentford": {
+        "att": [
+            "jean-philippe-mateta",
+            "jordan-ayew"
+        ],
+        "def": [
+            "nathaniel-clyne",
+            "joachim-andersen",
+            "marc-guehi",
+            "tyrick-mitchell",
+            "chris-richards"
+        ],
+        "goalkeeper": "dean-henderson",
+        "mid": [
+            "jefferson-lerma",
+            "eberechi-eze",
+            "michael-olise"
         ]
     },
     "everton": {
         "att": [
-            "beto"
+            "matheus-cunha",
+            "hee-chan-hwang"
         ],
         "def": [
-            "patterson-nathan",
-            "james-tarkowski",
-            "jarrad-branthwaite",
-            "vitaliy-mykolenko"
+            "max-kilman",
+            "craig-dawson",
+            "toti-gomes",
+            "nelson-semedo",
+            "rayan-ait-nouri"
         ],
-        "goalkeeper": "jordan-pickford",
+        "goalkeeper": "jose-sa",
         "mid": [
-            "andre-gomes",
-            "amadou-onana",
-            "jack-harrison",
-            "james-garner",
-            "dwight-mcneil"
+            "joao-gomes",
+            "tommy-doyle",
+            "pablo-sarabia"
         ]
     },
     "luton-town": {
         "att": [
-            "oliver-mcburnie",
-            "cameron-archer"
+            "adebayo-elijah"
         ],
         "def": [
-            "anel-ahmedhodzic",
-            "jack-robinson",
-            "auston-trusty"
+            "teden-mengi",
+            "gabriel-osho",
+            "amarii-bell",
+            "issa-kabore"
         ],
-        "goalkeeper": "wesley-foderingham",
+        "goalkeeper": "thomas-kaminski",
         "mid": [
-            "george-baldock",
-            "james-mcatee",
-            "vinicius-souza",
-            "brooks-andre",
-            "gustavo-hamer"
+            "albert-sambi-lokonga",
+            "ross-barkley",
+            "alfie-doughty",
+            "andros-townsend",
+            "jacob-brown"
         ]
     },
     "burnley": {
         "att": [
-            "wilson-odobert",
-            "foster-lyle",
-            "zeki-amdouni"
+            "leon-bailey",
+            "diaby-moussa",
+            "ollie-watkins"
         ],
         "def": [
-            "vitinho",
-            "dara-oshea",
-            "jordan-beyer",
-            "charlie-taylor"
+            "ezri-konsa",
+            "diego-carlos",
+            "clement-lenglet",
+            "alex-moreno"
         ],
-        "goalkeeper": "james-trafford",
+        "goalkeeper": "emiliano-martinez",
         "mid": [
-            "sander-berge",
-            "josh-brownhill",
-            "mike-tresor"
+            "john-mcginn",
+            "douglas-luiz",
+            "jacob-ramsey"
         ]
     },
     "sheffield-united": {
         "att": [
-            "oliver-mcburnie",
-            "cameron-archer"
+            "jack-grealish",
+            "julian-alvarez"
         ],
         "def": [
-            "anel-ahmedhodzic",
-            "jack-robinson",
-            "auston-trusty"
+            "kyle-walker",
+            "manuel-akanji",
+            "nathan-ake",
+            "josko-gvardiol"
         ],
-        "goalkeeper": "wesley-foderingham",
+        "goalkeeper": "ederson",
         "mid": [
-            "george-baldock",
-            "james-mcatee",
-            "vinicius-souza",
-            "brooks-andre",
-            "gustavo-hamer"
+            "mateo-kovacic",
+            "rodri",
+            "bernardo-silva",
+            "phil-foden"
         ]
     }
 }

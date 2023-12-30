@@ -2,257 +2,64 @@
     {
         "type": "player",
         "entity": {
-            "name": "Aleksandr Golovin",
-            "firstName": "",
-            "lastName": "",
-            "slug": "aleksandr-golovin",
-            "shortName": "A. Golovin",
+            "name": "Isco",
+            "slug": "isco",
+            "shortName": "Isco",
             "team": {
-                "name": "AS Monaco",
-                "slug": "as-monaco",
-                "shortName": "AS Monaco",
+                "name": "Real Betis",
+                "slug": "real-betis",
+                "shortName": "Betis",
                 "gender": "M",
                 "sport": {
                     "name": "Football",
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 186900,
-                "nameCode": "ASM",
+                "userCount": 162094,
+                "nameCode": "RBB",
                 "disabled": false,
                 "national": false,
                 "type": 0,
-                "id": 1653,
+                "id": 2816,
                 "country": {
-                    "alpha2": "MC",
-                    "name": "Monaco"
+                    "alpha2": "ES",
+                    "name": "Spain"
                 },
                 "subTeams": [],
                 "teamColors": {
                     "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
+                    "secondary": "#006633",
+                    "text": "#006633"
                 }
             },
             "position": "M",
-            "userCount": 4643,
-            "id": 318963,
+            "userCount": 14511,
+            "deceased": false,
+            "id": 103417,
             "country": {
-                "alpha2": "RU",
-                "name": "Russia"
+                "alpha2": "ES",
+                "name": "Spain"
             }
         },
-        "score": 37669.88
+        "score": 43748.8
     },
     {
         "type": "team",
         "entity": {
-            "name": "Golovina M.",
-            "slug": "golovina-maria",
-            "shortName": "Golovina M.",
-            "gender": "F",
+            "name": "Iscot Franzin Val Noce",
+            "slug": "iscot-franzin-val-noce",
+            "shortName": "Iscot Franzin Val Noce",
             "sport": {
-                "name": "Tennis",
-                "slug": "tennis",
-                "id": 5
-            },
-            "userCount": 36,
-            "nameCode": "GOL",
-            "national": false,
-            "type": 1,
-            "id": 457143,
-            "country": {},
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#52b030",
-                "secondary": "#52b030",
-                "text": "#ffffff"
-            }
-        },
-        "score": 5466.426
-    },
-    {
-        "type": "manager",
-        "entity": {
-            "name": "Vladimir Golovin",
-            "slug": "vladimir-golovin",
-            "shortName": "V. Golovin",
-            "sport": {
-                "name": "Handball",
-                "slug": "handball",
-                "id": 6
-            },
-            "teams": [
-                {
-                    "name": "Hungary",
-                    "slug": "hungary",
-                    "shortName": "Hungary",
-                    "gender": "F",
-                    "sport": {
-                        "name": "Handball",
-                        "slug": "handball",
-                        "id": 6
-                    },
-                    "userCount": 3158,
-                    "nameCode": "HUN",
-                    "disabled": false,
-                    "national": true,
-                    "type": 0,
-                    "id": 6888,
-                    "country": {
-                        "alpha2": "HU",
-                        "name": "Hungary"
-                    },
-                    "subTeams": [],
-                    "teamColors": {
-                        "primary": "#c61e29",
-                        "secondary": "#ffffff",
-                        "text": "#ffffff"
-                    }
-                }
-            ],
-            "id": 802979,
-            "country": {
-                "alpha2": "HU",
-                "name": "Hungary"
-            },
-            "team": {
-                "name": "Hungary",
-                "slug": "hungary",
-                "shortName": "Hungary",
-                "gender": "F",
-                "sport": {
-                    "name": "Handball",
-                    "slug": "handball",
-                    "id": 6
-                },
-                "userCount": 3158,
-                "nameCode": "HUN",
-                "disabled": false,
-                "national": true,
-                "type": 0,
-                "id": 6888,
-                "country": {
-                    "alpha2": "HU",
-                    "name": "Hungary"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#c61e29",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            }
-        },
-        "score": 4798.23
-    },
-    {
-        "type": "team",
-        "entity": {
-            "name": "Golovin T.",
-            "slug": "golovin-tatiana",
-            "shortName": "Golovin T.",
-            "gender": "F",
-            "sport": {
-                "name": "Tennis",
-                "slug": "tennis",
-                "id": 5
-            },
-            "userCount": 72,
-            "nameCode": "GOL",
-            "national": false,
-            "type": 1,
-            "id": 18436,
-            "country": {
-                "alpha2": "FR",
-                "name": "France"
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#52b030",
-                "secondary": "#52b030",
-                "text": "#ffffff"
-            }
-        },
-        "score": 4595.5615
-    },
-    {
-        "type": "team",
-        "entity": {
-            "name": "Golovinskii A.",
-            "slug": "golovinskii-aleksei",
-            "shortName": "Golovinskii A.",
-            "gender": "M",
-            "sport": {
-                "name": "Table tennis",
-                "slug": "table-tennis",
-                "id": 20
-            },
-            "userCount": 20,
-            "nameCode": "GOL",
-            "national": false,
-            "type": 1,
-            "id": 361895,
-            "country": {
-                "alpha2": "RU",
-                "name": "Russia"
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#52b030",
-                "secondary": "#52b030",
-                "text": "#ffffff"
-            }
-        },
-        "score": 3716.231
-    },
-    {
-        "type": "team",
-        "entity": {
-            "name": "Golovin A.",
-            "slug": "golovin-aleksey",
-            "shortName": "Golovin A.",
-            "sport": {
-                "name": "Tennis",
-                "slug": "tennis",
-                "id": 5
-            },
-            "userCount": 3,
-            "nameCode": "GAL",
-            "national": false,
-            "type": 1,
-            "id": 347191,
-            "country": {},
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#52b030",
-                "secondary": "#52b030",
-                "text": "#ffffff"
-            }
-        },
-        "score": 1603.7819
-    },
-    {
-        "type": "team",
-        "entity": {
-            "name": "Golovin J.",
-            "slug": "golovin-jessica",
-            "shortName": "Golovin J.",
-            "gender": "F",
-            "sport": {
-                "name": "Tennis",
-                "slug": "tennis",
-                "id": 5
+                "name": "Basketball",
+                "slug": "basketball",
+                "id": 2
             },
             "userCount": 2,
-            "nameCode": "GOL",
+            "nameCode": "IFV",
             "national": false,
-            "type": 1,
-            "id": 103849,
-            "country": {
-                "alpha2": "US",
-                "name": "USA"
-            },
+            "type": 0,
+            "id": 306438,
+            "country": {},
             "subTeams": [],
             "teamColors": {
                 "primary": "#52b030",
@@ -260,14 +67,49 @@
                 "text": "#ffffff"
             }
         },
-        "score": 1252.5867
+        "score": 830.974
     },
     {
         "type": "player",
         "entity": {
-            "name": "Nikita Golovin",
-            "slug": "nikita-golovin",
-            "shortName": "N. Golovin",
+            "name": "Isco",
+            "slug": "isco",
+            "shortName": "Isco",
+            "team": {
+                "name": "No team",
+                "slug": "no-team",
+                "shortName": "No team",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 13,
+                "nameCode": "NTE",
+                "disabled": true,
+                "national": false,
+                "type": 0,
+                "id": 241802,
+                "country": {},
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#d0d0d0",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "userCount": 2,
+            "id": 752822,
+            "country": {}
+        },
+        "score": 787.8494
+    },
+    {
+        "type": "player",
+        "entity": {
+            "name": "Fabien Iscol",
+            "slug": "fabien-iscol",
+            "shortName": "F. Iscol",
             "team": {
                 "name": "No team",
                 "slug": "no-team",
@@ -292,257 +134,54 @@
                 }
             },
             "position": "D",
-            "userCount": 0,
-            "id": 539432,
+            "userCount": 2,
+            "id": 213794,
             "country": {
-                "alpha2": "EE",
-                "name": "Estonia"
+                "alpha2": "FR",
+                "name": "France"
             }
         },
-        "score": 682.7862
+        "score": 657.94507
     },
     {
         "type": "player",
         "entity": {
-            "name": "Alexander Golovin",
-            "slug": "alexander-golovin",
-            "shortName": "A. Golovin",
+            "name": "Roger Iscoa",
+            "firstName": "Roger Iscoa",
+            "lastName": "",
+            "slug": "roger-iscoa",
+            "shortName": "R. Iscoa",
             "team": {
-                "name": "Metallurg Novokuznetsk",
-                "slug": "metallurg-novokuznetsk",
-                "shortName": "Metallurg Nk",
-                "gender": "M",
+                "name": "No team",
+                "slug": "no-team",
+                "shortName": "No team",
                 "sport": {
-                    "name": "Ice hockey",
-                    "slug": "ice-hockey",
-                    "id": 4
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
                 },
-                "userCount": 516,
-                "nameCode": "MEN",
+                "userCount": 13,
+                "nameCode": "NTE",
+                "disabled": true,
                 "national": false,
                 "type": 0,
-                "id": 3935,
-                "country": {
-                    "alpha2": "RU",
-                    "name": "Russia"
-                },
+                "id": 241802,
+                "country": {},
                 "subTeams": [],
                 "teamColors": {
-                    "primary": "#d62128",
+                    "primary": "#d0d0d0",
                     "secondary": "#000000",
                     "text": "#000000"
                 }
             },
-            "userCount": 1,
-            "id": 88063,
-            "country": {}
-        },
-        "score": 627.7191
-    },
-    {
-        "type": "player",
-        "entity": {
-            "name": "Andrei Golovin",
-            "slug": "andrei-golovin",
-            "shortName": "A. Golovin",
-            "team": {
-                "name": "Ajax Lasnam\u00e4e",
-                "slug": "ajax-lasnamae",
-                "shortName": "Ajax Lasnam\u00e4e",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 157,
-                "nameCode": "ALA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 5941,
-                "country": {
-                    "alpha2": "EE",
-                    "name": "Estonia"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffff00",
-                    "secondary": "#1941a5",
-                    "text": "#1941a5"
-                }
-            },
-            "userCount": 0,
-            "id": 802055,
-            "country": {
-                "alpha2": "EE",
-                "name": "Estonia"
-            }
-        },
-        "score": 535.5708
-    },
-    {
-        "type": "player",
-        "entity": {
-            "name": "Ruslan Golovin",
-            "firstName": "",
-            "lastName": "",
-            "slug": "ruslan-golovin",
-            "shortName": "R. Golovin",
-            "team": {
-                "name": "Tekhnolog-Bgut",
-                "slug": "tekhnolog-bgut",
-                "shortName": "Tekhnolog-Bgut",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 7,
-                "nameCode": "TEK",
-                "national": false,
-                "type": 0,
-                "id": 417126,
-                "country": {
-                    "alpha2": "BY",
-                    "name": "Belarus"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#52b030",
-                    "secondary": "#52b030",
-                    "text": "#ffffff"
-                }
-            },
             "position": "M",
-            "userCount": 0,
-            "id": 1385199,
-            "country": {}
-        },
-        "score": 532.6397
-    },
-    {
-        "type": "player",
-        "entity": {
-            "name": "Sergejs Golovins",
-            "slug": "sergejs-golovins",
-            "shortName": "S. Golovins",
-            "team": {
-                "name": "FK Daugava/Rfs",
-                "slug": "fk-daugavarfs",
-                "shortName": "FK Daugava/Rfs",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 5,
-                "nameCode": "DAU",
-                "national": false,
-                "type": 0,
-                "id": 34453,
-                "country": {
-                    "alpha2": "LV",
-                    "name": "Latvia"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#52b030",
-                    "secondary": "#52b030",
-                    "text": "#ffffff"
-                }
-            },
-            "position": "D",
-            "userCount": 0,
-            "id": 859433,
+            "userCount": 1,
+            "id": 1102727,
             "country": {
-                "alpha2": "LV",
-                "name": "Latvia"
+                "alpha2": "HN",
+                "name": "Honduras"
             }
         },
-        "score": 517.74243
-    },
-    {
-        "type": "player",
-        "entity": {
-            "name": "Ilya Golovin",
-            "slug": "ilya-golovin",
-            "shortName": "I. Golovin",
-            "team": {
-                "name": "FC Kameya-SGUS Smolensk",
-                "slug": "fc-kameya-sgus-smolensk",
-                "shortName": "Kameya-SGUS",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 10,
-                "nameCode": "FKS",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 470303,
-                "country": {
-                    "alpha2": "RU",
-                    "name": "Russia"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#52b030",
-                    "secondary": "#52b030",
-                    "text": "#ffffff"
-                }
-            },
-            "position": "G",
-            "userCount": 0,
-            "id": 1500889,
-            "country": {
-                "alpha2": "RU",
-                "name": "Russia"
-            }
-        },
-        "score": 485.4243
-    },
-    {
-        "type": "player",
-        "entity": {
-            "name": "Jevgenijs Golovins",
-            "slug": "jevgenijs-golovins",
-            "shortName": "J. Golovins",
-            "team": {
-                "name": "Liepajas Metalurgs",
-                "slug": "liepajas-metalurgs",
-                "shortName": "Liepaja",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 7,
-                "nameCode": "LME",
-                "national": false,
-                "type": 0,
-                "id": 5351,
-                "country": {
-                    "alpha2": "LV",
-                    "name": "Latvia"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#52b030",
-                    "secondary": "#52b030",
-                    "text": "#ffffff"
-                }
-            },
-            "userCount": 0,
-            "id": 55900,
-            "country": {}
-        },
-        "score": 478.64005
+        "score": 553.74554
     }
 ]

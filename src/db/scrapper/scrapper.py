@@ -26,7 +26,7 @@ def search_irregularities(tournament_location,tournament_name): # search for pla
         for j in players[i].keys():
             Keys.append(j)
         for j in Keys:
-            if count < len(selections[i]):
+            if count < len(selections[i]["players"]):
                 if selections[i]["players"][count]["name"] == j:
                     count+=1
                 else:
@@ -104,7 +104,7 @@ def get_national_selections(name,pages):# method used for obtain all actual play
     
     for i in tournaments:
         if name == i["name"]:
-            for j in range(pages-1):
+            for j in range(pages):
                  out_file = open(os.getcwd()+"/src/db/scrapper/"+i["location"]+"/data"+str(j)+".json")
                  data = json.load(out_file)
                  out_file.close()
@@ -156,7 +156,7 @@ def create_directory(direction , name):
     try:
         os.mkdir(direction+name)
     except OSError as e:
-        print(e)
+        return
         
 #################### used methods down here #############################
 
@@ -239,17 +239,16 @@ def add_player(player_id,player_name):#method to add a player in his national se
     headers_string = out_file_header.read()
     out_file_header.close()
     HEADERS = ast.literal_eval(headers_string)
-    NationURL = "https://api.sofascore.com/api/v1/player/"+player_id+"/national-team-statistics"
+    NationURL = "https://api.sofascore.com/api/v1/player/"+str(player_id)+"/national-team-statistics"
     response = requests.get(NationURL,headers=HEADERS)
     
     player_nationality =response.json()["statistics"][0]["team"]["slug"]
-    
     region= ""
     founded = False
     location =""
     for i in tournaments:
         if i["name"] != "world_cup_qatar_2022":
-            out_file = open(os.getcwd()+"/projects/FIFA_World_Cup_2022/scrapper/"+i["location"]+"/"+i["name"]+"_selections.json")
+            out_file = open(os.getcwd()+"/src/db/scrapper/"+i["location"]+"/"+i["name"]+"_selections.json")
             selections = json.load(out_file)
             out_file.close()
             for j in selections.keys():
@@ -261,23 +260,27 @@ def add_player(player_id,player_name):#method to add a player in his national se
         if founded == True:
             break
         
-    out_file = open(os.getcwd()+"/projects/FIFA_World_Cup_2022/scrapper/"+region+"_players.json")
+    out_file = open(os.getcwd()+"/src/db/scrapper/"+region+"_players.json")
     data = json.load(out_file)
     out_file.close()
     
-    selections_outfile = open(os.getcwd()+"/projects/FIFA_World_Cup_2022/scrapper/"+location +"/"+region+"_selections.json")
+    selections_outfile = open(os.getcwd()+"/src/db/scrapper/"+location +"/"+region+"_selections.json")
     selections = json.load(selections_outfile)
     selections_outfile.close()
-    
-    selections[player_nationality]["players"].append({"name":player_name , "id":player_id})
-    
-    selections_outfile =open(os.getcwd()+"/projects/FIFA_World_Cup_2022/scrapper/"+location +"/"+region+"_selections.json", 'w')
-    json.dump(selections, selections_outfile,indent=4)
         
     data_players = scrapper_player_stats(player_id,player_name,player_nationality,data)
-    players_file = open(os.getcwd()+"/projects/FIFA_World_Cup_2022/scrapper/"+region+"_players.json",'w')
+    players_file = open(os.getcwd()+"/src/db/scrapper/"+region+"_players.json",'w')
     json.dump(data_players, players_file,indent=4)
     players_file.close()
+    
+    for i in selections[player_nationality]["players"]:
+        if i["id"] == player_id:
+            return
+        
+    selections[player_nationality]["players"].append({"name":player_name , "id":player_id})
+    
+    selections_outfile =open(os.getcwd()+"/src/db/scrapper/"+location +"/"+region+"_selections.json", 'w')
+    json.dump(selections, selections_outfile,indent=4)
            
 def look_for_players(name):# method for search players in sofascore database
     out_file= open(os.getcwd()+"/src/db/scrapper/search_sofascore_url.json")
@@ -327,7 +330,8 @@ def edit_lineup(team_name , new_lineup):#method to do a change in a lineup
     lineups_file = open(os.getcwd()+"/src/db/scrapper/"+region+"_lineups"+".json",'w')
     json.dump(data, lineups_file,indent=4)
     lineups_file.close()
-    
+
+
 
 if sys.argv[1]== "scrap_team":
     json_args = open(sys.argv[2])
@@ -362,4 +366,5 @@ elif sys.argv[1]== "edit_lineup":
     
 print("OK")
 sys.stdout.flush()  
+
 

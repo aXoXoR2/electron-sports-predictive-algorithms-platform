@@ -2884,6 +2884,14 @@
             "position": "M",
             "tactical": "40",
             "technical": "65"
+        },
+        "sergio-ramos": {
+            "attack": "42",
+            "creativity": "52",
+            "defending": "67",
+            "position": "D",
+            "tactical": "74",
+            "technical": "54"
         }
     },
     "serbia": {

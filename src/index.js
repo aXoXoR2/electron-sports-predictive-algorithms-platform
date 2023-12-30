@@ -93,7 +93,6 @@ function createPrimaryWindow()
     {
         let id = await getId();
         let new_data= await editData(id,data)
-        console.log(new_data)
         primaryWindow[0].webContents.send('data-edited',new_data , data)
     }) // function that handel request for edit that
 

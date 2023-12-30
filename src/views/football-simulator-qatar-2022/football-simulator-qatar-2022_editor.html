@@ -95,6 +95,7 @@
 
             var lineups_section = `<div class ="text-center mb-4">
                 <h3> Select one Team to see lineup </h3>
+                <h4>${region}</h4>
             </div>
             <div class ="w-25 mx-auto">
                 <button class= "btn btn-secondary"> Back</button>
@@ -200,7 +201,8 @@
 
             btn.addEventListener('click', e => 
             {
-                try{
+                try
+                {
                 const substituted = document.getElementById('lineup');
                 var value_substituted = substituted.options[substituted.selectedIndex].value;
                 const substitute = document.getElementById('bank');
@@ -225,6 +227,13 @@
 
                 else
                 {
+                    if(pos_subtituted != "G" && national_selections_players[region][team][value_substitute]["position"]=="G")
+                    {
+                        alert("Goalkeeper only can play in portery")
+                    }
+             
+                    else
+                    {
                     let new_lineup = {"att": [] , "def":[] , "goalkeeper": "" , "mid":[]}
                     for (let player in national_selections_lineups[region][team])
                     {
@@ -253,7 +262,9 @@
                     }   
 
                     ipcRenderer.send('edit-data-request', ["lineup", team, new_lineup]) 
-                } }
+                } 
+            }
+            }
                 catch{
                     e.preventDefault()
                     alert("Make sure you choose a player in both sides")

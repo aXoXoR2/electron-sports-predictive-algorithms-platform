@@ -210,10 +210,9 @@ async function editData( id , data)
             {
                 let edit = await readJson(path.join(__dirname,"./edit_parameters.json"));
                 edit = {}
-                edit["player_id"] = data[1].toString()
+                edit["player_id"] = data[1]
                 edit["player_name"] = data[2]
                 await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
-                
                 pythonProcess =  spawnSync('python',['src/db/scrapper/scrapper.py','add_player','src/db/edit_parameters.json','src/db/edit_results.json']);
                 return await chargeDataOfModalitie(id) 
             }
