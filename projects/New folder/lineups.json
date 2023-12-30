@@ -1,0 +1,192 @@
+{
+    "belgium": {
+        "att": [
+            "jeremy-doku",
+            "johan-bakayoko",
+            "leandro-trossard",
+            "romelu-lukaku"
+        ],
+        "def": [
+            "wout-faes",
+            "jan-vertonghen",
+            "arthur-theate",
+            "timothy-castagne"
+        ],
+        "goalkeeper": "koen-casteels",
+        "mid": [
+            "orel-mangala",
+            "vranckx-aster"
+        ]
+    },
+    "colombia": {
+        "att": [
+            "poveda-ian-carlo",
+            "cucho-hernandez",
+            "roger-martinez"
+        ],
+        "def": [
+            "juan-mosquera",
+            "andres-reyes",
+            "brayan-vera",
+            "samuel-velasquez"
+        ],
+        "goalkeeper": "david-ospina",
+        "mid": [
+            "jorman-campuzano",
+            "sebastian-gomez",
+            "daniel-ruiz"
+        ]
+    },
+    "comoros": {
+        "att": [
+            "mohamed-youssouf",
+            "maolida-myziane"
+        ],
+        "def": [
+            "ahmed-soilihi",
+            "kassim-mdahoma"
+        ],
+        "goalkeeper": "salim-ben-boina",
+        "mid": [
+            "abdel-hakim-abdallah",
+            "youssouf-mchangama",
+            "yacine-bourhane",
+            "said-bakari",
+            "benjaloud-youssouf",
+            "faiz-selemani"
+        ]
+    },
+    "fulham": {
+        "att": [
+            "antoine-semenyo",
+            "justin-kluivert",
+            "dominic-solanke"
+        ],
+        "def": [
+            "adam-smith",
+            "illia-zabarnyi",
+            "marcos-senesi"
+        ],
+        "goalkeeper": "neto",
+        "mid": [
+            "dango-ouattara",
+            "alex-scott",
+            "ryan-christie",
+            "marcus-tavernier"
+        ]
+    },
+    "gibraltar": {
+        "att": [
+            "lee-casciaro"
+        ],
+        "def": [
+            "jack-sergeant",
+            "aymen-mouelhi",
+            "roy-alan-chipolina",
+            "jayce-mascarenhas-olivero",
+            "joseph-chipolina"
+        ],
+        "goalkeeper": "dayle-coleing",
+        "mid": [
+            "liam-walker",
+            "nicholas-pozo",
+            "evan-de-haro",
+            "tjay-de-barr"
+        ]
+    },
+    "guatemala": {
+        "att": [
+            "william-cardoza",
+            "darwin-lom"
+        ],
+        "def": [
+            "jose-morales",
+            "jose-pinto",
+            "kevin-ruiz",
+            "jose-ardon",
+            "oscar-castellanos"
+        ],
+        "goalkeeper": "perez-fredy",
+        "mid": [
+            "oscar-santis",
+            "marco-dominguez",
+            "pedro-altan"
+        ]
+    },
+    "luxembourg": {
+        "att": [
+            "danel-sinani",
+            "gerson-rodrigues"
+        ],
+        "def": [
+            "laurent-jans",
+            "seid-korac",
+            "maxime-chanot",
+            "dirk-carlson"
+        ],
+        "goalkeeper": "anthony-moris",
+        "mid": [
+            "sebastien-thill",
+            "leandro-barreiro",
+            "mathias-olesen",
+            "vincent-thill"
+        ]
+    },
+    "mauritania": {
+        "att": [
+            "souleymane-anne",
+            "hemeya-tanjy",
+            "aboubakary-koita"
+        ],
+        "def": [
+            "ibrahima-keita",
+            "nouh-mohamed-el-abd",
+            "bakary-ndiaye",
+            "aly-abeid"
+        ],
+        "goalkeeper": "babacar-niasse",
+        "mid": [
+            "bodda-mouhsine",
+            "guessouma-fofana",
+            "abdallahi-mahmoud"
+        ]
+    },
+    "mozambique": {
+        "att": [
+            "gildo",
+            "stanley-ratifo"
+        ],
+        "def": [
+            "domingos",
+            "edson-mexer",
+            "david-malembana",
+            "bruno-langa"
+        ],
+        "goalkeeper": "ernani",
+        "mid": [
+            "guima",
+            "shaquille",
+            "domingues",
+            "clesio-bauque"
+        ]
+    },
+    "poland": {
+        "att": [
+            "robert-lewandowski",
+            "adam-buksa"
+        ],
+        "def": [
+            "mateusz-wieteska",
+            "jan-bednarek",
+            "kiwior-jakub"
+        ],
+        "goalkeeper": "lukasz-skorupski",
+        "mid": [
+            "przemyslaw-frankowski",
+            "damian-szymanski",
+            "jakub-piotrowski",
+            "sebastian-szymanski",
+            "nicola-zalewski"
+        ]
+    }
+}

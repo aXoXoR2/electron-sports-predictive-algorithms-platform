@@ -1,0 +1,192 @@
+{
+    "probabilities": {
+        "argentina": {
+            "winner": 0.9333333333333333
+        },
+        "cuba": {
+            "winner": 0.06666666666666667
+        }
+    },
+    "matches": {
+        "0": [
+            "argentina",
+            8,
+            "cuba",
+            6
+        ],
+        "1": [
+            "argentina",
+            9,
+            "cuba",
+            6
+        ],
+        "2": [
+            "argentina",
+            10,
+            "cuba",
+            3
+        ],
+        "3": [
+            "argentina",
+            7,
+            "cuba",
+            4
+        ],
+        "4": [
+            "argentina",
+            8,
+            "cuba",
+            5
+        ],
+        "5": [
+            "argentina",
+            8,
+            "cuba",
+            2
+        ],
+        "6": [
+            "argentina",
+            10,
+            "cuba",
+            5
+        ],
+        "7": [
+            "argentina",
+            14,
+            "cuba",
+            4
+        ],
+        "8": [
+            "argentina",
+            11,
+            "cuba",
+            4
+        ],
+        "9": [
+            "argentina",
+            11,
+            "cuba",
+            5
+        ],
+        "10": [
+            "argentina",
+            8,
+            "cuba",
+            6
+        ],
+        "11": [
+            "argentina",
+            9,
+            "cuba",
+            6
+        ],
+        "12": [
+            "argentina",
+            8,
+            "cuba",
+            3
+        ],
+        "13": [
+            "argentina",
+            13,
+            "cuba",
+            6
+        ],
+        "14": [
+            "cuba",
+            4,
+            "argentina",
+            2
+        ],
+        "15": [
+            "argentina",
+            12,
+            "cuba",
+            3
+        ],
+        "16": [
+            "argentina",
+            9,
+            "cuba",
+            7
+        ],
+        "17": [
+            "argentina",
+            9,
+            "cuba",
+            5
+        ],
+        "18": [
+            "argentina",
+            18,
+            "cuba",
+            7
+        ],
+        "19": [
+            "cuba",
+            3,
+            "argentina",
+            1
+        ],
+        "20": [
+            "argentina",
+            10,
+            "cuba",
+            5
+        ],
+        "21": [
+            "argentina",
+            7,
+            "cuba",
+            2
+        ],
+        "22": [
+            "argentina",
+            9,
+            "cuba",
+            4
+        ],
+        "23": [
+            "argentina",
+            12,
+            "cuba",
+            2
+        ],
+        "24": [
+            "argentina",
+            10,
+            "cuba",
+            3
+        ],
+        "25": [
+            "argentina",
+            9,
+            "cuba",
+            4
+        ],
+        "26": [
+            "argentina",
+            6,
+            "cuba",
+            2
+        ],
+        "27": [
+            "argentina",
+            8,
+            "cuba",
+            4
+        ],
+        "28": [
+            "argentina",
+            5,
+            "cuba",
+            4
+        ],
+        "29": [
+            "argentina",
+            10,
+            "cuba",
+            3
+        ]
+    }
+}
