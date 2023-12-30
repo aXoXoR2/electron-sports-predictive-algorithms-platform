@@ -1,0 +1,1008 @@
+{
+    "spain": {
+        "att": [
+            "ferran-torres",
+            "alvaro-morata"
+        ],
+        "def": [
+            "daniel-carvajal",
+            "robin-le-normand",
+            "aymeric-laporte",
+            "jose-luis-gaya"
+        ],
+        "goalkeeper": "unai-simon",
+        "mid": [
+            "gavi",
+            "alejandro-baena",
+            "fabian-ruiz",
+            "nico-williams"
+        ]
+    },
+    "scotland": {
+        "att": [],
+        "def": [
+            "patterson-nathan",
+            "jack-hendry",
+            "scott-mckenna",
+            "greg-taylor"
+        ],
+        "goalkeeper": "zander-clark",
+        "mid": [
+            "scott-mctominay",
+            "callum-mcgregor",
+            "stuart-armstrong",
+            "john-mcginn",
+            "kenny-mclean",
+            "jacob-brown"
+        ]
+    },
+    "norway": {
+        "att": [
+            "jorgen-strand-larsen"
+        ],
+        "def": [
+            "julian-ryerson",
+            "kristoffer-ajer",
+            "leo-ostigard",
+            "fredrik-andre-bjorkan"
+        ],
+        "goalkeeper": "egil-selvik",
+        "mid": [
+            "sander-berge",
+            "patrick-berg",
+            "fredrik-aursnes",
+            "oscar-bobb",
+            "aron-donnum"
+        ]
+    },
+    "georgia": {
+        "att": [
+            "mikautadze-georges",
+            "khvicha-kvaratskhelia"
+        ],
+        "def": [
+            "solomon-kvirkvelia",
+            "guram-kashia",
+            "luka-lochoshvili",
+            "azarovi-irakli"
+        ],
+        "goalkeeper": "giorgi-mamardashvili",
+        "mid": [
+            "otar-kakabadze",
+            "giorgi-chakvetadze",
+            "nika-kvekveskiri",
+            "giorgi-kochorashvili"
+        ]
+    },
+    "cyprus": {
+        "att": [
+            "loizos-loizou",
+            "ioannis-pittas"
+        ],
+        "def": [
+            "andreas-karo",
+            "alexander-gogic",
+            "konstantinos-laifis",
+            "nikolas-panagiotou"
+        ],
+        "goalkeeper": "constantinos-panagi",
+        "mid": [
+            "grigoris-kastanos",
+            "danilo-spoljaric",
+            "charalampos-charalampous",
+            "nicholas-ioannou"
+        ]
+    },
+    "france": {
+        "att": [
+            "ousmane-dembele",
+            "antoine-griezmann",
+            "randal-kolo-muani",
+            "olivier-giroud"
+        ],
+        "def": [
+            "jules-kounde",
+            "william-saliba",
+            "lucas-hernandez",
+            "theo-hernandez"
+        ],
+        "goalkeeper": "brice-samba",
+        "mid": [
+            "youssouf-fofana",
+            "adrien-rabiot"
+        ]
+    },
+    "netherlands": {
+        "att": [
+            "wout-weghorst",
+            "donyell-malen"
+        ],
+        "def": [
+            "jordan-teze",
+            "stefan-de-vrij",
+            "virgil-van-dijk",
+            "quilindschy-hartman"
+        ],
+        "goalkeeper": "bart-verbruggen",
+        "mid": [
+            "mats-wieffer",
+            "joey-veerman",
+            "teun-koopmeiners",
+            "calvin-stengs"
+        ]
+    },
+    "greece": {
+        "att": [
+            "fotis-ioannidis"
+        ],
+        "def": [
+            "panagiotis-retsos",
+            "konstantinos-mavropanos",
+            "hatzidiakos-pantelis",
+            "lazaros-rota",
+            "dimitrios-giannoulis"
+        ],
+        "goalkeeper": "odysseas-vlachodimos",
+        "mid": [
+            "andreas-bouchalakis",
+            "konstantinos-galanopoulos",
+            "anastasios-bakasetas",
+            "giorgos-masouras"
+        ]
+    },
+    "ireland": {
+        "att": [
+            "adam-idah",
+            "michael-johnston"
+        ],
+        "def": [
+            "shane-duffy",
+            "andrew-omobamidele"
+        ],
+        "goalkeeper": "caoimhin-kelleher",
+        "mid": [
+            "matt-doherty",
+            "james-mcclean",
+            "jayson-molumby",
+            "jason-knight",
+            "jamie-mcgrath",
+            "mark-sykes"
+        ]
+    },
+    "gibraltar": {
+        "att": [
+            "lee-casciaro"
+        ],
+        "def": [
+            "jack-sergeant",
+            "aymen-mouelhi",
+            "roy-alan-chipolina",
+            "jayce-mascarenhas-olivero",
+            "joseph-chipolina"
+        ],
+        "goalkeeper": "dayle-coleing",
+        "mid": [
+            "liam-walker",
+            "nicholas-pozo",
+            "evan-de-haro",
+            "tjay-de-barr"
+        ]
+    },
+    "england": {
+        "att": [
+            "bukayo-saka",
+            "jack-grealish",
+            "ollie-watkins"
+        ],
+        "def": [
+            "kyle-walker",
+            "harry-maguire",
+            "marc-guehi",
+            "rico-lewis",
+            "trent-alexander-arnold"
+        ],
+        "goalkeeper": "jordan-pickford",
+        "mid": [
+            "declan-rice",
+            "phil-foden"
+        ]
+    },
+    "italy": {
+        "att": [
+            "giacomo-raspadori",
+            "federico-chiesa"
+        ],
+        "def": [
+            "giovanni-di-lorenzo",
+            "francesco-acerbi",
+            "alessandro-buongiorno"
+        ],
+        "goalkeeper": "gianluigi-donnarumma",
+        "mid": [
+            "federico-dimarco",
+            "davide-frattesi",
+            "jorginho",
+            "nicolo-barella",
+            "nicolo-zaniolo"
+        ]
+    },
+    "ukraine": {
+        "att": [
+            "artem-dovbyk"
+        ],
+        "def": [
+            "konoplia-yukhym",
+            "illia-zabarnyi",
+            "oleksandr-svatok",
+            "vitaliy-mykolenko",
+            "oleksandr-zinchenko"
+        ],
+        "goalkeeper": "anatoliy-trubin",
+        "mid": [
+            "taras-stepanenko",
+            "viktor-tsygankov",
+            "georgiy-sudakov",
+            "mykhaylo-mudryk"
+        ]
+    },
+    "north-macedonia": {
+        "att": [
+            "bojan-miovski"
+        ],
+        "def": [
+            "jovan-manev",
+            "serafimov-nikola",
+            "visar-musliu",
+            "ezgjan-alioski"
+        ],
+        "goalkeeper": "stole-dimitrievski",
+        "mid": [
+            "bojan-dimoski",
+            "isnik-alimi",
+            "atanasov-jani",
+            "enis-bardhi",
+            "eljif-elmas"
+        ]
+    },
+    "malta": {
+        "att": [
+            "paul-mbong",
+            "reid-kemar"
+        ],
+        "def": [
+            "steve-borg",
+            "enrico-pepe",
+            "borg-jean"
+        ],
+        "goalkeeper": "henry-bonello",
+        "mid": [
+            "joseph-mbong",
+            "ryan-camenzuli",
+            "yankam-yannick",
+            "matthew-guillaumier",
+            "teddy-teuma"
+        ]
+    },
+    "turkey": {
+        "att": [
+            "baris-alper-yilmaz"
+        ],
+        "def": [
+            "ferdi-kadioglu",
+            "samet-akaydin",
+            "abdulkerim-bardakci",
+            "cenk-ozkacar"
+        ],
+        "goalkeeper": "ugurcan-cakir",
+        "mid": [
+            "ismail-yuksek",
+            "salih-ozcan",
+            "yusuf-sari",
+            "abdulkadir-omur",
+            "kerem-akturkoglu"
+        ]
+    },
+    "croatia": {
+        "att": [
+            "andrej-kramaric",
+            "ante-budimir"
+        ],
+        "def": [
+            "josip-stanisic",
+            "josip-sutalo",
+            "josko-gvardiol",
+            "borna-sosa"
+        ],
+        "goalkeeper": "dominik-livakovic",
+        "mid": [
+            "luka-modric",
+            "marcelo-brozovic",
+            "lovro-majer",
+            "luka-ivanusec"
+        ]
+    },
+    "wales": {
+        "att": [
+            "brennan-johnson"
+        ],
+        "def": [
+            "rodon-joe",
+            "tom-lockyer",
+            "ben-davies",
+            "connor-roberts",
+            "williams-neco"
+        ],
+        "goalkeeper": "danny-ward",
+        "mid": [
+            "jordan-james",
+            "ethan-ampadu",
+            "harry-wilson",
+            "nathan-broadhead"
+        ]
+    },
+    "armenia": {
+        "att": [
+            "edgar-sevikyan",
+            "lucas-zelarayan",
+            "grant-leon-ranos"
+        ],
+        "def": [
+            "kamo-hovhannisyan",
+            "andre-calisir",
+            "georgiy-harutyunyan",
+            "styopa-mkrtchyan",
+            "nair-tiknizyan"
+        ],
+        "goalkeeper": "ognjen-cancarevic",
+        "mid": [
+            "hovhannes-harutyunyan",
+            "eduard-spertsyan"
+        ]
+    },
+    "latvia": {
+        "att": [
+            "roberts-uldrikis"
+        ],
+        "def": [
+            "raivis-jurkovskis",
+            "antonijs-cernomordijs",
+            "daniels-balodis"
+        ],
+        "goalkeeper": "matrevics-rihards",
+        "mid": [
+            "andrejs-ciganiks",
+            "eduards-emsis",
+            "kristers-tobers",
+            "alvis-jaunzems",
+            "janis-ikaunieks",
+            "eduards-daskevics"
+        ]
+    },
+    "albania": {
+        "att": [
+            "mirlind-daku",
+            "myrto-uzuni"
+        ],
+        "def": [
+            "ivan-balliu",
+            "ardian-ismajli",
+            "berat-djimsiti",
+            "mitaj-mario"
+        ],
+        "goalkeeper": "thomas-strakosha",
+        "mid": [
+            "keidi-bare",
+            "kristjan-asllani",
+            "nedim-bajrami",
+            "jasir-asani"
+        ]
+    },
+    "czech-republic": {
+        "att": [
+            "tomas-chory",
+            "adam-hlozek"
+        ],
+        "def": [
+            "martin-vitik",
+            "zima-david",
+            "tomas-holes",
+            "lukas-masopust"
+        ],
+        "goalkeeper": "jindrich-stanek",
+        "mid": [
+            "tomas-soucek",
+            "michal-sadilek",
+            "david-doudera",
+            "lukas-provod"
+        ]
+    },
+    "poland": {
+        "att": [
+            "robert-lewandowski",
+            "adam-buksa"
+        ],
+        "def": [
+            "mateusz-wieteska",
+            "jan-bednarek",
+            "kiwior-jakub"
+        ],
+        "goalkeeper": "lukasz-skorupski",
+        "mid": [
+            "przemyslaw-frankowski",
+            "damian-szymanski",
+            "jakub-piotrowski",
+            "sebastian-szymanski",
+            "nicola-zalewski"
+        ]
+    },
+    "moldova": {
+        "att": [
+            "postolachi-virgiliu",
+            "ion-nicolaescu"
+        ],
+        "def": [
+            "ioan-calin-revenco",
+            "artur-craciun",
+            "vladyslav-babohlo",
+            "veaceslav-posmac",
+            "reabciuk-oleg"
+        ],
+        "goalkeeper": "dorian-railean",
+        "mid": [
+            "vadim-rata",
+            "mihail-caimacov",
+            "nichita-motpan"
+        ]
+    },
+    "faroe-islands": {
+        "att": [
+            "joan-edmundsson"
+        ],
+        "def": [
+            "joannes-kalso-danielsen",
+            "odmar-faero",
+            "andrias-edmundsson",
+            "viljormur-davidsen",
+            "gunnar-vatnhamar"
+        ],
+        "goalkeeper": "mattias-lamhauge",
+        "mid": [
+            "joannes-bjartalid",
+            "jakup-biskopsto-andreasen",
+            "rene-shaki-joensen",
+            "brandur-hendriksson-olsen"
+        ]
+    },
+    "belgium": {
+        "att": [
+            "jeremy-doku",
+            "johan-bakayoko",
+            "leandro-trossard",
+            "romelu-lukaku"
+        ],
+        "def": [
+            "wout-faes",
+            "jan-vertonghen",
+            "arthur-theate",
+            "timothy-castagne"
+        ],
+        "goalkeeper": "koen-casteels",
+        "mid": [
+            "orel-mangala",
+            "vranckx-aster"
+        ]
+    },
+    "austria": {
+        "att": [
+            "christoph-baumgartner",
+            "michael-gregoritsch"
+        ],
+        "def": [
+            "stefan-posch",
+            "philipp-lienhart",
+            "david-alaba",
+            "phillipp-mwene"
+        ],
+        "goalkeeper": "alexander-schlager",
+        "mid": [
+            "seiwald-nicolas",
+            "xaver-schlager",
+            "konrad-laimer",
+            "marcel-sabitzer"
+        ]
+    },
+    "sweden": {
+        "att": [
+            "dejan-kulusevski",
+            "viktor-gyokeres"
+        ],
+        "def": [
+            "emil-krafth",
+            "victor-lindelof",
+            "filip-helander",
+            "ludwig-augustinsson"
+        ],
+        "goalkeeper": "robin-olsen",
+        "mid": [
+            "jens-cajuste",
+            "albin-ekdal",
+            "emil-forsberg",
+            "viktor-claesson"
+        ]
+    },
+    "azerbaijan": {
+        "att": [
+            "mahir-emreli",
+            "renat-dadasov"
+        ],
+        "def": [
+            "hojjat-haghverdi",
+            "rahil-mammadov",
+            "anton-krivotsyuk",
+            "elvin-cafarquliyev",
+            "toral-bayramov"
+        ],
+        "goalkeeper": "sahrudin-mahammadaliyev",
+        "mid": [
+            "eddy-israfilov",
+            "emin-makhmudov",
+            "isayev-alexey"
+        ]
+    },
+    "estonia": {
+        "att": [
+            "oliver-jurgens"
+        ],
+        "def": [
+            "joonas-tamm",
+            "maksim-paskotsi",
+            "karol-mets",
+            "artur-pikk"
+        ],
+        "goalkeeper": "karl-hein",
+        "mid": [
+            "rasmus-peetson",
+            "mattias-kait",
+            "markus-poom",
+            "bogdan-vastsuk",
+            "tunjov-georgi"
+        ]
+    },
+    "hungary": {
+        "att": [
+            "martin-adam"
+        ],
+        "def": [
+            "botond-balogh",
+            "adam-lang",
+            "attila-szalai",
+            "zsolt-nagy"
+        ],
+        "goalkeeper": "denes-dibusz",
+        "mid": [
+            "bendeguz-bolla",
+            "adam-nagy",
+            "styles-callum",
+            "daniel-gazdag",
+            "dominik-szoboszlai"
+        ]
+    },
+    "serbia": {
+        "att": [
+            "dusan-tadic",
+            "aleksandar-mitrovic"
+        ],
+        "def": [
+            "nikola-milenkovic",
+            "milos-veljkovic",
+            "srdan-babic",
+            "nemanja-gudelj"
+        ],
+        "goalkeeper": "vanja-milinkovic-savic",
+        "mid": [
+            "andrija-zivkovic",
+            "sasa-lukic",
+            "filip-kostic",
+            "filip-duricic"
+        ]
+    },
+    "montenegro": {
+        "att": [
+            "milutin-osmajic",
+            "stevan-jovetic"
+        ],
+        "def": [
+            "slobodan-rubezic",
+            "stefan-savic",
+            "igor-vujacic",
+            "marko-vesovic",
+            "andrija-vukcevic"
+        ],
+        "goalkeeper": "milan-mijatovic",
+        "mid": [
+            "marko-jankovic",
+            "edvin-kuc",
+            "driton-camaj"
+        ]
+    },
+    "lithuania": {
+        "att": [
+            "gytis-paulauskas"
+        ],
+        "def": [
+            "kipras-kazukolovas",
+            "edvinas-girdvainis",
+            "lekiatas-rokas",
+            "justas-lasickas",
+            "pijus-sirvys"
+        ],
+        "goalkeeper": "emilijus-zubas",
+        "mid": [
+            "vykintas-slivka",
+            "gineitis-gvidas",
+            "arvydas-novikovas",
+            "artur-dolznikov"
+        ]
+    },
+    "bulgaria": {
+        "att": [
+            "minchev-martin",
+            "aleksandar-kolev"
+        ],
+        "def": [
+            "ivan-turitsov",
+            "alex-petkov",
+            "zhivko-atanasov",
+            "viktor-popov"
+        ],
+        "goalkeeper": "naumov-daniel",
+        "mid": [
+            "ilia-gruev",
+            "filip-krastev",
+            "andrian-kraev",
+            "kiril-despodov"
+        ]
+    },
+    "denmark": {
+        "att": [
+            "jesper-lindstrom",
+            "kasper-dolberg",
+            "mohamed-daramy"
+        ],
+        "def": [
+            "rasmus-kristensen",
+            "joachim-andersen",
+            "andreas-christensen",
+            "kristiansen-victor"
+        ],
+        "goalkeeper": "kasper-schmeichel",
+        "mid": [
+            "matt-oriley",
+            "hjulmand-morten",
+            "mathias-jensen"
+        ]
+    },
+    "slovenia": {
+        "att": [
+            "andraz-sporar",
+            "benjamin-sesko"
+        ],
+        "def": [
+            "zan-karnicnik",
+            "miha-blazic",
+            "jaka-bijol",
+            "erik-janza",
+            "petar-stojanovic"
+        ],
+        "goalkeeper": "jan-oblak",
+        "mid": [
+            "adam-gnezda-cerin",
+            "timi-max-elsnik",
+            "jan-mlakar"
+        ]
+    },
+    "finland": {
+        "att": [
+            "teemu-pukki"
+        ],
+        "def": [
+            "pyry-soiri",
+            "arttu-hoskonen",
+            "richard-jensen",
+            "tomas-galvez"
+        ],
+        "goalkeeper": "viljami-sinisalo",
+        "mid": [
+            "glen-kamara",
+            "lucas-lingman",
+            "robert-taylor",
+            "robin-lod",
+            "daniel-hakans"
+        ]
+    },
+    "kazakhstan": {
+        "att": [
+            "islam-chesnokov",
+            "maksim-samorodov"
+        ],
+        "def": [
+            "marat-bystrov",
+            "sergey-maliy",
+            "aleksandr-marochkin",
+            "nuraly-alip",
+            "yan-vorogovskiy"
+        ],
+        "goalkeeper": "igor-shatskiy",
+        "mid": [
+            "abzal-beysebekov",
+            "islambek-kuat",
+            "ramazan-orazov"
+        ]
+    },
+    "northern-ireland": {
+        "att": [
+            "dale-taylor",
+            "dion-charles"
+        ],
+        "def": [
+            "hume-trai",
+            "toal-eoin",
+            "paddy-mcnair",
+            "ciaron-brown",
+            "jamal-lewis"
+        ],
+        "goalkeeper": "conor-hazard",
+        "mid": [
+            "isaac-price",
+            "shea-charles",
+            "george-saville"
+        ]
+    },
+    "san-marino": {
+        "att": [
+            "matteo-vitaioli"
+        ],
+        "def": [
+            "alessandro-daddario",
+            "simone-franciosi",
+            "dante-rossi",
+            "mirko-palazzi",
+            "alessandro-tosi"
+        ],
+        "goalkeeper": "aldo-simoncini",
+        "mid": [
+            "alessandro-golinucci",
+            "capicchioni-lorenzo",
+            "marcello-mularoni",
+            "lazzari-lorenzo"
+        ]
+    },
+    "romania": {
+        "att": [
+            "florinel-coman",
+            "denis-alibec"
+        ],
+        "def": [
+            "andrei-ratiu",
+            "radu-dragusin",
+            "andrei-burca",
+            "nicusor-bancu"
+        ],
+        "goalkeeper": "horatiu-moldovan",
+        "mid": [
+            "marius-marin",
+            "olimpiu-morutan",
+            "alexandru-cicaldau",
+            "nicolae-stanciu"
+        ]
+    },
+    "switzerland": {
+        "att": [
+            "noah-okafor"
+        ],
+        "def": [
+            "manuel-akanji",
+            "nico-elvedi",
+            "ricardo-rodriguez",
+            "ulisses-garcia"
+        ],
+        "goalkeeper": "yvon-mvogo",
+        "mid": [
+            "dan-ndoye",
+            "michel-aebischer",
+            "granit-xhaka",
+            "xherdan-shaqiri",
+            "ruben-vargas"
+        ]
+    },
+    "israel": {
+        "att": [
+            "khalaili-anan",
+            "tai-baribo",
+            "dean-david"
+        ],
+        "def": [
+            "avishai-cohen",
+            "stav-lemkin",
+            "raz-shlomo",
+            "ofir-davidzada"
+        ],
+        "goalkeeper": "daniel-peretz",
+        "mid": [
+            "gabi-kanikovski",
+            "dor-peretz",
+            "gadi-kinda"
+        ]
+    },
+    "belarus": {
+        "att": [
+            "dmitri-antilevski",
+            "maksim-skavysh"
+        ],
+        "def": [
+            "roman-yuzepchuk",
+            "volkov-zakhar",
+            "sergei-politevich",
+            "denis-polyakov",
+            "vladislav-malkevich"
+        ],
+        "goalkeeper": "pavel-pavlyuchenko",
+        "mid": [
+            "nikita-korzun",
+            "kirill-kaplenko",
+            "max-ebong"
+        ]
+    },
+    "kosovo": {
+        "att": [
+            "elbasan-rashani"
+        ],
+        "def": [
+            "lumbardh-dellova",
+            "fidan-aliti",
+            "florent-hadergjonaj"
+        ],
+        "goalkeeper": "visar-bekaj",
+        "mid": [
+            "ilir-krasniqi",
+            "qendrim-zyba",
+            "mergim-vojvoda",
+            "bernard-berisha",
+            "zymer-bytyqi",
+            "florent-muslija"
+        ]
+    },
+    "andorra": {
+        "att": [
+            "izan-fernandez",
+            "ricard-fernandez-cucu"
+        ],
+        "def": [
+            "moises-san-nicolas",
+            "max-llovera",
+            "marc-vales",
+            "ian-bryan-olivera",
+            "joan-cervos"
+        ],
+        "goalkeeper": "iker-alvarez",
+        "mid": [
+            "jordi-alaez",
+            "marcio-vieira",
+            "eric-vales"
+        ]
+    },
+    "portugal": {
+        "att": [
+            "joao-felix",
+            "cristiano-ronaldo"
+        ],
+        "def": [
+            "joao-mario",
+            "ruben-dias",
+            "goncalo-inacio",
+            "joao-cancelo"
+        ],
+        "goalkeeper": "diogo-costa",
+        "mid": [
+            "joao-palhinha",
+            "bernardo-silva",
+            "bruno-fernandes",
+            "otavio"
+        ]
+    },
+    "slovakia": {
+        "att": [
+            "robert-bozenik"
+        ],
+        "def": [
+            "peter-pekarik",
+            "ubomir-satka",
+            "milan-skriniar",
+            "david-hancko"
+        ],
+        "goalkeeper": "marek-rodak",
+        "mid": [
+            "ondrej-duda",
+            "patrik-hrosovsky",
+            "laszlo-benes",
+            "tomas-suslov",
+            "robert-mak"
+        ]
+    },
+    "luxembourg": {
+        "att": [
+            "danel-sinani",
+            "gerson-rodrigues"
+        ],
+        "def": [
+            "laurent-jans",
+            "seid-korac",
+            "maxime-chanot",
+            "dirk-carlson"
+        ],
+        "goalkeeper": "anthony-moris",
+        "mid": [
+            "sebastien-thill",
+            "leandro-barreiro",
+            "mathias-olesen",
+            "vincent-thill"
+        ]
+    },
+    "iceland": {
+        "att": [
+            "alfred-finnbogason"
+        ],
+        "def": [
+            "victor-palsson",
+            "sverrir-ingi-ingason",
+            "hjortur-hermannsson"
+        ],
+        "goalkeeper": "hakon-rafn-valdimarsson",
+        "mid": [
+            "gudmundur-thorarinsson",
+            "jon-dagur-thorsteinsson",
+            "isak-bergmann-johannesson",
+            "johann-gudmundsson",
+            "arnor-sigurdsson",
+            "willum-thor-willumsson"
+        ]
+    },
+    "bosnia-and-herzegovina": {
+        "att": [
+            "said-hamulic",
+            "ermedin-demirovic",
+            "smail-prevljak"
+        ],
+        "def": [
+            "jusuf-gazibegovic",
+            "renato-gojkovic",
+            "dennis-hadzikadunic",
+            "nihad-mujakic"
+        ],
+        "goalkeeper": "kenan-piric",
+        "mid": [
+            "gojko-cimirot",
+            "ivan-basic",
+            "haris-hajradinovic"
+        ]
+    },
+    "liechtenstein": {
+        "att": [
+            "dennis-salanovic",
+            "hasler-julien"
+        ],
+        "def": [
+            "andreas-malin",
+            "traber-lars",
+            "jens-hofer",
+            "maximilian-goppel"
+        ],
+        "goalkeeper": "benjamin-buchel",
+        "mid": [
+            "sandro-wolfinger",
+            "sandro-wieser",
+            "meier-livio",
+            "marcel-buchel"
+        ]
+    }
+}

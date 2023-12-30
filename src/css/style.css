@@ -1,5 +1,6 @@
 @import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
+
 #left
 {
     background-color:white;
@@ -24,10 +25,114 @@
 
 .algorithms .card
 {
+    width: -moz-fit-content;
+    width: fit-content;
     background-color:lightskyblue;
 }
 
 .descriptions
 {
-    margin-top: 8px;
+    margin-top: 12px;
+}
+
+.descriptions .card
+{
+    margin-top: 12px;
+    width: -moz-fit-content;
+    width: fit-content
+}
+
+.search_section {
+    margin-top: 12px;
+}
+
+.search_section .card
+{
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+.search_section img.avatar{
+    width: 30px;
+    height: 30px;
+}
+
+.modalities .card
+{
+    background-color:lightskyblue;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+    background-color: #f1f1f1;
+}
+
+input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.btn-primary{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.btn-secondary{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.btn-outline-dark
+{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: silver;
+}
+
+.modalities .btn-primary{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.modalities .btn-secondary{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.modalities .btn-outline-dark
+{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: silver;
 }

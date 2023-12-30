@@ -1,0 +1,873 @@
+{
+    "nigeria": {
+        "att": [
+            "terem-moffi"
+        ],
+        "def": [
+            "semi-ajayi",
+            "calvin-bassey",
+            "bruno-onyemaechi"
+        ],
+        "goalkeeper": "francis-uzoho",
+        "mid": [
+            "ola-aina",
+            "joe-aribo",
+            "frank-onyeka",
+            "alex-iwobi",
+            "nathan-tella",
+            "moses-simon"
+        ]
+    },
+    "guinea-bissau": {
+        "att": [
+            "joao-pedro-silva"
+        ],
+        "def": [
+            "houboulang-mendes",
+            "marcelo-djalo",
+            "opa-sangante",
+            "fali-cande"
+        ],
+        "goalkeeper": "jonas-mendes",
+        "mid": [
+            "fernando-gomes",
+            "carlos-mendes-gomes",
+            "janio-bikel",
+            "famana-quizera",
+            "rodrigues-mauro"
+        ]
+    },
+    "sierra-leone": {
+        "att": [
+            "alusine-pagal-koroma",
+            "alhassan-koroma",
+            "kargbo-augustus",
+            "mohamed-turay"
+        ],
+        "def": [
+            "osman-kakay",
+            "abdul-kabia"
+        ],
+        "goalkeeper": "ibrahim-sesay",
+        "mid": [
+            "mohamed-kabia",
+            "emmanuel-samadiya",
+            "tyrese-fornah",
+            "sullay-kaikai"
+        ]
+    },
+    "sao-tome-and-principe": {
+        "att": [
+            "adjeil-neves",
+            "ronaldo-afonso",
+            "alvaro-amado",
+            "eba-viegas"
+        ],
+        "def": [
+            "gilberto-dalmeida",
+            "adjakson-ramos",
+            "ricardo-fernandes"
+        ],
+        "goalkeeper": "pedro-mateus",
+        "mid": [
+            "denilson-silva",
+            "aldair",
+            "mauro-vilhete"
+        ]
+    },
+    "burkina-faso": {
+        "att": [
+            "hassane-bande"
+        ],
+        "def": [
+            "edmond-tapsoba",
+            "steeve-yago",
+            "issoufou-dayo"
+        ],
+        "goalkeeper": "herve-koffi",
+        "mid": [
+            "ismahila-ouedraogo",
+            "guiebre-abdoul",
+            "ibrahim-blati-toure",
+            "stephane-aziz-ki",
+            "cedric-badolo",
+            "dango-ouattara"
+        ]
+    },
+    "cape-verde": {
+        "att": [],
+        "def": [
+            "roberto-lopes",
+            "logan-costa"
+        ],
+        "goalkeeper": "vozinha",
+        "mid": [
+            "willy-semedo",
+            "joao-paulo",
+            "patrick-andrade",
+            "kenny-rocha-santos",
+            "monteiro-jamiro",
+            "ryan-mendes",
+            "garry-rodrigues",
+            "bebe"
+        ]
+    },
+    "togo": {
+        "att": [
+            "ihlas-bebou",
+            "euloge-fessou-placca",
+            "kevin-denkey"
+        ],
+        "def": [
+            "djene",
+            "jacques-alaixys-romao",
+            "loic-bessile"
+        ],
+        "goalkeeper": "steven-mensah",
+        "mid": [
+            "roger-aholou",
+            "karim-dermane",
+            "khaled-narey",
+            "aziangbe-kodjo"
+        ]
+    },
+    "eswatini": {
+        "att": [
+            "sifiso-matse",
+            "sabelo-ndzinisa"
+        ],
+        "def": [
+            "mxolisi-simiso-manana",
+            "bongwa-owa-matsebula"
+        ],
+        "goalkeeper": "khanyakwezwe-shabalala",
+        "mid": [
+            "sibongakhonkhe-quiton",
+            "mzwandile-mabelesa",
+            "kwakhe-thwala",
+            "samkelo-ginindza",
+            "philani-thabo-mkhontfo",
+            "njabulo-magagula"
+        ]
+    },
+    "cameroon": {
+        "att": [
+            "clinton-njie",
+            "frank-magri"
+        ],
+        "def": [
+            "jean-charles-castelletto",
+            "oumar-gonzalez",
+            "christopher-wooh"
+        ],
+        "goalkeeper": "andre-onana",
+        "mid": [
+            "darlin-yongwa",
+            "olivier-ntcham",
+            "frank-anguissa",
+            "junior-tchamadeu",
+            "georges-kevin-nkoudou"
+        ]
+    },
+    "namibia": {
+        "att": [
+            "petrus-shitembi"
+        ],
+        "def": [
+            "nyambe-ryan",
+            "ivan-kamberipa",
+            "kennedy-amutenya",
+            "riaan-hanamub",
+            "aprocius-petrus"
+        ],
+        "goalkeeper": "lloyd-junior-kazapua",
+        "mid": [
+            "ananias-gebhardt",
+            "prins-menelik-tjiueza",
+            "bethuel-muzeu",
+            "deon-hotto"
+        ]
+    },
+    "burundi": {
+        "att": [
+            "bienvenue-kanakimana",
+            "jordi-liongola",
+            "saidi-ntibazonkiza",
+            "fiston-abdul-razak"
+        ],
+        "def": [
+            "derrick-mukombozi",
+            "frederic-nsabiyumva"
+        ],
+        "goalkeeper": "jonathan-nahimana",
+        "mid": [
+            "christophe-nduwarugira",
+            "youssouf-ndayishimiye",
+            "emmanuel-mvuyekure",
+            "abedi-bigirimana"
+        ]
+    },
+    "egypt": {
+        "att": [
+            "mostafa-mohamed",
+            "mohamed-salah"
+        ],
+        "def": [
+            "mohamed-hany",
+            "mohamed-abdelmonem",
+            "ali-gabr",
+            "mohamed-hamdi"
+        ],
+        "goalkeeper": "mohamed-el-shenawy",
+        "mid": [
+            "zizo",
+            "mohamed-elneny",
+            "hamdi-fathi",
+            "mahmoud-trezeguet"
+        ]
+    },
+    "guinea": {
+        "att": [
+            "morgan-guilavogui",
+            "serhou-guirassy"
+        ],
+        "def": [
+            "naby-oulare",
+            "julian-jeanvier",
+            "saidou-sow",
+            "sekou-sylla"
+        ],
+        "goalkeeper": "ibrahim-kone",
+        "mid": [
+            "abdoulaye-toure",
+            "amadou-diawara",
+            "seydouba-cisse",
+            "aguibou-camara"
+        ]
+    },
+    "malawi": {
+        "att": [
+            "olson-kanjira"
+        ],
+        "def": [
+            "stanley-sanudi",
+            "tatenda-mbalaka",
+            "lawrence-chaziya",
+            "denis-chembezi"
+        ],
+        "goalkeeper": "brighton-munthali",
+        "mid": [
+            "chimwemwe-idana",
+            "lloyd-aaron",
+            "john-christopher-banda",
+            "wisdom-mpinganjira",
+            "robert-saizi"
+        ]
+    },
+    "ethiopia": {
+        "att": [
+            "amanuel-gebremikael",
+            "wogene-gezahegn"
+        ],
+        "def": [
+            "henok-adugna",
+            "million-solomon",
+            "yared-baye",
+            "ramadan-yesuf"
+        ],
+        "goalkeeper": "said-habtamu",
+        "mid": [
+            "chernet-gugsa",
+            "gatoch-panom",
+            "surafel-dagnachew",
+            "canaan-markneh"
+        ]
+    },
+    "ghana": {
+        "att": [
+            "jordan-ayew",
+            "andre-ayew",
+            "antoine-semenyo",
+            "inaki-williams"
+        ],
+        "def": [
+            "denis-odoi",
+            "nicholas-opoku",
+            "kasim-adams",
+            "gideon-mensah"
+        ],
+        "goalkeeper": "richard-ofori",
+        "mid": [
+            "abdul-samed-salis",
+            "iddrisu-baba"
+        ]
+    },
+    "angola": {
+        "att": [
+            "milson",
+            "zito-luvumbo",
+            "mabululu"
+        ],
+        "def": [
+            "to-carneiro",
+            "jonathan-buatu-mananga",
+            "kialonda-gaspar",
+            "loide-augusto"
+        ],
+        "goalkeeper": "neblu",
+        "mid": [
+            "fredy",
+            "keliano-manuel",
+            "show"
+        ]
+    },
+    "central-african-republic": {
+        "att": [
+            "severin-tatolna",
+            "karl-namnganda",
+            "goduine-koyalipou",
+            "louis-mafouta"
+        ],
+        "def": [
+            "sadock-ndobe"
+        ],
+        "goalkeeper": "dominique-youfeigane",
+        "mid": [
+            "isaac-solet",
+            "amos-youga",
+            "geoffrey-kondogbia",
+            "brad-pirioua",
+            "tresor-toropite"
+        ]
+    },
+    "madagascar": {
+        "att": [
+            "clement-couturier",
+            "njiva-rakotoharimalala"
+        ],
+        "def": [
+            "romain-metanire",
+            "razafindraibeharimihanta-nirina",
+            "thomas-fontaine",
+            "kenji-van-boto",
+            "rayan-raveloson"
+        ],
+        "goalkeeper": "adrien-melvin",
+        "mid": [
+            "marco-ilaimaharitra",
+            "dorian-bertrand",
+            "loic-lapoussin"
+        ]
+    },
+    "algeria": {
+        "att": [
+            "amine-gouiri",
+            "riyad-mahrez",
+            "islam-slimani"
+        ],
+        "def": [
+            "youcef-atal",
+            "aissa-mandi",
+            "ramy-bensebaini",
+            "rayan-ait-nouri"
+        ],
+        "goalkeeper": "anthony-mandrea",
+        "mid": [
+            "sofiane-feghouli",
+            "nabil-bentaleb",
+            "fares-chaibi"
+        ]
+    },
+    "tanzania": {
+        "att": [
+            "denis-kibu"
+        ],
+        "def": [
+            "lusajo-mwaikenda",
+            "bakari-nondo",
+            "ibrahim-hamad",
+            "novatus-dismas",
+            "haji-mnoga"
+        ],
+        "goalkeeper": "kwesi-kawawa",
+        "mid": [
+            "himid-mao-mkami",
+            "sospeter-bajana",
+            "morice-abraham",
+            "charles-mmombwa"
+        ]
+    },
+    "uganda": {
+        "att": [
+            "fahad-bayo"
+        ],
+        "def": [
+            "kenneth-semakula",
+            "bevis-mugabi",
+            "halid-lwaliwa",
+            "aziz-kayondo",
+            "elvis-bwomono"
+        ],
+        "goalkeeper": "ismail-watenga",
+        "mid": [
+            "allan-oyirwoth",
+            "khalid-aucho",
+            "travis-mutyaba",
+            "rogers-mato-kassim"
+        ]
+    },
+    "niger": {
+        "att": [
+            "amadou-moutari",
+            "boubacar-goumey"
+        ],
+        "def": [
+            "najeeb-yakubu",
+            "abdoulaye-boureima-katkore",
+            "salifou-massoudi",
+            "abdel-rahim-alhassane"
+        ],
+        "goalkeeper": "mahamadou-djibo",
+        "mid": [
+            "abdoul-moumouni",
+            "ousmane-diabate",
+            "moussa-yusif",
+            "issa-djibrilla"
+        ]
+    },
+    "mali": {
+        "att": [],
+        "def": [
+            "hamari-traore",
+            "sikou-niakate",
+            "mamadou-fofana",
+            "massadio-haidara"
+        ],
+        "goalkeeper": "ismael-diawara",
+        "mid": [
+            "coulibaly-lassana",
+            "amadou-haidara",
+            "yves-bissouma",
+            "moussa-doumbia",
+            "ibrahima-sissoko",
+            "adama-malouda-traore"
+        ]
+    },
+    "gambia": {
+        "att": [
+            "musa-barrow"
+        ],
+        "def": [
+            "saidy-janko",
+            "sanneh-bubacarr",
+            "omar-colley",
+            "jacob-mendy",
+            "noah-sonko-sundberg"
+        ],
+        "goalkeeper": "modou-jobe",
+        "mid": [
+            "ablie-jallow",
+            "ebou-adams",
+            "dawda-ngum",
+            "fadera-alieu"
+        ]
+    },
+    "congo-republic": {
+        "att": [
+            "mons-bassouamina",
+            "silvere-ganvoula"
+        ],
+        "def": [
+            "morgan-poaty",
+            "bryan-passi",
+            "yhoan-andzouana",
+            "vladis-emmerson-illoy-ayyet"
+        ],
+        "goalkeeper": "wolfrigon-mongondza-ngobo",
+        "mid": [
+            "makouta-gaius",
+            "jose-dembi",
+            "antoine-makoumbou",
+            "vieljeux-prestige-mboungou"
+        ]
+    },
+    "south-sudan": {
+        "att": [
+            "valentino-yuel",
+            "ajak-riak",
+            "william-akio"
+        ],
+        "def": [
+            "joseph-dhata",
+            "rashid-toha",
+            "peter-maker-manyang"
+        ],
+        "goalkeeper": "majak-mawith",
+        "mid": [
+            "william-gama",
+            "wani-ivan-adebo",
+            "nevelo-yoseke",
+            "kenyi-wani"
+        ]
+    },
+    "zambia": {
+        "att": [
+            "lameck-banda",
+            "fashion-sakala",
+            "patson-daka"
+        ],
+        "def": [
+            "bendecit-chapeshi",
+            "stoppila-sunzu",
+            "dominic-chanda"
+        ],
+        "goalkeeper": "tresford-lawrence-mulenga",
+        "mid": [
+            "rodrick-kabwe",
+            "kings-kangwa",
+            "emmanuel-banda",
+            "clatous-chama"
+        ]
+    },
+    "ivory-coast": {
+        "att": [
+            "simon-adingra",
+            "oumar-diakite",
+            "christian-kouame"
+        ],
+        "def": [
+            "serge-aurier",
+            "willy-boly",
+            "evan-ndicka",
+            "hassane-kamara"
+        ],
+        "goalkeeper": "yahia-fofana",
+        "mid": [
+            "franck-kessie",
+            "seko-fofana",
+            "hamed-junior-traore"
+        ]
+    },
+    "comoros": {
+        "att": [
+            "mohamed-youssouf",
+            "maolida-myziane"
+        ],
+        "def": [
+            "ahmed-soilihi",
+            "kassim-mdahoma"
+        ],
+        "goalkeeper": "salim-ben-boina",
+        "mid": [
+            "abdel-hakim-abdallah",
+            "youssouf-mchangama",
+            "yacine-bourhane",
+            "said-bakari",
+            "benjaloud-youssouf",
+            "faiz-selemani"
+        ]
+    },
+    "lesotho": {
+        "att": [
+            "motete-mohai",
+            "sera-motebang"
+        ],
+        "def": [
+            "rethabile-rasethuntsa",
+            "motlomelo-mkwanazi",
+            "thabo-lesaoana"
+        ],
+        "goalkeeper": "sekhoane-moerane",
+        "mid": [
+            "thabo-matsoele",
+            "lisema-lebokollane",
+            "jane-thaba-ntso",
+            "tshwarelo-bereng",
+            "tsepang-sefali"
+        ]
+    },
+    "dr-congo": {
+        "att": [
+            "yoane-wissa",
+            "simon-banza"
+        ],
+        "def": [
+            "henoc-baka",
+            "joris-kayembe-ditu",
+            "chancel-mbemba",
+            "gedeon-kalulu"
+        ],
+        "goalkeeper": "lionel-mpasi",
+        "mid": [
+            "grady-diangana",
+            "aaron-tshibola",
+            "charles-pickel",
+            "theo-bongonda"
+        ]
+    },
+    "mauritania": {
+        "att": [
+            "souleymane-anne",
+            "hemeya-tanjy",
+            "aboubakary-koita"
+        ],
+        "def": [
+            "ibrahima-keita",
+            "nouh-mohamed-el-abd",
+            "bakary-ndiaye",
+            "aly-abeid"
+        ],
+        "goalkeeper": "babacar-niasse",
+        "mid": [
+            "bodda-mouhsine",
+            "guessouma-fofana",
+            "abdallahi-mahmoud"
+        ]
+    },
+    "gabon": {
+        "att": [
+            "denis-bouanga"
+        ],
+        "def": [
+            "anthony-oyono",
+            "sidney-obissa",
+            "bruno-ecuele-manga",
+            "johann-obiang",
+            "david-sambissa"
+        ],
+        "goalkeeper": "anse-ngoubi-demba",
+        "mid": [
+            "medwin-biteghe",
+            "clench-loufilou",
+            "guelor-kanga",
+            "jim-allevinah"
+        ]
+    },
+    "sudan": {
+        "att": [
+            "mohamed-eisa"
+        ],
+        "def": [
+            "mustafa-karshoum",
+            "bakhit-khamis",
+            "awad-zayed",
+            "mohamed-saeed"
+        ],
+        "goalkeeper": "ali-abdullah-abou",
+        "mid": [
+            "salaheldin-adil",
+            "mohamed-abuaagla",
+            "mohamed-al-rasheed",
+            "abo-eisa",
+            "yasir-mozamil"
+        ]
+    },
+    "tunisia": {
+        "att": [
+            "taha-yassine-khenissi",
+            "youssef-msakni"
+        ],
+        "def": [
+            "ali-abdi",
+            "montassar-talbi",
+            "yassine-meriah",
+            "wajdi-kechrida"
+        ],
+        "goalkeeper": "bechir-ben-said",
+        "mid": [
+            "ferjani-sassi",
+            "aissa-laidouni",
+            "naim-sliti",
+            "ellyes-skhiri"
+        ]
+    },
+    "equatorial-guinea": {
+        "att": [],
+        "def": [
+            "carlos-akapo-martinez",
+            "esteban-orozco",
+            "saul-coco",
+            "basilio-ndong",
+            "emilio-nsue"
+        ],
+        "goalkeeper": "jesus-owono",
+        "mid": [
+            "federico-bikoro",
+            "pablo-ganet",
+            "salvador",
+            "jose-machin",
+            "josete-miranda"
+        ]
+    },
+    "botswana": {
+        "att": [
+            "kabelo-seakanyeng"
+        ],
+        "def": [
+            "alford-velaphi",
+            "thatayaone-ditlhokwe",
+            "kitso-mangolo",
+            "mosha-gaolaolwe"
+        ],
+        "goalkeeper": "goitseone-phoko",
+        "mid": [
+            "tebogo-kopelang",
+            "gape-mohutsiwa",
+            "tumisang-orebonye",
+            "mogakolodi-ngele",
+            "molaodi-tlhalefang"
+        ]
+    },
+    "libya": {
+        "att": [
+            "ahmed-krawaa"
+        ],
+        "def": [
+            "salah-fakroun",
+            "ali-yusuf",
+            "abdulaziz-al-suwaee",
+            "sobhi-al-mabrouk"
+        ],
+        "goalkeeper": "mourad-al-wuhayshi",
+        "mid": [
+            "fadel-salama",
+            "faisal-al-badri",
+            "abdullah-dagou",
+            "abdulmoneim-akasha",
+            "noureddine-al-gleib"
+        ]
+    },
+    "morocco": {
+        "att": [
+            "hakim-ziyech",
+            "amine-adli",
+            "youssef-en-nesyri"
+        ],
+        "def": [
+            "hakimi-achraf",
+            "nayef-aguerd",
+            "romain-saiss",
+            "noussair-mazraoui"
+        ],
+        "goalkeeper": "bono",
+        "mid": [
+            "bilal-el-khannouss",
+            "sofyan-amrabat",
+            "amine-harit"
+        ]
+    },
+    "south-africa": {
+        "att": [
+            "mihlali-mayambela"
+        ],
+        "def": [
+            "khuliso-mudau",
+            "siyanda-xulu",
+            "nkosinathi-sibisi",
+            "aubrey-maphosa-modiba"
+        ],
+        "goalkeeper": "williams-ronwen",
+        "mid": [
+            "sphephelo-sithole",
+            "teboho-mokoena",
+            "percy-tau",
+            "themba-zwane",
+            "bongokuhle-hlongwane"
+        ]
+    },
+    "liberia": {
+        "att": [
+            "albert-korvah",
+            "william-jebor"
+        ],
+        "def": [
+            "mark-pabai",
+            "sampson-dweh",
+            "mohammed-sangare"
+        ],
+        "goalkeeper": "ashley-williams",
+        "mid": [
+            "joel-johnson-alajarin",
+            "ledlum-edward",
+            "oscar-dorley",
+            "nohan-kenneh",
+            "marcus-macauley"
+        ]
+    },
+    "senegal": {
+        "att": [
+            "iliman-ndiaye",
+            "sadio-mane"
+        ],
+        "def": [
+            "kalidou-koulibaly",
+            "moussa-niakhate",
+            "ismail-jakobs"
+        ],
+        "goalkeeper": "edouard-mendy",
+        "mid": [
+            "idrissa-gueye",
+            "cheikhou-kouyate",
+            "pape-matar-sarr",
+            "krepin-diatta",
+            "ismaila-sarr"
+        ]
+    },
+    "mozambique": {
+        "att": [
+            "gildo",
+            "stanley-ratifo"
+        ],
+        "def": [
+            "domingos",
+            "edson-mexer",
+            "david-malembana",
+            "bruno-langa"
+        ],
+        "goalkeeper": "ernani",
+        "mid": [
+            "guima",
+            "shaquille",
+            "domingues",
+            "clesio-bauque"
+        ]
+    },
+    "benin": {
+        "att": [
+            "jodel-dossou",
+            "steve-mounie",
+            "steve-traore"
+        ],
+        "def": [
+            "david-kiki",
+            "mohamed-tijani",
+            "cedric-hountondji",
+            "rachid-moumini"
+        ],
+        "goalkeeper": "saturnin-allagbe",
+        "mid": [
+            "dokou-dodo",
+            "sessi-dalmeida",
+            "junior-olaitan"
+        ]
+    },
+    "rwanda": {
+        "att": [
+            "lague-byiringiro",
+            "gilbert-mugisha",
+            "innocent-nshuti"
+        ],
+        "def": [
+            "fitina-ombolenga",
+            "ange-mutsinzi",
+            "thierry-manzi",
+            "emmanuel-imanishimwe"
+        ],
+        "goalkeeper": "fiacre-ntwari",
+        "mid": [
+            "olivier-niyonzima",
+            "djihad-bizimana",
+            "kevin-muhire"
+        ]
+    }
+}

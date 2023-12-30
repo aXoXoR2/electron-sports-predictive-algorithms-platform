@@ -1,0 +1,32 @@
+[
+    {
+        "name":"africa_region",
+        "location":"african_qualy",
+        "URL":"https://api.sofascore.com/api/v1/unique-tournament/1848/season/41862/statistics?limit=20&order=-rating&group=summary"
+    },
+    {
+        "name":"south_america_region",
+        "location":"american_world_qualification",
+        "URL":"https://api.sofascore.com/api/v1/unique-tournament/295/season/53820/statistics?limit=20&order=-rating&group=summary"
+    },
+    {
+        "name":"europe_region",
+        "location":"european_championship_qualification",
+        "URL":"https://api.sofascore.com/api/v1/unique-tournament/27/season/46599/statistics?limit=20&order=-rating&group=summary"
+    },
+    {
+        "name":"north_america_region",
+        "location":"gold_cup_america",
+        "URL":"https://api.sofascore.com/api/v1/unique-tournament/140/season/50492/statistics?limit=20&order=-rating&group=summary"
+    },
+    {
+        "name":"world_cup_qatar_2022",
+        "location":"qatar-2022",
+        "URL":"https://api.sofascore.com/api/v1/unique-tournament/16/season/41087/statistics?limit=20&order=-rating&group=summary"
+    },
+    {
+        "name":"test_Premier-League",
+        "location":"test",
+        "URL":"https://api.sofascore.com/api/v1/unique-tournament/17/season/52186/statistics?limit=20&order=-rating&group=summary"
+    }
+]

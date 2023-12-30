@@ -1,0 +1,182 @@
+{
+    "brazil": {
+        "neymar": {
+            "attack": "86",
+            "creativity": "88",
+            "defending": "28",
+            "position": "F",
+            "tactical": "53",
+            "technical": "71"
+        },
+        "raphinha": {
+            "attack": "78",
+            "creativity": "80",
+            "defending": "35",
+            "position": "M",
+            "tactical": "60",
+            "technical": "68"
+        }
+    },
+    "argentina": {
+        "lionel-messi": {
+            "attack": "91",
+            "creativity": "83",
+            "defending": "26",
+            "position": "F",
+            "tactical": "67",
+            "technical": "91"
+        },
+        "nicolas-otamendi": {
+            "attack": "38",
+            "creativity": "46",
+            "defending": "79",
+            "position": "D",
+            "tactical": "70",
+            "technical": "47"
+        }
+    },
+    "uruguay": {
+        "nicolas-de-la-cruz": {
+            "attack": "62",
+            "creativity": "66",
+            "defending": "49",
+            "position": "M",
+            "tactical": "46",
+            "technical": "59"
+        },
+        "darwin-nunez": {
+            "attack": "76",
+            "creativity": "58",
+            "defending": "26",
+            "position": "F",
+            "tactical": "60",
+            "technical": "56"
+        }
+    },
+    "colombia": {
+        "james-rodriguez": {
+            "attack": "61",
+            "creativity": "66",
+            "defending": "36",
+            "position": "M",
+            "tactical": "51",
+            "technical": "63"
+        },
+        "daniel-munoz": {
+            "attack": "49",
+            "creativity": "55",
+            "defending": "77",
+            "position": "M",
+            "tactical": "67",
+            "technical": "54"
+        }
+    },
+    "ecuador": {
+        "robert-arboleda": {
+            "attack": "36",
+            "creativity": "40",
+            "defending": "80",
+            "position": "D",
+            "tactical": "66",
+            "technical": "48"
+        },
+        "felix-torres": {
+            "attack": "41",
+            "creativity": "44",
+            "defending": "72",
+            "position": "D",
+            "tactical": "65",
+            "technical": "47"
+        }
+    },
+    "chile": {
+        "diego-valdes": {
+            "attack": "71",
+            "creativity": "71",
+            "defending": "35",
+            "position": "M",
+            "tactical": "58",
+            "technical": "63"
+        },
+        "alexis-sanchez": {
+            "attack": "76",
+            "creativity": "64",
+            "defending": "25",
+            "position": "F",
+            "tactical": "49",
+            "technical": "67"
+        }
+    },
+    "venezuela": {
+        "rafael-romo": {
+            "aerial": "60",
+            "anticipation": "43",
+            "ballDistribution": "59",
+            "position": "G",
+            "saves": "72",
+            "tactical": "63"
+        },
+        "darwin-machis": {
+            "attack": "67",
+            "creativity": "60",
+            "defending": "37",
+            "position": "M",
+            "tactical": "54",
+            "technical": "58"
+        }
+    },
+    "paraguay": {
+        "kaku": {
+            "attack": "67",
+            "creativity": "74",
+            "defending": "36",
+            "position": "M",
+            "tactical": "47",
+            "technical": "71"
+        },
+        "miguel-almiron": {
+            "attack": "69",
+            "creativity": "54",
+            "defending": "40",
+            "position": "M",
+            "tactical": "54",
+            "technical": "56"
+        }
+    },
+    "peru": {
+        "renato-tapia": {
+            "attack": "46",
+            "creativity": "49",
+            "defending": "72",
+            "position": "M",
+            "tactical": "64",
+            "technical": "53"
+        },
+        "yoshimar-yotun": {
+            "attack": "56",
+            "creativity": "62",
+            "defending": "43",
+            "position": "M",
+            "tactical": "54",
+            "technical": "56"
+        }
+    },
+    "bolivia": {
+        "guillermo-viscarra": {
+            "aerial": "54",
+            "anticipation": "41",
+            "ballDistribution": "53",
+            "position": "G",
+            "saves": "66",
+            "tactical": "46"
+        },
+        "vaca-henry": {
+            "attack": "59",
+            "creativity": "56",
+            "defending": "31",
+            "position": "M",
+            "tactical": "38",
+            "technical": "61"
+        }
+    }
+}

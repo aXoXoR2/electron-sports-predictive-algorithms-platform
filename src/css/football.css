@@ -1,0 +1,241 @@
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+
+#left
+{
+    background-color:white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    overflow-y: auto;
+}
+
+#right
+{
+    background-color:lightskyblue;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    overflow-y: auto;
+}
+
+.search .card
+{
+    background-color: lightskyblue;
+    border: lightskyblue;
+}
+
+.descriptions
+{
+    margin-top: 12px;
+}
+
+.descriptions .card
+{
+    margin-top: 12px;
+    width: -moz-fit-content;
+    width: fit-content
+}
+
+.search_section {
+    margin-top: 12px;
+}
+
+.search_section img.avatar{
+    width: 50px;
+    height: 50px;
+}
+
+.results img.avatar{
+    width: 1200px;
+    height: 900px;
+}
+
+.descriptions img.bracket
+{
+    width: 1200px;
+    height: 900px;
+}
+
+.searcher {
+    position: absolute;
+    display: flex;
+    padding: 15px;
+}
+
+.searcher input {
+    width: 0px;
+    height: 40px;
+    padding: 0 10px;
+    font-size: 18px;
+    color: black;
+    outline: none;
+    border: 1px silver;
+    border-radius: 30px;
+    transition: all 0.6s ease;
+}
+
+.searcher .mybutton{
+    position: absolute;
+    top: 15;
+    right: 0;
+    background-color: rgb(177, 175, 175);
+    width: 50pdx;
+    height: 42px;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.searcher:hover input{
+    width: 280px;
+}
+
+.searcher input:focus{
+    width: 280px;
+}
+
+
+.modalities .btn-primary{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.modalities .btn-secondary{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.modalities .btn-outline-dark{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.search_section .btn-outline-dark{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #b3b2b2;
+}
+
+div#contenedor{
+    width: -moz-fit-content;
+    width: fit-content;
+    background-color: lightskyblue; 
+}
+
+div#contenedor .card
+{
+    background-color: lightskyblue;
+    border: lightskyblue;
+}
+
+.player input{
+    appearance: none;
+    background-color: #C3C3C3;
+    border:2px solid #C3C3C3;
+    width:15px;
+    height: 15px;
+    border-radius:7px;
+    outline-style: none;
+}
+
+.player input:checked{
+    background-color: #8F8F8F;
+}
+
+.player input[type="radio"]
+{
+    border-radius: 7px;
+}
+
+.selector select option:hover{
+    color: rgb(21, 172, 231);
+    background-color: black;
+
+}
+
+.selector select{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: cursive, sans-serif;
+    outline: 0;
+    background: silver;
+    color: black;
+    border: 1px solid rgb(21, 172, 231);
+    padding: 4px ;
+    border-radius: 9px;
+}
+
+.selector label{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.selector input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.selector .btn-outline-dark{
+    background-color: silver;
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.btn-primary{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.btn-secondary{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.btn-outline-dark
+{
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: silver;
+}
+
+.results{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: black;
+}

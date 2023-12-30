@@ -1,0 +1,1374 @@
+{
+    "usa": {
+        "players": [
+            {
+                "name": "jesus-ferreira",
+                "id": 869853
+            },
+            {
+                "name": "dorde-mihailovic",
+                "id": 869211
+            },
+            {
+                "name": "gianluca-busio",
+                "id": 896180
+            },
+            {
+                "name": "cade-cowell",
+                "id": 974792
+            },
+            {
+                "name": "matt-turner",
+                "id": 833943
+            },
+            {
+                "name": "bryan-reynolds",
+                "id": 862075
+            },
+            {
+                "name": "dejuan-jones",
+                "id": 977874
+            },
+            {
+                "name": "james-sands",
+                "id": 885892
+            },
+            {
+                "name": "neal-jalen",
+                "id": 1025295
+            },
+            {
+                "name": "julian-gressel",
+                "id": 245133
+            },
+            {
+                "name": "brandon-vazquez",
+                "id": 818402
+            },
+            {
+                "name": "matthew-miazga",
+                "id": 330485
+            },
+            {
+                "name": "aidan-morris",
+                "id": 1014841
+            },
+            {
+                "name": "sean-johnson",
+                "id": 111108
+            },
+            {
+                "name": "aaron-long",
+                "id": 539882
+            },
+            {
+                "name": "deandre-yedlin",
+                "id": 314040
+            },
+            {
+                "name": "miles-robinson",
+                "id": 868843
+            },
+            {
+                "name": "cristian-roldan",
+                "id": 790171
+            },
+            {
+                "name": "alejandro-zendejas",
+                "id": 790108
+            },
+            {
+                "name": "jordan-morris",
+                "id": 772421
+            },
+            {
+                "name": "alan-sonora",
+                "id": 985002
+            },
+            {
+                "name": "john-tolkin",
+                "id": 1015186
+            }
+        ],
+        "id": 4724
+    },
+    "mexico": {
+        "players": [
+            {
+                "name": "luis-chavez",
+                "id": 757770
+            },
+            {
+                "name": "gerardo-arteaga",
+                "id": 856129
+            },
+            {
+                "name": "cesar-montes",
+                "id": 818406
+            },
+            {
+                "name": "romo-luis",
+                "id": 1172773
+            },
+            {
+                "name": "uriel-antuna",
+                "id": 843198
+            },
+            {
+                "name": "jorge-sanchez",
+                "id": 832868
+            },
+            {
+                "name": "jesus-gallardo",
+                "id": 770253
+            },
+            {
+                "name": "henry-martin",
+                "id": 755408
+            },
+            {
+                "name": "johan-vasquez",
+                "id": 889785
+            },
+            {
+                "name": "erick-sanchez",
+                "id": 845322
+            },
+            {
+                "name": "orbelin-pineda",
+                "id": 850404
+            },
+            {
+                "name": "guillermo-ochoa",
+                "id": 15497
+            },
+            {
+                "name": "carlos-rodriguez",
+                "id": 845849
+            },
+            {
+                "name": "edson-alvarez",
+                "id": 847151
+            },
+            {
+                "name": "roberto-alvarado",
+                "id": 865500
+            },
+            {
+                "name": "ozziel-herrera",
+                "id": 962034
+            },
+            {
+                "name": "israel-reyes",
+                "id": 989236
+            },
+            {
+                "name": "diego-lainez",
+                "id": 874535
+            },
+            {
+                "name": "julian-araujo",
+                "id": 978150
+            },
+            {
+                "name": "santiago-gimenez",
+                "id": 892141
+            }
+        ],
+        "id": 4781
+    },
+    "jamaica": {
+        "players": [
+            {
+                "name": "demarai-gray",
+                "id": 355152
+            },
+            {
+                "name": "russell-jon",
+                "id": 976273
+            },
+            {
+                "name": "parris-kaheem",
+                "id": 1007881
+            },
+            {
+                "name": "amarii-bell",
+                "id": 369674
+            },
+            {
+                "name": "dishon-bernard",
+                "id": 979229
+            },
+            {
+                "name": "latibeaudiere-joel",
+                "id": 859763
+            },
+            {
+                "name": "leon-bailey",
+                "id": 808590
+            },
+            {
+                "name": "damion-lowe",
+                "id": 539948
+            },
+            {
+                "name": "daniel-johnson",
+                "id": 291237
+            },
+            {
+                "name": "kevon-lambert",
+                "id": 884950
+            },
+            {
+                "name": "dujuan-richards",
+                "id": 1498836
+            },
+            {
+                "name": "adrian-mariappa",
+                "id": 10597
+            },
+            {
+                "name": "andre-blake",
+                "id": 331411
+            },
+            {
+                "name": "michail-antonio",
+                "id": 47772
+            },
+            {
+                "name": "coniah-boyce-clarke",
+                "id": 1017225
+            },
+            {
+                "name": "jahmali-waite",
+                "id": 839626
+            },
+            {
+                "name": "dexter-lembikisa",
+                "id": 1134725
+            },
+            {
+                "name": "cory-burke",
+                "id": 884947
+            },
+            {
+                "name": "bobby-decordova-reid",
+                "id": 151499
+            },
+            {
+                "name": "javain-brown",
+                "id": 884951
+            },
+            {
+                "name": "shamar-nicholson",
+                "id": 884948
+            },
+            {
+                "name": "kemar-lawrence",
+                "id": 353882
+            }
+        ],
+        "id": 4769
+    },
+    "panama": {
+        "players": [
+            {
+                "name": "yoel-barcenas",
+                "id": 833352
+            },
+            {
+                "name": "jose-fajardo",
+                "id": 936184
+            },
+            {
+                "name": "michael-murillo",
+                "id": 839493
+            },
+            {
+                "name": "eric-davis",
+                "id": 159935
+            },
+            {
+                "name": "adalberto-carrasquilla",
+                "id": 796330
+            },
+            {
+                "name": "ismael-diaz",
+                "id": 796328
+            },
+            {
+                "name": "anibal-godoy",
+                "id": 156102
+            },
+            {
+                "name": "orlando-mosquera",
+                "id": 886041
+            },
+            {
+                "name": "harold-cummings",
+                "id": 156100
+            },
+            {
+                "name": "fidel-escobar",
+                "id": 796326
+            },
+            {
+                "name": "ivan-anderson",
+                "id": 1021120
+            },
+            {
+                "name": "andres-andrade",
+                "id": 841802
+            },
+            {
+                "name": "roderick-miller",
+                "id": 159939
+            },
+            {
+                "name": "cesar-yanis",
+                "id": 1021117
+            },
+            {
+                "name": "cristian-martinez",
+                "id": 841006
+            },
+            {
+                "name": "cesar-blackman",
+                "id": 841793
+            },
+            {
+                "name": "alberto-quintero",
+                "id": 83951
+            },
+            {
+                "name": "freddy-gondola",
+                "id": 1116387
+            },
+            {
+                "name": "jovani-welch",
+                "id": 985150
+            },
+            {
+                "name": "cecilio-waterman",
+                "id": 159931
+            },
+            {
+                "name": "azarias-londono",
+                "id": 1217929
+            },
+            {
+                "name": "eduardo-anderson",
+                "id": 1147349
+            }
+        ],
+        "id": 5164
+    },
+    "honduras": {
+        "players": [
+            {
+                "name": "jorge-alvarez",
+                "id": 821990
+            },
+            {
+                "name": "edrick-menjivar",
+                "id": 964813
+            },
+            {
+                "name": "deybi-flores",
+                "id": 791600
+            },
+            {
+                "name": "devron-garcia",
+                "id": 358570
+            },
+            {
+                "name": "rubilio-castillo",
+                "id": 797168
+            },
+            {
+                "name": "jerry-bengtson",
+                "id": 116491
+            },
+            {
+                "name": "maylor-nunez",
+                "id": 796401
+            },
+            {
+                "name": "jorge-benguche",
+                "id": 1014264
+            },
+            {
+                "name": "jose-pinto",
+                "id": 1014266
+            },
+            {
+                "name": "joseph-rosales",
+                "id": 985148
+            },
+            {
+                "name": "solano-edwin",
+                "id": 995694
+            },
+            {
+                "name": "vega-alexy",
+                "id": 1409370
+            },
+            {
+                "name": "christian-altamirano",
+                "id": 867510
+            },
+            {
+                "name": "bryan-acosta",
+                "id": 797162
+            },
+            {
+                "name": "omar-elvir",
+                "id": 813045
+            },
+            {
+                "name": "marcelo-santos",
+                "id": 910872
+            },
+            {
+                "name": "alexander-lopez",
+                "id": 244027
+            },
+            {
+                "name": "luis-vega",
+                "id": 1102720
+            },
+            {
+                "name": "alberth-elis",
+                "id": 796403
+            },
+            {
+                "name": "luis-lopez",
+                "id": 38586
+            }
+        ],
+        "id": 4827
+    },
+    "canada": {
+        "players": [
+            {
+                "name": "jayden-nelson",
+                "id": 1002489
+            },
+            {
+                "name": "junior-hoilett",
+                "id": 33478
+            },
+            {
+                "name": "richie-laryea",
+                "id": 829207
+            },
+            {
+                "name": "millar-liam",
+                "id": 902083
+            },
+            {
+                "name": "jonathan-osorio",
+                "id": 273031
+            },
+            {
+                "name": "milan-borjan",
+                "id": 79413
+            },
+            {
+                "name": "ali-ahmed",
+                "id": 1464637
+            },
+            {
+                "name": "kamal-miller",
+                "id": 934841
+            },
+            {
+                "name": "lucas-cavallini",
+                "id": 846412
+            },
+            {
+                "name": "steven-vitoria",
+                "id": 59574
+            },
+            {
+                "name": "zac-mcgraw",
+                "id": 1019870
+            },
+            {
+                "name": "shaffelburg-jacob",
+                "id": 976313
+            },
+            {
+                "name": "dayne-st-clair",
+                "id": 973286
+            },
+            {
+                "name": "liam-fraser",
+                "id": 930843
+            },
+            {
+                "name": "bombito-moise",
+                "id": 1469180
+            },
+            {
+                "name": "david-wotherspoon",
+                "id": 78659
+            },
+            {
+                "name": "jacen-russell-rowe",
+                "id": 1002267
+            },
+            {
+                "name": "charles-andreas-brym",
+                "id": 990814
+            },
+            {
+                "name": "zachary-brault-guillard",
+                "id": 857760
+            },
+            {
+                "name": "scott-kennedy",
+                "id": 843443
+            },
+            {
+                "name": "victor-loturi",
+                "id": 984429
+            },
+            {
+                "name": "dominick-zator",
+                "id": 984453
+            }
+        ],
+        "id": 4752
+    },
+    "guatemala": {
+        "players": [
+            {
+                "name": "rubio-rubin",
+                "id": 587258
+            },
+            {
+                "name": "nicolas-samayoa",
+                "id": 803584
+            },
+            {
+                "name": "nicholas-hagen",
+                "id": 803581
+            },
+            {
+                "name": "cesar-archila",
+                "id": 1176323
+            },
+            {
+                "name": "aaron-herrera",
+                "id": 880795
+            },
+            {
+                "name": "jose-pinto",
+                "id": 812987
+            },
+            {
+                "name": "oscar-castellanos",
+                "id": 962616
+            },
+            {
+                "name": "carlos-mejia",
+                "id": 796595
+            },
+            {
+                "name": "nathaniel-mendez-laing",
+                "id": 120480
+            },
+            {
+                "name": "esteban-garcia",
+                "id": 1498744
+            },
+            {
+                "name": "rodrigo-saravia",
+                "id": 829563
+            },
+            {
+                "name": "alejandro-miguel-galindo",
+                "id": 812727
+            },
+            {
+                "name": "pedro-altan",
+                "id": 1144801
+            },
+            {
+                "name": "antonio-lopez",
+                "id": 942102
+            },
+            {
+                "name": "darwin-lom",
+                "id": 1049305
+            },
+            {
+                "name": "jorge-aparicio",
+                "id": 796583
+            },
+            {
+                "name": "marlon-sequen",
+                "id": 1176315
+            },
+            {
+                "name": "jose-ardon",
+                "id": 962602
+            }
+        ],
+        "id": 5163
+    },
+    "guadeloupe": {
+        "players": [
+            {
+                "name": "phaeton-matthias",
+                "id": 960081
+            },
+            {
+                "name": "andreaw-gravillon",
+                "id": 827934
+            },
+            {
+                "name": "steve-solvet",
+                "id": 860168
+            },
+            {
+                "name": "ange-freddy-plumain",
+                "id": 372340
+            },
+            {
+                "name": "jordan-leborgne",
+                "id": 798274
+            },
+            {
+                "name": "thierry-ambrose",
+                "id": 356024
+            },
+            {
+                "name": "jordan-tell",
+                "id": 877342
+            },
+            {
+                "name": "anthony-baron",
+                "id": 1010087
+            },
+            {
+                "name": "meddy-lina",
+                "id": 78543
+            },
+            {
+                "name": "mickael-alphonse",
+                "id": 142061
+            },
+            {
+                "name": "archimede-luther",
+                "id": 967455
+            },
+            {
+                "name": "cedric-avinel",
+                "id": 23568
+            },
+            {
+                "name": "quentin-annette",
+                "id": 1106742
+            },
+            {
+                "name": "davidas-steven",
+                "id": 1500817
+            },
+            {
+                "name": "nathanael-saintini",
+                "id": 986992
+            },
+            {
+                "name": "rouyard-davy",
+                "id": 989137
+            },
+            {
+                "name": "johan-rotsen",
+                "id": 1101966
+            }
+        ],
+        "id": 7299
+    },
+    "haiti": {
+        "players": [
+            {
+                "name": "derrick-etienne-junior",
+                "id": 828012
+            },
+            {
+                "name": "frantzdy-pierrot",
+                "id": 943278
+            },
+            {
+                "name": "carlens-arcus",
+                "id": 794373
+            },
+            {
+                "name": "jean-jacques-danley",
+                "id": 1173167
+            },
+            {
+                "name": "duckens-nazon",
+                "id": 796023
+            },
+            {
+                "name": "carnejy-antoine",
+                "id": 1014050
+            },
+            {
+                "name": "bryan-alceus",
+                "id": 839640
+            },
+            {
+                "name": "ricardo-ade",
+                "id": 839638
+            },
+            {
+                "name": "fafa-picault",
+                "id": 787689
+            },
+            {
+                "name": "alex-christian-junior",
+                "id": 805018
+            },
+            {
+                "name": "alexandre-pierre",
+                "id": 1091596
+            },
+            {
+                "name": "steeven-saba",
+                "id": 986887
+            },
+            {
+                "name": "leverton-pierre",
+                "id": 912050
+            },
+            {
+                "name": "carl-fred-sainte",
+                "id": 1002387
+            },
+            {
+                "name": "wilde-donald-guerrier",
+                "id": 199416
+            },
+            {
+                "name": "prunier-mondy",
+                "id": 1381250
+            },
+            {
+                "name": "hestefano-jean-jairo",
+                "id": 1156453
+            },
+            {
+                "name": "garven-michee-metusala",
+                "id": 1126368
+            }
+        ],
+        "id": 7229
+    },
+    "cuba": {
+        "players": [
+            {
+                "name": "raiko-arozarena",
+                "id": 942869
+            },
+            {
+                "name": "sando-neisser",
+                "id": 883128
+            },
+            {
+                "name": "paradela-luis",
+                "id": 986827
+            },
+            {
+                "name": "romario-torrez",
+                "id": 1384046
+            },
+            {
+                "name": "maikel-reyes",
+                "id": 798694
+            },
+            {
+                "name": "aricheell-hernandez",
+                "id": 227270
+            },
+            {
+                "name": "eduardo-hernandez",
+                "id": 1383989
+            },
+            {
+                "name": "carlos-alberto-cavafe",
+                "id": 985364
+            },
+            {
+                "name": "daniel-diaz",
+                "id": 1435393
+            },
+            {
+                "name": "aldair-ruiz",
+                "id": 1498668
+            },
+            {
+                "name": "yosel-piedra",
+                "id": 333007
+            },
+            {
+                "name": "sandy-sanchez",
+                "id": 797228
+            },
+            {
+                "name": "willian-pozo-venta",
+                "id": 896383
+            },
+            {
+                "name": "yasniel-matos",
+                "id": 1111196
+            },
+            {
+                "name": "jorge-luis-corrales",
+                "id": 883668
+            },
+            {
+                "name": "modesto-mendez",
+                "id": 1036293
+            },
+            {
+                "name": "yunior-perez",
+                "id": 1111197
+            },
+            {
+                "name": "dariel-morejon-rodriguez",
+                "id": 883493
+            },
+            {
+                "name": "penalver-mario",
+                "id": 1384032
+            },
+            {
+                "name": "johnston-nelson",
+                "id": 986829
+            }
+        ],
+        "id": 4824
+    },
+    "el-salvador": {
+        "players": [
+            {
+                "name": "alex-roldan",
+                "id": 882537
+            },
+            {
+                "name": "mario-gonzalez",
+                "id": 1123842
+            },
+            {
+                "name": "gil-mayer",
+                "id": 1093944
+            },
+            {
+                "name": "brayan-landaverde",
+                "id": 1150034
+            },
+            {
+                "name": "eriq-zavaleta",
+                "id": 314048
+            },
+            {
+                "name": "roberto-carlos-dominguez",
+                "id": 808357
+            },
+            {
+                "name": "jairo-mauricio-henriquez",
+                "id": 333177
+            },
+            {
+                "name": "cristian-gil",
+                "id": 1147338
+            },
+            {
+                "name": "blanco-nelson",
+                "id": 934869
+            },
+            {
+                "name": "erick-cabalceta",
+                "id": 297302
+            },
+            {
+                "name": "christian-martinez",
+                "id": 931093
+            },
+            {
+                "name": "menjivar-leonardo",
+                "id": 1479495
+            },
+            {
+                "name": "joshua-perez",
+                "id": 818395
+            },
+            {
+                "name": "osorio-harold",
+                "id": 1135923
+            },
+            {
+                "name": "bryan-tamacas",
+                "id": 808358
+            },
+            {
+                "name": "narciso-orellana",
+                "id": 793246
+            },
+            {
+                "name": "brayan-gil",
+                "id": 1065361
+            },
+            {
+                "name": "kevin-reyes",
+                "id": 1135925
+            },
+            {
+                "name": "tomas-romero",
+                "id": 1107895
+            }
+        ],
+        "id": 4825
+    },
+    "qatar": {
+        "players": [
+            {
+                "name": "meshaal-aissa-barsham",
+                "id": 891157
+            },
+            {
+                "name": "tameem-al-abdullah",
+                "id": 1082940
+            },
+            {
+                "name": "mostafa-mashaal",
+                "id": 1006416
+            },
+            {
+                "name": "ahmed-fathy",
+                "id": 911427
+            },
+            {
+                "name": "hazem-shehata",
+                "id": 832293
+            },
+            {
+                "name": "ahmed-suhail",
+                "id": 920763
+            },
+            {
+                "name": "yousef-ayman",
+                "id": 952019
+            },
+            {
+                "name": "musab-kheder",
+                "id": 791782
+            },
+            {
+                "name": "mohammed-muntari",
+                "id": 326185
+            },
+            {
+                "name": "assim-madibo",
+                "id": 796500
+            },
+            {
+                "name": "homam-ahmed",
+                "id": 933433
+            },
+            {
+                "name": "tarek-salman",
+                "id": 796502
+            },
+            {
+                "name": "bassam-al-rawi",
+                "id": 796499
+            },
+            {
+                "name": "yusuf-abdurisag",
+                "id": 985156
+            },
+            {
+                "name": "abdullah-marafee",
+                "id": 832044
+            },
+            {
+                "name": "jassem-gaber-abdulsallam",
+                "id": 1014561
+            },
+            {
+                "name": "almoez-ali",
+                "id": 796501
+            },
+            {
+                "name": "mahdi-salem",
+                "id": 1142864
+            },
+            {
+                "name": "khalid-muneer",
+                "id": 889880
+            },
+            {
+                "name": "mohammed-waad",
+                "id": 926473
+            },
+            {
+                "name": "ali-assadalla",
+                "id": 786141
+            },
+            {
+                "name": "salah-zakaria",
+                "id": 985171
+            }
+        ],
+        "id": 4792
+    },
+    "costa-rica": {
+        "players": [
+            {
+                "name": "juan-pablo-vargas",
+                "id": 865783
+            },
+            {
+                "name": "francisco-calvo",
+                "id": 156400
+            },
+            {
+                "name": "celso-borges",
+                "id": 50605
+            },
+            {
+                "name": "joel-campbell",
+                "id": 154508
+            },
+            {
+                "name": "anthony-contreras",
+                "id": 971229
+            },
+            {
+                "name": "kendall-waston",
+                "id": 320209
+            },
+            {
+                "name": "kevin-chamorro",
+                "id": 905406
+            },
+            {
+                "name": "aaron-suarez",
+                "id": 1031390
+            },
+            {
+                "name": "diego-campos",
+                "id": 930885
+            },
+            {
+                "name": "jefry-valverde",
+                "id": 1015681
+            },
+            {
+                "name": "cristopher-nunez",
+                "id": 881204
+            },
+            {
+                "name": "pablo-arboine",
+                "id": 821613
+            },
+            {
+                "name": "wilmer-azofeifa",
+                "id": 828204
+            },
+            {
+                "name": "roan-wilson",
+                "id": 1001806
+            },
+            {
+                "name": "madrigal-warren",
+                "id": 1102593
+            },
+            {
+                "name": "suhander-zuniga",
+                "id": 881206
+            },
+            {
+                "name": "carlos-mora",
+                "id": 1020202
+            },
+            {
+                "name": "alcocer-josimar",
+                "id": 1131598
+            },
+            {
+                "name": "pena-ricardo",
+                "id": 1384041
+            }
+        ],
+        "id": 4756
+    },
+    "martinique": {
+        "players": [
+            {
+                "name": "patrick-burner",
+                "id": 846439
+            },
+            {
+                "name": "florent-poulolo",
+                "id": 989522
+            },
+            {
+                "name": "fabien-karl-kezy",
+                "id": 1017153
+            },
+            {
+                "name": "kevin-fortune",
+                "id": 208398
+            },
+            {
+                "name": "jonathan-mexique",
+                "id": 191180
+            },
+            {
+                "name": "theo-de-percin",
+                "id": 1095836
+            },
+            {
+                "name": "yannis-clementia",
+                "id": 910301
+            },
+            {
+                "name": "arbaut-ghislain",
+                "id": 1481680
+            },
+            {
+                "name": "brighton-labeau",
+                "id": 886289
+            },
+            {
+                "name": "jordan-thimon",
+                "id": 787854
+            },
+            {
+                "name": "jean-claude-michalet",
+                "id": 1125982
+            },
+            {
+                "name": "ronny-labonne",
+                "id": 1162103
+            },
+            {
+                "name": "enrick-reuperne",
+                "id": 1125979
+            },
+            {
+                "name": "thomas-ephestion",
+                "id": 352798
+            },
+            {
+                "name": "cyril-mandouki",
+                "id": 821461
+            },
+            {
+                "name": "daniel-herelle",
+                "id": 806457
+            },
+            {
+                "name": "marny-andy",
+                "id": 1129067
+            },
+            {
+                "name": "florian-lapis",
+                "id": 826618
+            },
+            {
+                "name": "jonathan-rivierez",
+                "id": 106341
+            }
+        ],
+        "id": 45485
+    },
+    "trinidad-and-tobago": {
+        "players": [
+            {
+                "name": "levi-garcia",
+                "id": 803483
+            },
+            {
+                "name": "fortune-ajani",
+                "id": 1035631
+            },
+            {
+                "name": "rampersad-andre",
+                "id": 984421
+            },
+            {
+                "name": "neveal-hackshaw",
+                "id": 803481
+            },
+            {
+                "name": "gill-real",
+                "id": 1218843
+            },
+            {
+                "name": "triston-hodge",
+                "id": 1481976
+            },
+            {
+                "name": "kevin-molino",
+                "id": 200804
+            },
+            {
+                "name": "joevin-jones",
+                "id": 248739
+            },
+            {
+                "name": "nicklas-frenderup",
+                "id": 876539
+            },
+            {
+                "name": "kareem-moses",
+                "id": 883631
+            },
+            {
+                "name": "ryan-telfer",
+                "id": 932002
+            },
+            {
+                "name": "kaile-auvray",
+                "id": 1142139
+            },
+            {
+                "name": "sheldon-bateau",
+                "id": 258789
+            },
+            {
+                "name": "jones-alvin",
+                "id": 883831
+            },
+            {
+                "name": "luke-singh",
+                "id": 962545
+            },
+            {
+                "name": "shaw-malcolm-isaiah",
+                "id": 978170
+            },
+            {
+                "name": "khan-molik",
+                "id": 1126912
+            },
+            {
+                "name": "aubrey-david",
+                "id": 249665
+            },
+            {
+                "name": "leland-archer",
+                "id": 803478
+            },
+            {
+                "name": "shannon-gomez",
+                "id": 803475
+            },
+            {
+                "name": "kadeem-corbin",
+                "id": 798424
+            },
+            {
+                "name": "marvin-phillip",
+                "id": 200436
+            }
+        ],
+        "id": 5162
+    },
+    "saint-kitts-and-nevis": {
+        "players": [
+            {
+                "name": "belgrove-ronaldo",
+                "id": 1500808
+            },
+            {
+                "name": "tyquan-terrell",
+                "id": 1197308
+            },
+            {
+                "name": "carlos-bertie",
+                "id": 965377
+            },
+            {
+                "name": "omari-sterling-james",
+                "id": 583204
+            },
+            {
+                "name": "lewis-mervin",
+                "id": 1110924
+            },
+            {
+                "name": "jacob-hazel",
+                "id": 218528
+            },
+            {
+                "name": "gerard-williams",
+                "id": 965378
+            },
+            {
+                "name": "rowan-liburd",
+                "id": 818084
+            },
+            {
+                "name": "lois-maynard",
+                "id": 343705
+            },
+            {
+                "name": "yohannes-battice",
+                "id": 965395
+            },
+            {
+                "name": "keithroy-freeman",
+                "id": 1110248
+            },
+            {
+                "name": "williams-tiquanny",
+                "id": 1123610
+            },
+            {
+                "name": "romaine-sawyers",
+                "id": 54338
+            },
+            {
+                "name": "andre-burley",
+                "id": 970416
+            },
+            {
+                "name": "julanni-archibald",
+                "id": 965381
+            },
+            {
+                "name": "raheem-somersall",
+                "id": 1046118
+            },
+            {
+                "name": "roberts-malique",
+                "id": 1110919
+            },
+            {
+                "name": "dijhorn-simmonds",
+                "id": 1197328
+            },
+            {
+                "name": "ible-jameel",
+                "id": 965380
+            },
+            {
+                "name": "raheem-hanley",
+                "id": 253289
+            },
+            {
+                "name": "jamal-jeffers-francis",
+                "id": 965379
+            }
+        ],
+        "id": 21819
+    }
+}

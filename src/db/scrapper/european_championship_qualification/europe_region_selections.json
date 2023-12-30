@@ -1,0 +1,6735 @@
+{
+    "netherlands": {
+        "players": [
+            {
+                "name": "calvin-stengs",
+                "id": 857480
+            },
+            {
+                "name": "cody-gakpo",
+                "id": 862967
+            },
+            {
+                "name": "jordan-teze",
+                "id": 825846
+            },
+            {
+                "name": "denzel-dumfries",
+                "id": 759520
+            },
+            {
+                "name": "stefan-de-vrij",
+                "id": 91046
+            },
+            {
+                "name": "mats-wieffer",
+                "id": 959628
+            },
+            {
+                "name": "nathan-ake",
+                "id": 149663
+            },
+            {
+                "name": "virgil-van-dijk",
+                "id": 151545
+            },
+            {
+                "name": "frenkie-de-jong",
+                "id": 795222
+            },
+            {
+                "name": "joey-veerman",
+                "id": 850816
+            },
+            {
+                "name": "quilindschy-hartman",
+                "id": 1392044
+            },
+            {
+                "name": "jorrel-hato",
+                "id": 1153079
+            },
+            {
+                "name": "bart-verbruggen",
+                "id": 994363
+            },
+            {
+                "name": "donyell-malen",
+                "id": 803039
+            },
+            {
+                "name": "tijjani-reijnders",
+                "id": 893549
+            },
+            {
+                "name": "daley-blind",
+                "id": 44864
+            },
+            {
+                "name": "georginio-wijnaldum",
+                "id": 22126
+            },
+            {
+                "name": "wout-weghorst",
+                "id": 252215
+            },
+            {
+                "name": "matthijs-de-ligt",
+                "id": 803031
+            },
+            {
+                "name": "marten-de-roon",
+                "id": 100389
+            },
+            {
+                "name": "steven-berghuis",
+                "id": 100386
+            },
+            {
+                "name": "xavi-simons",
+                "id": 997183
+            },
+            {
+                "name": "teun-koopmeiners",
+                "id": 803033
+            },
+            {
+                "name": "thijs-dallinga",
+                "id": 905381
+            },
+            {
+                "name": "kenneth-taylor",
+                "id": 959806
+            },
+            {
+                "name": "mark-flekken",
+                "id": 171919
+            },
+            {
+                "name": "micky-van-de-ven",
+                "id": 998247
+            },
+            {
+                "name": "steven-bergwijn",
+                "id": 361798
+            },
+            {
+                "name": "jeremie-frimpong",
+                "id": 970361
+            },
+            {
+                "name": "jerdy-schouten",
+                "id": 844234
+            },
+            {
+                "name": "tyrell-malacia",
+                "id": 825839
+            },
+            {
+                "name": "noa-lang",
+                "id": 875136
+            },
+            {
+                "name": "lutsharel-geertruida",
+                "id": 856739
+            },
+            {
+                "name": "memphis-depay",
+                "id": 138833
+            },
+            {
+                "name": "brobbey-brian",
+                "id": 910048
+            },
+            {
+                "name": "jurrien-timber",
+                "id": 958959
+            },
+            {
+                "name": "davy-klaassen",
+                "id": 97410
+            },
+            {
+                "name": "jasper-cillessen",
+                "id": 123865
+            }
+        ],
+        "id": 4705
+    },
+    "iceland": {
+        "players": [
+            {
+                "name": "hakon-rafn-valdimarsson",
+                "id": 1005959
+            },
+            {
+                "name": "aron-gunnarsson",
+                "id": 30441
+            },
+            {
+                "name": "gylfi-sigurdsson",
+                "id": 43192
+            },
+            {
+                "name": "david-kristjan-olafsson",
+                "id": 796720
+            },
+            {
+                "name": "daniel-leo-gretarsson",
+                "id": 793155
+            },
+            {
+                "name": "jon-dagur-thorsteinsson",
+                "id": 862449
+            },
+            {
+                "name": "andri-gudjohnsen",
+                "id": 982523
+            },
+            {
+                "name": "hjortur-hermannsson",
+                "id": 135623
+            },
+            {
+                "name": "victor-palsson",
+                "id": 87507
+            },
+            {
+                "name": "haraldsson-hakon-arnar",
+                "id": 1138804
+            },
+            {
+                "name": "alfred-finnbogason",
+                "id": 576382
+            },
+            {
+                "name": "johann-gudmundsson",
+                "id": 49805
+            },
+            {
+                "name": "runar-alex-runarsson",
+                "id": 187023
+            },
+            {
+                "name": "gudmundur-thorarinsson",
+                "id": 66758
+            },
+            {
+                "name": "sverrir-ingi-ingason",
+                "id": 120970
+            },
+            {
+                "name": "mikael-ellertsson",
+                "id": 933203
+            },
+            {
+                "name": "isak-bergmann-johannesson",
+                "id": 1112327
+            },
+            {
+                "name": "stefan-teitur-thordarson",
+                "id": 858282
+            },
+            {
+                "name": "kolbeinn-finnsson",
+                "id": 797522
+            },
+            {
+                "name": "arnor-traustason",
+                "id": 94796
+            },
+            {
+                "name": "orri-steinn-oskarsson",
+                "id": 1026015
+            },
+            {
+                "name": "arnor-sigurdsson",
+                "id": 841399
+            },
+            {
+                "name": "willum-thor-willumsson",
+                "id": 978823
+            },
+            {
+                "name": "albert-gudmundsson",
+                "id": 804909
+            },
+            {
+                "name": "elias-olafsson",
+                "id": 879183
+            },
+            {
+                "name": "anderson-mikael",
+                "id": 831247
+            },
+            {
+                "name": "saevar-atli-magnusson",
+                "id": 863589
+            },
+            {
+                "name": "valgeir-lunddal",
+                "id": 933117
+            },
+            {
+                "name": "hordur-magnusson",
+                "id": 94770
+            },
+            {
+                "name": "alfons-sampsted",
+                "id": 842536
+            },
+            {
+                "name": "hlynsson-kristian",
+                "id": 1160026
+            }
+        ],
+        "id": 4708
+    },
+    "portugal": {
+        "players": [
+            {
+                "name": "bruno-fernandes",
+                "id": 288205
+            },
+            {
+                "name": "goncalo-inacio",
+                "id": 1001196
+            },
+            {
+                "name": "cristiano-ronaldo",
+                "id": 750
+            },
+            {
+                "name": "joao-cancelo",
+                "id": 138892
+            },
+            {
+                "name": "ricardo-horta",
+                "id": 314380
+            },
+            {
+                "name": "pepe",
+                "id": 5884
+            },
+            {
+                "name": "toti-gomes",
+                "id": 973418
+            },
+            {
+                "name": "antonio-silva",
+                "id": 1006069
+            },
+            {
+                "name": "danilo-pereira",
+                "id": 99545
+            },
+            {
+                "name": "ruben-dias",
+                "id": 318941
+            },
+            {
+                "name": "bernardo-silva",
+                "id": 331209
+            },
+            {
+                "name": "nuno-mendes",
+                "id": 989768
+            },
+            {
+                "name": "joao-felix",
+                "id": 851671
+            },
+            {
+                "name": "rafael-leao",
+                "id": 851284
+            },
+            {
+                "name": "joao-palhinha",
+                "id": 364612
+            },
+            {
+                "name": "goncalo-ramos",
+                "id": 934510
+            },
+            {
+                "name": "raphael-guerreiro",
+                "id": 246999
+            },
+            {
+                "name": "diogo-dalot",
+                "id": 843200
+            },
+            {
+                "name": "diogo-costa",
+                "id": 843115
+            },
+            {
+                "name": "jose-sa",
+                "id": 252669
+            },
+            {
+                "name": "rui-patricio",
+                "id": 17737
+            },
+            {
+                "name": "otavio",
+                "id": 244801
+            },
+            {
+                "name": "ruben-neves",
+                "id": 280955
+            },
+            {
+                "name": "vitinha",
+                "id": 902029
+            },
+            {
+                "name": "diogo-jota",
+                "id": 606164
+            },
+            {
+                "name": "nelson-semedo",
+                "id": 252821
+            },
+            {
+                "name": "joao-mario",
+                "id": 902031
+            },
+            {
+                "name": "joao-neves",
+                "id": 1190933
+            },
+            {
+                "name": "pedro-neto",
+                "id": 879349
+            },
+            {
+                "name": "bruma",
+                "id": 97012
+            },
+            {
+                "name": "joao-mario",
+                "id": 97001
+            }
+        ],
+        "id": 4704
+    },
+    "czech-republic": {
+        "players": [
+            {
+                "name": "tomas-chory",
+                "id": 188307
+            },
+            {
+                "name": "vaclav-cerny",
+                "id": 280631
+            },
+            {
+                "name": "martin-vitik",
+                "id": 1085913
+            },
+            {
+                "name": "jindrich-stanek",
+                "id": 280601
+            },
+            {
+                "name": "tomas-soucek",
+                "id": 799041
+            },
+            {
+                "name": "tomas-holes",
+                "id": 151440
+            },
+            {
+                "name": "ales-mandous",
+                "id": 151967
+            },
+            {
+                "name": "michal-sadilek",
+                "id": 825731
+            },
+            {
+                "name": "ladislav-krejci",
+                "id": 856250
+            },
+            {
+                "name": "david-jurasek",
+                "id": 1030711
+            },
+            {
+                "name": "vladimir-coufal",
+                "id": 138024
+            },
+            {
+                "name": "petr-sevcik",
+                "id": 282971
+            },
+            {
+                "name": "vaclav-jemelka",
+                "id": 802317
+            },
+            {
+                "name": "zima-david",
+                "id": 963084
+            },
+            {
+                "name": "vasil-kusej",
+                "id": 876947
+            },
+            {
+                "name": "adam-hlozek",
+                "id": 963801
+            },
+            {
+                "name": "david-doudera",
+                "id": 891442
+            },
+            {
+                "name": "tomas-cvancara",
+                "id": 929163
+            },
+            {
+                "name": "lukas-provod",
+                "id": 846122
+            },
+            {
+                "name": "jan-kuchta",
+                "id": 824139
+            },
+            {
+                "name": "vaclav-jurecka",
+                "id": 225850
+            },
+            {
+                "name": "lukas-masopust",
+                "id": 152684
+            },
+            {
+                "name": "jakub-brabec",
+                "id": 72020
+            },
+            {
+                "name": "alex-kral",
+                "id": 825740
+            },
+            {
+                "name": "jiri-pavlenka",
+                "id": 154040
+            },
+            {
+                "name": "antonin-barak",
+                "id": 330705
+            },
+            {
+                "name": "mojmir-chytil",
+                "id": 826049
+            },
+            {
+                "name": "lingr-ondrej",
+                "id": 794968
+            },
+            {
+                "name": "jan-matousek",
+                "id": 889900
+            },
+            {
+                "name": "lukas-sadilek",
+                "id": 280637
+            },
+            {
+                "name": "jaroslav-zeleny",
+                "id": 118204
+            }
+        ],
+        "id": 4714
+    },
+    "hungary": {
+        "players": [
+            {
+                "name": "dominik-szoboszlai",
+                "id": 869856
+            },
+            {
+                "name": "balint-vecsei",
+                "id": 109582
+            },
+            {
+                "name": "botond-balogh",
+                "id": 983510
+            },
+            {
+                "name": "willi-orban",
+                "id": 136924
+            },
+            {
+                "name": "roland-sallai",
+                "id": 355088
+            },
+            {
+                "name": "denes-dibusz",
+                "id": 75425
+            },
+            {
+                "name": "adam-nagy",
+                "id": 795713
+            },
+            {
+                "name": "barnabas-varga",
+                "id": 852434
+            },
+            {
+                "name": "martin-adam",
+                "id": 285739
+            },
+            {
+                "name": "attila-szalai",
+                "id": 823092
+            },
+            {
+                "name": "loic-nego",
+                "id": 54308
+            },
+            {
+                "name": "adam-lang",
+                "id": 154406
+            },
+            {
+                "name": "laszlo-kleinheisler",
+                "id": 134877
+            },
+            {
+                "name": "zsolt-nagy",
+                "id": 282541
+            },
+            {
+                "name": "krisztofer-horvath",
+                "id": 928572
+            },
+            {
+                "name": "mihaly-kata",
+                "id": 983511
+            },
+            {
+                "name": "zsolt-kalmar",
+                "id": 182081
+            },
+            {
+                "name": "styles-callum",
+                "id": 839940
+            },
+            {
+                "name": "attila-fiola",
+                "id": 49585
+            },
+            {
+                "name": "bendeguz-bolla",
+                "id": 921140
+            },
+            {
+                "name": "csoboth-kevin",
+                "id": 879542
+            },
+            {
+                "name": "endre-botka",
+                "id": 134863
+            },
+            {
+                "name": "milos-kerkez",
+                "id": 1097425
+            },
+            {
+                "name": "daniel-gazdag",
+                "id": 284605
+            },
+            {
+                "name": "janos-ferenczi",
+                "id": 125937
+            },
+            {
+                "name": "andras-nemeth",
+                "id": 983519
+            },
+            {
+                "name": "peter-barath",
+                "id": 1002518
+            },
+            {
+                "name": "soma-szuhodovszki",
+                "id": 917370
+            }
+        ],
+        "id": 4709
+    },
+    "france": {
+        "players": [
+            {
+                "name": "jonathan-clauss",
+                "id": 821728
+            },
+            {
+                "name": "kylian-mbappe",
+                "id": 826643
+            },
+            {
+                "name": "camavinga-eduardo",
+                "id": 973887
+            },
+            {
+                "name": "antoine-griezmann",
+                "id": 85859
+            },
+            {
+                "name": "youssouf-fofana",
+                "id": 945062
+            },
+            {
+                "name": "kingsley-coman",
+                "id": 280441
+            },
+            {
+                "name": "theo-hernandez",
+                "id": 788027
+            },
+            {
+                "name": "dayot-upamecano",
+                "id": 798583
+            },
+            {
+                "name": "warren-zaire-emery",
+                "id": 1142672
+            },
+            {
+                "name": "benjamin-pavard",
+                "id": 787505
+            },
+            {
+                "name": "ousmane-dembele",
+                "id": 818244
+            },
+            {
+                "name": "wesley-fofana",
+                "id": 923894
+            },
+            {
+                "name": "mike-maignan",
+                "id": 191210
+            },
+            {
+                "name": "aurelien-tchouameni",
+                "id": 859025
+            },
+            {
+                "name": "jean-clair-todibo",
+                "id": 945217
+            },
+            {
+                "name": "ibrahima-konate",
+                "id": 826215
+            },
+            {
+                "name": "adrien-rabiot",
+                "id": 250737
+            },
+            {
+                "name": "boubacar-kamara",
+                "id": 826204
+            },
+            {
+                "name": "olivier-giroud",
+                "id": 39070
+            },
+            {
+                "name": "lucas-hernandez",
+                "id": 352370
+            },
+            {
+                "name": "marcus-thuram",
+                "id": 791702
+            },
+            {
+                "name": "jules-kounde",
+                "id": 827212
+            },
+            {
+                "name": "christopher-nkunku",
+                "id": 769333
+            },
+            {
+                "name": "william-saliba",
+                "id": 941168
+            },
+            {
+                "name": "axel-disasi",
+                "id": 827243
+            },
+            {
+                "name": "gusto-malo",
+                "id": 996958
+            },
+            {
+                "name": "diaby-moussa",
+                "id": 855817
+            },
+            {
+                "name": "randal-kolo-muani",
+                "id": 871706
+            },
+            {
+                "name": "brice-samba",
+                "id": 164055
+            },
+            {
+                "name": "khephren-thuram",
+                "id": 904832
+            }
+        ],
+        "id": 4481
+    },
+    "belgium": {
+        "players": [
+            {
+                "name": "romelu-lukaku",
+                "id": 78893
+            },
+            {
+                "name": "dodi-lukebakio",
+                "id": 823631
+            },
+            {
+                "name": "jeremy-doku",
+                "id": 934386
+            },
+            {
+                "name": "leandro-trossard",
+                "id": 135666
+            },
+            {
+                "name": "charles-de-ketelaere",
+                "id": 960441
+            },
+            {
+                "name": "koen-casteels",
+                "id": 70987
+            },
+            {
+                "name": "yannick-carrasco",
+                "id": 182001
+            },
+            {
+                "name": "amadou-onana",
+                "id": 923973
+            },
+            {
+                "name": "thibaut-courtois",
+                "id": 70988
+            },
+            {
+                "name": "timothy-castagne",
+                "id": 329417
+            },
+            {
+                "name": "wout-faes",
+                "id": 361696
+            },
+            {
+                "name": "kevin-de-bruyne",
+                "id": 70996
+            },
+            {
+                "name": "jan-vertonghen",
+                "id": 16921
+            },
+            {
+                "name": "matz-sels",
+                "id": 78152
+            },
+            {
+                "name": "arthur-theate",
+                "id": 965778
+            },
+            {
+                "name": "youri-tielemans",
+                "id": 331737
+            },
+            {
+                "name": "johan-bakayoko",
+                "id": 1088896
+            },
+            {
+                "name": "leander-dendoncker",
+                "id": 190405
+            },
+            {
+                "name": "orel-mangala",
+                "id": 793988
+            },
+            {
+                "name": "vranckx-aster",
+                "id": 989371
+            },
+            {
+                "name": "hugo-siquet",
+                "id": 983041
+            },
+            {
+                "name": "zeno-debast",
+                "id": 1126512
+            },
+            {
+                "name": "michy-batshuayi",
+                "id": 147745
+            },
+            {
+                "name": "ameen-al-dakhil",
+                "id": 964761
+            },
+            {
+                "name": "lois-openda",
+                "id": 835480
+            },
+            {
+                "name": "saelemaekers-alexis",
+                "id": 901891
+            },
+            {
+                "name": "mike-tresor",
+                "id": 826183
+            },
+            {
+                "name": "sebastiaan-bornauw",
+                "id": 826167
+            },
+            {
+                "name": "mandela-keita",
+                "id": 1110136
+            },
+            {
+                "name": "arthur-vermeeren",
+                "id": 1149127
+            },
+            {
+                "name": "deman-olivier",
+                "id": 960114
+            }
+        ],
+        "id": 4717
+    },
+    "denmark": {
+        "players": [
+            {
+                "name": "christian-eriksen",
+                "id": 105734
+            },
+            {
+                "name": "robert-skov",
+                "id": 327863
+            },
+            {
+                "name": "rasmus-hojlund",
+                "id": 1086417
+            },
+            {
+                "name": "joachim-andersen",
+                "id": 362682
+            },
+            {
+                "name": "pierre-emile-hojbjerg",
+                "id": 149593
+            },
+            {
+                "name": "alexander-bah",
+                "id": 850976
+            },
+            {
+                "name": "andreas-christensen",
+                "id": 186795
+            },
+            {
+                "name": "mathias-jensen",
+                "id": 799251
+            },
+            {
+                "name": "jonas-wind",
+                "id": 826069
+            },
+            {
+                "name": "jannik-vestergaard",
+                "id": 120538
+            },
+            {
+                "name": "simon-kjaer",
+                "id": 21535
+            },
+            {
+                "name": "christian-norgaard",
+                "id": 135256
+            },
+            {
+                "name": "damsgaard-mikkel",
+                "id": 907072
+            },
+            {
+                "name": "joakim-maehle",
+                "id": 842364
+            },
+            {
+                "name": "yussuf-poulsen",
+                "id": 135264
+            },
+            {
+                "name": "matt-oriley",
+                "id": 891829
+            },
+            {
+                "name": "nicolai-vallys",
+                "id": 943478
+            },
+            {
+                "name": "kristiansen-victor",
+                "id": 1092409
+            },
+            {
+                "name": "thomas-delaney",
+                "id": 66477
+            },
+            {
+                "name": "mohamed-daramy",
+                "id": 957279
+            },
+            {
+                "name": "hjulmand-morten",
+                "id": 859917
+            },
+            {
+                "name": "victor-nelsson",
+                "id": 846148
+            },
+            {
+                "name": "andreas-skov-olsen",
+                "id": 888537
+            },
+            {
+                "name": "martin-braithwaite",
+                "id": 66471
+            },
+            {
+                "name": "rasmus-kristensen",
+                "id": 921789
+            },
+            {
+                "name": "kasper-dolberg",
+                "id": 795761
+            },
+            {
+                "name": "kasper-schmeichel",
+                "id": 1076
+            },
+            {
+                "name": "zanka",
+                "id": 26404
+            },
+            {
+                "name": "jesper-lindstrom",
+                "id": 947929
+            },
+            {
+                "name": "jens-stryger-larsen",
+                "id": 44848
+            },
+            {
+                "name": "philip-billing",
+                "id": 548660
+            },
+            {
+                "name": "elias-jelert",
+                "id": 1126433
+            }
+        ],
+        "id": 4476
+    },
+    "israel": {
+        "players": [
+            {
+                "name": "avishai-cohen",
+                "id": 552982
+            },
+            {
+                "name": "daniel-peretz",
+                "id": 1048265
+            },
+            {
+                "name": "miguel-vitor",
+                "id": 30031
+            },
+            {
+                "name": "omri-glazer",
+                "id": 797083
+            },
+            {
+                "name": "manor-solomon",
+                "id": 862223
+            },
+            {
+                "name": "raz-shlomo",
+                "id": 861825
+            },
+            {
+                "name": "gabi-kanikovski",
+                "id": 856417
+            },
+            {
+                "name": "mohammad-abu-fani",
+                "id": 836849
+            },
+            {
+                "name": "gadi-kinda",
+                "id": 174557
+            },
+            {
+                "name": "neta-lavi",
+                "id": 801830
+            },
+            {
+                "name": "sean-goldberg",
+                "id": 186951
+            },
+            {
+                "name": "oscar-gloukh",
+                "id": 1155158
+            },
+            {
+                "name": "dean-david",
+                "id": 305964
+            },
+            {
+                "name": "dolev-haziza",
+                "id": 808835
+            },
+            {
+                "name": "stav-lemkin",
+                "id": 1091923
+            },
+            {
+                "name": "ramzi-safuri",
+                "id": 186949
+            },
+            {
+                "name": "dor-peretz",
+                "id": 186953
+            },
+            {
+                "name": "ofir-davidzada",
+                "id": 850969
+            },
+            {
+                "name": "shon-weissman",
+                "id": 790817
+            },
+            {
+                "name": "eran-zahavi",
+                "id": 42183
+            },
+            {
+                "name": "liel-abada",
+                "id": 965253
+            },
+            {
+                "name": "arad-ofri",
+                "id": 840780
+            },
+            {
+                "name": "dan-glazer",
+                "id": 801381
+            },
+            {
+                "name": "roy-revivo",
+                "id": 1142085
+            },
+            {
+                "name": "eli-dasa",
+                "id": 127846
+            },
+            {
+                "name": "doron-leidner",
+                "id": 1028984
+            },
+            {
+                "name": "dor-turgeman",
+                "id": 1005586
+            },
+            {
+                "name": "sagiv-yehezkel",
+                "id": 357794
+            },
+            {
+                "name": "tai-baribo",
+                "id": 840513
+            },
+            {
+                "name": "idan-toklomati-jorno",
+                "id": 1386727
+            },
+            {
+                "name": "khalaili-anan",
+                "id": 1403362
+            },
+            {
+                "name": "jaber-mahmoud",
+                "id": 905041
+            },
+            {
+                "name": "mohammad-kanaan",
+                "id": 921821
+            },
+            {
+                "name": "bibars-natcho",
+                "id": 19191
+            },
+            {
+                "name": "danny-gruper",
+                "id": 993378
+            }
+        ],
+        "id": 4480
+    },
+    "italy": {
+        "players": [
+            {
+                "name": "federico-chiesa",
+                "id": 845386
+            },
+            {
+                "name": "emerson-palmieri",
+                "id": 155997
+            },
+            {
+                "name": "alessio-romagnoli",
+                "id": 227864
+            },
+            {
+                "name": "lorenzo-pellegrini",
+                "id": 555540
+            },
+            {
+                "name": "giacomo-bonaventura",
+                "id": 36784
+            },
+            {
+                "name": "ciro-immobile",
+                "id": 45923
+            },
+            {
+                "name": "alessandro-buongiorno",
+                "id": 870263
+            },
+            {
+                "name": "domenico-berardi",
+                "id": 253367
+            },
+            {
+                "name": "gianluca-mancini",
+                "id": 611210
+            },
+            {
+                "name": "matteo-pessina",
+                "id": 350210
+            },
+            {
+                "name": "mateo-retegui",
+                "id": 914501
+            },
+            {
+                "name": "matteo-darmian",
+                "id": 19352
+            },
+            {
+                "name": "giacomo-raspadori",
+                "id": 865651
+            },
+            {
+                "name": "davide-frattesi",
+                "id": 835600
+            },
+            {
+                "name": "alessandro-bastoni",
+                "id": 826188
+            },
+            {
+                "name": "nicolo-barella",
+                "id": 363856
+            },
+            {
+                "name": "vincenzo-grifo",
+                "id": 171961
+            },
+            {
+                "name": "manuel-locatelli",
+                "id": 363860
+            },
+            {
+                "name": "nicolo-zaniolo",
+                "id": 864898
+            },
+            {
+                "name": "sandro-tonali",
+                "id": 892673
+            },
+            {
+                "name": "federico-dimarco",
+                "id": 284361
+            },
+            {
+                "name": "moise-kean",
+                "id": 835601
+            },
+            {
+                "name": "stephan-el-shaarawy",
+                "id": 45925
+            },
+            {
+                "name": "federico-gatti",
+                "id": 1128063
+            },
+            {
+                "name": "giorgio-scalvini",
+                "id": 1012176
+            },
+            {
+                "name": "giovanni-di-lorenzo",
+                "id": 153257
+            },
+            {
+                "name": "gianluigi-donnarumma",
+                "id": 824509
+            },
+            {
+                "name": "bryan-cristante",
+                "id": 186855
+            },
+            {
+                "name": "gianluca-scamacca",
+                "id": 807301
+            },
+            {
+                "name": "cristiano-biraghi",
+                "id": 122848
+            },
+            {
+                "name": "mattia-zaccagni",
+                "id": 293581
+            },
+            {
+                "name": "rafael-toloi",
+                "id": 82943
+            },
+            {
+                "name": "francesco-acerbi",
+                "id": 126816
+            },
+            {
+                "name": "wilfried-gnonto",
+                "id": 998951
+            },
+            {
+                "name": "matteo-politano",
+                "id": 235672
+            },
+            {
+                "name": "leonardo-spinazzola",
+                "id": 148899
+            },
+            {
+                "name": "marco-verratti",
+                "id": 126691
+            },
+            {
+                "name": "riccardo-orsolini",
+                "id": 793645
+            },
+            {
+                "name": "jorginho",
+                "id": 132874
+            },
+            {
+                "name": "destiny-udogie",
+                "id": 983572
+            }
+        ],
+        "id": 4707
+    },
+    "switzerland": {
+        "players": [
+            {
+                "name": "xherdan-shaqiri",
+                "id": 65953
+            },
+            {
+                "name": "granit-xhaka",
+                "id": 117777
+            },
+            {
+                "name": "silvan-widmer",
+                "id": 157377
+            },
+            {
+                "name": "ruben-vargas",
+                "id": 872919
+            },
+            {
+                "name": "nico-elvedi",
+                "id": 282229
+            },
+            {
+                "name": "denis-zakaria",
+                "id": 770677
+            },
+            {
+                "name": "ricardo-rodriguez",
+                "id": 67769
+            },
+            {
+                "name": "remo-freuler",
+                "id": 115516
+            },
+            {
+                "name": "manuel-akanji",
+                "id": 383560
+            },
+            {
+                "name": "christian-fassnacht",
+                "id": 787422
+            },
+            {
+                "name": "zeki-amdouni",
+                "id": 990550
+            },
+            {
+                "name": "steven-zuber",
+                "id": 37752
+            },
+            {
+                "name": "renato-steffen",
+                "id": 243049
+            },
+            {
+                "name": "edimilson-fernandes",
+                "id": 330099
+            },
+            {
+                "name": "fabian-schar",
+                "id": 101882
+            },
+            {
+                "name": "dan-ndoye",
+                "id": 944327
+            },
+            {
+                "name": "yvon-mvogo",
+                "id": 149656
+            },
+            {
+                "name": "noah-okafor",
+                "id": 865523
+            },
+            {
+                "name": "cedric-itten",
+                "id": 352290
+            },
+            {
+                "name": "jordan-lotomba",
+                "id": 796279
+            },
+            {
+                "name": "ulisses-garcia",
+                "id": 558320
+            },
+            {
+                "name": "filip-ugrinic",
+                "id": 857482
+            },
+            {
+                "name": "eray-comert",
+                "id": 814023
+            },
+            {
+                "name": "cedric-zesiger",
+                "id": 798926
+            },
+            {
+                "name": "yann-sommer",
+                "id": 16206
+            },
+            {
+                "name": "michel-aebischer",
+                "id": 850891
+            },
+            {
+                "name": "haris-seferovic",
+                "id": 50899
+            },
+            {
+                "name": "djibril-sow",
+                "id": 799054
+            },
+            {
+                "name": "gregor-kobel",
+                "id": 556866
+            },
+            {
+                "name": "fabian-rieder",
+                "id": 929620
+            },
+            {
+                "name": "bislimi-uran",
+                "id": 927386
+            },
+            {
+                "name": "andi-zeqiri",
+                "id": 796067
+            }
+        ],
+        "id": 4699
+    },
+    "spain": {
+        "players": [
+            {
+                "name": "dani-olmo",
+                "id": 789071
+            },
+            {
+                "name": "nacho-fernandez",
+                "id": 69404
+            },
+            {
+                "name": "rodri",
+                "id": 827606
+            },
+            {
+                "name": "ferran-torres",
+                "id": 855833
+            },
+            {
+                "name": "alejandro-baena",
+                "id": 910031
+            },
+            {
+                "name": "nico-williams",
+                "id": 1085400
+            },
+            {
+                "name": "fabian-ruiz",
+                "id": 784655
+            },
+            {
+                "name": "aymeric-laporte",
+                "id": 149734
+            },
+            {
+                "name": "alvaro-morata",
+                "id": 125407
+            },
+            {
+                "name": "joselu",
+                "id": 69418
+            },
+            {
+                "name": "daniel-carvajal",
+                "id": 138572
+            },
+            {
+                "name": "jesus-navas",
+                "id": 11869
+            },
+            {
+                "name": "marco-asensio",
+                "id": 361004
+            },
+            {
+                "name": "alejandro-grimaldo",
+                "id": 177177
+            },
+            {
+                "name": "lamine-yamal",
+                "id": 1402912
+            },
+            {
+                "name": "jose-luis-gaya",
+                "id": 227922
+            },
+            {
+                "name": "mikel-merino",
+                "id": 592010
+            },
+            {
+                "name": "dani-ceballos",
+                "id": 547838
+            },
+            {
+                "name": "inigo-martinez",
+                "id": 173883
+            },
+            {
+                "name": "robin-le-normand",
+                "id": 787751
+            },
+            {
+                "name": "aleix-garcia",
+                "id": 796047
+            },
+            {
+                "name": "oihan-sancet",
+                "id": 966801
+            },
+            {
+                "name": "pau-torres",
+                "id": 864169
+            },
+            {
+                "name": "bryan-zaragoza",
+                "id": 1084730
+            },
+            {
+                "name": "mikel-oyarzabal",
+                "id": 823622
+            },
+            {
+                "name": "kepa-arrizabalaga",
+                "id": 232422
+            },
+            {
+                "name": "david-garcia",
+                "id": 591136
+            },
+            {
+                "name": "gavi",
+                "id": 1103693
+            },
+            {
+                "name": "unai-simon",
+                "id": 797291
+            },
+            {
+                "name": "martin-zubimendi",
+                "id": 966837
+            },
+            {
+                "name": "fran-garcia",
+                "id": 851271
+            },
+            {
+                "name": "yeremy-pino",
+                "id": 984624
+            },
+            {
+                "name": "alejandro-balde",
+                "id": 997035
+            },
+            {
+                "name": "david-raya",
+                "id": 581310
+            },
+            {
+                "name": "alfonso-pedraza",
+                "id": 797290
+            },
+            {
+                "name": "iago-aspas",
+                "id": 19356
+            },
+            {
+                "name": "borja-iglesias",
+                "id": 785989
+            },
+            {
+                "name": "rodrigo-riquelme",
+                "id": 989113
+            },
+            {
+                "name": "ansu-fati",
+                "id": 962883
+            },
+            {
+                "name": "pedro-porro",
+                "id": 913654
+            },
+            {
+                "name": "isco",
+                "id": "103417"
+            }
+        ],
+        "id": 4698
+    },
+    "serbia": {
+        "players": [
+            {
+                "name": "dusan-tadic",
+                "id": 38560
+            },
+            {
+                "name": "aleksandar-mitrovic",
+                "id": 192144
+            },
+            {
+                "name": "darko-lazovic",
+                "id": 41157
+            },
+            {
+                "name": "strahinja-pavlovic",
+                "id": 965893
+            },
+            {
+                "name": "sergej-milinkovic-savic",
+                "id": 331447
+            },
+            {
+                "name": "filip-mladenovic",
+                "id": 126680
+            },
+            {
+                "name": "andrija-zivkovic",
+                "id": 188133
+            },
+            {
+                "name": "nemanja-gudelj",
+                "id": 68332
+            },
+            {
+                "name": "srdan-babic",
+                "id": 280815
+            },
+            {
+                "name": "dusan-vlahovic",
+                "id": 832208
+            },
+            {
+                "name": "milos-veljkovic",
+                "id": 227224
+            },
+            {
+                "name": "marko-grujic",
+                "id": 280835
+            },
+            {
+                "name": "filip-kostic",
+                "id": 126588
+            },
+            {
+                "name": "nikola-milenkovic",
+                "id": 836168
+            },
+            {
+                "name": "sasa-lukic",
+                "id": 371222
+            },
+            {
+                "name": "dejan-joveljic",
+                "id": 885663
+            },
+            {
+                "name": "mijat-gacinovic",
+                "id": 190917
+            },
+            {
+                "name": "vanja-milinkovic-savic",
+                "id": 356160
+            },
+            {
+                "name": "nemanja-maksimovic",
+                "id": 331449
+            },
+            {
+                "name": "filip-duricic",
+                "id": 69367
+            },
+            {
+                "name": "petar-ratkov",
+                "id": 1101942
+            },
+            {
+                "name": "stefan-mitrovic",
+                "id": 1019892
+            },
+            {
+                "name": "lazar-samardzic",
+                "id": 980624
+            },
+            {
+                "name": "luka-jovic",
+                "id": 319129
+            },
+            {
+                "name": "aleksa-terzic",
+                "id": 876860
+            },
+            {
+                "name": "uros-racic",
+                "id": 839909
+            },
+            {
+                "name": "ivan-ilic",
+                "id": 877371
+            },
+            {
+                "name": "nemanja-radonjic",
+                "id": 802665
+            },
+            {
+                "name": "strahinja-erakovic",
+                "id": 940827
+            },
+            {
+                "name": "djordje-jovanovic",
+                "id": 863945
+            }
+        ],
+        "id": 6355
+    },
+    "belarus": {
+        "players": [
+            {
+                "name": "dmitri-antilevski",
+                "id": 823398
+            },
+            {
+                "name": "pavel-pavlyuchenko",
+                "id": 856554
+            },
+            {
+                "name": "parkhomenko-egor",
+                "id": 1046583
+            },
+            {
+                "name": "sergey-ignatovich",
+                "id": 65464
+            },
+            {
+                "name": "khadarkevich-ruslan",
+                "id": 981509
+            },
+            {
+                "name": "aleksandr-pavlovets",
+                "id": 280871
+            },
+            {
+                "name": "sergei-politevich",
+                "id": 43187
+            },
+            {
+                "name": "max-ebong",
+                "id": 889009
+            },
+            {
+                "name": "maksim-plotnikov",
+                "id": 823051
+            },
+            {
+                "name": "volkov-zakhar",
+                "id": 881947
+            },
+            {
+                "name": "kirill-kaplenko",
+                "id": 889158
+            },
+            {
+                "name": "denis-laptev",
+                "id": 128335
+            },
+            {
+                "name": "lisakovich-vitali",
+                "id": 839301
+            },
+            {
+                "name": "denis-polyakov",
+                "id": 69795
+            },
+            {
+                "name": "kirill-pechenin",
+                "id": 883953
+            },
+            {
+                "name": "artem-kontsevoj",
+                "id": 917236
+            },
+            {
+                "name": "roman-yuzepchuk",
+                "id": 818090
+            },
+            {
+                "name": "evgeni-yablonski",
+                "id": 379666
+            },
+            {
+                "name": "nikita-korzun",
+                "id": 182097
+            },
+            {
+                "name": "valeri-gromyko",
+                "id": 797646
+            },
+            {
+                "name": "sergei-karpovich",
+                "id": 94112
+            },
+            {
+                "name": "valeri-bocherov",
+                "id": 1026755
+            },
+            {
+                "name": "vladislav-malkevich",
+                "id": 856293
+            },
+            {
+                "name": "vladislav-morozov",
+                "id": 1009460
+            },
+            {
+                "name": "vladislav-klimovich",
+                "id": 573256
+            },
+            {
+                "name": "bakhar-ivan",
+                "id": 842894
+            },
+            {
+                "name": "vladimir-khvashchinskiy",
+                "id": 57480
+            },
+            {
+                "name": "artem-bykov",
+                "id": 152737
+            },
+            {
+                "name": "aleksandr-selyava",
+                "id": 152736
+            },
+            {
+                "name": "pavel-savitski",
+                "id": 135205
+            },
+            {
+                "name": "yuri-kovalev",
+                "id": 1006699
+            },
+            {
+                "name": "maksim-skavysh",
+                "id": 39494
+            },
+            {
+                "name": "denis-grechikho",
+                "id": 986185
+            },
+            {
+                "name": "andrey-kudravets",
+                "id": 1024218
+            },
+            {
+                "name": "egor-karpitsky",
+                "id": 1130261
+            }
+        ],
+        "id": 4743
+    },
+    "turkey": {
+        "players": [
+            {
+                "name": "samet-akaydin",
+                "id": 863600
+            },
+            {
+                "name": "cengiz-under",
+                "id": 758876
+            },
+            {
+                "name": "ismail-yuksek",
+                "id": 952600
+            },
+            {
+                "name": "abdulkerim-bardakci",
+                "id": 178963
+            },
+            {
+                "name": "cenk-tosun",
+                "id": 72127
+            },
+            {
+                "name": "ugurcan-cakir",
+                "id": 754330
+            },
+            {
+                "name": "yusuf-sari",
+                "id": 896364
+            },
+            {
+                "name": "hakan-calhanoglu",
+                "id": 135700
+            },
+            {
+                "name": "orkun-kokcu",
+                "id": 907461
+            },
+            {
+                "name": "yusuf-yazici",
+                "id": 827804
+            },
+            {
+                "name": "altay-bayindir",
+                "id": 815890
+            },
+            {
+                "name": "mert-gunok",
+                "id": 39573
+            },
+            {
+                "name": "kerem-akturkoglu",
+                "id": 903324
+            },
+            {
+                "name": "enes-unal",
+                "id": 336655
+            },
+            {
+                "name": "merih-demiral",
+                "id": 806968
+            },
+            {
+                "name": "salih-ozcan",
+                "id": 795005
+            },
+            {
+                "name": "baris-alper-yilmaz",
+                "id": 904096
+            },
+            {
+                "name": "caglar-soyuncu",
+                "id": 758608
+            },
+            {
+                "name": "ferdi-kadioglu",
+                "id": 825844
+            },
+            {
+                "name": "yunus-akgun",
+                "id": 857738
+            },
+            {
+                "name": "bertug-ozgur-yildirim",
+                "id": 1382235
+            },
+            {
+                "name": "arda-guler",
+                "id": 1091116
+            },
+            {
+                "name": "mert-muldur",
+                "id": 836683
+            },
+            {
+                "name": "onur-bulut",
+                "id": 142494
+            },
+            {
+                "name": "yildiz-kenan",
+                "id": 1149011
+            },
+            {
+                "name": "cenk-ozkacar",
+                "id": 953097
+            },
+            {
+                "name": "berkan-kutlu",
+                "id": 992912
+            },
+            {
+                "name": "eren-elmali",
+                "id": 981483
+            },
+            {
+                "name": "zeki-celik",
+                "id": 893008
+            },
+            {
+                "name": "irfan-can-kahveci",
+                "id": 226986
+            },
+            {
+                "name": "mehmet-umut-nayir",
+                "id": 284767
+            },
+            {
+                "name": "kaan-ayhan",
+                "id": 138152
+            },
+            {
+                "name": "halil-dervisoglu",
+                "id": 930775
+            },
+            {
+                "name": "abdulkadir-omur",
+                "id": 826155
+            },
+            {
+                "name": "ozan-kabak",
+                "id": 857740
+            },
+            {
+                "name": "salih-ucan",
+                "id": 135695
+            }
+        ],
+        "id": 4700
+    },
+    "england": {
+        "players": [
+            {
+                "name": "bukayo-saka",
+                "id": 934235
+            },
+            {
+                "name": "harry-kane",
+                "id": 108579
+            },
+            {
+                "name": "trent-alexander-arnold",
+                "id": 795064
+            },
+            {
+                "name": "jude-bellingham",
+                "id": 991011
+            },
+            {
+                "name": "james-maddison",
+                "id": 356398
+            },
+            {
+                "name": "luke-shaw",
+                "id": 190839
+            },
+            {
+                "name": "kieran-trippier",
+                "id": 69256
+            },
+            {
+                "name": "harry-maguire",
+                "id": 149380
+            },
+            {
+                "name": "john-stones",
+                "id": 152077
+            },
+            {
+                "name": "marc-guehi",
+                "id": 877994
+            },
+            {
+                "name": "ben-chilwell",
+                "id": 802695
+            },
+            {
+                "name": "kyle-walker",
+                "id": 44614
+            },
+            {
+                "name": "phil-foden",
+                "id": 859765
+            },
+            {
+                "name": "fikayo-tomori",
+                "id": 788255
+            },
+            {
+                "name": "declan-rice",
+                "id": 856714
+            },
+            {
+                "name": "callum-wilson",
+                "id": 113956
+            },
+            {
+                "name": "jordan-henderson",
+                "id": 42694
+            },
+            {
+                "name": "eberechi-eze",
+                "id": 864921
+            },
+            {
+                "name": "marcus-rashford",
+                "id": 814590
+            },
+            {
+                "name": "jack-grealish",
+                "id": 189061
+            },
+            {
+                "name": "jordan-pickford",
+                "id": 138530
+            },
+            {
+                "name": "tyrone-mings",
+                "id": 303638
+            },
+            {
+                "name": "cole-palmer",
+                "id": 982780
+            },
+            {
+                "name": "kalvin-phillips",
+                "id": 786028
+            },
+            {
+                "name": "reece-james",
+                "id": 885908
+            },
+            {
+                "name": "rico-lewis",
+                "id": 1136731
+            },
+            {
+                "name": "conor-gallagher",
+                "id": 904970
+            },
+            {
+                "name": "ivan-toney",
+                "id": 290927
+            },
+            {
+                "name": "ollie-watkins",
+                "id": 555386
+            },
+            {
+                "name": "kyle-walker",
+                "id": "44614"
+            }
+        ],
+        "id": 4713
+    },
+    "slovakia": {
+        "players": [
+            {
+                "name": "lukas-haraslin",
+                "id": 325121
+            },
+            {
+                "name": "marek-hamsik",
+                "id": 25985
+            },
+            {
+                "name": "david-hancko",
+                "id": 807771
+            },
+            {
+                "name": "ondrej-duda",
+                "id": 246319
+            },
+            {
+                "name": "martin-dubravka",
+                "id": 42209
+            },
+            {
+                "name": "ubomir-satka",
+                "id": 187231
+            },
+            {
+                "name": "juraj-kucka",
+                "id": 48563
+            },
+            {
+                "name": "milan-skriniar",
+                "id": 187205
+            },
+            {
+                "name": "robert-mak",
+                "id": 87087
+            },
+            {
+                "name": "denis-vavro",
+                "id": 293127
+            },
+            {
+                "name": "stanislav-lobotka",
+                "id": 150383
+            },
+            {
+                "name": "norbert-gyomber",
+                "id": 224456
+            },
+            {
+                "name": "laszlo-benes",
+                "id": 354558
+            },
+            {
+                "name": "marek-rodak",
+                "id": 358694
+            },
+            {
+                "name": "david-duris",
+                "id": 953583
+            },
+            {
+                "name": "tomas-suslov",
+                "id": 964154
+            },
+            {
+                "name": "robert-bozenik",
+                "id": 912033
+            },
+            {
+                "name": "peter-pekarik",
+                "id": 36949
+            },
+            {
+                "name": "david-strelec",
+                "id": 918482
+            },
+            {
+                "name": "erik-jirka",
+                "id": 562194
+            },
+            {
+                "name": "adam-zreak",
+                "id": 315162
+            },
+            {
+                "name": "ivan-schranz",
+                "id": 123179
+            },
+            {
+                "name": "michal-tomic",
+                "id": 825972
+            },
+            {
+                "name": "matus-bero",
+                "id": 187207
+            },
+            {
+                "name": "ubomir-tupta",
+                "id": 815553
+            },
+            {
+                "name": "robert-polievka",
+                "id": 552350
+            },
+            {
+                "name": "vernon-de-marco",
+                "id": 798795
+            },
+            {
+                "name": "patrik-hrosovsky",
+                "id": 198282
+            },
+            {
+                "name": "jakub-kadak",
+                "id": 856207
+            }
+        ],
+        "id": 4697
+    },
+    "greece": {
+        "players": [
+            {
+                "name": "dimitrios-pelkas",
+                "id": 139304
+            },
+            {
+                "name": "anastasios-bakasetas",
+                "id": 114076
+            },
+            {
+                "name": "konstantinos-mavropanos",
+                "id": 829022
+            },
+            {
+                "name": "giorgos-masouras",
+                "id": 592560
+            },
+            {
+                "name": "konstantinos-tsimikas",
+                "id": 786259
+            },
+            {
+                "name": "odysseas-vlachodimos",
+                "id": 138149
+            },
+            {
+                "name": "petros-mantalos",
+                "id": 80465
+            },
+            {
+                "name": "george-baldock",
+                "id": 112928
+            },
+            {
+                "name": "fotis-ioannidis",
+                "id": 903679
+            },
+            {
+                "name": "konstantelias-giannis",
+                "id": 1002007
+            },
+            {
+                "name": "hatzidiakos-pantelis",
+                "id": 822163
+            },
+            {
+                "name": "giorgos-giakoumakis",
+                "id": 277365
+            },
+            {
+                "name": "andreas-bouchalakis",
+                "id": 211116
+            },
+            {
+                "name": "dimitrios-kourbelis",
+                "id": 128089
+            },
+            {
+                "name": "lazaros-rota",
+                "id": 941338
+            },
+            {
+                "name": "panagiotis-retsos",
+                "id": 828971
+            },
+            {
+                "name": "dimitrios-giannoulis",
+                "id": 354878
+            },
+            {
+                "name": "manolis-siopis",
+                "id": 136675
+            },
+            {
+                "name": "taxiarchis-fountas",
+                "id": 204562
+            },
+            {
+                "name": "kostas-fortounis",
+                "id": 115577
+            },
+            {
+                "name": "zeca",
+                "id": 125584
+            },
+            {
+                "name": "konstantinos-koulierakis",
+                "id": 1184855
+            },
+            {
+                "name": "sotiris-alexandropoulos",
+                "id": 947477
+            },
+            {
+                "name": "anastasios-chatzigiovanis",
+                "id": 850770
+            },
+            {
+                "name": "giannis-papanikolaou",
+                "id": 856988
+            },
+            {
+                "name": "manolis-saliakas",
+                "id": 280551
+            },
+            {
+                "name": "vangelis-pavlidis",
+                "id": 795236
+            },
+            {
+                "name": "konstantinos-galanopoulos",
+                "id": 823817
+            },
+            {
+                "name": "georgios-tzavellas",
+                "id": 33000
+            }
+        ],
+        "id": 4710
+    },
+    "kosovo": {
+        "players": [
+            {
+                "name": "milot-rashica",
+                "id": 800411
+            },
+            {
+                "name": "lumbardh-dellova",
+                "id": 970518
+            },
+            {
+                "name": "vedat-muriqi",
+                "id": 310874
+            },
+            {
+                "name": "rrudhani-donat",
+                "id": 994053
+            },
+            {
+                "name": "fidan-aliti",
+                "id": 385296
+            },
+            {
+                "name": "bersant-celina",
+                "id": 281013
+            },
+            {
+                "name": "mirlind-kryeziu",
+                "id": 798826
+            },
+            {
+                "name": "arijanet-muric",
+                "id": 888971
+            },
+            {
+                "name": "ilir-krasniqi",
+                "id": 1127605
+            },
+            {
+                "name": "hyseni-muhamet",
+                "id": 1603767
+            },
+            {
+                "name": "qendrim-zyba",
+                "id": 938674
+            },
+            {
+                "name": "krasniqi-ermal",
+                "id": 1160858
+            },
+            {
+                "name": "mergim-vojvoda",
+                "id": 798147
+            },
+            {
+                "name": "betim-fazliji",
+                "id": 988905
+            },
+            {
+                "name": "florent-muslija",
+                "id": 882019
+            },
+            {
+                "name": "zymer-bytyqi",
+                "id": 226784
+            },
+            {
+                "name": "amir-rrahmani",
+                "id": 332155
+            },
+            {
+                "name": "florent-hadergjonaj",
+                "id": 354860
+            },
+            {
+                "name": "edon-zhegrova",
+                "id": 887766
+            },
+            {
+                "name": "lirim-kastrati",
+                "id": 895245
+            },
+            {
+                "name": "alban-ajdini",
+                "id": 1046302
+            },
+            {
+                "name": "visar-bekaj",
+                "id": 890652
+            },
+            {
+                "name": "lirim-kastrati",
+                "id": 883997
+            },
+            {
+                "name": "florian-loshaj",
+                "id": 831407
+            },
+            {
+                "name": "zeqiri-altin",
+                "id": 991742
+            },
+            {
+                "name": "jetmir-topalli",
+                "id": 987126
+            },
+            {
+                "name": "kreshnik-hajrizi",
+                "id": 825856
+            },
+            {
+                "name": "ibrahim-dresevic",
+                "id": 817987
+            },
+            {
+                "name": "meriton-korenica",
+                "id": 938672
+            },
+            {
+                "name": "leart-paqarada",
+                "id": 151581
+            },
+            {
+                "name": "elbasan-rashani",
+                "id": 113409
+            },
+            {
+                "name": "valon-berisha",
+                "id": 98197
+            },
+            {
+                "name": "albion-rrahmani",
+                "id": 1124624
+            },
+            {
+                "name": "arber-zeneli",
+                "id": 227892
+            },
+            {
+                "name": "bernard-berisha",
+                "id": 258151
+            },
+            {
+                "name": "beka-ismajl",
+                "id": 935548
+            },
+            {
+                "name": "hekuran-kryeziu",
+                "id": 150894
+            }
+        ],
+        "id": 154426
+    },
+    "croatia": {
+        "players": [
+            {
+                "name": "ivan-perisic",
+                "id": 38710
+            },
+            {
+                "name": "luka-modric",
+                "id": 15466
+            },
+            {
+                "name": "andrej-kramaric",
+                "id": 67647
+            },
+            {
+                "name": "ante-budimir",
+                "id": 37318
+            },
+            {
+                "name": "martin-erlic",
+                "id": 789234
+            },
+            {
+                "name": "josip-sutalo",
+                "id": 954836
+            },
+            {
+                "name": "bruno-petkovic",
+                "id": 309306
+            },
+            {
+                "name": "mateo-kovacic",
+                "id": 136710
+            },
+            {
+                "name": "lovro-majer",
+                "id": 841947
+            },
+            {
+                "name": "dominik-livakovic",
+                "id": 190419
+            },
+            {
+                "name": "luka-ivanusec",
+                "id": 822462
+            },
+            {
+                "name": "borna-sosa",
+                "id": 357584
+            },
+            {
+                "name": "josko-gvardiol",
+                "id": 964994
+            },
+            {
+                "name": "marcelo-brozovic",
+                "id": 108800
+            },
+            {
+                "name": "luka-sucic",
+                "id": 949156
+            },
+            {
+                "name": "josip-stanisic",
+                "id": 927407
+            },
+            {
+                "name": "marco-pasalic",
+                "id": 1066802
+            },
+            {
+                "name": "borna-barisic",
+                "id": 335301
+            },
+            {
+                "name": "mario-pasalic",
+                "id": 190437
+            },
+            {
+                "name": "domagoj-vida",
+                "id": 51225
+            },
+            {
+                "name": "josip-juranovic",
+                "id": 791642
+            },
+            {
+                "name": "marko-livaja",
+                "id": 94226
+            },
+            {
+                "name": "josip-brekalo",
+                "id": 357598
+            },
+            {
+                "name": "martin-baturina",
+                "id": 1090019
+            },
+            {
+                "name": "petar-musa",
+                "id": 827668
+            },
+            {
+                "name": "nikola-vlasic",
+                "id": 357596
+            },
+            {
+                "name": "dion-drena-beljo",
+                "id": 995773
+            }
+        ],
+        "id": 4715
+    },
+    "norway": {
+        "players": [
+            {
+                "name": "nusa-antonio",
+                "id": 1121923
+            },
+            {
+                "name": "erling-haaland",
+                "id": 839956
+            },
+            {
+                "name": "fredrik-aursnes",
+                "id": 228364
+            },
+            {
+                "name": "martin-odegaard",
+                "id": 547410
+            },
+            {
+                "name": "stefan-strandberg",
+                "id": 22447
+            },
+            {
+                "name": "leo-ostigard",
+                "id": 879746
+            },
+            {
+                "name": "aron-donnum",
+                "id": 863133
+            },
+            {
+                "name": "birger-meling",
+                "id": 606530
+            },
+            {
+                "name": "patrick-berg",
+                "id": 355174
+            },
+            {
+                "name": "mohamed-elyounoussi",
+                "id": 119151
+            },
+            {
+                "name": "ola-solbakken",
+                "id": 920744
+            },
+            {
+                "name": "sander-berge",
+                "id": 793167
+            },
+            {
+                "name": "alexander-sorloth",
+                "id": 309078
+            },
+            {
+                "name": "brice-wembangomo",
+                "id": 577266
+            },
+            {
+                "name": "kristoffer-ajer",
+                "id": 576384
+            },
+            {
+                "name": "jorgen-strand-larsen",
+                "id": 876599
+            },
+            {
+                "name": "julian-ryerson",
+                "id": 800951
+            },
+            {
+                "name": "marcus-pedersen",
+                "id": 934409
+            },
+            {
+                "name": "ola-brynhildsen",
+                "id": 877364
+            },
+            {
+                "name": "orjan-nyland",
+                "id": 22209
+            },
+            {
+                "name": "oscar-bobb",
+                "id": 1065216
+            },
+            {
+                "name": "kristian-thorstvedt",
+                "id": 924973
+            },
+            {
+                "name": "fredrik-andre-bjorkan",
+                "id": 795154
+            },
+            {
+                "name": "mats-moller-daehli",
+                "id": 181889
+            },
+            {
+                "name": "egil-selvik",
+                "id": 798176
+            },
+            {
+                "name": "kristoffer-velde",
+                "id": 877656
+            },
+            {
+                "name": "bard-finne",
+                "id": 181893
+            }
+        ],
+        "id": 4475
+    },
+    "lithuania": {
+        "players": [
+            {
+                "name": "edvinas-gertmonas",
+                "id": 285953
+            },
+            {
+                "name": "emilijus-zubas",
+                "id": 52011
+            },
+            {
+                "name": "edvinas-girdvainis",
+                "id": 96341
+            },
+            {
+                "name": "pijus-sirvys",
+                "id": 841631
+            },
+            {
+                "name": "fedor-cernych",
+                "id": 93755
+            },
+            {
+                "name": "gineitis-gvidas",
+                "id": 1030829
+            },
+            {
+                "name": "karolis-uzela",
+                "id": 875932
+            },
+            {
+                "name": "modestas-vorobjovas",
+                "id": 319751
+            },
+            {
+                "name": "armandas-kucys",
+                "id": 1124208
+            },
+            {
+                "name": "edgaras-utkus",
+                "id": 921180
+            },
+            {
+                "name": "gytis-paulauskas",
+                "id": 986044
+            },
+            {
+                "name": "lekiatas-rokas",
+                "id": 802293
+            },
+            {
+                "name": "matijus-remeikis",
+                "id": 1085706
+            },
+            {
+                "name": "klaudijus-upstas",
+                "id": 240230
+            },
+            {
+                "name": "vykintas-slivka",
+                "id": 606946
+            },
+            {
+                "name": "arvydas-novikovas",
+                "id": 53787
+            },
+            {
+                "name": "domantas-simkus",
+                "id": 285975
+            },
+            {
+                "name": "kipras-kazukolovas",
+                "id": 986043
+            },
+            {
+                "name": "linas-klimavicius",
+                "id": 55043
+            },
+            {
+                "name": "jankauskas-eligijus",
+                "id": 793976
+            },
+            {
+                "name": "rolandas-baravykas",
+                "id": 226960
+            },
+            {
+                "name": "justas-lasickas",
+                "id": 791831
+            },
+            {
+                "name": "ovidijus-verbickas",
+                "id": 194464
+            },
+            {
+                "name": "daniel-romanovskij",
+                "id": 285965
+            },
+            {
+                "name": "faustas-steponavicius",
+                "id": 1046517
+            },
+            {
+                "name": "karolis-laukzemis",
+                "id": 114463
+            },
+            {
+                "name": "markas-beneta",
+                "id": 114450
+            },
+            {
+                "name": "dziugas-bartkus",
+                "id": 67874
+            },
+            {
+                "name": "donatas-kazlauskas",
+                "id": 96357
+            },
+            {
+                "name": "artur-dolznikov",
+                "id": 921289
+            },
+            {
+                "name": "gratas-sirgedas",
+                "id": 240218
+            },
+            {
+                "name": "paulius-golubickas",
+                "id": 912182
+            },
+            {
+                "name": "deividas-sesplaukis",
+                "id": 795969
+            },
+            {
+                "name": "artemijus-tutyskinas",
+                "id": 1124209
+            }
+        ],
+        "id": 4776
+    },
+    "austria": {
+        "players": [
+            {
+                "name": "marcel-sabitzer",
+                "id": 133908
+            },
+            {
+                "name": "christoph-baumgartner",
+                "id": 825956
+            },
+            {
+                "name": "michael-gregoritsch",
+                "id": 111483
+            },
+            {
+                "name": "david-alaba",
+                "id": 66492
+            },
+            {
+                "name": "xaver-schlager",
+                "id": 791079
+            },
+            {
+                "name": "philipp-lienhart",
+                "id": 576266
+            },
+            {
+                "name": "marko-arnautovic",
+                "id": 21927
+            },
+            {
+                "name": "sasa-kalajdzic",
+                "id": 870038
+            },
+            {
+                "name": "romano-schmid",
+                "id": 830127
+            },
+            {
+                "name": "phillipp-mwene",
+                "id": 138126
+            },
+            {
+                "name": "florian-kainz",
+                "id": 78781
+            },
+            {
+                "name": "stefan-posch",
+                "id": 355486
+            },
+            {
+                "name": "muhammed-cham-saracevic",
+                "id": 958901
+            },
+            {
+                "name": "gernot-trauner",
+                "id": 121588
+            },
+            {
+                "name": "samson-baidoo",
+                "id": 1099117
+            },
+            {
+                "name": "danso-kevin",
+                "id": 794953
+            },
+            {
+                "name": "konrad-laimer",
+                "id": 355492
+            },
+            {
+                "name": "alexander-schlager",
+                "id": 282073
+            },
+            {
+                "name": "seiwald-nicolas",
+                "id": 976575
+            },
+            {
+                "name": "florian-grillitsch",
+                "id": 186719
+            },
+            {
+                "name": "maximilian-wober",
+                "id": 794962
+            },
+            {
+                "name": "manprit-sarkaria",
+                "id": 869709
+            },
+            {
+                "name": "chukwubuike-adamu",
+                "id": 902381
+            },
+            {
+                "name": "patrick-wimmer",
+                "id": 987504
+            },
+            {
+                "name": "flavius-daniliuc",
+                "id": 901885
+            },
+            {
+                "name": "heinz-lindner",
+                "id": 37432
+            },
+            {
+                "name": "matthias-seidl",
+                "id": 1006268
+            },
+            {
+                "name": "dejan-ljubicic",
+                "id": 869883
+            },
+            {
+                "name": "andreas-ulmer",
+                "id": 5543
+            },
+            {
+                "name": "karim-onisiwo",
+                "id": 165413
+            },
+            {
+                "name": "alexander-prass",
+                "id": 978062
+            },
+            {
+                "name": "guido-burgstaller",
+                "id": 23486
+            }
+        ],
+        "id": 4718
+    },
+    "scotland": {
+        "players": [
+            {
+                "name": "scott-mctominay",
+                "id": 879346
+            },
+            {
+                "name": "john-mcginn",
+                "id": 250223
+            },
+            {
+                "name": "grant-hanley",
+                "id": 95791
+            },
+            {
+                "name": "lawrence-shankland",
+                "id": 237098
+            },
+            {
+                "name": "andrew-robertson",
+                "id": 262911
+            },
+            {
+                "name": "kieran-tierney",
+                "id": 366592
+            },
+            {
+                "name": "porteous-ryan",
+                "id": 889776
+            },
+            {
+                "name": "angus-gunn",
+                "id": 227946
+            },
+            {
+                "name": "kenny-mclean",
+                "id": 75756
+            },
+            {
+                "name": "gilmour-billy",
+                "id": 907668
+            },
+            {
+                "name": "jack-hendry",
+                "id": 795696
+            },
+            {
+                "name": "callum-mcgregor",
+                "id": 97046
+            },
+            {
+                "name": "stuart-armstrong",
+                "id": 117083
+            },
+            {
+                "name": "ryan-jack",
+                "id": 35507
+            },
+            {
+                "name": "lyndon-dykes",
+                "id": 846204
+            },
+            {
+                "name": "anthony-ralston",
+                "id": 840227
+            },
+            {
+                "name": "liam-cooper",
+                "id": 39327
+            },
+            {
+                "name": "hickey-aaron",
+                "id": 966869
+            },
+            {
+                "name": "scott-mckenna",
+                "id": 358108
+            },
+            {
+                "name": "ryan-christie",
+                "id": 322391
+            },
+            {
+                "name": "john-souttar",
+                "id": 287563
+            },
+            {
+                "name": "patterson-nathan",
+                "id": 1020141
+            },
+            {
+                "name": "lewis-ferguson",
+                "id": 907152
+            },
+            {
+                "name": "kevin-nisbet",
+                "id": 802281
+            },
+            {
+                "name": "zander-clark",
+                "id": 556366
+            },
+            {
+                "name": "che-adams",
+                "id": 773409
+            },
+            {
+                "name": "greg-taylor",
+                "id": 839097
+            },
+            {
+                "name": "jacob-brown",
+                "id": 858911
+            },
+            {
+                "name": "dominic-hyam",
+                "id": 802719
+            }
+        ],
+        "id": 4695
+    },
+    "malta": {
+        "players": [
+            {
+                "name": "matthew-grech",
+                "id": 888651
+            },
+            {
+                "name": "juan-corbalan",
+                "id": 280777
+            },
+            {
+                "name": "paul-mbong",
+                "id": 947437
+            },
+            {
+                "name": "yankam-yannick",
+                "id": 959803
+            },
+            {
+                "name": "ferdinando-apap",
+                "id": 257623
+            },
+            {
+                "name": "matthew-guillaumier",
+                "id": 842573
+            },
+            {
+                "name": "teddy-teuma",
+                "id": 829643
+            },
+            {
+                "name": "kyrian-nwoko",
+                "id": 385858
+            },
+            {
+                "name": "zach-muscat",
+                "id": 97622
+            },
+            {
+                "name": "nikolai-muscat",
+                "id": 895804
+            },
+            {
+                "name": "satariano-alexander",
+                "id": 947464
+            },
+            {
+                "name": "jodi-jones",
+                "id": 788042
+            },
+            {
+                "name": "james-brown",
+                "id": 891862
+            },
+            {
+                "name": "stephen-pisani",
+                "id": 99734
+            },
+            {
+                "name": "jurgen-degabriele",
+                "id": 280779
+            },
+            {
+                "name": "brandon-paiber",
+                "id": 868335
+            },
+            {
+                "name": "luke-montebello",
+                "id": 189163
+            },
+            {
+                "name": "grech-jake",
+                "id": 847891
+            },
+            {
+                "name": "steve-borg",
+                "id": 41738
+            },
+            {
+                "name": "henry-bonello",
+                "id": 41735
+            },
+            {
+                "name": "cain-attard",
+                "id": 217912
+            },
+            {
+                "name": "enrico-pepe",
+                "id": 75842
+            },
+            {
+                "name": "ryan-camenzuli",
+                "id": 146552
+            },
+            {
+                "name": "shaun-dimech",
+                "id": 887599
+            },
+            {
+                "name": "reid-kemar",
+                "id": 915190
+            },
+            {
+                "name": "bjorn-kristensen",
+                "id": 97626
+            },
+            {
+                "name": "joseph-mbong",
+                "id": 556474
+            },
+            {
+                "name": "borg-jean",
+                "id": 826929
+            }
+        ],
+        "id": 4483
+    },
+    "armenia": {
+        "players": [
+            {
+                "name": "ognjen-cancarevic",
+                "id": 795899
+            },
+            {
+                "name": "lucas-zelarayan",
+                "id": 249061
+            },
+            {
+                "name": "artak-dashyan",
+                "id": 583996
+            },
+            {
+                "name": "eduard-spertsyan",
+                "id": 939492
+            },
+            {
+                "name": "ugochukwu-iwu",
+                "id": 1031284
+            },
+            {
+                "name": "grant-leon-ranos",
+                "id": 1130950
+            },
+            {
+                "name": "nair-tiknizyan",
+                "id": 904400
+            },
+            {
+                "name": "andre-calisir",
+                "id": 109732
+            },
+            {
+                "name": "vahan-bichakhchyan",
+                "id": 842944
+            },
+            {
+                "name": "varazdat-haroyan",
+                "id": 67608
+            },
+            {
+                "name": "tigran-barseghyan",
+                "id": 95494
+            },
+            {
+                "name": "styopa-mkrtchyan",
+                "id": 988354
+            },
+            {
+                "name": "hovhannes-harutyunyan",
+                "id": 842556
+            },
+            {
+                "name": "norberto-briasco",
+                "id": 848619
+            },
+            {
+                "name": "georgiy-harutyunyan",
+                "id": 1394558
+            },
+            {
+                "name": "artur-serobyan",
+                "id": 1048354
+            },
+            {
+                "name": "edgar-sevikyan",
+                "id": 919367
+            },
+            {
+                "name": "artur-miranyan",
+                "id": 190477
+            },
+            {
+                "name": "khoren-bayramyan",
+                "id": 149159
+            },
+            {
+                "name": "piloyan-erik",
+                "id": 1091411
+            },
+            {
+                "name": "kamo-hovhannisyan",
+                "id": 67625
+            },
+            {
+                "name": "taron-voskanyan",
+                "id": 95487
+            },
+            {
+                "name": "sargis-adamyan",
+                "id": 129927
+            },
+            {
+                "name": "arsen-beglaryan",
+                "id": 149177
+            }
+        ],
+        "id": 4740
+    },
+    "ireland": {
+        "players": [
+            {
+                "name": "jamie-mcgrath",
+                "id": 797980
+            },
+            {
+                "name": "james-mcclean",
+                "id": 41631
+            },
+            {
+                "name": "matt-doherty",
+                "id": 143047
+            },
+            {
+                "name": "ryan-manning",
+                "id": 328701
+            },
+            {
+                "name": "michael-johnston",
+                "id": 847125
+            },
+            {
+                "name": "darragh-lenihan",
+                "id": 136375
+            },
+            {
+                "name": "will-smallbone",
+                "id": 970435
+            },
+            {
+                "name": "callum-robinson",
+                "id": 190851
+            },
+            {
+                "name": "evan-ferguson",
+                "id": 999231
+            },
+            {
+                "name": "john-egan",
+                "id": 100578
+            },
+            {
+                "name": "cullen-josh",
+                "id": 792122
+            },
+            {
+                "name": "scales-liam",
+                "id": 847990
+            },
+            {
+                "name": "shane-duffy",
+                "id": 55570
+            },
+            {
+                "name": "adam-idah",
+                "id": 879850
+            },
+            {
+                "name": "jason-knight",
+                "id": 958918
+            },
+            {
+                "name": "dara-oshea",
+                "id": 856719
+            },
+            {
+                "name": "alan-browne",
+                "id": 247459
+            },
+            {
+                "name": "bazunu-gavin",
+                "id": 936719
+            },
+            {
+                "name": "troy-parrott",
+                "id": 966555
+            },
+            {
+                "name": "nathan-collins",
+                "id": 958916
+            },
+            {
+                "name": "ogbene-chiedozie",
+                "id": 849309
+            },
+            {
+                "name": "jayson-molumby",
+                "id": 856718
+            },
+            {
+                "name": "seamus-coleman",
+                "id": 76632
+            },
+            {
+                "name": "sinclair-armstrong",
+                "id": 958056
+            },
+            {
+                "name": "will-keane",
+                "id": 98431
+            },
+            {
+                "name": "mark-sykes",
+                "id": 560196
+            },
+            {
+                "name": "michael-obafemi",
+                "id": 921216
+            },
+            {
+                "name": "jeff-hendrick",
+                "id": 115441
+            },
+            {
+                "name": "enda-stevens",
+                "id": 372324
+            },
+            {
+                "name": "festy-ebosele",
+                "id": 983059
+            },
+            {
+                "name": "callum-odowda",
+                "id": 305230
+            },
+            {
+                "name": "aaron-connolly",
+                "id": 895579
+            }
+        ],
+        "id": 4693
+    },
+    "azerbaijan": {
+        "players": [
+            {
+                "name": "sahrudin-mahammadaliyev",
+                "id": 813105
+            },
+            {
+                "name": "azer-aliev",
+                "id": 242931
+            },
+            {
+                "name": "rahil-mammadov",
+                "id": 797924
+            },
+            {
+                "name": "bedavi-huseynov",
+                "id": 149045
+            },
+            {
+                "name": "emil-safarov",
+                "id": 999083
+            },
+            {
+                "name": "emin-makhmudov",
+                "id": 114883
+            },
+            {
+                "name": "ramil-sheydaev",
+                "id": 280657
+            },
+            {
+                "name": "renat-dadasov",
+                "id": 836941
+            },
+            {
+                "name": "anton-krivotsyuk",
+                "id": 851089
+            },
+            {
+                "name": "toral-bayramov",
+                "id": 981246
+            },
+            {
+                "name": "bahlul-mustafazada",
+                "id": 865434
+            },
+            {
+                "name": "isayev-alexey",
+                "id": 1145242
+            },
+            {
+                "name": "mahir-emreli",
+                "id": 286071
+            },
+            {
+                "name": "filip-ozobic",
+                "id": 87646
+            },
+            {
+                "name": "yusif-imanov",
+                "id": 1095933
+            },
+            {
+                "name": "hasanalizade-bakhtiyar",
+                "id": 978288
+            },
+            {
+                "name": "gismat-aliyev",
+                "id": 1381512
+            },
+            {
+                "name": "joshgun-diniyev",
+                "id": 190627
+            },
+            {
+                "name": "nariman-akhundzade",
+                "id": 1156696
+            },
+            {
+                "name": "nabiyev-yusif",
+                "id": 855700
+            },
+            {
+                "name": "elvin-camalov",
+                "id": 375964
+            },
+            {
+                "name": "elvin-cafarquliyev",
+                "id": 1017996
+            },
+            {
+                "name": "richard-almeida",
+                "id": 128441
+            },
+            {
+                "name": "musa-qurbanli",
+                "id": 992237
+            },
+            {
+                "name": "ozan-kokcu",
+                "id": 1100399
+            },
+            {
+                "name": "hojjat-haghverdi",
+                "id": 832173
+            },
+            {
+                "name": "rustam-ahmadzada",
+                "id": 1068685
+            },
+            {
+                "name": "namiq-alasgarov",
+                "id": 138910
+            },
+            {
+                "name": "jalal-huseynov",
+                "id": 992621
+            },
+            {
+                "name": "eddy-israfilov",
+                "id": 256415
+            },
+            {
+                "name": "emil-balayev",
+                "id": 98486
+            }
+        ],
+        "id": 4742
+    },
+    "faroe-islands": {
+        "players": [
+            {
+                "name": "mads-boe-mikkelsen",
+                "id": 826062
+            },
+            {
+                "name": "meinhard-olsen",
+                "id": 192088
+            },
+            {
+                "name": "bardur-a-reynatrod",
+                "id": 842997
+            },
+            {
+                "name": "andrias-edmundsson",
+                "id": 906963
+            },
+            {
+                "name": "rene-shaki-joensen",
+                "id": 96382
+            },
+            {
+                "name": "joannes-kalso-danielsen",
+                "id": 858631
+            },
+            {
+                "name": "mattias-lamhauge",
+                "id": 875418
+            },
+            {
+                "name": "sonni-nattestad",
+                "id": 134918
+            },
+            {
+                "name": "brandur-hendriksson-olsen",
+                "id": 956835
+            },
+            {
+                "name": "gunnar-vatnhamar",
+                "id": 238848
+            },
+            {
+                "name": "petur-knudsen",
+                "id": 842597
+            },
+            {
+                "name": "andrass-johansen",
+                "id": 932891
+            },
+            {
+                "name": "joannes-bjartalid",
+                "id": 850321
+            },
+            {
+                "name": "odmar-faero",
+                "id": 65218
+            },
+            {
+                "name": "rogvi-baldvinsson",
+                "id": 826698
+            },
+            {
+                "name": "ari-mohr-jonsson",
+                "id": 193186
+            },
+            {
+                "name": "joan-edmundsson",
+                "id": 64860
+            },
+            {
+                "name": "stefan-radosavljevic",
+                "id": 879442
+            },
+            {
+                "name": "jakup-biskopsto-andreasen",
+                "id": 856548
+            },
+            {
+                "name": "klaemint-olsen",
+                "id": 883868
+            },
+            {
+                "name": "gilli-rolantsson",
+                "id": 65607
+            },
+            {
+                "name": "patrik-johannesen",
+                "id": 813401
+            },
+            {
+                "name": "hannes-agnarsson",
+                "id": 797898
+            },
+            {
+                "name": "paetur-petersen",
+                "id": 797897
+            },
+            {
+                "name": "viljormur-davidsen",
+                "id": 87148
+            },
+            {
+                "name": "pall-klettskard",
+                "id": 57963
+            },
+            {
+                "name": "teitur-gestsson",
+                "id": 87655
+            },
+            {
+                "name": "solvi-vatnhamar",
+                "id": 65718
+            },
+            {
+                "name": "hordur-askham",
+                "id": 221702
+            },
+            {
+                "name": "sorensen-hanus",
+                "id": 999140
+            },
+            {
+                "name": "noah-mneney",
+                "id": 1005969
+            },
+            {
+                "name": "heini-vatnsdal",
+                "id": 112790
+            }
+        ],
+        "id": 4760
+    },
+    "latvia": {
+        "players": [
+            {
+                "name": "pavels-steinbors",
+                "id": 24980
+            },
+            {
+                "name": "roberts-ozols",
+                "id": 324605
+            },
+            {
+                "name": "vladislavs-gutkovskis",
+                "id": 157429
+            },
+            {
+                "name": "nils-purins",
+                "id": 932817
+            },
+            {
+                "name": "renars-varslavans",
+                "id": 883239
+            },
+            {
+                "name": "alvis-jaunzems",
+                "id": 930808
+            },
+            {
+                "name": "antonijs-cernomordijs",
+                "id": 798374
+            },
+            {
+                "name": "raimonds-krollis",
+                "id": 936122
+            },
+            {
+                "name": "roberts-uldrikis",
+                "id": 883327
+            },
+            {
+                "name": "janis-ikaunieks",
+                "id": 170345
+            },
+            {
+                "name": "arturs-zjuzins",
+                "id": 56078
+            },
+            {
+                "name": "roberts-savalnieks",
+                "id": 63482
+            },
+            {
+                "name": "kristers-tobers",
+                "id": 858677
+            },
+            {
+                "name": "aleksejs-saveljevs",
+                "id": 875006
+            },
+            {
+                "name": "marcis-oss",
+                "id": 62738
+            },
+            {
+                "name": "andrejs-ciganiks",
+                "id": 286033
+            },
+            {
+                "name": "daniels-balodis",
+                "id": 978846
+            },
+            {
+                "name": "davis-ikaunieks",
+                "id": 116049
+            },
+            {
+                "name": "eduards-daskevics",
+                "id": 1064175
+            },
+            {
+                "name": "marko-regza",
+                "id": 857966
+            },
+            {
+                "name": "vladislavs-sorokins",
+                "id": 797977
+            },
+            {
+                "name": "eduards-emsis",
+                "id": 858425
+            },
+            {
+                "name": "elvis-stuglis",
+                "id": 63092
+            },
+            {
+                "name": "maksims-tonisevs",
+                "id": 884010
+            },
+            {
+                "name": "raivis-jurkovskis",
+                "id": 812741
+            },
+            {
+                "name": "kaspars-dubra",
+                "id": 55919
+            },
+            {
+                "name": "dmitrijs-zelenkovs",
+                "id": 970871
+            }
+        ],
+        "id": 4706
+    },
+    "albania": {
+        "players": [
+            {
+                "name": "etrit-berisha",
+                "id": 35656
+            },
+            {
+                "name": "enea-mihaj",
+                "id": 850828
+            },
+            {
+                "name": "ardian-ismajli",
+                "id": 840414
+            },
+            {
+                "name": "ivan-balliu",
+                "id": 152446
+            },
+            {
+                "name": "berat-djimsiti",
+                "id": 151003
+            },
+            {
+                "name": "ylber-ramadani",
+                "id": 841977
+            },
+            {
+                "name": "arlind-ajeti",
+                "id": 111746
+            },
+            {
+                "name": "taulant-seferi",
+                "id": 279487
+            },
+            {
+                "name": "kristjan-asllani",
+                "id": 996820
+            },
+            {
+                "name": "nedim-bajrami",
+                "id": 825861
+            },
+            {
+                "name": "thomas-strakosha",
+                "id": 227212
+            },
+            {
+                "name": "jasir-asani",
+                "id": 355022
+            },
+            {
+                "name": "mitaj-mario",
+                "id": 1006089
+            },
+            {
+                "name": "mirlind-daku",
+                "id": 970516
+            },
+            {
+                "name": "sokol-cikalleshi",
+                "id": 81138
+            },
+            {
+                "name": "elseid-hysaj",
+                "id": 136322
+            },
+            {
+                "name": "ernest-muci",
+                "id": 924670
+            },
+            {
+                "name": "keidi-bare",
+                "id": 862480
+            },
+            {
+                "name": "klaus-gjasula",
+                "id": 163673
+            },
+            {
+                "name": "myrto-uzuni",
+                "id": 895533
+            },
+            {
+                "name": "marash-kumbulla",
+                "id": 893642
+            },
+            {
+                "name": "qazim-laci",
+                "id": 284395
+            },
+            {
+                "name": "anis-mehmeti",
+                "id": 1007072
+            },
+            {
+                "name": "arbnor-mucolli",
+                "id": 861823
+            },
+            {
+                "name": "arbnor-muja",
+                "id": 890695
+            },
+            {
+                "name": "frederic-veseli",
+                "id": 137775
+            },
+            {
+                "name": "armando-sadiku",
+                "id": 82186
+            }
+        ],
+        "id": 4690
+    },
+    "wales": {
+        "players": [
+            {
+                "name": "harry-wilson",
+                "id": 355528
+            },
+            {
+                "name": "ethan-ampadu",
+                "id": 847097
+            },
+            {
+                "name": "daniel-james",
+                "id": 828639
+            },
+            {
+                "name": "jordan-james",
+                "id": 1136409
+            },
+            {
+                "name": "chris-mepham",
+                "id": 865740
+            },
+            {
+                "name": "tom-lockyer",
+                "id": 197848
+            },
+            {
+                "name": "kieffer-moore",
+                "id": 298366
+            },
+            {
+                "name": "williams-neco",
+                "id": 927356
+            },
+            {
+                "name": "david-brooks",
+                "id": 855731
+            },
+            {
+                "name": "ben-davies",
+                "id": 94758
+            },
+            {
+                "name": "danny-ward",
+                "id": 197428
+            },
+            {
+                "name": "rodon-joe",
+                "id": 828640
+            },
+            {
+                "name": "aaron-ramsey",
+                "id": 23571
+            },
+            {
+                "name": "brennan-johnson",
+                "id": 1085180
+            },
+            {
+                "name": "connor-roberts",
+                "id": 804613
+            },
+            {
+                "name": "nathan-broadhead",
+                "id": 911710
+            },
+            {
+                "name": "tom-bradshaw",
+                "id": 59130
+            },
+            {
+                "name": "morrell-joe",
+                "id": 829506
+            },
+            {
+                "name": "sorba-thomas",
+                "id": 911039
+            },
+            {
+                "name": "wes-burns",
+                "id": 305302
+            },
+            {
+                "name": "ben-cabango",
+                "id": 939563
+            },
+            {
+                "name": "oliver-cooper",
+                "id": 970396
+            }
+        ],
+        "id": 4702
+    },
+    "montenegro": {
+        "players": [
+            {
+                "name": "stevan-jovetic",
+                "id": 37126
+            },
+            {
+                "name": "slobodan-rubezic",
+                "id": 886345
+            },
+            {
+                "name": "stefan-savic",
+                "id": 76265
+            },
+            {
+                "name": "driton-camaj",
+                "id": 798091
+            },
+            {
+                "name": "marko-jankovic",
+                "id": 189009
+            },
+            {
+                "name": "dusan-bakic",
+                "id": 1063819
+            },
+            {
+                "name": "risto-radunovic",
+                "id": 117128
+            },
+            {
+                "name": "marko-vesovic",
+                "id": 58170
+            },
+            {
+                "name": "milan-mijatovic",
+                "id": 55655
+            },
+            {
+                "name": "sead-haksabanovic",
+                "id": 791978
+            },
+            {
+                "name": "vukan-savicevic",
+                "id": 257071
+            },
+            {
+                "name": "nikola-krstovic",
+                "id": 839156
+            },
+            {
+                "name": "edvin-kuc",
+                "id": 173029
+            },
+            {
+                "name": "andrija-radulovic",
+                "id": 997198
+            },
+            {
+                "name": "aleksandar-scekic",
+                "id": 836566
+            },
+            {
+                "name": "vladimir-jovovic",
+                "id": 230166
+            },
+            {
+                "name": "adam-marusic",
+                "id": 267619
+            },
+            {
+                "name": "zarko-tomasevic",
+                "id": 78954
+            },
+            {
+                "name": "milos-raickovic",
+                "id": 885098
+            },
+            {
+                "name": "stefan-loncar",
+                "id": 864201
+            },
+            {
+                "name": "viktor-dukanovic",
+                "id": 1086448
+            },
+            {
+                "name": "andrija-vukcevic",
+                "id": 280737
+            },
+            {
+                "name": "uros-djurdjevic",
+                "id": 156580
+            },
+            {
+                "name": "nikola-sipcic",
+                "id": 844948
+            },
+            {
+                "name": "stefan-mugosa",
+                "id": 109099
+            },
+            {
+                "name": "igor-vujacic",
+                "id": 187337
+            },
+            {
+                "name": "milutin-osmajic",
+                "id": 928047
+            },
+            {
+                "name": "marko-bakic",
+                "id": 153446
+            },
+            {
+                "name": "marko-vukcevic",
+                "id": 137822
+            },
+            {
+                "name": "marko-tuci",
+                "id": 887433
+            },
+            {
+                "name": "filip-dukic",
+                "id": 857818
+            }
+        ],
+        "id": 7139
+    },
+    "georgia": {
+        "players": [
+            {
+                "name": "khvicha-kvaratskhelia",
+                "id": 889259
+            },
+            {
+                "name": "otar-kiteishvili",
+                "id": 797994
+            },
+            {
+                "name": "levan-shengelia",
+                "id": 363750
+            },
+            {
+                "name": "giorgi-chakvetadze",
+                "id": 858191
+            },
+            {
+                "name": "vladimer-mamuchashvili",
+                "id": 827469
+            },
+            {
+                "name": "giorgi-mamardashvili",
+                "id": 930997
+            },
+            {
+                "name": "luka-lochoshvili",
+                "id": 827473
+            },
+            {
+                "name": "luka-gagnidze",
+                "id": 1006074
+            },
+            {
+                "name": "zuriko-davitashvili",
+                "id": 921369
+            },
+            {
+                "name": "guram-kashia",
+                "id": 43136
+            },
+            {
+                "name": "mikautadze-georges",
+                "id": 1009372
+            },
+            {
+                "name": "nika-kvekveskiri",
+                "id": 79632
+            },
+            {
+                "name": "budu-zivzivadze",
+                "id": 149728
+            },
+            {
+                "name": "otar-kakabadze",
+                "id": 182023
+            },
+            {
+                "name": "saba-sazonov",
+                "id": 1101751
+            },
+            {
+                "name": "aleksandre-kalandadze",
+                "id": 1000273
+            },
+            {
+                "name": "solomon-kvirkvelia",
+                "id": 95636
+            },
+            {
+                "name": "anzor-mekvabishvili",
+                "id": 965260
+            },
+            {
+                "name": "saba-lobjanidze",
+                "id": 286923
+            },
+            {
+                "name": "azarovi-irakli",
+                "id": 979665
+            },
+            {
+                "name": "giorgi-kochorashvili",
+                "id": 886402
+            },
+            {
+                "name": "giorgi-beridze",
+                "id": 798377
+            },
+            {
+                "name": "jemal-tabidze",
+                "id": 287607
+            },
+            {
+                "name": "giorgi-aburjania",
+                "id": 156569
+            },
+            {
+                "name": "lasha-dvali",
+                "id": 182025
+            },
+            {
+                "name": "giorgi-gocholeishvili",
+                "id": 1035752
+            },
+            {
+                "name": "sandro-altunashvili",
+                "id": 827470
+            }
+        ],
+        "id": 4763
+    },
+    "finland": {
+        "players": [
+            {
+                "name": "miro-tenho",
+                "id": 548286
+            },
+            {
+                "name": "robert-ivanov",
+                "id": 835901
+            },
+            {
+                "name": "lukas-hradecky",
+                "id": 15219
+            },
+            {
+                "name": "daniel-hakans",
+                "id": 981192
+            },
+            {
+                "name": "tomas-galvez",
+                "id": 1149168
+            },
+            {
+                "name": "tomas-diogo",
+                "id": 823618
+            },
+            {
+                "name": "rasmus-schuller",
+                "id": 36270
+            },
+            {
+                "name": "arttu-hoskonen",
+                "id": 807657
+            },
+            {
+                "name": "lucas-lingman",
+                "id": 794152
+            },
+            {
+                "name": "robin-lod",
+                "id": 159593
+            },
+            {
+                "name": "robert-taylor",
+                "id": 290943
+            },
+            {
+                "name": "teemu-pukki",
+                "id": 15242
+            },
+            {
+                "name": "oliver-antman",
+                "id": 975743
+            },
+            {
+                "name": "benjamin-kallman",
+                "id": 794679
+            },
+            {
+                "name": "joel-pohjanpalo",
+                "id": 137155
+            },
+            {
+                "name": "pyry-soiri",
+                "id": 152490
+            },
+            {
+                "name": "nikolai-alho",
+                "id": 97984
+            },
+            {
+                "name": "noah-pallas",
+                "id": 1033519
+            },
+            {
+                "name": "kaan-kairinen",
+                "id": 547862
+            },
+            {
+                "name": "ilmari-niskanen",
+                "id": 334079
+            },
+            {
+                "name": "leo-vaisanen",
+                "id": 807419
+            },
+            {
+                "name": "richard-jensen",
+                "id": 812740
+            },
+            {
+                "name": "glen-kamara",
+                "id": 292665
+            },
+            {
+                "name": "matti-peltola",
+                "id": 944437
+            },
+            {
+                "name": "jere-uronen",
+                "id": 138463
+            },
+            {
+                "name": "anssi-suhonen",
+                "id": 941553
+            },
+            {
+                "name": "fredrik-jensen",
+                "id": 846356
+            },
+            {
+                "name": "marcus-forss",
+                "id": 944201
+            },
+            {
+                "name": "viljami-sinisalo",
+                "id": 995654
+            },
+            {
+                "name": "tuomas-ollila",
+                "id": 930813
+            }
+        ],
+        "id": 4712
+    },
+    "sweden": {
+        "players": [
+            {
+                "name": "emil-forsberg",
+                "id": 51785
+            },
+            {
+                "name": "dejan-kulusevski",
+                "id": 928124
+            },
+            {
+                "name": "viktor-gyokeres",
+                "id": 804508
+            },
+            {
+                "name": "ludwig-augustinsson",
+                "id": 138546
+            },
+            {
+                "name": "jesper-karlsson",
+                "id": 834597
+            },
+            {
+                "name": "anthony-elanga",
+                "id": 979232
+            },
+            {
+                "name": "emil-holm",
+                "id": 965264
+            },
+            {
+                "name": "carl-starfelt",
+                "id": 360718
+            },
+            {
+                "name": "gabriel-gudmundsson",
+                "id": 834308
+            },
+            {
+                "name": "albin-ekdal",
+                "id": 21992
+            },
+            {
+                "name": "jens-cajuste",
+                "id": 857671
+            },
+            {
+                "name": "jesper-karlstrom",
+                "id": 227894
+            },
+            {
+                "name": "robin-olsen",
+                "id": 26025
+            },
+            {
+                "name": "viktor-claesson",
+                "id": 137661
+            },
+            {
+                "name": "emil-krafth",
+                "id": 150396
+            },
+            {
+                "name": "filip-helander",
+                "id": 168749
+            },
+            {
+                "name": "victor-lindelof",
+                "id": 143334
+            },
+            {
+                "name": "ken-sema",
+                "id": 319847
+            },
+            {
+                "name": "hjalmar-ekdal",
+                "id": 875360
+            },
+            {
+                "name": "svanberg-mattias",
+                "id": 796987
+            },
+            {
+                "name": "samuel-gustafson",
+                "id": 319309
+            },
+            {
+                "name": "robin-quaison",
+                "id": 163565
+            },
+            {
+                "name": "alexander-isak",
+                "id": 823941
+            },
+            {
+                "name": "linus-wahlqvist",
+                "id": 279533
+            },
+            {
+                "name": "zlatan-ibrahimovic",
+                "id": 2089
+            },
+            {
+                "name": "hugo-larsson",
+                "id": 1142211
+            },
+            {
+                "name": "hien-isak",
+                "id": 1157713
+            },
+            {
+                "name": "martin-olsson",
+                "id": 27247
+            },
+            {
+                "name": "kristoffer-olsson",
+                "id": 181617
+            }
+        ],
+        "id": 4688
+    },
+    "romania": {
+        "players": [
+            {
+                "name": "horatiu-moldovan",
+                "id": 857065
+            },
+            {
+                "name": "nicolae-stanciu",
+                "id": 108673
+            },
+            {
+                "name": "andrei-burca",
+                "id": 846999
+            },
+            {
+                "name": "nicusor-bancu",
+                "id": 199092
+            },
+            {
+                "name": "raul-oprut",
+                "id": 878671
+            },
+            {
+                "name": "radu-dragusin",
+                "id": 997103
+            },
+            {
+                "name": "razvan-marin",
+                "id": 279563
+            },
+            {
+                "name": "olimpiu-morutan",
+                "id": 833613
+            },
+            {
+                "name": "ionut-radu",
+                "id": 815202
+            },
+            {
+                "name": "ianis-hagi",
+                "id": 756344
+            },
+            {
+                "name": "cristian-manea",
+                "id": 361150
+            },
+            {
+                "name": "andrei-ratiu",
+                "id": 965031
+            },
+            {
+                "name": "dennis-man",
+                "id": 812145
+            },
+            {
+                "name": "vladimir-screciu",
+                "id": 840529
+            },
+            {
+                "name": "denis-alibec",
+                "id": 44417
+            },
+            {
+                "name": "florinel-coman",
+                "id": 794254
+            },
+            {
+                "name": "marius-marin",
+                "id": 797596
+            },
+            {
+                "name": "tudor-baluta",
+                "id": 852435
+            },
+            {
+                "name": "adrian-rus",
+                "id": 887011
+            },
+            {
+                "name": "deian-sorescu",
+                "id": 797602
+            },
+            {
+                "name": "denis-dragus",
+                "id": 841199
+            },
+            {
+                "name": "valentin-mihaila",
+                "id": 925242
+            },
+            {
+                "name": "darius-olaru",
+                "id": 812808
+            },
+            {
+                "name": "ionut-nedelcearu",
+                "id": 279595
+            },
+            {
+                "name": "mario-camora",
+                "id": 78908
+            },
+            {
+                "name": "alexandru-cicaldau",
+                "id": 827540
+            },
+            {
+                "name": "florin-tanase",
+                "id": 537032
+            },
+            {
+                "name": "george-puscas",
+                "id": 190319
+            },
+            {
+                "name": "louis-munteanu",
+                "id": 960307
+            },
+            {
+                "name": "mihai-alexandru-dobre",
+                "id": 897623
+            },
+            {
+                "name": "daniel-birligea",
+                "id": 970969
+            },
+            {
+                "name": "popescu-octavian",
+                "id": 1067660
+            }
+        ],
+        "id": 4477
+    },
+    "slovenia": {
+        "players": [
+            {
+                "name": "jaka-bijol",
+                "id": 886930
+            },
+            {
+                "name": "adam-gnezda-cerin",
+                "id": 843251
+            },
+            {
+                "name": "david-brekalo",
+                "id": 856583
+            },
+            {
+                "name": "benjamin-sesko",
+                "id": 986397
+            },
+            {
+                "name": "jan-oblak",
+                "id": 69768
+            },
+            {
+                "name": "sandi-lovric",
+                "id": 575852
+            },
+            {
+                "name": "andraz-sporar",
+                "id": 166987
+            },
+            {
+                "name": "zan-karnicnik",
+                "id": 896421
+            },
+            {
+                "name": "petar-stojanovic",
+                "id": 227082
+            },
+            {
+                "name": "andres-vombergar",
+                "id": 894415
+            },
+            {
+                "name": "vanja-drkusic",
+                "id": 908617
+            },
+            {
+                "name": "jon-gorenc-stankovic",
+                "id": 280565
+            },
+            {
+                "name": "miha-blazic",
+                "id": 96552
+            },
+            {
+                "name": "zan-vipotnik",
+                "id": 1000160
+            },
+            {
+                "name": "tomi-horvat",
+                "id": 906698
+            },
+            {
+                "name": "jure-balkovec",
+                "id": 171625
+            },
+            {
+                "name": "timi-max-elsnik",
+                "id": 827371
+            },
+            {
+                "name": "jan-mlakar",
+                "id": 827367
+            },
+            {
+                "name": "jasmin-kurtic",
+                "id": 61445
+            },
+            {
+                "name": "erik-janza",
+                "id": 124590
+            },
+            {
+                "name": "zan-celar",
+                "id": 840740
+            },
+            {
+                "name": "miha-zajc",
+                "id": 139256
+            },
+            {
+                "name": "benjamin-verbic",
+                "id": 153230
+            },
+            {
+                "name": "luka-zahovic",
+                "id": 232162
+            },
+            {
+                "name": "matevz-vidovsek",
+                "id": 921405
+            },
+            {
+                "name": "vid-belec",
+                "id": 106713
+            }
+        ],
+        "id": 4484
+    },
+    "luxembourg": {
+        "players": [
+            {
+                "name": "gerson-rodrigues",
+                "id": 842565
+            },
+            {
+                "name": "christopher-martins-pereira",
+                "id": 227756
+            },
+            {
+                "name": "leandro-barreiro",
+                "id": 906800
+            },
+            {
+                "name": "maxime-chanot",
+                "id": 182951
+            },
+            {
+                "name": "enes-mahmutovic",
+                "id": 571964
+            },
+            {
+                "name": "mathias-olesen",
+                "id": 994490
+            },
+            {
+                "name": "dirk-carlson",
+                "id": 850318
+            },
+            {
+                "name": "vincent-thill",
+                "id": 836764
+            },
+            {
+                "name": "florian-bohnert",
+                "id": 792721
+            },
+            {
+                "name": "yvandro-borges-sanches",
+                "id": 1123613
+            },
+            {
+                "name": "marvin-martins",
+                "id": 537854
+            },
+            {
+                "name": "dzogovic-eldin",
+                "id": 1143364
+            },
+            {
+                "name": "anthony-moris",
+                "id": 39457
+            },
+            {
+                "name": "alessio-curci",
+                "id": 994930
+            },
+            {
+                "name": "olivier-thill",
+                "id": 797763
+            },
+            {
+                "name": "edvin-muratovic",
+                "id": 876950
+            },
+            {
+                "name": "mica-pinto",
+                "id": 785815
+            },
+            {
+                "name": "lars-gerson",
+                "id": 35884
+            },
+            {
+                "name": "danel-sinani",
+                "id": 887500
+            },
+            {
+                "name": "sebastien-thill",
+                "id": 797759
+            },
+            {
+                "name": "timothe-rupil",
+                "id": 1064812
+            },
+            {
+                "name": "dejvid-sinani",
+                "id": 225552
+            },
+            {
+                "name": "seid-korac",
+                "id": 985900
+            },
+            {
+                "name": "laurent-jans",
+                "id": 137719
+            },
+            {
+                "name": "dardari-aiman",
+                "id": 1481370
+            }
+        ],
+        "id": 4478
+    },
+    "northern-ireland": {
+        "players": [
+            {
+                "name": "paul-smyth",
+                "id": 842562
+            },
+            {
+                "name": "bradley-conor",
+                "id": 1008402
+            },
+            {
+                "name": "shea-charles",
+                "id": 1131449
+            },
+            {
+                "name": "jamal-lewis",
+                "id": 891803
+            },
+            {
+                "name": "ballard-daniel",
+                "id": 958878
+            },
+            {
+                "name": "conor-mcmenamin",
+                "id": 313452
+            },
+            {
+                "name": "hume-trai",
+                "id": 989034
+            },
+            {
+                "name": "craig-cathcart",
+                "id": 22200
+            },
+            {
+                "name": "jonny-evans",
+                "id": 30144
+            },
+            {
+                "name": "alistair-mccann",
+                "id": 891870
+            },
+            {
+                "name": "josh-magennis",
+                "id": 73262
+            },
+            {
+                "name": "dion-charles",
+                "id": 343027
+            },
+            {
+                "name": "isaac-price",
+                "id": 1066059
+            },
+            {
+                "name": "mccausland-ross",
+                "id": 1020145
+            },
+            {
+                "name": "conor-hazard",
+                "id": 843788
+            },
+            {
+                "name": "paddy-mcnair",
+                "id": 592876
+            },
+            {
+                "name": "jordan-thompson",
+                "id": 800976
+            },
+            {
+                "name": "conor-washington",
+                "id": 291027
+            },
+            {
+                "name": "toal-eoin",
+                "id": 889487
+            },
+            {
+                "name": "bailey-peacock-farrell",
+                "id": 826259
+            },
+            {
+                "name": "cameron-mcgeehan",
+                "id": 149817
+            },
+            {
+                "name": "shane-ferguson",
+                "id": 55581
+            },
+            {
+                "name": "george-saville",
+                "id": 287897
+            },
+            {
+                "name": "ciaron-brown",
+                "id": 948257
+            },
+            {
+                "name": "jordan-jones",
+                "id": 305256
+            },
+            {
+                "name": "lyons-bradley",
+                "id": 886878
+            },
+            {
+                "name": "brodie-spencer",
+                "id": 1138933
+            },
+            {
+                "name": "dale-taylor",
+                "id": 1123688
+            },
+            {
+                "name": "marshall-callum",
+                "id": 1394099
+            },
+            {
+                "name": "shayne-lavery",
+                "id": 914879
+            },
+            {
+                "name": "gavin-whyte",
+                "id": 573696
+            },
+            {
+                "name": "matthew-kennedy",
+                "id": 134218
+            },
+            {
+                "name": "forbes-michael",
+                "id": 1089576
+            }
+        ],
+        "id": 4786
+    },
+    "poland": {
+        "players": [
+            {
+                "name": "przemyslaw-frankowski",
+                "id": 286909
+            },
+            {
+                "name": "robert-lewandowski",
+                "id": 41789
+            },
+            {
+                "name": "bartosz-salamon",
+                "id": 75994
+            },
+            {
+                "name": "piotr-zielinski",
+                "id": 138605
+            },
+            {
+                "name": "karol-swiderski",
+                "id": 576438
+            },
+            {
+                "name": "adam-buksa",
+                "id": 1138856
+            },
+            {
+                "name": "mateusz-wieteska",
+                "id": 286087
+            },
+            {
+                "name": "patryk-peda",
+                "id": 1064122
+            },
+            {
+                "name": "jan-bednarek",
+                "id": 286085
+            },
+            {
+                "name": "kiwior-jakub",
+                "id": 976037
+            },
+            {
+                "name": "pawel-bochniewicz",
+                "id": 286097
+            },
+            {
+                "name": "bartosz-slisz",
+                "id": 844500
+            },
+            {
+                "name": "jakub-kaminski",
+                "id": 801263
+            },
+            {
+                "name": "sebastian-szymanski",
+                "id": 847983
+            },
+            {
+                "name": "arkadiusz-milik",
+                "id": 161325
+            },
+            {
+                "name": "damian-szymanski",
+                "id": 345972
+            },
+            {
+                "name": "grzegorz-krychowiak",
+                "id": 76227
+            },
+            {
+                "name": "jakub-piotrowski",
+                "id": 825271
+            },
+            {
+                "name": "patryk-dziczek",
+                "id": 572744
+            },
+            {
+                "name": "nicola-zalewski",
+                "id": 984184
+            },
+            {
+                "name": "tomasz-kedziora",
+                "id": 138595
+            },
+            {
+                "name": "kamil-grosicki",
+                "id": 33689
+            },
+            {
+                "name": "pawel-wszolek",
+                "id": 139152
+            },
+            {
+                "name": "matty-cash",
+                "id": 833956
+            },
+            {
+                "name": "robert-gumny",
+                "id": 834986
+            },
+            {
+                "name": "wojciech-szczesny",
+                "id": 50490
+            },
+            {
+                "name": "karol-linetty",
+                "id": 189135
+            },
+            {
+                "name": "michal-skoras",
+                "id": 942479
+            },
+            {
+                "name": "krystian-bielik",
+                "id": 573812
+            },
+            {
+                "name": "filip-marchwinski",
+                "id": 966929
+            },
+            {
+                "name": "bartosz-bereszynski",
+                "id": 109461
+            },
+            {
+                "name": "michal-karbownik",
+                "id": 910043
+            }
+        ],
+        "id": 4703
+    },
+    "bosnia-and-herzegovina": {
+        "players": [
+            {
+                "name": "amar-rahmanovic",
+                "id": 138123
+            },
+            {
+                "name": "rade-krunic",
+                "id": 155449
+            },
+            {
+                "name": "hrvoje-milicevic",
+                "id": 120387
+            },
+            {
+                "name": "miralem-pjanic",
+                "id": 27678
+            },
+            {
+                "name": "nermin-zolotic",
+                "id": 94826
+            },
+            {
+                "name": "anel-ahmedhodzic",
+                "id": 825899
+            },
+            {
+                "name": "edin-dzeko",
+                "id": 14990
+            },
+            {
+                "name": "adi-nalic",
+                "id": 875437
+            },
+            {
+                "name": "sinisa-sanicanin",
+                "id": 813409
+            },
+            {
+                "name": "smail-prevljak",
+                "id": 580658
+            },
+            {
+                "name": "sead-kolasinac",
+                "id": 142148
+            },
+            {
+                "name": "haris-hajradinovic",
+                "id": 254979
+            },
+            {
+                "name": "ermedin-demirovic",
+                "id": 878081
+            },
+            {
+                "name": "gojko-cimirot",
+                "id": 116604
+            },
+            {
+                "name": "nemanja-bilbija",
+                "id": 63896
+            },
+            {
+                "name": "adnan-kovacevic",
+                "id": 184093
+            },
+            {
+                "name": "dennis-hadzikadunic",
+                "id": 802830
+            },
+            {
+                "name": "amar-dedic",
+                "id": 1102791
+            },
+            {
+                "name": "renato-gojkovic",
+                "id": 798880
+            },
+            {
+                "name": "sanjin-prcic",
+                "id": 94822
+            },
+            {
+                "name": "benjamin-tahirovic",
+                "id": 1102659
+            },
+            {
+                "name": "amir-hadziahmetovic",
+                "id": 795421
+            },
+            {
+                "name": "miroslav-stevanovic",
+                "id": 50302
+            },
+            {
+                "name": "said-hamulic",
+                "id": 1106808
+            },
+            {
+                "name": "ivan-basic",
+                "id": 1049701
+            },
+            {
+                "name": "almedin-ziljkic",
+                "id": 799682
+            },
+            {
+                "name": "jusuf-gazibegovic",
+                "id": 907530
+            },
+            {
+                "name": "luka-menalo",
+                "id": 795169
+            },
+            {
+                "name": "kenan-kodro",
+                "id": 591140
+            },
+            {
+                "name": "eldar-civic",
+                "id": 280469
+            },
+            {
+                "name": "nihad-mujakic",
+                "id": 858004
+            },
+            {
+                "name": "ibrahim-sehic",
+                "id": 63952
+            },
+            {
+                "name": "haris-tabakovic",
+                "id": 259803
+            },
+            {
+                "name": "dal-varesanovic",
+                "id": 979109
+            },
+            {
+                "name": "kenan-piric",
+                "id": 840898
+            },
+            {
+                "name": "adrian-leon-barisic",
+                "id": 959592
+            },
+            {
+                "name": "nikola-vasilj",
+                "id": 325061
+            }
+        ],
+        "id": 4479
+    },
+    "north-macedonia": {
+        "players": [
+            {
+                "name": "damjan-shishkovski",
+                "id": 134228
+            },
+            {
+                "name": "eljif-elmas",
+                "id": 838232
+            },
+            {
+                "name": "enis-bardhi",
+                "id": 355024
+            },
+            {
+                "name": "ezgjan-alioski",
+                "id": 137060
+            },
+            {
+                "name": "bojan-miovski",
+                "id": 945768
+            },
+            {
+                "name": "stefan-ristovski",
+                "id": 73146
+            },
+            {
+                "name": "atanasov-jani",
+                "id": 883475
+            },
+            {
+                "name": "jovan-manev",
+                "id": 1111781
+            },
+            {
+                "name": "visar-musliu",
+                "id": 134231
+            },
+            {
+                "name": "ilija-nestorovski",
+                "id": 55314
+            },
+            {
+                "name": "agon-elezi",
+                "id": 995719
+            },
+            {
+                "name": "aleksandar-trajkovski",
+                "id": 60184
+            },
+            {
+                "name": "darko-churlinov",
+                "id": 876345
+            },
+            {
+                "name": "darko-velkovski",
+                "id": 156990
+            },
+            {
+                "name": "arijan-ademi",
+                "id": 51168
+            },
+            {
+                "name": "isnik-alimi",
+                "id": 166309
+            },
+            {
+                "name": "milan-ristovski",
+                "id": 798466
+            },
+            {
+                "name": "gjoko-zajkov",
+                "id": 190239
+            },
+            {
+                "name": "david-babunski",
+                "id": 134235
+            },
+            {
+                "name": "tihomir-kostadinov",
+                "id": 802844
+            },
+            {
+                "name": "dorian-babunski",
+                "id": 190255
+            },
+            {
+                "name": "bojan-dimoski",
+                "id": 1005774
+            },
+            {
+                "name": "ljupche-doriev",
+                "id": 573710
+            },
+            {
+                "name": "stefan-askovski",
+                "id": 99533
+            },
+            {
+                "name": "serafimov-nikola",
+                "id": 1006330
+            },
+            {
+                "name": "stole-dimitrievski",
+                "id": 97951
+            },
+            {
+                "name": "vladica-brdarovski",
+                "id": 72772
+            },
+            {
+                "name": "egzon-bejtulai",
+                "id": 167541
+            },
+            {
+                "name": "kire-ristevski",
+                "id": 54925
+            },
+            {
+                "name": "ahmed-iljazovski",
+                "id": 1068613
+            }
+        ],
+        "id": 4777
+    },
+    "ukraine": {
+        "players": [
+            {
+                "name": "serhiy-kryvtsov",
+                "id": 45588
+            },
+            {
+                "name": "anatoliy-trubin",
+                "id": 966616
+            },
+            {
+                "name": "oleksandr-svatok",
+                "id": 329165
+            },
+            {
+                "name": "andriy-yarmolenko",
+                "id": 41116
+            },
+            {
+                "name": "viktor-tsygankov",
+                "id": 319735
+            },
+            {
+                "name": "illia-zabarnyi",
+                "id": 1023567
+            },
+            {
+                "name": "georgiy-sudakov",
+                "id": 1123925
+            },
+            {
+                "name": "vitaliy-mykolenko",
+                "id": 876643
+            },
+            {
+                "name": "oleksandr-zinchenko",
+                "id": 287643
+            },
+            {
+                "name": "heorhiy-bushchan",
+                "id": 138813
+            },
+            {
+                "name": "konoplia-yukhym",
+                "id": 904852
+            },
+            {
+                "name": "mykola-matviyenko",
+                "id": 353272
+            },
+            {
+                "name": "oleksandr-karavayev",
+                "id": 137682
+            },
+            {
+                "name": "eduard-sobol",
+                "id": 186017
+            },
+            {
+                "name": "vitaliy-buyalskyi",
+                "id": 137677
+            },
+            {
+                "name": "ruslan-malinovskyi",
+                "id": 195850
+            },
+            {
+                "name": "taras-stepanenko",
+                "id": 45604
+            },
+            {
+                "name": "serhiy-sydorchuk",
+                "id": 81202
+            },
+            {
+                "name": "pikhalyonok-oleksandr",
+                "id": 792296
+            },
+            {
+                "name": "artem-dovbyk",
+                "id": 798820
+            },
+            {
+                "name": "mykhaylo-mudryk",
+                "id": 958966
+            },
+            {
+                "name": "sikan-danylo",
+                "id": 945479
+            },
+            {
+                "name": "yehor-nazaryna",
+                "id": 833562
+            },
+            {
+                "name": "roman-yaremchuk",
+                "id": 829296
+            },
+            {
+                "name": "oleksandr-zubkov",
+                "id": 353282
+            },
+            {
+                "name": "vladyslav-vanat",
+                "id": 976374
+            },
+            {
+                "name": "oleksandr-tymchyk",
+                "id": 978286
+            },
+            {
+                "name": "yevhen-konoplyanka",
+                "id": 41309
+            }
+        ],
+        "id": 4701
+    },
+    "bulgaria": {
+        "players": [
+            {
+                "name": "naumov-daniel",
+                "id": 840223
+            },
+            {
+                "name": "kiril-despodov",
+                "id": 226972
+            },
+            {
+                "name": "dimo-krastev",
+                "id": 936510
+            },
+            {
+                "name": "hristov-petko",
+                "id": 832076
+            },
+            {
+                "name": "alex-petkov",
+                "id": 845461
+            },
+            {
+                "name": "filip-krastev",
+                "id": 935556
+            },
+            {
+                "name": "shopov-stanislav",
+                "id": 928337
+            },
+            {
+                "name": "hristiyan-petrov",
+                "id": 1129996
+            },
+            {
+                "name": "spas-delev",
+                "id": 80999
+            },
+            {
+                "name": "preslav-borukov",
+                "id": 965931
+            },
+            {
+                "name": "georgi-rusev",
+                "id": 869017
+            },
+            {
+                "name": "ilia-gruev",
+                "id": 911679
+            },
+            {
+                "name": "aleksandar-kolev",
+                "id": 257159
+            },
+            {
+                "name": "marin-petkov",
+                "id": 985186
+            },
+            {
+                "name": "nikola-iliev",
+                "id": 1067203
+            },
+            {
+                "name": "ivajlo-chochev",
+                "id": 94681
+            },
+            {
+                "name": "anton-nedyalkov",
+                "id": 173521
+            },
+            {
+                "name": "plamen-galabov",
+                "id": 226970
+            },
+            {
+                "name": "hristo-ivanov",
+                "id": 988828
+            },
+            {
+                "name": "ivan-turitsov",
+                "id": 896706
+            },
+            {
+                "name": "zhivko-atanasov",
+                "id": 67706
+            },
+            {
+                "name": "patrick-gabriel-galchev",
+                "id": 1048437
+            },
+            {
+                "name": "valentin-antov",
+                "id": 827640
+            },
+            {
+                "name": "petrov-simeon",
+                "id": 1048111
+            },
+            {
+                "name": "kristian-dimitrov",
+                "id": 826915
+            },
+            {
+                "name": "yanis-karabelyov",
+                "id": 286121
+            },
+            {
+                "name": "ivan-yordanov",
+                "id": 987212
+            },
+            {
+                "name": "stanislav-ivanov",
+                "id": 833643
+            },
+            {
+                "name": "iliyan-stefanov",
+                "id": 895686
+            },
+            {
+                "name": "radoslav-kirilov",
+                "id": 94941
+            },
+            {
+                "name": "lukas-petkov",
+                "id": 960017
+            },
+            {
+                "name": "viktor-popov",
+                "id": 965935
+            },
+            {
+                "name": "minchev-martin",
+                "id": 878699
+            },
+            {
+                "name": "dyulgerov-ivan",
+                "id": 840799
+            },
+            {
+                "name": "yankov-dominik",
+                "id": 928282
+            },
+            {
+                "name": "andrian-kraev",
+                "id": 857374
+            },
+            {
+                "name": "iliev-ilian",
+                "id": 850792
+            },
+            {
+                "name": "yoni-stoyanov",
+                "id": 1096219
+            },
+            {
+                "name": "ivaylo-markov",
+                "id": 793980
+            },
+            {
+                "name": "svetoslav-kovachev",
+                "id": 840852
+            }
+        ],
+        "id": 4716
+    },
+    "moldova": {
+        "players": [
+            {
+                "name": "vladyslav-babohlo",
+                "id": 926993
+            },
+            {
+                "name": "vadim-rata",
+                "id": 98082
+            },
+            {
+                "name": "mihail-caimacov",
+                "id": 884871
+            },
+            {
+                "name": "veaceslav-posmac",
+                "id": 66350
+            },
+            {
+                "name": "ion-nicolaescu",
+                "id": 891210
+            },
+            {
+                "name": "victor-mudrac",
+                "id": 224920
+            },
+            {
+                "name": "serafim-cojocari",
+                "id": 1083667
+            },
+            {
+                "name": "dorian-railean",
+                "id": 98090
+            },
+            {
+                "name": "artur-craciun",
+                "id": 872821
+            },
+            {
+                "name": "ioan-calin-revenco",
+                "id": 913145
+            },
+            {
+                "name": "mihail-platica",
+                "id": 66348
+            },
+            {
+                "name": "postolachi-virgiliu",
+                "id": 901913
+            },
+            {
+                "name": "nichita-motpan",
+                "id": 1123596
+            },
+            {
+                "name": "vitalie-damascan",
+                "id": 856749
+            },
+            {
+                "name": "maxim-cojocaru",
+                "id": 842972
+            },
+            {
+                "name": "denis-marandici",
+                "id": 831076
+            },
+            {
+                "name": "sergiu-platica",
+                "id": 883484
+            },
+            {
+                "name": "victor-bogaciuc",
+                "id": 932722
+            },
+            {
+                "name": "victor-stina",
+                "id": 933031
+            },
+            {
+                "name": "reabciuk-oleg",
+                "id": 855666
+            },
+            {
+                "name": "cristian-dros",
+                "id": 843019
+            }
+        ],
+        "id": 4782
+    },
+    "estonia": {
+        "players": [
+            {
+                "name": "rauno-sappinen",
+                "id": 187391
+            },
+            {
+                "name": "konstantin-vassiljev",
+                "id": 24845
+            },
+            {
+                "name": "martin-vetkal",
+                "id": 986955
+            },
+            {
+                "name": "vlasiy-sinyavskiy",
+                "id": 314858
+            },
+            {
+                "name": "mattias-kait",
+                "id": 354052
+            },
+            {
+                "name": "oliver-jurgens",
+                "id": 1022833
+            },
+            {
+                "name": "sergei-zenjov",
+                "id": 41811
+            },
+            {
+                "name": "taijo-teniste",
+                "id": 24844
+            },
+            {
+                "name": "bogdan-vastsuk",
+                "id": 138181
+            },
+            {
+                "name": "henri-anier",
+                "id": 50909
+            },
+            {
+                "name": "rasmus-peetson",
+                "id": 324011
+            },
+            {
+                "name": "karol-mets",
+                "id": 57627
+            },
+            {
+                "name": "markus-poom",
+                "id": 833218
+            },
+            {
+                "name": "alex-matthias-tamm",
+                "id": 927556
+            },
+            {
+                "name": "ken-kallaste",
+                "id": 13390
+            },
+            {
+                "name": "sten-reinkort",
+                "id": 851080
+            },
+            {
+                "name": "martin-miller",
+                "id": 328039
+            },
+            {
+                "name": "artur-pikk",
+                "id": 96590
+            },
+            {
+                "name": "tunjov-georgi",
+                "id": 844498
+            },
+            {
+                "name": "marten-kuusk",
+                "id": 254761
+            },
+            {
+                "name": "erik-sorga",
+                "id": 833221
+            },
+            {
+                "name": "joonas-tamm",
+                "id": 50908
+            },
+            {
+                "name": "rocco-robert-shein",
+                "id": 954624
+            },
+            {
+                "name": "henrik-ojamaa",
+                "id": 93740
+            },
+            {
+                "name": "karl-hein",
+                "id": 991591
+            },
+            {
+                "name": "maksim-paskotsi",
+                "id": 954621
+            },
+            {
+                "name": "marco-lukka",
+                "id": 316036
+            },
+            {
+                "name": "nikita-baranov",
+                "id": 57460
+            }
+        ],
+        "id": 4759
+    },
+    "kazakhstan": {
+        "players": [
+            {
+                "name": "arman-kenesov",
+                "id": 941337
+            },
+            {
+                "name": "askhat-tagybergen",
+                "id": 60133
+            },
+            {
+                "name": "nuraly-alip",
+                "id": 887323
+            },
+            {
+                "name": "aleksandr-marochkin",
+                "id": 887350
+            },
+            {
+                "name": "marat-bystrov",
+                "id": 869942
+            },
+            {
+                "name": "bauyrzhan-islamkhan",
+                "id": 156328
+            },
+            {
+                "name": "igor-shatskiy",
+                "id": 824276
+            },
+            {
+                "name": "maksim-samorodov",
+                "id": 1001695
+            },
+            {
+                "name": "islambek-kuat",
+                "id": 98478
+            },
+            {
+                "name": "sergey-maliy",
+                "id": 76522
+            },
+            {
+                "name": "bakhtiyar-zaynutdinov",
+                "id": 887382
+            },
+            {
+                "name": "timur-dosmagambetov",
+                "id": 60469
+            },
+            {
+                "name": "abat-aimbetov",
+                "id": 189193
+            },
+            {
+                "name": "abzal-beysebekov",
+                "id": 86285
+            },
+            {
+                "name": "erkin-tapalov",
+                "id": 890314
+            },
+            {
+                "name": "sviridov-ivan",
+                "id": 1091823
+            },
+            {
+                "name": "islam-chesnokov",
+                "id": 1126327
+            },
+            {
+                "name": "lev-skvortsov",
+                "id": 937824
+            },
+            {
+                "name": "bagdat-kairov",
+                "id": 842481
+            },
+            {
+                "name": "yan-vorogovskiy",
+                "id": 842969
+            },
+            {
+                "name": "ramazan-orazov",
+                "id": 858225
+            },
+            {
+                "name": "mikhail-gabyshev",
+                "id": 85849
+            },
+            {
+                "name": "aslan-darabaev",
+                "id": 67429
+            },
+            {
+                "name": "astanov-elkhan",
+                "id": 986359
+            },
+            {
+                "name": "temirlan-erlanov",
+                "id": 842581
+            },
+            {
+                "name": "aleksander-zuev",
+                "id": 280661
+            }
+        ],
+        "id": 4772
+    },
+    "cyprus": {
+        "players": [
+            {
+                "name": "grigoris-kastanos",
+                "id": 791566
+            },
+            {
+                "name": "dimitris-christofi",
+                "id": 36920
+            },
+            {
+                "name": "loizos-loizou",
+                "id": 984062
+            },
+            {
+                "name": "minas-antoniou",
+                "id": 139279
+            },
+            {
+                "name": "marinos-tzionis",
+                "id": 899024
+            },
+            {
+                "name": "andronikos-kakoullis",
+                "id": 899022
+            },
+            {
+                "name": "valentin-roberge",
+                "id": 41021
+            },
+            {
+                "name": "hector-kyprianou",
+                "id": 987346
+            },
+            {
+                "name": "konstantinos-laifis",
+                "id": 97061
+            },
+            {
+                "name": "ioannis-pittas",
+                "id": 794659
+            },
+            {
+                "name": "pavlos-correa",
+                "id": 881938
+            },
+            {
+                "name": "andreou-stelios",
+                "id": 994282
+            },
+            {
+                "name": "danilo-spoljaric",
+                "id": 881941
+            },
+            {
+                "name": "ioannis-kousoulos",
+                "id": 369708
+            },
+            {
+                "name": "charalampos-charalampous",
+                "id": 1197022
+            },
+            {
+                "name": "anderson-correia",
+                "id": 587428
+            },
+            {
+                "name": "kostakis-artymatas",
+                "id": 137811
+            },
+            {
+                "name": "dimitris-dimitriou",
+                "id": 849735
+            },
+            {
+                "name": "marios-antoniadis",
+                "id": 42014
+            },
+            {
+                "name": "chambos-kyriakou",
+                "id": 186745
+            },
+            {
+                "name": "pieros-sotiriou",
+                "id": 97060
+            },
+            {
+                "name": "alexander-gogic",
+                "id": 860519
+            },
+            {
+                "name": "kostas-pileas",
+                "id": 889002
+            },
+            {
+                "name": "andreas-karo",
+                "id": 818259
+            },
+            {
+                "name": "ilia-marios",
+                "id": 558856
+            },
+            {
+                "name": "ioannou-michalis",
+                "id": 868252
+            },
+            {
+                "name": "joel-mall",
+                "id": 37353
+            },
+            {
+                "name": "giannis-satsias",
+                "id": 998998
+            },
+            {
+                "name": "nicholas-ioannou",
+                "id": 353210
+            },
+            {
+                "name": "stavros-gavriel",
+                "id": 999013
+            },
+            {
+                "name": "andreas-panagiotou-filiotis",
+                "id": 288217
+            }
+        ],
+        "id": 4482
+    },
+    "liechtenstein": {
+        "players": [
+            {
+                "name": "benjamin-buchel",
+                "id": 41607
+            },
+            {
+                "name": "ferhat-saglam",
+                "id": 940896
+            },
+            {
+                "name": "maximilian-goppel",
+                "id": 812562
+            },
+            {
+                "name": "philipp-ospelt",
+                "id": 906224
+            },
+            {
+                "name": "schlegel-severin",
+                "id": 1138469
+            },
+            {
+                "name": "hasler-julien",
+                "id": 1501666
+            },
+            {
+                "name": "colin-haas",
+                "id": 797050
+            },
+            {
+                "name": "dennis-salanovic",
+                "id": 188299
+            },
+            {
+                "name": "andrin-netzer",
+                "id": 995673
+            },
+            {
+                "name": "philipp-gassner",
+                "id": 1064823
+            },
+            {
+                "name": "meier-livio",
+                "id": 836521
+            },
+            {
+                "name": "marcel-buchel",
+                "id": 95687
+            },
+            {
+                "name": "sandro-wieser",
+                "id": 95588
+            },
+            {
+                "name": "niklas-beck",
+                "id": 986101
+            },
+            {
+                "name": "graber-lukas",
+                "id": 951232
+            },
+            {
+                "name": "liam-kranz",
+                "id": 1123838
+            },
+            {
+                "name": "luque-notaro-fabio",
+                "id": 1152933
+            },
+            {
+                "name": "andreas-malin",
+                "id": 276053
+            },
+            {
+                "name": "jens-hofer",
+                "id": 562456
+            },
+            {
+                "name": "jakob-lorenz",
+                "id": 1138485
+            },
+            {
+                "name": "sandro-wolfinger",
+                "id": 97944
+            },
+            {
+                "name": "nicolas-hasler",
+                "id": 87346
+            },
+            {
+                "name": "aron-sele",
+                "id": 812563
+            },
+            {
+                "name": "traber-lars",
+                "id": 991876
+            },
+            {
+                "name": "simon-luchinger",
+                "id": 986093
+            },
+            {
+                "name": "noah-frick",
+                "id": 940895
+            },
+            {
+                "name": "noah-frommelt",
+                "id": 986095
+            },
+            {
+                "name": "kenny-kindle",
+                "id": 1501281
+            },
+            {
+                "name": "fabio-wolfinger",
+                "id": 135231
+            },
+            {
+                "name": "seyhan-yildiz",
+                "id": 87708
+            },
+            {
+                "name": "martin-marxer",
+                "id": 986098
+            }
+        ],
+        "id": 4830
+    },
+    "san-marino": {
+        "players": [
+            {
+                "name": "cevoli-michele",
+                "id": 836916
+            },
+            {
+                "name": "dante-rossi",
+                "id": 1063220
+            },
+            {
+                "name": "mattia-stefanelli",
+                "id": 94073
+            },
+            {
+                "name": "mirko-palazzi",
+                "id": 13839
+            },
+            {
+                "name": "berardi-filippo",
+                "id": 850021
+            },
+            {
+                "name": "nicola-nanni",
+                "id": 1138873
+            },
+            {
+                "name": "simone-franciosi",
+                "id": 1006305
+            },
+            {
+                "name": "marcello-mularoni",
+                "id": 959064
+            },
+            {
+                "name": "adolfo-hirsch",
+                "id": 102850
+            },
+            {
+                "name": "lorenzo-lunadei",
+                "id": 856329
+            },
+            {
+                "name": "michael-battistini",
+                "id": 812626
+            },
+            {
+                "name": "matteo-vitaioli",
+                "id": 31342
+            },
+            {
+                "name": "tommaso-zafferani",
+                "id": 883956
+            },
+            {
+                "name": "luca-ceccaroli",
+                "id": 190223
+            },
+            {
+                "name": "magi-andrea",
+                "id": 1535515
+            },
+            {
+                "name": "roberto-di-maio",
+                "id": 822394
+            },
+            {
+                "name": "alessandro-golinucci",
+                "id": 94069
+            },
+            {
+                "name": "enrico-golinucci",
+                "id": 100589
+            },
+            {
+                "name": "elia-benedettini",
+                "id": 138856
+            },
+            {
+                "name": "filippo-fabbri",
+                "id": 1083425
+            },
+            {
+                "name": "alessandro-daddario",
+                "id": 796933
+            },
+            {
+                "name": "capicchioni-lorenzo",
+                "id": 1196052
+            },
+            {
+                "name": "aldo-simoncini",
+                "id": 17846
+            },
+            {
+                "name": "fabio-ramon-tomassini",
+                "id": 916371
+            },
+            {
+                "name": "alessandro-tosi",
+                "id": 1000290
+            },
+            {
+                "name": "lazzari-lorenzo",
+                "id": 1147365
+            },
+            {
+                "name": "danilo-rinaldi",
+                "id": 44266
+            },
+            {
+                "name": "manuel-battistini",
+                "id": 94068
+            },
+            {
+                "name": "samuel-pancotti",
+                "id": 885504
+            }
+        ],
+        "id": 4833
+    },
+    "andorra": {
+        "players": [
+            {
+                "name": "iker-alvarez",
+                "id": 1005638
+            },
+            {
+                "name": "albert-rosas",
+                "id": 994816
+            },
+            {
+                "name": "alavedra-albert",
+                "id": 986076
+            },
+            {
+                "name": "marc-vales",
+                "id": 41807
+            },
+            {
+                "name": "remolins-planes-ot",
+                "id": 1005682
+            },
+            {
+                "name": "marcio-vieira",
+                "id": 13775
+            },
+            {
+                "name": "max-llovera",
+                "id": 810852
+            },
+            {
+                "name": "ricard-fernandez-cucu",
+                "id": 850339
+            },
+            {
+                "name": "marc-pujol",
+                "id": 12315
+            },
+            {
+                "name": "eric-vales",
+                "id": 986075
+            },
+            {
+                "name": "ian-bryan-olivera",
+                "id": 1159417
+            },
+            {
+                "name": "de-pablos-eric",
+                "id": 850335
+            },
+            {
+                "name": "ildefons-lima",
+                "id": 44135
+            },
+            {
+                "name": "francisco-pomares-ortega",
+                "id": 793145
+            },
+            {
+                "name": "victor-bernat",
+                "id": 120495
+            },
+            {
+                "name": "marc-rebes",
+                "id": 134882
+            },
+            {
+                "name": "alexandre-martinez",
+                "id": 850337
+            },
+            {
+                "name": "joan-cervos",
+                "id": 850334
+            },
+            {
+                "name": "aaron-sanchez",
+                "id": 181915
+            },
+            {
+                "name": "moises-san-nicolas",
+                "id": 97423
+            },
+            {
+                "name": "marc-garcia",
+                "id": 87548
+            },
+            {
+                "name": "guillen-joel",
+                "id": 986071
+            },
+            {
+                "name": "jesus-rubio",
+                "id": 97437
+            },
+            {
+                "name": "izan-fernandez",
+                "id": 986079
+            },
+            {
+                "name": "jordi-alaez",
+                "id": 813106
+            },
+            {
+                "name": "jordi-rubio",
+                "id": 18486
+            }
+        ],
+        "id": 4818
+    },
+    "gibraltar": {
+        "players": [
+            {
+                "name": "bernardo-lopes",
+                "id": 604174
+            },
+            {
+                "name": "dylan-peacock",
+                "id": 943035
+            },
+            {
+                "name": "hartman-niels",
+                "id": 1479546
+            },
+            {
+                "name": "dayle-coleing",
+                "id": 359690
+            },
+            {
+                "name": "reece-styche",
+                "id": 106489
+            },
+            {
+                "name": "tjay-de-barr",
+                "id": 876680
+            },
+            {
+                "name": "graeme-torrilla",
+                "id": 876681
+            },
+            {
+                "name": "scott-ballantine",
+                "id": 359722
+            },
+            {
+                "name": "james-coombes",
+                "id": 359732
+            },
+            {
+                "name": "louie-annesley",
+                "id": 884193
+            },
+            {
+                "name": "mohamed-badr-hassan",
+                "id": 1000787
+            },
+            {
+                "name": "ethan-britto",
+                "id": 890151
+            },
+            {
+                "name": "kian-ronan",
+                "id": 986178
+            },
+            {
+                "name": "scott-wiseman",
+                "id": 10048
+            },
+            {
+                "name": "nicholas-pozo",
+                "id": 1149352
+            },
+            {
+                "name": "julian-valarino",
+                "id": 1063397
+            },
+            {
+                "name": "el-hmidi-ayoub",
+                "id": 1111459
+            },
+            {
+                "name": "joseph-chipolina",
+                "id": 364610
+            },
+            {
+                "name": "liam-walker",
+                "id": 256621
+            },
+            {
+                "name": "roy-alan-chipolina",
+                "id": 308830
+            },
+            {
+                "name": "ethan-jolley",
+                "id": 361586
+            },
+            {
+                "name": "jack-sergeant",
+                "id": 364604
+            },
+            {
+                "name": "aymen-mouelhi",
+                "id": 964086
+            },
+            {
+                "name": "jayce-mascarenhas-olivero",
+                "id": 811163
+            },
+            {
+                "name": "evan-de-haro",
+                "id": 1006241
+            },
+            {
+                "name": "lee-casciaro",
+                "id": 308826
+            },
+            {
+                "name": "ethan-james-santos",
+                "id": 986177
+            }
+        ],
+        "id": 129264
+    }
+}

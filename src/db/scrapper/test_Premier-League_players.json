@@ -1,0 +1,355 @@
+{
+    "tottenham-hotspur": {
+        "james-maddison": {
+            "attack": "77",
+            "creativity": "86",
+            "defending": "30",
+            "position": "M",
+            "tactical": "51",
+            "technical": "78"
+        },
+        "heung-min-son": {
+            "attack": "82",
+            "creativity": "72",
+            "defending": "25",
+            "position": "M",
+            "tactical": "51",
+            "technical": "65"
+        }
+    },
+    "manchester-city": {
+        "rodri": {
+            "attack": "62",
+            "creativity": "72",
+            "defending": "64",
+            "position": "M",
+            "tactical": "80",
+            "technical": "75"
+        },
+        "jeremy-doku": {
+            "attack": "79",
+            "creativity": "78",
+            "defending": "42",
+            "position": "M",
+            "tactical": "57",
+            "technical": "99"
+        }
+    },
+    "liverpool": {
+        "mohamed-salah": {
+            "attack": "89",
+            "creativity": "79",
+            "defending": "24",
+            "position": "F",
+            "tactical": "60",
+            "technical": "63"
+        },
+        "virgil-van-dijk": {
+            "attack": "42",
+            "creativity": "51",
+            "defending": "79",
+            "position": "D",
+            "tactical": "77",
+            "technical": "56"
+        }
+    },
+    "arsenal": {
+        "bukayo-saka": {
+            "attack": "83",
+            "creativity": "76",
+            "defending": "34",
+            "position": "D",
+            "tactical": "56",
+            "technical": "72"
+        },
+        "martin-odegaard": {
+            "attack": "71",
+            "creativity": "80",
+            "defending": "32",
+            "position": "F",
+            "tactical": "49",
+            "technical": "73"
+        }
+    },
+    "crystal-palace": {
+        "michael-olise": {
+            "attack": "76",
+            "creativity": "85",
+            "defending": "37",
+            "position": "M",
+            "tactical": "52",
+            "technical": "65"
+        },
+        "eberechi-eze": {
+            "attack": "75",
+            "creativity": "78",
+            "defending": "35",
+            "position": "F",
+            "tactical": "49",
+            "technical": "83"
+        }
+    },
+    "brighton-and-hove-albion": {
+        "pascal-gross": {
+            "attack": "69",
+            "creativity": "83",
+            "defending": "47",
+            "position": "M",
+            "tactical": "59",
+            "technical": "73"
+        },
+        "solly-march": {
+            "attack": "70",
+            "creativity": "81",
+            "defending": "46",
+            "position": "M",
+            "tactical": "55",
+            "technical": "76"
+        }
+    },
+    "manchester-united": {
+        "bruno-fernandes": {
+            "attack": "79",
+            "creativity": "95",
+            "defending": "45",
+            "position": "M",
+            "tactical": "61",
+            "technical": "76"
+        },
+        "andre-onana": {
+            "aerial": "65",
+            "anticipation": "51",
+            "ballDistribution": "88",
+            "position": "G",
+            "saves": "84",
+            "tactical": "73"
+        }
+    },
+    "newcastle-united": {
+        "jacob-murphy": {
+            "attack": "70",
+            "creativity": "65",
+            "defending": "32",
+            "position": "M",
+            "tactical": "49",
+            "technical": "52"
+        },
+        "kieran-trippier": {
+            "attack": "61",
+            "creativity": "86",
+            "defending": "68",
+            "position": "D",
+            "tactical": "64",
+            "technical": "72"
+        }
+    },
+    "aston-villa": {
+        "douglas-luiz": {
+            "attack": "65",
+            "creativity": "71",
+            "defending": "51",
+            "position": "M",
+            "tactical": "57",
+            "technical": "66"
+        },
+        "ollie-watkins": {
+            "attack": "79",
+            "creativity": "59",
+            "defending": "34",
+            "position": "F",
+            "tactical": "64",
+            "technical": "53"
+        }
+    },
+    "west-ham-united": {
+        "james-ward-prowse": {
+            "attack": "73",
+            "creativity": "83",
+            "defending": "43",
+            "position": "M",
+            "tactical": "61",
+            "technical": "72"
+        },
+        "lucas-paqueta": {
+            "attack": "67",
+            "creativity": "73",
+            "defending": "35",
+            "position": "M",
+            "tactical": "44",
+            "technical": "67"
+        }
+    },
+    "brentford": {
+        "thomas-strakosha": {},
+        "bryan-mbeumo": {
+            "attack": "77",
+            "creativity": "70",
+            "defending": "21",
+            "position": "M",
+            "tactical": "49",
+            "technical": "62"
+        }
+    },
+    "wolverhampton": {
+        "pedro-neto": {
+            "attack": "74",
+            "creativity": "82",
+            "defending": "21",
+            "position": "F",
+            "tactical": "32",
+            "technical": "67"
+        },
+        "pablo-sarabia": {
+            "attack": "66",
+            "creativity": "67",
+            "defending": "27",
+            "position": "M",
+            "tactical": "35",
+            "technical": "50"
+        }
+    },
+    "chelsea": {
+        "conor-gallagher": {
+            "attack": "62",
+            "creativity": "66",
+            "defending": "51",
+            "position": "M",
+            "tactical": "59",
+            "technical": "63"
+        },
+        "cole-palmer": {
+            "attack": "74",
+            "creativity": "76",
+            "defending": "39",
+            "position": "M",
+            "tactical": "58",
+            "technical": "73"
+        }
+    },
+    "everton": {
+        "james-tarkowski": {
+            "attack": "41",
+            "creativity": "50",
+            "defending": "92",
+            "position": "D",
+            "tactical": "89",
+            "technical": "51"
+        },
+        "dwight-mcneil": {
+            "attack": "69",
+            "creativity": "78",
+            "defending": "45",
+            "position": "M",
+            "tactical": "58",
+            "technical": "72"
+        }
+    },
+    "nottingham-forest": {
+        "morgan-gibbs-white": {
+            "attack": "72",
+            "creativity": "75",
+            "defending": "29",
+            "position": "F",
+            "tactical": "52",
+            "technical": "61"
+        },
+        "matt-turner": {
+            "aerial": "71",
+            "anticipation": "55",
+            "ballDistribution": "66",
+            "position": "G",
+            "saves": "65",
+            "tactical": "63"
+        }
+    },
+    "fulham": {
+        "bernd-leno": {
+            "aerial": "59",
+            "anticipation": "54",
+            "ballDistribution": "92",
+            "position": "G",
+            "saves": "89",
+            "tactical": "75"
+        },
+        "willian": {
+            "attack": "68",
+            "creativity": "73",
+            "defending": "30",
+            "position": "F",
+            "tactical": "41",
+            "technical": "71"
+        }
+    },
+    "burnley": {
+        "james-trafford": {
+            "aerial": "65",
+            "anticipation": "56",
+            "ballDistribution": "61",
+            "position": "G",
+            "saves": "61",
+            "tactical": "66"
+        },
+        "wilson-odobert": {
+            "attack": "68",
+            "creativity": "55",
+            "defending": "20",
+            "position": "F",
+            "tactical": "44",
+            "technical": "63"
+        }
+    },
+    "bournemouth": {
+        "neto": {
+            "aerial": "65",
+            "anticipation": "58",
+            "ballDistribution": "72",
+            "position": "G",
+            "saves": "87",
+            "tactical": "67"
+        },
+        "marcus-tavernier": {
+            "attack": "64",
+            "creativity": "64",
+            "defending": "38",
+            "position": "D",
+            "tactical": "41",
+            "technical": "64"
+        }
+    },
+    "luton-town": {
+        "ross-barkley": {
+            "attack": "61",
+            "creativity": "69",
+            "defending": "21",
+            "position": "M",
+            "tactical": "38",
+            "technical": "57"
+        },
+        "alfie-doughty": {
+            "attack": "59",
+            "creativity": "68",
+            "defending": "53",
+            "position": "M",
+            "tactical": "51",
+            "technical": "65"
+        }
+    },
+    "sheffield-united": {
+        "wesley-foderingham": {
+            "aerial": "65",
+            "anticipation": "50",
+            "ballDistribution": "60",
+            "position": "G",
+            "saves": "69",
+            "tactical": "51"
+        },
+        "gustavo-hamer": {
+            "attack": "63",
+            "creativity": "68",
+            "defending": "47",
+            "position": "M",
+            "tactical": "52",
+            "technical": "62"
+        }
+    }
+}

@@ -1,0 +1,2102 @@
+{
+    "tottenham-hotspur": {
+        "players": [
+            {
+                "name": "james-maddison",
+                "id": 356398
+            },
+            {
+                "name": "heung-min-son",
+                "id": 111505
+            },
+            {
+                "name": "pedro-porro",
+                "id": 913654
+            },
+            {
+                "name": "cristian-romero",
+                "id": 829932
+            },
+            {
+                "name": "manor-solomon",
+                "id": 862223
+            },
+            {
+                "name": "dejan-kulusevski",
+                "id": 928124
+            },
+            {
+                "name": "guglielmo-vicario",
+                "id": 553606
+            },
+            {
+                "name": "pape-matar-sarr",
+                "id": 1002711
+            },
+            {
+                "name": "lo-celso-giovani",
+                "id": 798835
+            },
+            {
+                "name": "yves-bissouma",
+                "id": 844842
+            },
+            {
+                "name": "ben-davies",
+                "id": 94758
+            },
+            {
+                "name": "ivan-perisic",
+                "id": 38710
+            },
+            {
+                "name": "micky-van-de-ven",
+                "id": 998247
+            },
+            {
+                "name": "davinson-sanchez",
+                "id": 566102
+            },
+            {
+                "name": "richarlison",
+                "id": 840217
+            },
+            {
+                "name": "brennan-johnson",
+                "id": 1085180
+            },
+            {
+                "name": "destiny-udogie",
+                "id": 983572
+            },
+            {
+                "name": "emerson-royal",
+                "id": 856123
+            },
+            {
+                "name": "pierre-emile-hojbjerg",
+                "id": 149593
+            },
+            {
+                "name": "bryan-gil",
+                "id": 910026
+            },
+            {
+                "name": "alejo-veliz",
+                "id": 1116987
+            },
+            {
+                "name": "skipp-oliver",
+                "id": 859901
+            },
+            {
+                "name": "bentancur-rodrigo",
+                "id": 791190
+            },
+            {
+                "name": "eric-dier",
+                "id": 146101
+            }
+        ],
+        "id": 33
+    },
+    "manchester-city": {
+        "players": [
+            {
+                "name": "rodri",
+                "id": 827606
+            },
+            {
+                "name": "jeremy-doku",
+                "id": 934386
+            },
+            {
+                "name": "bernardo-silva",
+                "id": 331209
+            },
+            {
+                "name": "erling-haaland",
+                "id": 839956
+            },
+            {
+                "name": "phil-foden",
+                "id": 859765
+            },
+            {
+                "name": "jack-grealish",
+                "id": 189061
+            },
+            {
+                "name": "julian-alvarez",
+                "id": 944656
+            },
+            {
+                "name": "sergio-gomez",
+                "id": 855835
+            },
+            {
+                "name": "manuel-akanji",
+                "id": 383560
+            },
+            {
+                "name": "nathan-ake",
+                "id": 149663
+            },
+            {
+                "name": "ruben-dias",
+                "id": 318941
+            },
+            {
+                "name": "josko-gvardiol",
+                "id": 964994
+            },
+            {
+                "name": "kyle-walker",
+                "id": 44614
+            },
+            {
+                "name": "oscar-bobb",
+                "id": 1065216
+            },
+            {
+                "name": "aymeric-laporte",
+                "id": 149734
+            },
+            {
+                "name": "ederson",
+                "id": 254491
+            },
+            {
+                "name": "mateo-kovacic",
+                "id": 136710
+            },
+            {
+                "name": "rico-lewis",
+                "id": 1136731
+            },
+            {
+                "name": "kevin-de-bruyne",
+                "id": 70996
+            },
+            {
+                "name": "matheus-nunes",
+                "id": 945122
+            },
+            {
+                "name": "john-stones",
+                "id": 152077
+            },
+            {
+                "name": "kalvin-phillips",
+                "id": 786028
+            },
+            {
+                "name": "stefan-ortega",
+                "id": 125274
+            }
+        ],
+        "id": 17
+    },
+    "liverpool": {
+        "players": [
+            {
+                "name": "mohamed-salah",
+                "id": 159665
+            },
+            {
+                "name": "virgil-van-dijk",
+                "id": 151545
+            },
+            {
+                "name": "trent-alexander-arnold",
+                "id": 795064
+            },
+            {
+                "name": "andrew-robertson",
+                "id": 262911
+            },
+            {
+                "name": "dominik-szoboszlai",
+                "id": 869856
+            },
+            {
+                "name": "alisson",
+                "id": 243609
+            },
+            {
+                "name": "diogo-jota",
+                "id": 606164
+            },
+            {
+                "name": "ibrahima-konate",
+                "id": 826215
+            },
+            {
+                "name": "konstantinos-tsimikas",
+                "id": 786259
+            },
+            {
+                "name": "darwin-nunez",
+                "id": 924871
+            },
+            {
+                "name": "joel-matip",
+                "id": 51501
+            },
+            {
+                "name": "alexis-mac-allister",
+                "id": 895324
+            },
+            {
+                "name": "joe-gomez",
+                "id": 318927
+            },
+            {
+                "name": "luis-diaz",
+                "id": 883537
+            },
+            {
+                "name": "harvey-elliott",
+                "id": 955245
+            },
+            {
+                "name": "cody-gakpo",
+                "id": 862967
+            },
+            {
+                "name": "jarell-quansah",
+                "id": 1003339
+            },
+            {
+                "name": "wataru-endo",
+                "id": 143040
+            },
+            {
+                "name": "ryan-gravenberch",
+                "id": 904897
+            },
+            {
+                "name": "caoimhin-kelleher",
+                "id": 827362
+            },
+            {
+                "name": "curtis-jones",
+                "id": 927353
+            },
+            {
+                "name": "ben-doak",
+                "id": 1154861
+            },
+            {
+                "name": "mcconnell-james",
+                "id": 1138428
+            }
+        ],
+        "id": 44
+    },
+    "arsenal": {
+        "players": [
+            {
+                "name": "bukayo-saka",
+                "id": 934235
+            },
+            {
+                "name": "martin-odegaard",
+                "id": 547410
+            },
+            {
+                "name": "declan-rice",
+                "id": 856714
+            },
+            {
+                "name": "thomas-partey",
+                "id": 316148
+            },
+            {
+                "name": "gabriel-jesus",
+                "id": 794839
+            },
+            {
+                "name": "oleksandr-zinchenko",
+                "id": 287643
+            },
+            {
+                "name": "gabriel-martinelli",
+                "id": 922573
+            },
+            {
+                "name": "gabriel-magalhaes",
+                "id": 869792
+            },
+            {
+                "name": "benjamin-white",
+                "id": 846036
+            },
+            {
+                "name": "mohamed-elneny",
+                "id": 159675
+            },
+            {
+                "name": "william-saliba",
+                "id": 941168
+            },
+            {
+                "name": "kai-havertz",
+                "id": 836705
+            },
+            {
+                "name": "leandro-trossard",
+                "id": 135666
+            },
+            {
+                "name": "fabio-vieira",
+                "id": 904835
+            },
+            {
+                "name": "edward-nketiah",
+                "id": 858194
+            },
+            {
+                "name": "tomiyasu-takehiro",
+                "id": 804434
+            },
+            {
+                "name": "david-raya",
+                "id": 581310
+            },
+            {
+                "name": "emile-smith-rowe",
+                "id": 867445
+            },
+            {
+                "name": "jorginho",
+                "id": 132874
+            },
+            {
+                "name": "kiwior-jakub",
+                "id": 976037
+            },
+            {
+                "name": "jurrien-timber",
+                "id": 958959
+            },
+            {
+                "name": "aaron-ramsdale",
+                "id": 839410
+            },
+            {
+                "name": "reiss-nelson",
+                "id": 826139
+            }
+        ],
+        "id": 42
+    },
+    "crystal-palace": {
+        "players": [
+            {
+                "name": "michael-olise",
+                "id": 978838
+            },
+            {
+                "name": "eberechi-eze",
+                "id": 864921
+            },
+            {
+                "name": "dean-henderson",
+                "id": 788134
+            },
+            {
+                "name": "joachim-andersen",
+                "id": 362682
+            },
+            {
+                "name": "jefferson-lerma",
+                "id": 355796
+            },
+            {
+                "name": "odsonne-edouard",
+                "id": 795228
+            },
+            {
+                "name": "cheick-doucoure",
+                "id": 906047
+            },
+            {
+                "name": "jordan-ayew",
+                "id": 103045
+            },
+            {
+                "name": "marc-guehi",
+                "id": 877994
+            },
+            {
+                "name": "tyrick-mitchell",
+                "id": 988275
+            },
+            {
+                "name": "jean-philippe-mateta",
+                "id": 848276
+            },
+            {
+                "name": "sam-johnstone",
+                "id": 98427
+            },
+            {
+                "name": "will-hughes",
+                "id": 193554
+            },
+            {
+                "name": "jeffrey-schlupp",
+                "id": 148710
+            },
+            {
+                "name": "jesurun-rak-sakyi",
+                "id": 1101362
+            },
+            {
+                "name": "chris-richards",
+                "id": 931844
+            },
+            {
+                "name": "matheus-franca",
+                "id": 1116593
+            },
+            {
+                "name": "nathaniel-clyne",
+                "id": 43215
+            },
+            {
+                "name": "joel-ward",
+                "id": 39183
+            },
+            {
+                "name": "jairo-riedewald",
+                "id": 285989
+            },
+            {
+                "name": "naouirou-ahamada",
+                "id": 997104
+            },
+            {
+                "name": "david-ozoh",
+                "id": 1212155
+            },
+            {
+                "name": "remi-matthews",
+                "id": 581610
+            }
+        ],
+        "id": 7
+    },
+    "brighton-and-hove-albion": {
+        "players": [
+            {
+                "name": "pascal-gross",
+                "id": 48480
+            },
+            {
+                "name": "solly-march",
+                "id": 301288
+            },
+            {
+                "name": "julio-enciso",
+                "id": 973556
+            },
+            {
+                "name": "pervis-estupinan",
+                "id": 805465
+            },
+            {
+                "name": "joao-pedro",
+                "id": 975079
+            },
+            {
+                "name": "lewis-dunk",
+                "id": 115365
+            },
+            {
+                "name": "mitoma-kaoru",
+                "id": 936849
+            },
+            {
+                "name": "jan-paul-van-hecke",
+                "id": 962012
+            },
+            {
+                "name": "gilmour-billy",
+                "id": 907668
+            },
+            {
+                "name": "evan-ferguson",
+                "id": 999231
+            },
+            {
+                "name": "bart-verbruggen",
+                "id": 994363
+            },
+            {
+                "name": "simon-adingra",
+                "id": 1110842
+            },
+            {
+                "name": "igor-julio",
+                "id": 842513
+            },
+            {
+                "name": "jack-hinshelwood",
+                "id": 1142315
+            },
+            {
+                "name": "james-milner",
+                "id": 791
+            },
+            {
+                "name": "ansu-fati",
+                "id": 962883
+            },
+            {
+                "name": "danny-welbeck",
+                "id": 33902
+            },
+            {
+                "name": "joel-veltman",
+                "id": 219572
+            },
+            {
+                "name": "facundo-buonanotte",
+                "id": 1117025
+            },
+            {
+                "name": "baleba-carlos",
+                "id": 1199043
+            },
+            {
+                "name": "adam-webster",
+                "id": 216308
+            },
+            {
+                "name": "mahmoud-dahoud",
+                "id": 341589
+            },
+            {
+                "name": "adam-lallana",
+                "id": 17054
+            },
+            {
+                "name": "jason-steele",
+                "id": 31867
+            },
+            {
+                "name": "benicio-boaitey",
+                "id": 1142604
+            },
+            {
+                "name": "lamptey-tariq",
+                "id": 914691
+            },
+            {
+                "name": "jakub-moder",
+                "id": 886242
+            }
+        ],
+        "id": 30
+    },
+    "manchester-united": {
+        "players": [
+            {
+                "name": "bruno-fernandes",
+                "id": 288205
+            },
+            {
+                "name": "andre-onana",
+                "id": 787498
+            },
+            {
+                "name": "harry-maguire",
+                "id": 149380
+            },
+            {
+                "name": "diogo-dalot",
+                "id": 843200
+            },
+            {
+                "name": "raphael-varane",
+                "id": 138310
+            },
+            {
+                "name": "casemiro",
+                "id": 122951
+            },
+            {
+                "name": "luke-shaw",
+                "id": 190839
+            },
+            {
+                "name": "scott-mctominay",
+                "id": 879346
+            },
+            {
+                "name": "kobbie-mainoo",
+                "id": 1142175
+            },
+            {
+                "name": "aaron-wan-bissaka",
+                "id": 863653
+            },
+            {
+                "name": "alejandro-garnacho",
+                "id": 1135873
+            },
+            {
+                "name": "sofyan-amrabat",
+                "id": 359272
+            },
+            {
+                "name": "antony",
+                "id": 958380
+            },
+            {
+                "name": "victor-lindelof",
+                "id": 143334
+            },
+            {
+                "name": "hannibal-mejbri",
+                "id": 1009386
+            },
+            {
+                "name": "marcus-rashford",
+                "id": 814590
+            },
+            {
+                "name": "jonny-evans",
+                "id": 30144
+            },
+            {
+                "name": "christian-eriksen",
+                "id": 105734
+            },
+            {
+                "name": "sergio-reguilon",
+                "id": 858195
+            },
+            {
+                "name": "mason-mount",
+                "id": 836694
+            },
+            {
+                "name": "facundo-pellistri",
+                "id": 989803
+            },
+            {
+                "name": "anthony-martial",
+                "id": 191176
+            },
+            {
+                "name": "lisandro-martinez",
+                "id": 859999
+            },
+            {
+                "name": "sancho-jadon",
+                "id": 851100
+            },
+            {
+                "name": "rasmus-hojlund",
+                "id": 1086417
+            },
+            {
+                "name": "willy-kambwala",
+                "id": 1136721
+            },
+            {
+                "name": "donny-van-de-beek",
+                "id": 361790
+            },
+            {
+                "name": "gore-daniel",
+                "id": 1146145
+            }
+        ],
+        "id": 35
+    },
+    "newcastle-united": {
+        "players": [
+            {
+                "name": "jacob-murphy",
+                "id": 372336
+            },
+            {
+                "name": "kieran-trippier",
+                "id": 69256
+            },
+            {
+                "name": "bruno-guimaraes",
+                "id": 866469
+            },
+            {
+                "name": "gordon-anthony",
+                "id": 914902
+            },
+            {
+                "name": "sven-botman",
+                "id": 910046
+            },
+            {
+                "name": "miguel-almiron",
+                "id": 333373
+            },
+            {
+                "name": "martin-dubravka",
+                "id": 42209
+            },
+            {
+                "name": "alexander-isak",
+                "id": 823941
+            },
+            {
+                "name": "lewis-miley",
+                "id": 1400650
+            },
+            {
+                "name": "nick-pope",
+                "id": 162653
+            },
+            {
+                "name": "emil-krafth",
+                "id": 150396
+            },
+            {
+                "name": "dan-burn",
+                "id": 99090
+            },
+            {
+                "name": "harvey-barnes",
+                "id": 855647
+            },
+            {
+                "name": "joelinton",
+                "id": 560128
+            },
+            {
+                "name": "fabian-schar",
+                "id": 101882
+            },
+            {
+                "name": "callum-wilson",
+                "id": 113956
+            },
+            {
+                "name": "jamaal-lascelles",
+                "id": 153444
+            },
+            {
+                "name": "sean-longstaff",
+                "id": 866191
+            },
+            {
+                "name": "sandro-tonali",
+                "id": 892673
+            },
+            {
+                "name": "valentino-livramento",
+                "id": 980634
+            },
+            {
+                "name": "elliot-anderson",
+                "id": 994546
+            },
+            {
+                "name": "joe-willock",
+                "id": 888550
+            },
+            {
+                "name": "matt-ritchie",
+                "id": 42699
+            },
+            {
+                "name": "paul-dummett",
+                "id": 185995
+            },
+            {
+                "name": "alex-murphy",
+                "id": 1125214
+            },
+            {
+                "name": "parkinson-ben",
+                "id": 1409087
+            },
+            {
+                "name": "lewis-hall",
+                "id": 1136730
+            },
+            {
+                "name": "matt-targett",
+                "id": 368134
+            }
+        ],
+        "id": 39
+    },
+    "aston-villa": {
+        "players": [
+            {
+                "name": "douglas-luiz",
+                "id": 867887
+            },
+            {
+                "name": "ollie-watkins",
+                "id": 555386
+            },
+            {
+                "name": "john-mcginn",
+                "id": 250223
+            },
+            {
+                "name": "emiliano-martinez",
+                "id": 158263
+            },
+            {
+                "name": "ezri-konsa",
+                "id": 827679
+            },
+            {
+                "name": "boubacar-kamara",
+                "id": 826204
+            },
+            {
+                "name": "lucas-digne",
+                "id": 96538
+            },
+            {
+                "name": "matty-cash",
+                "id": 833956
+            },
+            {
+                "name": "diaby-moussa",
+                "id": 855817
+            },
+            {
+                "name": "pau-torres",
+                "id": 864169
+            },
+            {
+                "name": "leon-bailey",
+                "id": 808590
+            },
+            {
+                "name": "clement-lenglet",
+                "id": 580550
+            },
+            {
+                "name": "youri-tielemans",
+                "id": 331737
+            },
+            {
+                "name": "philippe-coutinho",
+                "id": 119159
+            },
+            {
+                "name": "diego-carlos",
+                "id": 604232
+            },
+            {
+                "name": "alex-moreno",
+                "id": 294593
+            },
+            {
+                "name": "jhon-duran",
+                "id": 974577
+            },
+            {
+                "name": "leander-dendoncker",
+                "id": 190405
+            },
+            {
+                "name": "jacob-ramsey",
+                "id": 975937
+            },
+            {
+                "name": "tyrone-mings",
+                "id": 303638
+            },
+            {
+                "name": "robin-olsen",
+                "id": 26025
+            },
+            {
+                "name": "nicolo-zaniolo",
+                "id": 864898
+            },
+            {
+                "name": "tim-iroegbunam",
+                "id": 1085950
+            },
+            {
+                "name": "jaden-philogene-bidace",
+                "id": 1014461
+            },
+            {
+                "name": "bertrand-traore",
+                "id": 218160
+            }
+        ],
+        "id": 40
+    },
+    "west-ham-united": {
+        "players": [
+            {
+                "name": "james-ward-prowse",
+                "id": 161717
+            },
+            {
+                "name": "lucas-paqueta",
+                "id": 839981
+            },
+            {
+                "name": "alphonse-areola",
+                "id": 96531
+            },
+            {
+                "name": "jarrod-bowen",
+                "id": 552884
+            },
+            {
+                "name": "mohammed-kudus",
+                "id": 905163
+            },
+            {
+                "name": "lukasz-fabianski",
+                "id": 15479
+            },
+            {
+                "name": "emerson-palmieri",
+                "id": 155997
+            },
+            {
+                "name": "tomas-soucek",
+                "id": 799041
+            },
+            {
+                "name": "angelo-ogbonna",
+                "id": 21164
+            },
+            {
+                "name": "vladimir-coufal",
+                "id": 138024
+            },
+            {
+                "name": "kurt-zouma",
+                "id": 139227
+            },
+            {
+                "name": "michail-antonio",
+                "id": 47772
+            },
+            {
+                "name": "edson-alvarez",
+                "id": 847151
+            },
+            {
+                "name": "nayef-aguerd",
+                "id": 877102
+            },
+            {
+                "name": "konstantinos-mavropanos",
+                "id": 829022
+            },
+            {
+                "name": "pablo-fornals",
+                "id": 816763
+            },
+            {
+                "name": "said-benrahma",
+                "id": 354808
+            },
+            {
+                "name": "aaron-cresswell",
+                "id": 43443
+            },
+            {
+                "name": "thilo-kehrer",
+                "id": 281277
+            },
+            {
+                "name": "danny-ings",
+                "id": 130181
+            },
+            {
+                "name": "mubama-divin",
+                "id": 1167025
+            },
+            {
+                "name": "maxwel-cornet",
+                "id": 280439
+            },
+            {
+                "name": "ben-johnson",
+                "id": 914412
+            }
+        ],
+        "id": 37
+    },
+    "brentford": {
+        "players": [
+            {
+                "name": "thomas-strakosha",
+                "id": 227212
+            },
+            {
+                "name": "bryan-mbeumo",
+                "id": 927083
+            },
+            {
+                "name": "mathias-jensen",
+                "id": 799251
+            },
+            {
+                "name": "ethan-pinnock",
+                "id": 855864
+            },
+            {
+                "name": "christian-norgaard",
+                "id": 135256
+            },
+            {
+                "name": "yoane-wissa",
+                "id": 805123
+            },
+            {
+                "name": "rico-henry",
+                "id": 599128
+            },
+            {
+                "name": "vitaly-janelt",
+                "id": 814873
+            },
+            {
+                "name": "zanka",
+                "id": 26404
+            },
+            {
+                "name": "neal-maupay",
+                "id": 268903
+            },
+            {
+                "name": "mark-flekken",
+                "id": 171919
+            },
+            {
+                "name": "nathan-collins",
+                "id": 958916
+            },
+            {
+                "name": "kristoffer-ajer",
+                "id": 576384
+            },
+            {
+                "name": "frank-onyeka",
+                "id": 885864
+            },
+            {
+                "name": "shandon-baptiste",
+                "id": 892111
+            },
+            {
+                "name": "keane-lewis-potter",
+                "id": 972421
+            },
+            {
+                "name": "damsgaard-mikkel",
+                "id": 907072
+            },
+            {
+                "name": "yarmoliuk-yehor",
+                "id": 1031258
+            },
+            {
+                "name": "ben-mee",
+                "id": 137774
+            },
+            {
+                "name": "saman-ghoddos",
+                "id": 548050
+            },
+            {
+                "name": "hickey-aaron",
+                "id": 966869
+            },
+            {
+                "name": "kevin-schade",
+                "id": 1006387
+            },
+            {
+                "name": "mads-roerslev",
+                "id": 826057
+            },
+            {
+                "name": "joshua-dasilva",
+                "id": 856260
+            },
+            {
+                "name": "olakigbe-michael",
+                "id": 1014556
+            },
+            {
+                "name": "myles-peart-harris",
+                "id": 980649
+            }
+        ],
+        "id": 50
+    },
+    "wolverhampton": {
+        "players": [
+            {
+                "name": "pedro-neto",
+                "id": 879349
+            },
+            {
+                "name": "pablo-sarabia",
+                "id": 138573
+            },
+            {
+                "name": "matheus-cunha",
+                "id": 886363
+            },
+            {
+                "name": "mario-lemina",
+                "id": 307284
+            },
+            {
+                "name": "hee-chan-hwang",
+                "id": 786186
+            },
+            {
+                "name": "craig-dawson",
+                "id": 50027
+            },
+            {
+                "name": "jose-sa",
+                "id": 252669
+            },
+            {
+                "name": "max-kilman",
+                "id": 894474
+            },
+            {
+                "name": "sasa-kalajdzic",
+                "id": 870038
+            },
+            {
+                "name": "rayan-ait-nouri",
+                "id": 931278
+            },
+            {
+                "name": "toti-gomes",
+                "id": 973418
+            },
+            {
+                "name": "daniel-bentley",
+                "id": 101367
+            },
+            {
+                "name": "jean-ricner-bellegarde",
+                "id": 845273
+            },
+            {
+                "name": "nelson-semedo",
+                "id": 252821
+            },
+            {
+                "name": "joao-gomes",
+                "id": 1015267
+            },
+            {
+                "name": "tommy-doyle",
+                "id": 932628
+            },
+            {
+                "name": "matt-doherty",
+                "id": 143047
+            },
+            {
+                "name": "santiago-bueno",
+                "id": 846308
+            },
+            {
+                "name": "jonny-otto",
+                "id": 235648
+            },
+            {
+                "name": "boubacar-traore",
+                "id": 982613
+            },
+            {
+                "name": "hugo-bueno",
+                "id": 1013928
+            },
+            {
+                "name": "fabio-silva",
+                "id": 954076
+            }
+        ],
+        "id": 3
+    },
+    "chelsea": {
+        "players": [
+            {
+                "name": "conor-gallagher",
+                "id": 904970
+            },
+            {
+                "name": "cole-palmer",
+                "id": 982780
+            },
+            {
+                "name": "enzo-fernandez",
+                "id": 974505
+            },
+            {
+                "name": "robert-sanchez",
+                "id": 920546
+            },
+            {
+                "name": "raheem-sterling",
+                "id": 138534
+            },
+            {
+                "name": "thiago-silva",
+                "id": 33541
+            },
+            {
+                "name": "christopher-nkunku",
+                "id": 769333
+            },
+            {
+                "name": "ben-chilwell",
+                "id": 802695
+            },
+            {
+                "name": "reece-james",
+                "id": 885908
+            },
+            {
+                "name": "gusto-malo",
+                "id": 996958
+            },
+            {
+                "name": "levi-colwill",
+                "id": 996911
+            },
+            {
+                "name": "moises-caicedo",
+                "id": 987650
+            },
+            {
+                "name": "carney-chukwuemeka",
+                "id": 994556
+            },
+            {
+                "name": "nicolas-jackson",
+                "id": 1085381
+            },
+            {
+                "name": "marc-cucurella",
+                "id": 794939
+            },
+            {
+                "name": "dorde-petrovic",
+                "id": 882604
+            },
+            {
+                "name": "axel-disasi",
+                "id": 827243
+            },
+            {
+                "name": "mykhaylo-mudryk",
+                "id": 958966
+            },
+            {
+                "name": "noni-madueke",
+                "id": 966547
+            },
+            {
+                "name": "benoit-badiashile",
+                "id": 904827
+            },
+            {
+                "name": "lesley-ugochukwu",
+                "id": 1048916
+            },
+            {
+                "name": "armando-broja",
+                "id": 996985
+            },
+            {
+                "name": "deivid-washington",
+                "id": 1485371
+            },
+            {
+                "name": "romeo-lavia",
+                "id": 1069488
+            },
+            {
+                "name": "mason-burstow",
+                "id": 1138421
+            },
+            {
+                "name": "ian-maatsen",
+                "id": 976263
+            },
+            {
+                "name": "marcus-bettinelli",
+                "id": 257993
+            },
+            {
+                "name": "alfie-gilchrist",
+                "id": 1114837
+            },
+            {
+                "name": "matos-alex",
+                "id": 1186050
+            }
+        ],
+        "id": 38
+    },
+    "everton": {
+        "players": [
+            {
+                "name": "james-tarkowski",
+                "id": 145188
+            },
+            {
+                "name": "dwight-mcneil",
+                "id": 935543
+            },
+            {
+                "name": "james-garner",
+                "id": 927361
+            },
+            {
+                "name": "amadou-onana",
+                "id": 923973
+            },
+            {
+                "name": "andre-gomes",
+                "id": 235460
+            },
+            {
+                "name": "seamus-coleman",
+                "id": 76632
+            },
+            {
+                "name": "jordan-pickford",
+                "id": 138530
+            },
+            {
+                "name": "vitaliy-mykolenko",
+                "id": 876643
+            },
+            {
+                "name": "abdoulaye-doucoure",
+                "id": 96535
+            },
+            {
+                "name": "jarrad-branthwaite",
+                "id": 979563
+            },
+            {
+                "name": "idrissa-gueye",
+                "id": 106337
+            },
+            {
+                "name": "jack-harrison",
+                "id": 829570
+            },
+            {
+                "name": "beto",
+                "id": 987489
+            },
+            {
+                "name": "dominic-calvert-lewin",
+                "id": 372344
+            },
+            {
+                "name": "michael-keane",
+                "id": 110846
+            },
+            {
+                "name": "lewis-dobbin",
+                "id": 998832
+            },
+            {
+                "name": "patterson-nathan",
+                "id": 1020141
+            },
+            {
+                "name": "ben-godfrey",
+                "id": 754698
+            },
+            {
+                "name": "arnaut-danjuma",
+                "id": 827064
+            },
+            {
+                "name": "youssef-chermiti",
+                "id": 1145627
+            },
+            {
+                "name": "ashley-young",
+                "id": 10589
+            },
+            {
+                "name": "cannon-thomas",
+                "id": 1005766
+            }
+        ],
+        "id": 48
+    },
+    "nottingham-forest": {
+        "players": [
+            {
+                "name": "morgan-gibbs-white",
+                "id": 865912
+            },
+            {
+                "name": "matt-turner",
+                "id": 833943
+            },
+            {
+                "name": "anthony-elanga",
+                "id": 979232
+            },
+            {
+                "name": "chris-wood",
+                "id": 50480
+            },
+            {
+                "name": "willy-boly",
+                "id": 139310
+            },
+            {
+                "name": "taiwo-awoniyi",
+                "id": 359664
+            },
+            {
+                "name": "scott-mckenna",
+                "id": 358108
+            },
+            {
+                "name": "murillo",
+                "id": 1199282
+            },
+            {
+                "name": "nicolas-dominguez",
+                "id": 871765
+            },
+            {
+                "name": "williams-neco",
+                "id": 927356
+            },
+            {
+                "name": "harry-toffolo",
+                "id": 358218
+            },
+            {
+                "name": "callum-hudson-odoi",
+                "id": 867442
+            },
+            {
+                "name": "serge-aurier",
+                "id": 105697
+            },
+            {
+                "name": "ibrahim-sangare",
+                "id": 843754
+            },
+            {
+                "name": "ryan-yates",
+                "id": 846252
+            },
+            {
+                "name": "gonzalo-montiel",
+                "id": 822933
+            },
+            {
+                "name": "moussa-niakhate",
+                "id": 758168
+            },
+            {
+                "name": "orel-mangala",
+                "id": 793988
+            },
+            {
+                "name": "odysseas-vlachodimos",
+                "id": 138149
+            },
+            {
+                "name": "joe-worrall",
+                "id": 838399
+            },
+            {
+                "name": "ola-aina",
+                "id": 800417
+            },
+            {
+                "name": "cheikhou-kouyate",
+                "id": 45944
+            },
+            {
+                "name": "felipe",
+                "id": 242211
+            },
+            {
+                "name": "divock-origi",
+                "id": 190399
+            },
+            {
+                "name": "santos-andrey",
+                "id": 1105779
+            },
+            {
+                "name": "nuno-tavares",
+                "id": 944973
+            },
+            {
+                "name": "danilo",
+                "id": 1064039
+            }
+        ],
+        "id": 14
+    },
+    "fulham": {
+        "players": [
+            {
+                "name": "bernd-leno",
+                "id": 103335
+            },
+            {
+                "name": "willian",
+                "id": 31417
+            },
+            {
+                "name": "joao-palhinha",
+                "id": 364612
+            },
+            {
+                "name": "tosin-adarabioyo",
+                "id": 352668
+            },
+            {
+                "name": "aleksandar-mitrovic",
+                "id": 192144
+            },
+            {
+                "name": "alex-iwobi",
+                "id": 352770
+            },
+            {
+                "name": "tom-cairney",
+                "id": 82566
+            },
+            {
+                "name": "andreas-pereira",
+                "id": 285949
+            },
+            {
+                "name": "harry-wilson",
+                "id": 355528
+            },
+            {
+                "name": "antonee-robinson",
+                "id": 803174
+            },
+            {
+                "name": "kenny-tete",
+                "id": 190877
+            },
+            {
+                "name": "timothy-castagne",
+                "id": 329417
+            },
+            {
+                "name": "issa-diop",
+                "id": 825719
+            },
+            {
+                "name": "raul-jimenez",
+                "id": 192442
+            },
+            {
+                "name": "bobby-decordova-reid",
+                "id": 151499
+            },
+            {
+                "name": "tim-ream",
+                "id": 118179
+            },
+            {
+                "name": "calvin-bassey",
+                "id": 861972
+            },
+            {
+                "name": "harrison-reed",
+                "id": 365802
+            },
+            {
+                "name": "carlos-vinicius",
+                "id": 891920
+            },
+            {
+                "name": "rodrigo-muniz",
+                "id": 1015256
+            },
+            {
+                "name": "fode-ballo-toure",
+                "id": 788170
+            },
+            {
+                "name": "sasa-lukic",
+                "id": 371222
+            },
+            {
+                "name": "adama-traore",
+                "id": 286165
+            },
+            {
+                "name": "luke-harris",
+                "id": 1134729
+            },
+            {
+                "name": "marek-rodak",
+                "id": 358694
+            }
+        ],
+        "id": 43
+    },
+    "burnley": {
+        "players": [
+            {
+                "name": "james-trafford",
+                "id": 980643
+            },
+            {
+                "name": "wilson-odobert",
+                "id": 1142679
+            },
+            {
+                "name": "josh-brownhill",
+                "id": 358394
+            },
+            {
+                "name": "johann-gudmundsson",
+                "id": 49805
+            },
+            {
+                "name": "jordan-beyer",
+                "id": 927175
+            },
+            {
+                "name": "dara-oshea",
+                "id": 856719
+            },
+            {
+                "name": "zeki-amdouni",
+                "id": 990550
+            },
+            {
+                "name": "cullen-josh",
+                "id": 792122
+            },
+            {
+                "name": "sander-berge",
+                "id": 793167
+            },
+            {
+                "name": "foster-lyle",
+                "id": 901907
+            },
+            {
+                "name": "charlie-taylor",
+                "id": 166381
+            },
+            {
+                "name": "michael-obafemi",
+                "id": 921216
+            },
+            {
+                "name": "jacob-bruun-larsen",
+                "id": 809276
+            },
+            {
+                "name": "jay-rodriguez",
+                "id": 26989
+            },
+            {
+                "name": "hjalmar-ekdal",
+                "id": 875360
+            },
+            {
+                "name": "mike-tresor",
+                "id": 826183
+            },
+            {
+                "name": "luca-koleosho",
+                "id": 1216282
+            },
+            {
+                "name": "hannes-delcroix",
+                "id": 826169
+            },
+            {
+                "name": "nathan-redmond",
+                "id": 115346
+            },
+            {
+                "name": "aaron-ramsey",
+                "id": 1000142
+            },
+            {
+                "name": "manuel-benson",
+                "id": 552632
+            },
+            {
+                "name": "connor-roberts",
+                "id": 804613
+            },
+            {
+                "name": "vitinho",
+                "id": 914477
+            },
+            {
+                "name": "ameen-al-dakhil",
+                "id": 964761
+            },
+            {
+                "name": "anass-zaroury",
+                "id": 877036
+            },
+            {
+                "name": "jack-cork",
+                "id": 20993
+            }
+        ],
+        "id": 6
+    },
+    "bournemouth": {
+        "players": [
+            {
+                "name": "neto",
+                "id": 84844
+            },
+            {
+                "name": "marcus-tavernier",
+                "id": 895576
+            },
+            {
+                "name": "dominic-solanke",
+                "id": 361420
+            },
+            {
+                "name": "ryan-christie",
+                "id": 322391
+            },
+            {
+                "name": "luis-sinisterra",
+                "id": 836070
+            },
+            {
+                "name": "alex-scott",
+                "id": 1104986
+            },
+            {
+                "name": "philip-billing",
+                "id": 548660
+            },
+            {
+                "name": "marcos-senesi",
+                "id": 830659
+            },
+            {
+                "name": "lewis-cook",
+                "id": 548188
+            },
+            {
+                "name": "dango-ouattara",
+                "id": 1106451
+            },
+            {
+                "name": "adam-smith",
+                "id": 44566
+            },
+            {
+                "name": "antoine-semenyo",
+                "id": 934354
+            },
+            {
+                "name": "illia-zabarnyi",
+                "id": 1023567
+            },
+            {
+                "name": "kieffer-moore",
+                "id": 298366
+            },
+            {
+                "name": "david-brooks",
+                "id": 855731
+            },
+            {
+                "name": "lloyd-kelly",
+                "id": 865167
+            },
+            {
+                "name": "milos-kerkez",
+                "id": 1097425
+            },
+            {
+                "name": "max-aarons",
+                "id": 943645
+            },
+            {
+                "name": "hamed-junior-traore",
+                "id": 892924
+            },
+            {
+                "name": "justin-kluivert",
+                "id": 851596
+            },
+            {
+                "name": "james-hill",
+                "id": 1156586
+            },
+            {
+                "name": "joe-rothwell",
+                "id": 190853
+            },
+            {
+                "name": "chris-mepham",
+                "id": 865740
+            },
+            {
+                "name": "jaidon-anthony",
+                "id": 1020680
+            },
+            {
+                "name": "ionut-radu",
+                "id": 815202
+            }
+        ],
+        "id": 60
+    },
+    "luton-town": {
+        "players": [
+            {
+                "name": "ross-barkley",
+                "id": 98435
+            },
+            {
+                "name": "alfie-doughty",
+                "id": 945792
+            },
+            {
+                "name": "thomas-kaminski",
+                "id": 45959
+            },
+            {
+                "name": "andros-townsend",
+                "id": 47992
+            },
+            {
+                "name": "reece-burke",
+                "id": 372342
+            },
+            {
+                "name": "albert-sambi-lokonga",
+                "id": 901892
+            },
+            {
+                "name": "ogbene-chiedozie",
+                "id": 849309
+            },
+            {
+                "name": "tom-lockyer",
+                "id": 197848
+            },
+            {
+                "name": "gabriel-osho",
+                "id": 920680
+            },
+            {
+                "name": "carlton-morris",
+                "id": 358222
+            },
+            {
+                "name": "mads-juel-andersen",
+                "id": 841005
+            },
+            {
+                "name": "teden-mengi",
+                "id": 979233
+            },
+            {
+                "name": "issa-kabore",
+                "id": 1006189
+            },
+            {
+                "name": "marvelous-nakamba",
+                "id": 556904
+            },
+            {
+                "name": "jacob-brown",
+                "id": 858911
+            },
+            {
+                "name": "cauley-woodrow",
+                "id": 140487
+            },
+            {
+                "name": "tahith-chong",
+                "id": 825845
+            },
+            {
+                "name": "adebayo-elijah",
+                "id": 920542
+            },
+            {
+                "name": "amarii-bell",
+                "id": 369674
+            },
+            {
+                "name": "ryan-giles",
+                "id": 931304
+            },
+            {
+                "name": "pelly-ruddock-mpanzu",
+                "id": 387116
+            },
+            {
+                "name": "luke-berry",
+                "id": 97465
+            },
+            {
+                "name": "jordan-clark",
+                "id": 150477
+            }
+        ],
+        "id": 72
+    },
+    "sheffield-united": {
+        "players": [
+            {
+                "name": "wesley-foderingham",
+                "id": 187861
+            },
+            {
+                "name": "gustavo-hamer",
+                "id": 837495
+            },
+            {
+                "name": "oliver-mcburnie",
+                "id": 367228
+            },
+            {
+                "name": "cameron-archer",
+                "id": 993451
+            },
+            {
+                "name": "oliver-norwood",
+                "id": 100637
+            },
+            {
+                "name": "vinicius-souza",
+                "id": 979290
+            },
+            {
+                "name": "luke-thomas",
+                "id": 991584
+            },
+            {
+                "name": "james-mcatee",
+                "id": 1003334
+            },
+            {
+                "name": "george-baldock",
+                "id": 112928
+            },
+            {
+                "name": "larouci-yasser",
+                "id": 927360
+            },
+            {
+                "name": "jack-robinson",
+                "id": 98454
+            },
+            {
+                "name": "anel-ahmedhodzic",
+                "id": 825899
+            },
+            {
+                "name": "brooks-andre",
+                "id": 1406286
+            },
+            {
+                "name": "chris-basham",
+                "id": 33854
+            },
+            {
+                "name": "bogle-jayden",
+                "id": 929132
+            },
+            {
+                "name": "auston-trusty",
+                "id": 822459
+            },
+            {
+                "name": "ben-osborn",
+                "id": 282665
+            },
+            {
+                "name": "rhian-brewster",
+                "id": 878705
+            },
+            {
+                "name": "max-lowe",
+                "id": 355154
+            },
+            {
+                "name": "john-fleck",
+                "id": 27999
+            },
+            {
+                "name": "osula-william",
+                "id": 1122603
+            },
+            {
+                "name": "sydie-peck",
+                "id": 1391824
+            },
+            {
+                "name": "antwoine-hackford",
+                "id": 1049860
+            },
+            {
+                "name": "anis-ben-slimane",
+                "id": 1006147
+            },
+            {
+                "name": "john-egan",
+                "id": 100578
+            },
+            {
+                "name": "benie-traore",
+                "id": 1099792
+            },
+            {
+                "name": "ryan-one",
+                "id": 1389768
+            },
+            {
+                "name": "tom-davies",
+                "id": 795058
+            }
+        ],
+        "id": 15
+    }
+}

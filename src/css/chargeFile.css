@@ -1,0 +1,44 @@
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background-color: lightskyblue;
+    font-family: cursive, sans-serif;
+    color: black;
+}
+
+div#contenedor{
+    width: -moz-fit-content;
+    width: fit-content;
+    background-color: lightskyblue; 
+}
+
+div#contenedor .card
+{
+    background-color: lightskyblue;
+    border: lightskyblue;
+}
+
+.search .card
+{
+    background-color: lightskyblue;
+    border: lightskyblue;
+}
+
+.file input{
+    appearance: none;
+    background-color: #C3C3C3;
+    border:2px solid #C3C3C3;
+    width:15px;
+    height: 15px;
+    border-radius:7px;
+    outline-style: none;
+}
+
+.file input:checked{
+    background-color: #8F8F8F;
+}
+
+.file input[type="radio"]
+{
+    border-radius: 7px;
+}

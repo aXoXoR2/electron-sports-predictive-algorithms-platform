@@ -1,0 +1,39 @@
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+#left
+{
+    background-color:white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    overflow-y: auto;
+}
+
+#right
+{
+    background-color:lightskyblue;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    overflow-y: auto;
+}
+
+.algorithms .card
+{
+    background-color:lightskyblue;
+}
+
+.descriptions
+{
+    margin-top: 12px;
+}
+
+input[type="text"]{
+    min-width: 100px;
+    padding-right: 5px;
+    width: 750px;
+}

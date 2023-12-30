@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/edit_style.css">
     <title>Edit Algorithms</title>
 </head>
 <body>
@@ -27,20 +27,20 @@
     <script>
         const {ipcRenderer} = require('electron');
 
-        let actualId;
+        
+        //function resizeInput()
+        //{
+        //    var valueLength = $(this).prop('value').length;
+        //   if (valueLength>0)
+        //    {
+        //        $(this).prop('size',valueLength);
+        //    }
+        //}
+        //$('input[type="text"]').on('keyup', resizeInput).each(resizeInput);
+
         ipcRenderer.on('create-algorithm-list',(event,algorithms)=>
         {
-         var algorithm_lis =''
-    algorithms.forEach((c)=>
-    {
-        algorithm_lis +=`<li class="p-2 mt-2 card" onclick='chooseAlgorithm(${c.id})'>
-            <div>
-                <p class="fw-bold mb-0"> ${c.name}</p>
-                <p class="small text-muted">${c.brief_description}</p>
-            </div>
-        </li>`
-    })
-    document.querySelector('.algorithms').innerHTML=algorithm_lis;
+         createAlgorithms(algorithms);
     })
 
        function chooseAlgorithm(id)
@@ -50,39 +50,32 @@
 
        ipcRenderer.on('all-algorithm-information', (event, algorithm, description)=>
        {
-        createAlgorithms(algorithm, description);
+        deployDescriptions(algorithm, description);
        });
 
-
-        ipcRenderer.on('new-data-from-database-edited',(event,algorithm, description)=>
-        {
-            createAlgorithms(algorithm,description);
-        })
-        
-        function createAlgorithms(algorithm,description)
-        {
-            actualId = algorithm.id;
-
-        description_lis =`<form class=" @p-4">
+       function deployDescriptions(algorithm,description)
+       {
+            
+        var description_lis =`<form class=" @p-4">
             <div class ="form-group">
-                <input type="text" id="name" value=${algorithm.name} class="form-control"
-                placeholder="Algorithm's Name" autofocus>
+                <label>Algorithm's Name: <input type="text" id="name" value= "${algorithm['name']}" class="form-control"
+                readonly /> </label><br/>
             </div>
             <div class ="form-group">
-                <input type="text" id = "lenguage" value=${algorithm.lenguage} class="form-control"
-                placeholder="Algorithm's Lenguage">
+                <label>Algorithm's Lenguage: <input type="text" id = "lenguage" value="${algorithm['lenguage']}" class="form-control"
+                autofocus required /> </label><br/>
             </div>
             <div class ="form-group">
-                <input type="text" id = "brief_description" value=${algorithm.brief_description} class="form-control"
-                placeholder="Author(s)">
+                <label>Author(s): <input type="text" id = "brief_description" value="${algorithm['brief_description']}" class="form-control"
+                required /> </label><br/> 
             </div>
             <div class ="form-group">
-                <input type="text" id="about" value=${description.about} class="form-control"
-                placeholder="About the algorithm">
+                <label>About the algorithm: <input type="text" id="about" value="${description['about']}" class="form-control"
+                /> </label><br/> 
             </div>
             <div class="form-group">    
-                <input type="text" id="Inputs_and_Outputs" value=${description.Inputs_and_Outputs} class="form-control"
-                placeholder="Information about input and output">
+                <label>Information about input and output: <input type="text" id="Inputs_and_Outputs" value= "${description['Inputs_and_Outputs']}" class="form-control"
+                /> </label><br/> 
             </div>
             <button class="btn btn-primary btn-block">
                 Edit
@@ -100,11 +93,34 @@
         const aboutAlgorithm = document.querySelector('#about').value;
         const Inputs_and_OutputsAlgorithm = document.querySelector('#Inputs_and_Outputs').value;
 
-        ipcRenderer.send('edited-algorithm',actualId, nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
-
-        e.defaultPrevented();
-        });
         
+        editAlgoritm(algorithm['id'], nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
+        e.preventDefault()
+    });
+       }
+        
+        function createAlgorithms(algorithm)
+        {
+            var algorithm_lis =''
+            algorithm.forEach((c)=>
+            {
+                algorithm_lis +=`<li class="p-2 mt-2 card" onclick='chooseAlgorithm(${c.id})'>
+            <div>
+                <p class="fw-bold mb-0"> ${c.name}</p>
+                <p class="small text-muted">${c.brief_description}</p>
+            </div>
+        </li>`
+            })
+            document.querySelector('.algorithms').innerHTML=algorithm_lis;      
+        }
+
+        function editAlgoritm(id, nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
+        {
+            let result = window.confirm('Are you sure you want to edit this algorithm?');
+            if (result === true)
+            {
+                ipcRenderer.send('edited-algorithm',id, nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
+            }
         }
 
     </script>

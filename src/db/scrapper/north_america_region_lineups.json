@@ -1,0 +1,306 @@
+{
+    "usa": {
+        "att": [
+            "ricardo-pepi",
+            "folarin-balogun"
+        ],
+        "def": [
+            "sergino-dest",
+            "cameron-carter-vickers",
+            "tim-ream",
+            "antonee-robinson"
+        ],
+        "goalkeeper": "matt-turner",
+        "mid": [
+            "yunus-musah",
+            "luca-de-la-torre",
+            "giovanni-reyna",
+            "brenden-aaronson"
+        ]
+    },
+    "jamaica": {
+        "att": [
+            "demarai-gray",
+            "shamar-nicholson",
+            "leon-bailey"
+        ],
+        "def": [
+            "dexter-lembikisa",
+            "damion-lowe",
+            "ethan-pinnock",
+            "greg-leigh",
+            "latibeaudiere-joel"
+        ],
+        "goalkeeper": "andre-blake",
+        "mid": [
+            "bobby-decordova-reid",
+            "daniel-johnson"
+        ]
+    },
+    "trinidad-and-tobago": {
+        "att": [
+            "gill-real"
+        ],
+        "def": [
+            "shannon-gomez",
+            "aubrey-david",
+            "justin-garcia",
+            "andre-raymond"
+        ],
+        "goalkeeper": "denzil-smith",
+        "mid": [
+            "jones-alvin",
+            "reon-moore",
+            "daniel-phillips",
+            "rampersad-andre",
+            "nathaniel-james"
+        ]
+    },
+    "saint-kitts-and-nevis": {
+        "att": [
+            "tyrese-shade",
+            "harry-panayiotou",
+            "diego-edwards"
+        ],
+        "def": [
+            "ezrick-nicholls",
+            "andre-burley",
+            "ible-jameel"
+        ],
+        "goalkeeper": "julanni-archibald",
+        "mid": [
+            "omari-sterling-james",
+            "romaine-sawyers",
+            "yohannes-battice",
+            "raheem-somersall"
+        ]
+    },
+    "mexico": {
+        "att": [
+            "uriel-antuna",
+            "hirving-lozano",
+            "henry-martin"
+        ],
+        "def": [
+            "jorge-sanchez",
+            "cesar-montes",
+            "johan-vasquez",
+            "jesus-gallardo"
+        ],
+        "goalkeeper": "luis-malagon",
+        "mid": [
+            "edson-alvarez",
+            "luis-chavez",
+            "erick-sanchez"
+        ]
+    },
+    "qatar": {
+        "att": [
+            "tameem-al-abdullah",
+            "akram-afif"
+        ],
+        "def": [
+            "pedro-miguel",
+            "boualem-khoukhi",
+            "lucas-mendes",
+            "homam-ahmed"
+        ],
+        "goalkeeper": "meshaal-aissa-barsham",
+        "mid": [
+            "hassan-al-haydos",
+            "ahmed-fathy",
+            "mostafa-mashaal",
+            "almoez-ali"
+        ]
+    },
+    "honduras": {
+        "att": [
+            "rigoberto-rivas",
+            "anthony-lozano"
+        ],
+        "def": [
+            "andy-najar",
+            "denil-maldonado",
+            "luis-vega"
+        ],
+        "goalkeeper": "edrick-menjivar",
+        "mid": [
+            "joseph-rosales",
+            "deybi-flores",
+            "edwin-rodriguez",
+            "jorge-alvarez",
+            "luis-palma"
+        ]
+    },
+    "haiti": {
+        "att": [
+            "frantzdy-pierrot"
+        ],
+        "def": [
+            "carlens-arcus",
+            "ricardo-ade",
+            "jerome-mechack",
+            "alex-christian-junior",
+            "alexis-djimy-bend"
+        ],
+        "goalkeeper": "johny-placide",
+        "mid": [
+            "carl-fred-sainte",
+            "louicius-don-deedson",
+            "mikael-cantave",
+            "fafa-picault"
+        ]
+    },
+    "panama": {
+        "att": [
+            "jose-fajardo",
+            "ismael-diaz"
+        ],
+        "def": [
+            "fidel-escobar",
+            "jose-cordoba",
+            "andres-andrade",
+            "michael-murillo"
+        ],
+        "goalkeeper": "orlando-mosquera",
+        "mid": [
+            "cristian-martinez",
+            "adalberto-carrasquilla",
+            "yoel-barcenas",
+            "jose-luis-rodriguez"
+        ]
+    },
+    "costa-rica": {
+        "att": [
+            "anthony-contreras",
+            "manfred-ugalde"
+        ],
+        "def": [
+            "cascante-julio",
+            "giancarlo-gonzalez",
+            "francisco-calvo",
+            "bryan-oviedo"
+        ],
+        "goalkeeper": "kevin-chamorro",
+        "mid": [
+            "jefry-valverde",
+            "alejandro-bran",
+            "brandon-aguilera",
+            "elias-aguilar"
+        ]
+    },
+    "martinique": {
+        "att": [
+            "johnny-marajo",
+            "marny-andy",
+            "brighton-labeau"
+        ],
+        "def": [
+            "damien-dussaut",
+            "florent-poulolo",
+            "jonathan-rivierez",
+            "moutachy-joris"
+        ],
+        "goalkeeper": "yannis-clementia",
+        "mid": [
+            "appin-kevin",
+            "mathis-priam",
+            "norman-grelet"
+        ]
+    },
+    "el-salvador": {
+        "att": [
+            "brayan-gil"
+        ],
+        "def": [
+            "bryan-tamacas",
+            "rudy-clavel",
+            "walmer-martinez"
+        ],
+        "goalkeeper": "tomas-romero",
+        "mid": [
+            "isaac-portillo",
+            "jefferson-valladares",
+            "narciso-orellana",
+            "christian-martinez",
+            "gil-mayer",
+            "amando-moreno"
+        ]
+    },
+    "guatemala": {
+        "att": [
+            "william-cardoza",
+            "darwin-lom"
+        ],
+        "def": [
+            "jose-morales",
+            "jose-pinto",
+            "kevin-ruiz",
+            "jose-ardon",
+            "oscar-castellanos"
+        ],
+        "goalkeeper": "perez-fredy",
+        "mid": [
+            "oscar-santis",
+            "marco-dominguez",
+            "pedro-altan"
+        ]
+    },
+    "canada": {
+        "att": [
+            "jonathan-david",
+            "cyle-larin"
+        ],
+        "def": [
+            "alistair-johnston",
+            "derek-cornelius",
+            "kamal-miller",
+            "richie-laryea",
+            "alphonso-davies"
+        ],
+        "goalkeeper": "milan-borjan",
+        "mid": [
+            "stephen-eustaquio",
+            "ismael-kone",
+            "tajon-buchanan"
+        ]
+    },
+    "guadeloupe": {
+        "att": [
+            "archimede-luther",
+            "phaeton-matthias"
+        ],
+        "def": [
+            "mickael-alphonse",
+            "meddy-lina",
+            "cedric-avinel"
+        ],
+        "goalkeeper": "rouyard-davy",
+        "mid": [
+            "jerome-roussillon",
+            "marcus-coco",
+            "jordan-leborgne",
+            "christian-junior-senneville",
+            "ange-freddy-plumain"
+        ]
+    },
+    "cuba": {
+        "att": [
+            "yunior-perez",
+            "alejandro-delgado"
+        ],
+        "def": [
+            "fabian-gloor",
+            "orlando-calvo",
+            "dariel-morejon-rodriguez"
+        ],
+        "goalkeeper": "raiko-arozarena",
+        "mid": [
+            "paradela-luis",
+            "espino-karel",
+            "romario-torrez",
+            "reidel-sanchez",
+            "daniel-diaz"
+        ]
+    }
+}

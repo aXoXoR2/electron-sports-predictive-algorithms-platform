@@ -1,0 +1,7 @@
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background-color: skyblue;
+    font-family: cursive, sans-serif;
+    color: black;
+}

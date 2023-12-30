@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/saveFile.css">
+
+    <title>Save File</title>
+</head>
+<body>
+    <div class ="text-center mb-4">
+        <h3>Introduce the file name to be save</h3>
+    </div>
+    <div class ="d-flex input_section">
+    </div>
+    
+    <script>
+        const {ipcRenderer} = require('electron');
+        
+        ipcRenderer.on('create-interface',(event)=>
+        {
+            html = `<div class="w-50 mx-auto">
+                <form class=" @p-4">
+                    <div class ="form-group">
+                        <input type="text" id="namefile" class="form-control"
+                        placeholder="File Name" autofocus required>
+                    </div>
+                </form>
+                <br>
+            <button class= "btn btn-primary">Save</button>
+            </div>`
+
+            document.querySelector('.input_section').innerHTML = html;
+            const btn=document.querySelector('.btn-primary');
+            const inputFile = document.getElementById('namefile'); 
+
+            inputFile.addEventListener("keydown", function(event)
+            {
+                if(event.key == "Enter")
+                {
+                    const namePlayer = document.querySelector("#namefile").value
+                    if(namePlayer !="")
+                    {
+                        event.preventDefault();
+                        ipcRenderer.send('send-name', namePlayer)
+                    }  
+                }
+            })
+
+            btn.addEventListener("click", (e)=>
+            {
+                const namePlayer = document.querySelector("#namefile").value
+                if(namePlayer !="")
+                    {
+                        e.preventDefault();
+                        ipcRenderer.send('send-name', namePlayer)
+                    }
+            });
+        })
+    </script>
+</body>
+</html>

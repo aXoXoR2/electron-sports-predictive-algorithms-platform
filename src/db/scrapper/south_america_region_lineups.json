@@ -1,0 +1,192 @@
+{
+    "argentina": {
+        "att": [
+            "lionel-messi",
+            "julian-alvarez"
+        ],
+        "def": [
+            "nahuel-molina",
+            "cristian-romero",
+            "nicolas-otamendi",
+            "marcos-acuna"
+        ],
+        "goalkeeper": "emiliano-martinez",
+        "mid": [
+            "lo-celso-giovani",
+            "enzo-fernandez",
+            "rodrigo-de-paul",
+            "alexis-mac-allister"
+        ]
+    },
+    "uruguay": {
+        "att": [
+            "darwin-nunez"
+        ],
+        "def": [
+            "ronald-araujo",
+            "jose-maria-gimenez",
+            "sebastian-caceres",
+            "matias-vina"
+        ],
+        "goalkeeper": "sergio-rochet",
+        "mid": [
+            "federico-valverde",
+            "bentancur-rodrigo",
+            "nicolas-de-la-cruz",
+            "facundo-pellistri",
+            "cristian-olivera"
+        ]
+    },
+    "colombia": {
+        "att": [
+            "poveda-ian-carlo",
+            "cucho-hernandez",
+            "roger-martinez"
+        ],
+        "def": [
+            "juan-mosquera",
+            "andres-reyes",
+            "brayan-vera",
+            "samuel-velasquez"
+        ],
+        "goalkeeper": "david-ospina",
+        "mid": [
+            "jorman-campuzano",
+            "sebastian-gomez",
+            "daniel-ruiz"
+        ]
+    },
+    "venezuela": {
+        "att": [
+            "matias-lacava",
+            "alcocer-brayan"
+        ],
+        "def": [
+            "rafael-uzcategui",
+            "andres-ferro",
+            "carlos-vivas",
+            "rivas-renne"
+        ],
+        "goalkeeper": "javier-otero",
+        "mid": [
+            "daniel-pereira",
+            "jesus-bueno",
+            "carlos-faya",
+            "yerson-chacon"
+        ]
+    },
+    "ecuador": {
+        "att": [
+            "junior-sornoza",
+            "rodriguez-kevin"
+        ],
+        "def": [
+            "angelo-preciado",
+            "felix-torres",
+            "robert-arboleda",
+            "willian-pacho"
+        ],
+        "goalkeeper": "alexander-dominguez",
+        "mid": [
+            "carlos-gruezo",
+            "moises-caicedo",
+            "angel-mena",
+            "kendry-paez"
+        ]
+    },
+    "brazil": {
+        "att": [
+            "raphinha",
+            "rodrygo",
+            "gabriel-martinelli",
+            "gabriel-jesus"
+        ],
+        "def": [
+            "emerson-royal",
+            "marquinhos",
+            "gabriel-magalhaes"
+        ],
+        "goalkeeper": "alisson",
+        "mid": [
+            "carlos-augusto",
+            "andre",
+            "bruno-guimaraes"
+        ]
+    },
+    "paraguay": {
+        "att": [
+            "matias-rojas",
+            "antonio-sanabria",
+            "adam-bareiro"
+        ],
+        "def": [
+            "juan-caceres",
+            "gustavo-gomez",
+            "omar-alderete",
+            "matias-espinoza"
+        ],
+        "goalkeeper": "carlos-coronel",
+        "mid": [
+            "andres-cubas",
+            "mathias-villasanti",
+            "ramon-sosa"
+        ]
+    },
+    "chile": {
+        "att": [
+            "alexis-sanchez"
+        ],
+        "def": [
+            "loyola-felipe",
+            "matias-catalan",
+            "paulo-diaz",
+            "guillermo-maripan",
+            "gabriel-suazo"
+        ],
+        "goalkeeper": "brayan-cortes",
+        "mid": [
+            "marcelino-nunez",
+            "erick-pulgar",
+            "rodrigo-echeverria",
+            "alexander-aravena"
+        ]
+    },
+    "bolivia": {
+        "att": [
+            "marcelo-moreno"
+        ],
+        "def": [
+            "jairo-quinteros",
+            "luis-haquin",
+            "jose-sagredo"
+        ],
+        "goalkeeper": "guillermo-viscarra",
+        "mid": [
+            "moises-villarroel",
+            "rodrigo-ramallo",
+            "gabriel-villamil",
+            "leonel-justiniano",
+            "ramiro-vaca",
+            "roberto-fernandez"
+        ]
+    },
+    "peru": {
+        "att": [
+            "joao-grimaldo",
+            "gianluca-lapadula"
+        ],
+        "def": [
+            "aldo-corzo",
+            "alexander-callens",
+            "marcos-lopez"
+        ],
+        "goalkeeper": "pedro-gallese",
+        "mid": [
+            "renato-tapia",
+            "yoshimar-yotun",
+            "piero-quispe",
+            "pedro-aquino",
+            "bryan-reyna"
+        ]
+    }
+}

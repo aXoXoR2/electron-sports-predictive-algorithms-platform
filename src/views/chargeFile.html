@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/chargeFile.css">
+    <title>Charge File</title>
+</head>
+<body onload="comunication()">
+    <div class ="text-center mb-4">
+        <h3>Files:</h3>
+        <p class = "text-muted"> Select the file you want charge</p>
+    </div>
+    <div class ="d-flex input_section">
+    </div>
+    
+    <script>
+        const {ipcRenderer} = require('electron');
+        
+        function comunication()
+        {
+            ipcRenderer.send('charger-ready')
+        }
+        
+        ipcRenderer.on('create-interface',(event,files,type)=>
+        {
+            var description_lis =`
+                        <div class ="w-50 mx-auto">
+                            <div id="contenedor">
+                        `
+            
+            for (var i=0; i<files.length; i++)
+            {
+                description_lis+=`<div class ="d-flex align-items-center file"
+                    <label for ="${files[i].substring(0,files[i].length-5)}">`+ 
+                        `<div class="d-flex search">  
+                                <div class ="card"> 
+                                    <div class="card-body">`
+                                         + files[i].substring(0,files[i].length-5)+ 
+                                    `</div> 
+                                </div>
+                          </div>`
+                    +`</label> 
+                    <input type ="radio" name="files" value= "${files[i].substring(0,files[i].length-5)}" id ="${files[i].substring(0,files[i].length-5)}"><br>
+                    </div>`
+            }
+
+            description_lis +=`</div>
+            <button class="btn btn-primary">Charge ${type} File</button>
+        </div>`
+
+        document.querySelector('.input_section').innerHTML=description_lis;
+        const btn = document.querySelector(".btn-primary")
+
+        btn.addEventListener("click", (e)=>
+        {
+            let file = document.querySelector('input[name="files"]:checked');
+
+            if(file)
+            {
+                for (let i=0; i<files.length; i++)
+                {
+                    if(files[i].substring(0,files[i].length-5)==file.value)
+                    {
+                        e.preventDefault();
+                        ipcRenderer.send('send-index', i,files,type)
+                    }        
+                }               
+            }
+            else{
+                e.preventDefault();
+                alert('Please select a file');
+            }     
+        }); 
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,6356 @@
+{
+    "tunisia": {
+        "players": [
+            {
+                "name": "youssef-msakni",
+                "id": 105513
+            },
+            {
+                "name": "naim-sliti",
+                "id": 153158
+            },
+            {
+                "name": "ali-maaloul",
+                "id": 332547
+            },
+            {
+                "name": "ellyes-skhiri",
+                "id": 591706
+            },
+            {
+                "name": "hamza-rafia",
+                "id": 857772
+            },
+            {
+                "name": "bechir-ben-said",
+                "id": 967309
+            },
+            {
+                "name": "firas-ben-al-arbi",
+                "id": 359398
+            },
+            {
+                "name": "ali-abdi",
+                "id": 919027
+            },
+            {
+                "name": "yassine-meriah",
+                "id": 898741
+            },
+            {
+                "name": "hannibal-mejbri",
+                "id": 1009386
+            },
+            {
+                "name": "aissa-laidouni",
+                "id": 828077
+            },
+            {
+                "name": "montassar-talbi",
+                "id": 879618
+            },
+            {
+                "name": "haythem-jouini",
+                "id": 319973
+            },
+            {
+                "name": "bilel-ifa",
+                "id": 105517
+            },
+            {
+                "name": "nader-ghandri",
+                "id": 347028
+            },
+            {
+                "name": "dahmen-aymen",
+                "id": 1198374
+            },
+            {
+                "name": "mohamed-drager",
+                "id": 359388
+            },
+            {
+                "name": "ben-romdhane-mohamed-ali",
+                "id": 966891
+            },
+            {
+                "name": "mohamed-dhaoui",
+                "id": 1504964
+            },
+            {
+                "name": "yan-valery",
+                "id": 826202
+            },
+            {
+                "name": "sayfallah-ltaief",
+                "id": 1032926
+            },
+            {
+                "name": "oussema-bouguerra",
+                "id": 919296
+            },
+            {
+                "name": "alaa-ghram",
+                "id": 1011994
+            },
+            {
+                "name": "taha-yassine-khenissi",
+                "id": 205650
+            },
+            {
+                "name": "elias-achouri",
+                "id": 945204
+            },
+            {
+                "name": "seifeddine-jaziri",
+                "id": 918996
+            },
+            {
+                "name": "issam-jebali",
+                "id": 793187
+            },
+            {
+                "name": "wajdi-kechrida",
+                "id": 880061
+            },
+            {
+                "name": "amor-layouni",
+                "id": 338695
+            },
+            {
+                "name": "ali-youssef",
+                "id": 961936
+            },
+            {
+                "name": "anis-ben-slimane",
+                "id": 1006147
+            },
+            {
+                "name": "ferjani-sassi",
+                "id": 332537
+            },
+            {
+                "name": "anas-haj-mohamed",
+                "id": 1155432
+            },
+            {
+                "name": "haykeul-chikhaoui",
+                "id": 370272
+            },
+            {
+                "name": "hamdi-labidi",
+                "id": 1102854
+            },
+            {
+                "name": "derbali-mohamed-wael",
+                "id": 1410421
+            }
+        ],
+        "id": 4729
+    },
+    "nigeria": {
+        "players": [
+            {
+                "name": "victor-osimhen",
+                "id": 822471
+            },
+            {
+                "name": "ahmed-musa",
+                "id": 139502
+            },
+            {
+                "name": "terem-moffi",
+                "id": 894396
+            },
+            {
+                "name": "ademola-lookman",
+                "id": 824200
+            },
+            {
+                "name": "emmanuel-dennis",
+                "id": 844424
+            },
+            {
+                "name": "moses-simon",
+                "id": 330051
+            },
+            {
+                "name": "zaidu-sanusi",
+                "id": 987510
+            },
+            {
+                "name": "kelechi-iheanacho",
+                "id": 359642
+            },
+            {
+                "name": "bruno-onyemaechi",
+                "id": 1134441
+            },
+            {
+                "name": "etebo-oghenekaro",
+                "id": 839110
+            },
+            {
+                "name": "bright-osayi-samuel",
+                "id": 791616
+            },
+            {
+                "name": "samuel-chukwueze",
+                "id": 822470
+            },
+            {
+                "name": "victor-okoh-boniface",
+                "id": 978521
+            },
+            {
+                "name": "paul-onuachu",
+                "id": 295123
+            },
+            {
+                "name": "alex-iwobi",
+                "id": 352770
+            },
+            {
+                "name": "kenneth-omeruo",
+                "id": 158293
+            },
+            {
+                "name": "taiwo-awoniyi",
+                "id": 359664
+            },
+            {
+                "name": "calvin-bassey",
+                "id": 861972
+            },
+            {
+                "name": "semi-ajayi",
+                "id": 307274
+            },
+            {
+                "name": "shehu-abdullahi",
+                "id": 330033
+            },
+            {
+                "name": "francis-uzoho",
+                "id": 359670
+            },
+            {
+                "name": "wilfred-ndidi",
+                "id": 787885
+            },
+            {
+                "name": "william-troost-ekong",
+                "id": 338991
+            },
+            {
+                "name": "leon-balogun",
+                "id": 37234
+            },
+            {
+                "name": "umar-sadiq",
+                "id": 754710
+            },
+            {
+                "name": "ola-aina",
+                "id": 800417
+            },
+            {
+                "name": "joe-aribo",
+                "id": 818073
+            },
+            {
+                "name": "frank-onyeka",
+                "id": 885864
+            },
+            {
+                "name": "raphael-onyedika",
+                "id": 1129862
+            },
+            {
+                "name": "kevin-akpoguma",
+                "id": 187423
+            },
+            {
+                "name": "tyronne-ebuehi",
+                "id": 580512
+            },
+            {
+                "name": "adeleye-adebayo",
+                "id": 1138044
+            }
+        ],
+        "id": 4785
+    },
+    "senegal": {
+        "players": [
+            {
+                "name": "sadio-mane",
+                "id": 217704
+            },
+            {
+                "name": "abdallah-ndour",
+                "id": 275959
+            },
+            {
+                "name": "nicolas-jackson",
+                "id": 1085381
+            },
+            {
+                "name": "camara-mamadou-lamine",
+                "id": 1155596
+            },
+            {
+                "name": "iliman-ndiaye",
+                "id": 914309
+            },
+            {
+                "name": "youssouf-sabaly",
+                "id": 111803
+            },
+            {
+                "name": "cheikh-sidibe",
+                "id": 1463500
+            },
+            {
+                "name": "pape-diop",
+                "id": 1410217
+            },
+            {
+                "name": "cheikhou-ndiaye",
+                "id": 1002391
+            },
+            {
+                "name": "saliou-ciss",
+                "id": 115102
+            },
+            {
+                "name": "ismaila-ciss",
+                "id": 913679
+            },
+            {
+                "name": "abdoulaye-seck",
+                "id": 583896
+            },
+            {
+                "name": "souleymane-faye",
+                "id": 1002343
+            },
+            {
+                "name": "dia-boulaye",
+                "id": 960080
+            },
+            {
+                "name": "pape-matar-sarr",
+                "id": 1002711
+            },
+            {
+                "name": "ismaila-sarr",
+                "id": 845286
+            },
+            {
+                "name": "moussa-niakhate",
+                "id": 758168
+            },
+            {
+                "name": "abdou-diallo",
+                "id": 280435
+            },
+            {
+                "name": "ahmadou-bamba-dieng",
+                "id": 1102503
+            },
+            {
+                "name": "sane-mamadou",
+                "id": 1463504
+            },
+            {
+                "name": "krepin-diatta",
+                "id": 873534
+            },
+            {
+                "name": "kalidou-koulibaly",
+                "id": 126071
+            },
+            {
+                "name": "ismail-jakobs",
+                "id": 897291
+            },
+            {
+                "name": "pape-diallo",
+                "id": 1463508
+            },
+            {
+                "name": "alfred-gomis",
+                "id": 143695
+            },
+            {
+                "name": "formose-mendy",
+                "id": 982316
+            },
+            {
+                "name": "habib-diallo",
+                "id": 802159
+            },
+            {
+                "name": "samba-diba",
+                "id": 1388325
+            },
+            {
+                "name": "ousmane-diouf",
+                "id": 1463506
+            },
+            {
+                "name": "pape-gueye",
+                "id": 879694
+            },
+            {
+                "name": "idrissa-gueye",
+                "id": 106337
+            },
+            {
+                "name": "nampalys-mendy",
+                "id": 123166
+            },
+            {
+                "name": "idrissa-gueye",
+                "id": 1536811
+            },
+            {
+                "name": "edouard-mendy",
+                "id": 845074
+            },
+            {
+                "name": "dion-lopy",
+                "id": 982327
+            },
+            {
+                "name": "fode-ballo-toure",
+                "id": 788170
+            },
+            {
+                "name": "amara-diouf",
+                "id": 1536761
+            },
+            {
+                "name": "pape-abou-cisse",
+                "id": 790198
+            },
+            {
+                "name": "famara-diedhiou",
+                "id": 293115
+            },
+            {
+                "name": "cheick-tidiane-sabaly",
+                "id": 942834
+            },
+            {
+                "name": "pape-sy",
+                "id": 1463509
+            },
+            {
+                "name": "keita-balde",
+                "id": 317699
+            },
+            {
+                "name": "cheikhou-kouyate",
+                "id": 45944
+            },
+            {
+                "name": "seny-dieng",
+                "id": 298226
+            },
+            {
+                "name": "sambou-bouly-junior",
+                "id": 1121419
+            },
+            {
+                "name": "ousmane-kane",
+                "id": 1463507
+            },
+            {
+                "name": "daouda-diongu",
+                "id": 1536782
+            },
+            {
+                "name": "pape-ousmane-sakho",
+                "id": 1102955
+            }
+        ],
+        "id": 4739
+    },
+    "guinea-bissau": {
+        "players": [
+            {
+                "name": "zidane-banjaqui",
+                "id": 878384
+            },
+            {
+                "name": "carlos-mane",
+                "id": 859748
+            },
+            {
+                "name": "fernando-gomes",
+                "id": 1465409
+            },
+            {
+                "name": "sori-mane",
+                "id": 827781
+            },
+            {
+                "name": "jonas-mendes",
+                "id": 167853
+            },
+            {
+                "name": "janio-bikel",
+                "id": 581606
+            },
+            {
+                "name": "fali-cande",
+                "id": 892430
+            },
+            {
+                "name": "zinho-gano",
+                "id": 156645
+            },
+            {
+                "name": "piqueti",
+                "id": 252701
+            },
+            {
+                "name": "houboulang-mendes",
+                "id": 845119
+            },
+            {
+                "name": "opa-sangante",
+                "id": 829533
+            },
+            {
+                "name": "alfa-semedo",
+                "id": 887343
+            },
+            {
+                "name": "bura-nogueira",
+                "id": 940642
+            },
+            {
+                "name": "dalcio",
+                "id": 787646
+            },
+            {
+                "name": "franculino-dju",
+                "id": 1146009
+            },
+            {
+                "name": "famana-quizera",
+                "id": 1023056
+            },
+            {
+                "name": "mama-balde",
+                "id": 557166
+            },
+            {
+                "name": "moreto-cassama",
+                "id": 845750
+            },
+            {
+                "name": "rodrigues-mauro",
+                "id": 978212
+            },
+            {
+                "name": "jorginho",
+                "id": 352680
+            },
+            {
+                "name": "silva-edson",
+                "id": 1479148
+            },
+            {
+                "name": "nanu",
+                "id": 343965
+            },
+            {
+                "name": "mamadu-camara",
+                "id": 1480099
+            },
+            {
+                "name": "maurice-gomis",
+                "id": 906755
+            },
+            {
+                "name": "baba-fernandes",
+                "id": 943598
+            },
+            {
+                "name": "ze-turbo",
+                "id": 990295
+            },
+            {
+                "name": "encada-jefferson",
+                "id": 851283
+            },
+            {
+                "name": "jardel",
+                "id": 867853
+            },
+            {
+                "name": "toni-gomes",
+                "id": 846354
+            },
+            {
+                "name": "edgar-ie",
+                "id": 235458
+            },
+            {
+                "name": "ronaldo-camara",
+                "id": 1067233
+            },
+            {
+                "name": "queta-madi",
+                "id": 855670
+            },
+            {
+                "name": "jose-embalo",
+                "id": 291555
+            },
+            {
+                "name": "sana-gomes",
+                "id": 1011590
+            }
+        ],
+        "id": 23478
+    },
+    "morocco": {
+        "players": [
+            {
+                "name": "faycal-fajr",
+                "id": 143786
+            },
+            {
+                "name": "bilal-el-khannouss",
+                "id": 1126569
+            },
+            {
+                "name": "samy-mmaee",
+                "id": 578198
+            },
+            {
+                "name": "amine-adli",
+                "id": 991478
+            },
+            {
+                "name": "sofyan-amrabat",
+                "id": 359272
+            },
+            {
+                "name": "ilias-chair",
+                "id": 809512
+            },
+            {
+                "name": "hakim-ziyech",
+                "id": 249437
+            },
+            {
+                "name": "amine-harit",
+                "id": 827522
+            },
+            {
+                "name": "hakimi-achraf",
+                "id": 814594
+            },
+            {
+                "name": "abdessamad-ezzalzouli",
+                "id": 1011375
+            },
+            {
+                "name": "oussama-el-azzouzi",
+                "id": 1127191
+            },
+            {
+                "name": "yahia-attiyat-allah",
+                "id": 919677
+            },
+            {
+                "name": "nayef-aguerd",
+                "id": 877102
+            },
+            {
+                "name": "romain-saiss",
+                "id": 187729
+            },
+            {
+                "name": "ismael-saibari",
+                "id": 1063767
+            },
+            {
+                "name": "adam-masina",
+                "id": 259995
+            },
+            {
+                "name": "aymen-barkok",
+                "id": 856594
+            },
+            {
+                "name": "bono",
+                "id": 360938
+            },
+            {
+                "name": "amallah-selim",
+                "id": 801211
+            },
+            {
+                "name": "azzedine-ounahi",
+                "id": 991421
+            },
+            {
+                "name": "anass-zaroury",
+                "id": 877036
+            },
+            {
+                "name": "soufiane-rahimi",
+                "id": 953995
+            },
+            {
+                "name": "jabrane-yahya",
+                "id": 919712
+            },
+            {
+                "name": "tarik-tissoudali",
+                "id": 584472
+            },
+            {
+                "name": "ayoub-el-kaabi",
+                "id": 919793
+            },
+            {
+                "name": "oussama-idrissi",
+                "id": 823963
+            },
+            {
+                "name": "walid-cheddira",
+                "id": 917485
+            },
+            {
+                "name": "yunis-abdelhamid",
+                "id": 178721
+            },
+            {
+                "name": "youssef-en-nesyri",
+                "id": 846470
+            },
+            {
+                "name": "achraf-dari",
+                "id": 964795
+            },
+            {
+                "name": "maleh-youssef",
+                "id": 849274
+            },
+            {
+                "name": "imran-louza",
+                "id": 965943
+            },
+            {
+                "name": "zakaria-aboukhlal",
+                "id": 856737
+            },
+            {
+                "name": "jawad-el-yamiq",
+                "id": 877103
+            },
+            {
+                "name": "monir-el-kajoui",
+                "id": 141967
+            },
+            {
+                "name": "abdelhamid-sabiri",
+                "id": 807400
+            },
+            {
+                "name": "noussair-mazraoui",
+                "id": 847030
+            }
+        ],
+        "id": 4778
+    },
+    "eswatini": {
+        "players": [
+            {
+                "name": "khanyakwezwe-shabalala",
+                "id": 1119580
+            },
+            {
+                "name": "sibongakhonkhe-quiton",
+                "id": 1508121
+            },
+            {
+                "name": "samkelo-ginindza",
+                "id": 1536331
+            },
+            {
+                "name": "ncamiso-dlamini",
+                "id": 1064093
+            },
+            {
+                "name": "philani-thabo-mkhontfo",
+                "id": 1218856
+            },
+            {
+                "name": "mxolisi-mkhonto",
+                "id": 990966
+            },
+            {
+                "name": "lindo-thembinkosi-mkhonta",
+                "id": 1015094
+            },
+            {
+                "name": "sabelo-ndzinisa",
+                "id": 933007
+            },
+            {
+                "name": "bongwa-owa-matsebula",
+                "id": 1387881
+            },
+            {
+                "name": "siboniso-ngwenya",
+                "id": 990877
+            },
+            {
+                "name": "sandile-gamedze",
+                "id": 990893
+            },
+            {
+                "name": "kwakhe-thwala",
+                "id": 1218853
+            },
+            {
+                "name": "siboniso-mamba",
+                "id": 990982
+            },
+            {
+                "name": "justice-figuareido",
+                "id": 990700
+            },
+            {
+                "name": "siboniso-mamba",
+                "id": 1090395
+            },
+            {
+                "name": "nelizo-dlamini",
+                "id": 990970
+            },
+            {
+                "name": "mlamuli-msibi",
+                "id": 1064100
+            },
+            {
+                "name": "fanelo-mamba",
+                "id": 1014927
+            },
+            {
+                "name": "sihlangu-mkhwanazi",
+                "id": 1090365
+            },
+            {
+                "name": "sandanzwe-mathabela",
+                "id": 933028
+            },
+            {
+                "name": "mkhontfo-khethokuhle",
+                "id": 1112002
+            },
+            {
+                "name": "sifiso-matse",
+                "id": 1015112
+            },
+            {
+                "name": "mzwandile-mabelesa",
+                "id": 1064095
+            },
+            {
+                "name": "mxolisi-simiso-manana",
+                "id": 1218854
+            },
+            {
+                "name": "leon-manyisa",
+                "id": 1480091
+            },
+            {
+                "name": "andy-junior-magagula",
+                "id": 1185686
+            }
+        ],
+        "id": 4733
+    },
+    "ghana": {
+        "players": [
+            {
+                "name": "thomas-partey",
+                "id": 316148
+            },
+            {
+                "name": "mohammed-kudus",
+                "id": 905163
+            },
+            {
+                "name": "alidu-seidu",
+                "id": 1049515
+            },
+            {
+                "name": "joseph-wollacott",
+                "id": 829507
+            },
+            {
+                "name": "edmund-addo",
+                "id": 955061
+            },
+            {
+                "name": "abdul-fatawu-issahaku",
+                "id": 1103589
+            },
+            {
+                "name": "felix-afena-gyan",
+                "id": 1108921
+            },
+            {
+                "name": "ernest-nuamah",
+                "id": 1202024
+            },
+            {
+                "name": "abdul-baba-rahman",
+                "id": 239632
+            },
+            {
+                "name": "kamaldeen-sulemana",
+                "id": 1019442
+            },
+            {
+                "name": "denis-odoi",
+                "id": 58994
+            },
+            {
+                "name": "iddrisu-baba",
+                "id": 914014
+            },
+            {
+                "name": "osman-bukari",
+                "id": 913186
+            },
+            {
+                "name": "abdul-samed-salis",
+                "id": 993455
+            },
+            {
+                "name": "joseph-aidoo",
+                "id": 796320
+            },
+            {
+                "name": "daniel-amartey",
+                "id": 308526
+            },
+            {
+                "name": "jordan-ayew",
+                "id": 103045
+            },
+            {
+                "name": "antoine-semenyo",
+                "id": 934354
+            },
+            {
+                "name": "gideon-mensah",
+                "id": 844942
+            },
+            {
+                "name": "majeed-ashimeru",
+                "id": 901149
+            },
+            {
+                "name": "andre-ayew",
+                "id": 27035
+            },
+            {
+                "name": "lawrence-ati",
+                "id": 791092
+            },
+            {
+                "name": "inaki-williams",
+                "id": 783374
+            },
+            {
+                "name": "elisha-owusu",
+                "id": 904424
+            },
+            {
+                "name": "patrick-kpozo",
+                "id": 818429
+            },
+            {
+                "name": "jonathan-mensah",
+                "id": 70530
+            },
+            {
+                "name": "daniel-kofi-kyereh",
+                "id": 569684
+            },
+            {
+                "name": "alexander-djiku",
+                "id": 289977
+            },
+            {
+                "name": "kingsley-schindler",
+                "id": 169113
+            },
+            {
+                "name": "joseph-paintsil",
+                "id": 901285
+            },
+            {
+                "name": "andy-yiadom",
+                "id": 128833
+            },
+            {
+                "name": "mubarak-wakaso",
+                "id": 52740
+            },
+            {
+                "name": "kwasi-okyere-wriedt",
+                "id": 169199
+            }
+        ],
+        "id": 4764
+    },
+    "cameroon": {
+        "players": [
+            {
+                "name": "andre-onana",
+                "id": 787498
+            },
+            {
+                "name": "karl-toko-ekambi",
+                "id": 842931
+            },
+            {
+                "name": "bryan-mbeumo",
+                "id": 927083
+            },
+            {
+                "name": "olivier-kemen",
+                "id": 280447
+            },
+            {
+                "name": "nicolas-moumie-ngamaleu",
+                "id": 846154
+            },
+            {
+                "name": "vincent-aboubakar",
+                "id": 116869
+            },
+            {
+                "name": "collins-fai",
+                "id": 336551
+            },
+            {
+                "name": "michael-ngadeu",
+                "id": 245705
+            },
+            {
+                "name": "nouhou-tolo",
+                "id": 869038
+            },
+            {
+                "name": "pierre-kunde",
+                "id": 788352
+            },
+            {
+                "name": "harold-moukoudi",
+                "id": 795128
+            },
+            {
+                "name": "christopher-wooh",
+                "id": 930231
+            },
+            {
+                "name": "frank-anguissa",
+                "id": 787941
+            },
+            {
+                "name": "olivier-ntcham",
+                "id": 352676
+            },
+            {
+                "name": "jean-charles-castelletto",
+                "id": 191204
+            },
+            {
+                "name": "samuel-oum-gouet",
+                "id": 898405
+            },
+            {
+                "name": "devis-epassy",
+                "id": 362758
+            },
+            {
+                "name": "emmanuel-mahop",
+                "id": 1481980
+            },
+            {
+                "name": "eric-maxim-choupo-moting",
+                "id": 21626
+            },
+            {
+                "name": "nicolas-nkoulou",
+                "id": 38533
+            },
+            {
+                "name": "jerome-mbekeli",
+                "id": 1025276
+            },
+            {
+                "name": "malcom-bokele",
+                "id": 1122632
+            },
+            {
+                "name": "ignatius-ganago",
+                "id": 890329
+            },
+            {
+                "name": "olivier-mbaizo",
+                "id": 932715
+            },
+            {
+                "name": "thomas-bawak-etta",
+                "id": 1021235
+            },
+            {
+                "name": "martin-hongla",
+                "id": 856062
+            },
+            {
+                "name": "clinton-njie",
+                "id": 291665
+            },
+            {
+                "name": "leandre-tawamba",
+                "id": 315224
+            },
+            {
+                "name": "oumar-gonzalez",
+                "id": 842744
+            },
+            {
+                "name": "gael-ondoua",
+                "id": 561124
+            }
+        ],
+        "id": 4751
+    },
+    "dr-congo": {
+        "players": [
+            {
+                "name": "lionel-mpasi",
+                "id": 599192
+            },
+            {
+                "name": "ngonda-muzinga",
+                "id": 880525
+            },
+            {
+                "name": "gael-kakuta",
+                "id": 46387
+            },
+            {
+                "name": "charles-pickel",
+                "id": 758664
+            },
+            {
+                "name": "neeskens-kebano",
+                "id": 137786
+            },
+            {
+                "name": "dylan-batubinsika",
+                "id": 352912
+            },
+            {
+                "name": "theo-bongonda",
+                "id": 344953
+            },
+            {
+                "name": "jonathan-bolingi",
+                "id": 827207
+            },
+            {
+                "name": "arthur-masuaku",
+                "id": 174975
+            },
+            {
+                "name": "moutoussamy-samuel",
+                "id": 892624
+            },
+            {
+                "name": "chancel-mbemba",
+                "id": 238612
+            },
+            {
+                "name": "fiston-mayele",
+                "id": 1007556
+            },
+            {
+                "name": "marcel-tisserand",
+                "id": 338651
+            },
+            {
+                "name": "meschack-elia",
+                "id": 862078
+            },
+            {
+                "name": "ben-malango",
+                "id": 872350
+            },
+            {
+                "name": "dieumerci-amale",
+                "id": 1124226
+            },
+            {
+                "name": "fabrice-ngoma",
+                "id": 934079
+            },
+            {
+                "name": "chadrac-akolo",
+                "id": 553488
+            },
+            {
+                "name": "omenuke-mfulu",
+                "id": 552668
+            },
+            {
+                "name": "kayembe-edo",
+                "id": 917305
+            },
+            {
+                "name": "aaron-tshibola",
+                "id": 353602
+            },
+            {
+                "name": "lilepo-makabi",
+                "id": 1099453
+            },
+            {
+                "name": "gedeon-kalulu",
+                "id": 991200
+            },
+            {
+                "name": "aldo-kalulu",
+                "id": 801067
+            },
+            {
+                "name": "fasika-nathan-idumba",
+                "id": 1135999
+            },
+            {
+                "name": "yoane-wissa",
+                "id": 805123
+            },
+            {
+                "name": "silas-katompa-mvumpa",
+                "id": 949062
+            },
+            {
+                "name": "merveille-bokadi",
+                "id": 867193
+            },
+            {
+                "name": "jackson-muleka",
+                "id": 927649
+            },
+            {
+                "name": "william-balikwisha",
+                "id": 943881
+            },
+            {
+                "name": "samuel-bastien",
+                "id": 352964
+            },
+            {
+                "name": "ernest-luzolo-sita",
+                "id": 934080
+            },
+            {
+                "name": "cedric-bakambu",
+                "id": 115665
+            },
+            {
+                "name": "joel-kiassumbua",
+                "id": 140098
+            }
+        ],
+        "id": 4823
+    },
+    "mali": {
+        "players": [
+            {
+                "name": "kamory-doumbia",
+                "id": 1156353
+            },
+            {
+                "name": "el-bilal-toure",
+                "id": 982615
+            },
+            {
+                "name": "sekou-koita",
+                "id": 822710
+            },
+            {
+                "name": "djigui-diarra",
+                "id": 796371
+            },
+            {
+                "name": "massadio-haidara",
+                "id": 143344
+            },
+            {
+                "name": "mamadou-fofana",
+                "id": 822703
+            },
+            {
+                "name": "nene-dorgeles",
+                "id": 1102788
+            },
+            {
+                "name": "yves-bissouma",
+                "id": 844842
+            },
+            {
+                "name": "amadou-dante",
+                "id": 982610
+            },
+            {
+                "name": "sikou-niakate",
+                "id": 868235
+            },
+            {
+                "name": "hamari-traore",
+                "id": 362014
+            },
+            {
+                "name": "cheick-doucoure",
+                "id": 906047
+            },
+            {
+                "name": "amadou-haidara",
+                "id": 822708
+            },
+            {
+                "name": "aliou-dieng",
+                "id": 933780
+            },
+            {
+                "name": "camara-mohamed",
+                "id": 1008849
+            },
+            {
+                "name": "moussa-doumbia",
+                "id": 579596
+            },
+            {
+                "name": "boubakar-kouyate",
+                "id": 848537
+            },
+            {
+                "name": "diadie-samassekou",
+                "id": 796358
+            },
+            {
+                "name": "kalifa-coulibaly",
+                "id": 159701
+            },
+            {
+                "name": "mamadou-traore",
+                "id": 865441
+            },
+            {
+                "name": "adama-malouda-traore",
+                "id": 1172372
+            },
+            {
+                "name": "moussa-djenepo",
+                "id": 869910
+            },
+            {
+                "name": "ismael-diawara",
+                "id": 858204
+            },
+            {
+                "name": "almamy-toure",
+                "id": 580952
+            },
+            {
+                "name": "diarra-moussa",
+                "id": 985262
+            },
+            {
+                "name": "sinayoko-lassine",
+                "id": 927005
+            },
+            {
+                "name": "falaye-sacko",
+                "id": 796372
+            },
+            {
+                "name": "ibrahima-kone",
+                "id": 873630
+            },
+            {
+                "name": "ismaila-cheick-coulibaly",
+                "id": 873632
+            },
+            {
+                "name": "boubacar-traore",
+                "id": 1004630
+            },
+            {
+                "name": "coulibaly-lassana",
+                "id": 804621
+            }
+        ],
+        "id": 4831
+    },
+    "malawi": {
+        "players": [
+            {
+                "name": "robert-saizi",
+                "id": 1169458
+            },
+            {
+                "name": "gabadinho-mhango",
+                "id": 894789
+            },
+            {
+                "name": "nickson-mwale",
+                "id": 1127058
+            },
+            {
+                "name": "chawa",
+                "id": 1023552
+            },
+            {
+                "name": "brighton-munthali",
+                "id": 1006042
+            },
+            {
+                "name": "lawrence-chaziya",
+                "id": 1169455
+            },
+            {
+                "name": "chifundo-mphasi",
+                "id": 1502236
+            },
+            {
+                "name": "stain-davie",
+                "id": 990873
+            },
+            {
+                "name": "john-christopher-banda",
+                "id": 990670
+            },
+            {
+                "name": "wisdom-mpinganjira",
+                "id": 1169459
+            },
+            {
+                "name": "micium-mhone",
+                "id": 990885
+            },
+            {
+                "name": "denis-chembezi",
+                "id": 1006035
+            },
+            {
+                "name": "khuda-muyaba",
+                "id": 990827
+            },
+            {
+                "name": "chimwemwe-idana",
+                "id": 1006039
+            },
+            {
+                "name": "chiukepo-msowoya",
+                "id": 105259
+            },
+            {
+                "name": "lloyd-aaron",
+                "id": 1502239
+            },
+            {
+                "name": "patrick-banda",
+                "id": 1537375
+            },
+            {
+                "name": "tatenda-mbalaka",
+                "id": 1536768
+            },
+            {
+                "name": "lloyd-njaliwa",
+                "id": 1160144
+            },
+            {
+                "name": "stanley-sanudi",
+                "id": 990872
+            },
+            {
+                "name": "yamikani-chester",
+                "id": 983699
+            },
+            {
+                "name": "gomezgani-chirwa",
+                "id": 990616
+            },
+            {
+                "name": "gaddie-chirwa",
+                "id": 1381849
+            },
+            {
+                "name": "christopher-kumwembe",
+                "id": 1508482
+            },
+            {
+                "name": "richard-mbulu",
+                "id": 991031
+            },
+            {
+                "name": "alick-lungu",
+                "id": 1381843
+            },
+            {
+                "name": "gerald-phiri",
+                "id": 895155
+            },
+            {
+                "name": "lanjesi-nkhoma",
+                "id": 1500926
+            },
+            {
+                "name": "chikoti-chirwa",
+                "id": 990527
+            },
+            {
+                "name": "chikumbutso-salima",
+                "id": 1502237
+            },
+            {
+                "name": "charles-petro",
+                "id": 1006041
+            },
+            {
+                "name": "peter-banda",
+                "id": 1006011
+            },
+            {
+                "name": "francisco-madinga",
+                "id": 1022211
+            },
+            {
+                "name": "charles-thom",
+                "id": 1169582
+            },
+            {
+                "name": "clever-mkungula",
+                "id": 1169450
+            }
+        ],
+        "id": 8043
+    },
+    "egypt": {
+        "players": [
+            {
+                "name": "mohanad-lasheen",
+                "id": 918506
+            },
+            {
+                "name": "ahmed-hegazy",
+                "id": 159653
+            },
+            {
+                "name": "mahmoud-trezeguet",
+                "id": 295361
+            },
+            {
+                "name": "omar-gaber",
+                "id": 159677
+            },
+            {
+                "name": "omar-kamal",
+                "id": 918743
+            },
+            {
+                "name": "mohamed-salah",
+                "id": 159665
+            },
+            {
+                "name": "mostafa-fathy",
+                "id": 841943
+            },
+            {
+                "name": "zizo",
+                "id": 547494
+            },
+            {
+                "name": "mohamed-hany",
+                "id": 826545
+            },
+            {
+                "name": "mohamed-abdelmonem",
+                "id": 926506
+            },
+            {
+                "name": "emam-ashour",
+                "id": 967032
+            },
+            {
+                "name": "mohamed-hamdi",
+                "id": 918723
+            },
+            {
+                "name": "mostafa-mohamed",
+                "id": 873551
+            },
+            {
+                "name": "mohamed-ibrahim",
+                "id": 159669
+            },
+            {
+                "name": "mohamed-abou-gabal",
+                "id": 841940
+            },
+            {
+                "name": "attia-marwan",
+                "id": 1013699
+            },
+            {
+                "name": "hamed-tarek",
+                "id": 560168
+            },
+            {
+                "name": "mohamed-el-shenawy",
+                "id": 871735
+            },
+            {
+                "name": "omar-marmoush",
+                "id": 873554
+            },
+            {
+                "name": "hamdi-fathi",
+                "id": 918913
+            },
+            {
+                "name": "kahraba",
+                "id": 333439
+            },
+            {
+                "name": "ibrahim-adel",
+                "id": 1008171
+            },
+            {
+                "name": "mahmoud-hamdi",
+                "id": 333459
+            },
+            {
+                "name": "hamada-mahmoud",
+                "id": 918621
+            },
+            {
+                "name": "ahmed-abdelkader",
+                "id": 1000226
+            },
+            {
+                "name": "mohamed-sobhi",
+                "id": 159681
+            },
+            {
+                "name": "ayman-ashraf",
+                "id": 159647
+            },
+            {
+                "name": "ali-gabr",
+                "id": 804430
+            },
+            {
+                "name": "mohamed-magdy-afsha",
+                "id": 918914
+            },
+            {
+                "name": "ahmed-hassan",
+                "id": 1143587
+            },
+            {
+                "name": "ahmed-ramadan",
+                "id": 873556
+            },
+            {
+                "name": "amr-el-solia",
+                "id": 1102389
+            },
+            {
+                "name": "mahmoud-alaa",
+                "id": 159645
+            },
+            {
+                "name": "ahmed-fatouh",
+                "id": 880622
+            },
+            {
+                "name": "sam-morsy",
+                "id": 108515
+            },
+            {
+                "name": "ahmed-refaat",
+                "id": 855909
+            },
+            {
+                "name": "ahmed-atef",
+                "id": 1109002
+            }
+        ],
+        "id": 4758
+    },
+    "burkina-faso": {
+        "players": [
+            {
+                "name": "dango-ouattara",
+                "id": 1106451
+            },
+            {
+                "name": "adamo-nagalo",
+                "id": 1108094
+            },
+            {
+                "name": "herve-koffi",
+                "id": 867299
+            },
+            {
+                "name": "dramane-salou",
+                "id": 924861
+            },
+            {
+                "name": "stephane-aziz-ki",
+                "id": 865473
+            },
+            {
+                "name": "adama-guira",
+                "id": 139357
+            },
+            {
+                "name": "issoufou-dayo",
+                "id": 364758
+            },
+            {
+                "name": "abdoul-bandaogo",
+                "id": 1089464
+            },
+            {
+                "name": "issa-kabore",
+                "id": 1006189
+            },
+            {
+                "name": "ibrahim-blati-toure",
+                "id": 806244
+            },
+            {
+                "name": "guiebre-abdoul",
+                "id": 915839
+            },
+            {
+                "name": "hassane-bande",
+                "id": 886227
+            },
+            {
+                "name": "gustavo-sangare",
+                "id": 1019038
+            },
+            {
+                "name": "edmond-tapsoba",
+                "id": 883262
+            },
+            {
+                "name": "bertrand-traore",
+                "id": 218160
+            },
+            {
+                "name": "mamady-bangre",
+                "id": 994867
+            },
+            {
+                "name": "cyrille-bayala",
+                "id": 785876
+            },
+            {
+                "name": "mohamed-konate",
+                "id": 850011
+            },
+            {
+                "name": "ismahila-ouedraogo",
+                "id": 1099259
+            },
+            {
+                "name": "ousseni-bouda",
+                "id": 983282
+            },
+            {
+                "name": "cedric-badolo",
+                "id": 989361
+            },
+            {
+                "name": "kilian-nikiema",
+                "id": 1149858
+            },
+            {
+                "name": "abdoul-tapsoba",
+                "id": 1000129
+            },
+            {
+                "name": "lassina-traore",
+                "id": 911719
+            },
+            {
+                "name": "steeve-yago",
+                "id": 174911
+            },
+            {
+                "name": "valentin-nouma",
+                "id": 1435940
+            },
+            {
+                "name": "trova-boni",
+                "id": 919990
+            }
+        ],
+        "id": 4749
+    },
+    "comoros": {
+        "players": [
+            {
+                "name": "el-fardou-ben",
+                "id": 39024
+            },
+            {
+                "name": "yannick-pandor",
+                "id": 1047983
+            },
+            {
+                "name": "ali-ahamada",
+                "id": 102689
+            },
+            {
+                "name": "youssouf-mchangama",
+                "id": 197550
+            },
+            {
+                "name": "ali-mmadi",
+                "id": 137100
+            },
+            {
+                "name": "rafidine-abdullah",
+                "id": 224392
+            },
+            {
+                "name": "ibroihim-djoudja",
+                "id": 1006836
+            },
+            {
+                "name": "kassim-mdahoma",
+                "id": 868909
+            },
+            {
+                "name": "younn-zahary",
+                "id": 966492
+            },
+            {
+                "name": "akim-djaha",
+                "id": 1047989
+            },
+            {
+                "name": "benjaloud-youssouf",
+                "id": 579712
+            },
+            {
+                "name": "faiz-selemani",
+                "id": 842745
+            },
+            {
+                "name": "ahmed-soilihi",
+                "id": 863904
+            },
+            {
+                "name": "mohamed-youssouf",
+                "id": 38081
+            },
+            {
+                "name": "aymeric-ahmed",
+                "id": 1128559
+            },
+            {
+                "name": "abdallah-ali-mohamed",
+                "id": 941160
+            },
+            {
+                "name": "fouad-bachirou",
+                "id": 124267
+            },
+            {
+                "name": "said-bakari",
+                "id": 896210
+            },
+            {
+                "name": "kassim-ahamada",
+                "id": 1111847
+            },
+            {
+                "name": "soiyir-sanali",
+                "id": 1117124
+            },
+            {
+                "name": "william-vouama",
+                "id": 1104283
+            },
+            {
+                "name": "yacine-bourhane",
+                "id": 891507
+            },
+            {
+                "name": "mogni-ahmed",
+                "id": 823558
+            },
+            {
+                "name": "zaid-amir",
+                "id": 1218079
+            },
+            {
+                "name": "yannis-kari",
+                "id": 1536343
+            },
+            {
+                "name": "karim-attoumani",
+                "id": 1218072
+            },
+            {
+                "name": "salim-ben-boina",
+                "id": 787808
+            },
+            {
+                "name": "abdel-hakim-abdallah",
+                "id": 862001
+            },
+            {
+                "name": "mohamed-iyad",
+                "id": 1131015
+            },
+            {
+                "name": "chaker-alhadhur",
+                "id": 147622
+            },
+            {
+                "name": "adel-mahamoud",
+                "id": 1218074
+            },
+            {
+                "name": "moussa-djoumoi",
+                "id": 1127449
+            },
+            {
+                "name": "mattoir-faiz",
+                "id": 1007838
+            }
+        ],
+        "id": 23494
+    },
+    "mauritania": {
+        "players": [
+            {
+                "name": "namori-diaw",
+                "id": 985939
+            },
+            {
+                "name": "aboubakar-kamara",
+                "id": 603736
+            },
+            {
+                "name": "hassan-houbeib",
+                "id": 1016138
+            },
+            {
+                "name": "nouh-mohamed-el-abd",
+                "id": 1444497
+            },
+            {
+                "name": "ibrahima-keita",
+                "id": 1196789
+            },
+            {
+                "name": "hemeya-tanjy",
+                "id": 985945
+            },
+            {
+                "name": "bodda-mouhsine",
+                "id": 1064770
+            },
+            {
+                "name": "mohamed-dellahi-yali",
+                "id": 878256
+            },
+            {
+                "name": "mouhamed-soueid",
+                "id": 1139209
+            },
+            {
+                "name": "aly-abeid",
+                "id": 932021
+            },
+            {
+                "name": "lamine-ba",
+                "id": 872038
+            },
+            {
+                "name": "pape-ibnou-ba",
+                "id": 1016053
+            },
+            {
+                "name": "abdallahi-mahmoud",
+                "id": 1009623
+            },
+            {
+                "name": "souleymane-doukara",
+                "id": 170781
+            },
+            {
+                "name": "houssen-abderrahmane",
+                "id": 940231
+            },
+            {
+                "name": "lassana-diakhaby",
+                "id": 1479073
+            },
+            {
+                "name": "mamadou-niass",
+                "id": 915212
+            },
+            {
+                "name": "oumar-camara",
+                "id": 783092
+            },
+            {
+                "name": "bakari-camara",
+                "id": 869078
+            },
+            {
+                "name": "khadim-diaw",
+                "id": 1102987
+            },
+            {
+                "name": "guessouma-fofana",
+                "id": 845092
+            },
+            {
+                "name": "almike-moussa-ndiaye",
+                "id": 1089665
+            },
+            {
+                "name": "el-hacen",
+                "id": 912144
+            },
+            {
+                "name": "birama-ndoye",
+                "id": 329445
+            },
+            {
+                "name": "el-hadji-ba",
+                "id": 222588
+            },
+            {
+                "name": "ibrehima-coulibaly",
+                "id": 210072
+            },
+            {
+                "name": "demini-saleck",
+                "id": 1444500
+            },
+            {
+                "name": "omare-gassama",
+                "id": 917879
+            },
+            {
+                "name": "babacar-niasse",
+                "id": 794543
+            },
+            {
+                "name": "souleymane-anne",
+                "id": 985946
+            },
+            {
+                "name": "idrissa-thiam",
+                "id": 1010564
+            },
+            {
+                "name": "dawda-camara",
+                "id": 1151851
+            }
+        ],
+        "id": 4779
+    },
+    "mozambique": {
+        "players": [
+            {
+                "name": "ivane",
+                "id": 1160562
+            },
+            {
+                "name": "geny-catamo",
+                "id": 1001140
+            },
+            {
+                "name": "mandava-reinildo-isnard",
+                "id": 831424
+            },
+            {
+                "name": "ernani",
+                "id": 1119560
+            },
+            {
+                "name": "david-malembana",
+                "id": 801022
+            },
+            {
+                "name": "guima",
+                "id": 370710
+            },
+            {
+                "name": "melque-alexandre",
+                "id": 1110782
+            },
+            {
+                "name": "domingos",
+                "id": 1127048
+            },
+            {
+                "name": "zainadine-junior",
+                "id": 105457
+            },
+            {
+                "name": "shaquille",
+                "id": 1127085
+            },
+            {
+                "name": "stanley-ratifo",
+                "id": 385002
+            },
+            {
+                "name": "kito",
+                "id": 1001142
+            },
+            {
+                "name": "bruno-langa",
+                "id": 987490
+            },
+            {
+                "name": "witi",
+                "id": 786269
+            },
+            {
+                "name": "edson-mexer",
+                "id": 581328
+            },
+            {
+                "name": "gildo",
+                "id": 867523
+            },
+            {
+                "name": "reginaldo-faife",
+                "id": 320407
+            },
+            {
+                "name": "martinho",
+                "id": 1127096
+            },
+            {
+                "name": "domingues",
+                "id": 990542
+            },
+            {
+                "name": "faisal-abdul-bangal",
+                "id": 592712
+            },
+            {
+                "name": "edmilson-gabriel-dove",
+                "id": 894793
+            },
+            {
+                "name": "clesio-bauque",
+                "id": 344289
+            },
+            {
+                "name": "amadu",
+                "id": 990500
+            },
+            {
+                "name": "manuel-kambala",
+                "id": 943510
+            },
+            {
+                "name": "nene",
+                "id": 990975
+            },
+            {
+                "name": "isac",
+                "id": 990644
+            },
+            {
+                "name": "luis-jose-miquissone",
+                "id": 944015
+            },
+            {
+                "name": "ali-abudo",
+                "id": 1501373
+            },
+            {
+                "name": "gion-fadri-chande",
+                "id": 814028
+            },
+            {
+                "name": "telinho",
+                "id": 990701
+            }
+        ],
+        "id": 4783
+    },
+    "south-africa": {
+        "players": [
+            {
+                "name": "foster-lyle",
+                "id": 901907
+            },
+            {
+                "name": "yusuf-maart",
+                "id": 1127748
+            },
+            {
+                "name": "zakhele-lepasa",
+                "id": 944213
+            },
+            {
+                "name": "thapelo-morena",
+                "id": 863249
+            },
+            {
+                "name": "teboho-mokoena",
+                "id": 881117
+            },
+            {
+                "name": "williams-ronwen",
+                "id": 539792
+            },
+            {
+                "name": "percy-tau",
+                "id": 863251
+            },
+            {
+                "name": "mihlali-mayambela",
+                "id": 829860
+            },
+            {
+                "name": "monnapule-saleng",
+                "id": 1127658
+            },
+            {
+                "name": "le-roux-luke",
+                "id": 931035
+            },
+            {
+                "name": "mothobi-mvala",
+                "id": 845079
+            },
+            {
+                "name": "siyanda-xulu",
+                "id": 277359
+            },
+            {
+                "name": "sphephelo-sithole",
+                "id": 822684
+            },
+            {
+                "name": "thibang-phete",
+                "id": 806516
+            },
+            {
+                "name": "aubrey-maphosa-modiba",
+                "id": 837099
+            },
+            {
+                "name": "lyle-lakay",
+                "id": 894799
+            },
+            {
+                "name": "goodman-mosele",
+                "id": 894725
+            },
+            {
+                "name": "aubaas-bathusi",
+                "id": 915614
+            },
+            {
+                "name": "taariq-fielies",
+                "id": 894801
+            },
+            {
+                "name": "themba-zwane",
+                "id": 559504
+            },
+            {
+                "name": "khuliso-mudau",
+                "id": 936047
+            },
+            {
+                "name": "kekana-grant",
+                "id": 894581
+            },
+            {
+                "name": "bongokuhle-hlongwane",
+                "id": 981739
+            },
+            {
+                "name": "thembinkosi-lorch",
+                "id": 894744
+            },
+            {
+                "name": "maela-innocent",
+                "id": 894766
+            },
+            {
+                "name": "mobbie-nyiko",
+                "id": 894580
+            },
+            {
+                "name": "phathutshedzo-nange",
+                "id": 936043
+            },
+            {
+                "name": "cassius-mailula",
+                "id": 1398858
+            },
+            {
+                "name": "evidence-makgopa",
+                "id": 1022170
+            }
+        ],
+        "id": 4736
+    },
+    "burundi": {
+        "players": [
+            {
+                "name": "abedi-bigirimana",
+                "id": 1482919
+            },
+            {
+                "name": "bonfils-caleb-bimenyimana",
+                "id": 948358
+            },
+            {
+                "name": "gael-bigirimana",
+                "id": 125557
+            },
+            {
+                "name": "hussein-shabani",
+                "id": 943697
+            },
+            {
+                "name": "frederic-nsabiyumva",
+                "id": 925209
+            },
+            {
+                "name": "derrick-mukombozi",
+                "id": 1381234
+            },
+            {
+                "name": "jordi-liongola",
+                "id": 1009413
+            },
+            {
+                "name": "saidi-ntibazonkiza",
+                "id": 18113
+            },
+            {
+                "name": "moussa-madjaliwa",
+                "id": 1502222
+            },
+            {
+                "name": "aaron-musore",
+                "id": 1482114
+            },
+            {
+                "name": "jospin-nshimirimana",
+                "id": 1015829
+            },
+            {
+                "name": "jonathan-nahimana",
+                "id": 985919
+            },
+            {
+                "name": "onesime-rukundo",
+                "id": 985921
+            },
+            {
+                "name": "mohamed-amissi",
+                "id": 985943
+            },
+            {
+                "name": "bienvenue-kanakimana",
+                "id": 994630
+            },
+            {
+                "name": "ismail-nshimirimana",
+                "id": 1119570
+            },
+            {
+                "name": "cedric-amissi",
+                "id": 825010
+            },
+            {
+                "name": "saido-berahino",
+                "id": 111962
+            },
+            {
+                "name": "pacifique-niyongabire",
+                "id": 922158
+            },
+            {
+                "name": "shassiri-nahimana",
+                "id": 985931
+            },
+            {
+                "name": "richard-bazombwa",
+                "id": 880536
+            },
+            {
+                "name": "abdallah-sudi",
+                "id": 1213341
+            },
+            {
+                "name": "marco-weymans",
+                "id": 802065
+            },
+            {
+                "name": "youssouf-ndayishimiye",
+                "id": 985934
+            },
+            {
+                "name": "emmanuel-mvuyekure",
+                "id": 1482102
+            },
+            {
+                "name": "aruna-mussa",
+                "id": 1540049
+            },
+            {
+                "name": "christophe-nduwarugira",
+                "id": 867457
+            },
+            {
+                "name": "karim-nizigiyimana",
+                "id": 948356
+            },
+            {
+                "name": "steve-nzigamasabo",
+                "id": 1089312
+            },
+            {
+                "name": "blaise-bigirimana",
+                "id": 1089318
+            }
+        ],
+        "id": 4750
+    },
+    "central-african-republic": {
+        "players": [
+            {
+                "name": "geoffrey-kondogbia",
+                "id": 96544
+            },
+            {
+                "name": "louis-mafouta",
+                "id": 857002
+            },
+            {
+                "name": "karl-namnganda",
+                "id": 1137884
+            },
+            {
+                "name": "severin-tatolna",
+                "id": 1160253
+            },
+            {
+                "name": "jacob-youmbi",
+                "id": 1480085
+            },
+            {
+                "name": "sadock-ndobe",
+                "id": 1089967
+            },
+            {
+                "name": "marc-raphael-yapende",
+                "id": 1103453
+            },
+            {
+                "name": "ghislain-venuste-baboula",
+                "id": 1479070
+            },
+            {
+                "name": "peter-guinari",
+                "id": 1130106
+            },
+            {
+                "name": "samuel-nlend",
+                "id": 1021239
+            },
+            {
+                "name": "amos-youga",
+                "id": 217774
+            },
+            {
+                "name": "goduine-koyalipou",
+                "id": 891505
+            },
+            {
+                "name": "eleoenai-tompte",
+                "id": 915844
+            },
+            {
+                "name": "thibault-ban",
+                "id": 1005941
+            },
+            {
+                "name": "cesar-lobi-manzoki",
+                "id": 1410491
+            },
+            {
+                "name": "brad-pirioua",
+                "id": 1160256
+            },
+            {
+                "name": "tresor-toropite",
+                "id": 1005940
+            },
+            {
+                "name": "sidney-dambakizi",
+                "id": 1119624
+            },
+            {
+                "name": "yassan-ouatching",
+                "id": 1024448
+            },
+            {
+                "name": "flory-jean-michael-yangao",
+                "id": 1103433
+            },
+            {
+                "name": "urie-axel",
+                "id": 1006673
+            },
+            {
+                "name": "majouga-marco-ludivin",
+                "id": 1067123
+            },
+            {
+                "name": "steve-freeman-niamathe",
+                "id": 1119627
+            },
+            {
+                "name": "geoffrey-lembet",
+                "id": 74008
+            },
+            {
+                "name": "dominique-youfeigane",
+                "id": 989832
+            },
+            {
+                "name": "alladum-kolimba",
+                "id": 1407645
+            },
+            {
+                "name": "isaac-ngoma",
+                "id": 1103439
+            },
+            {
+                "name": "mboumbouni-dylan",
+                "id": 787583
+            },
+            {
+                "name": "tony-marley-biakolo",
+                "id": 1471414
+            },
+            {
+                "name": "noah-kevin-ato-zandanga",
+                "id": 1471406
+            },
+            {
+                "name": "donald-benamna",
+                "id": 982862
+            },
+            {
+                "name": "riphat-pounayo",
+                "id": 1487176
+            },
+            {
+                "name": "donald-guesset-bangagbi",
+                "id": 1160255
+            },
+            {
+                "name": "soleil-mongolobao",
+                "id": 1103455
+            },
+            {
+                "name": "georgino-mvondo-ze",
+                "id": 1124490
+            },
+            {
+                "name": "yawanendji-malipangou",
+                "id": 1103462
+            }
+        ],
+        "id": 23470
+    },
+    "ethiopia": {
+        "players": [
+            {
+                "name": "kitika-jemma",
+                "id": 1457873
+            },
+            {
+                "name": "henok-adugna",
+                "id": 959542
+            },
+            {
+                "name": "said-habtamu",
+                "id": 1462887
+            },
+            {
+                "name": "canaan-markneh",
+                "id": 959549
+            },
+            {
+                "name": "dawa-hotessa",
+                "id": 959533
+            },
+            {
+                "name": "amanuel-terfa",
+                "id": 1502243
+            },
+            {
+                "name": "fasil-gebremichael",
+                "id": 1139230
+            },
+            {
+                "name": "chernet-gugsa",
+                "id": 1139235
+            },
+            {
+                "name": "million-solomon",
+                "id": 1381826
+            },
+            {
+                "name": "binyam-belay",
+                "id": 994628
+            },
+            {
+                "name": "oumed-oukri",
+                "id": 199560
+            },
+            {
+                "name": "suleman-hamid",
+                "id": 1089628
+            },
+            {
+                "name": "abubeker-nasir",
+                "id": 1150045
+            },
+            {
+                "name": "gatoch-panom",
+                "id": 886111
+            },
+            {
+                "name": "beneyam-demte",
+                "id": 894378
+            },
+            {
+                "name": "duresa-shubisa",
+                "id": 1457589
+            },
+            {
+                "name": "fitsum-tilahun",
+                "id": 1535692
+            },
+            {
+                "name": "amanuel-yohannes",
+                "id": 1014936
+            },
+            {
+                "name": "asrat-tonjo",
+                "id": 1119539
+            },
+            {
+                "name": "ramadan-yesuf",
+                "id": 1006932
+            },
+            {
+                "name": "yared-baye",
+                "id": 994626
+            },
+            {
+                "name": "aschalew-tamene",
+                "id": 880606
+            },
+            {
+                "name": "shemeles-bekele",
+                "id": 199950
+            },
+            {
+                "name": "amanuel-gebremikael",
+                "id": 990501
+            },
+            {
+                "name": "abel-yalew",
+                "id": 959566
+            },
+            {
+                "name": "yosef-tarekegn",
+                "id": 1481979
+            },
+            {
+                "name": "yigezu-bogale",
+                "id": 1381827
+            },
+            {
+                "name": "tamene-aschalew",
+                "id": 1171699
+            },
+            {
+                "name": "wogene-gezahegn",
+                "id": 1502247
+            },
+            {
+                "name": "tafesse-solomon",
+                "id": 1064120
+            },
+            {
+                "name": "surafel-dagnachew",
+                "id": 1006963
+            },
+            {
+                "name": "yehun-endeshaw",
+                "id": 1064121
+            },
+            {
+                "name": "habtamu-tadesse",
+                "id": 1502238
+            },
+            {
+                "name": "mesud-mohammed",
+                "id": 1089630
+            },
+            {
+                "name": "abel-mamush",
+                "id": 1502242
+            },
+            {
+                "name": "mignot-debebe",
+                "id": 1139233
+            },
+            {
+                "name": "bereket-desta",
+                "id": 1381823
+            },
+            {
+                "name": "abebayehu-achiso",
+                "id": 1502241
+            }
+        ],
+        "id": 8036
+    },
+    "angola": {
+        "players": [
+            {
+                "name": "milson",
+                "id": 939721
+            },
+            {
+                "name": "neblu",
+                "id": 933128
+            },
+            {
+                "name": "fredy",
+                "id": 845281
+            },
+            {
+                "name": "kialonda-gaspar",
+                "id": 1090374
+            },
+            {
+                "name": "nurio-fortuna",
+                "id": 385388
+            },
+            {
+                "name": "geraldo",
+                "id": 244089
+            },
+            {
+                "name": "mario-balburdia",
+                "id": 933912
+            },
+            {
+                "name": "eddie-afonso",
+                "id": 877228
+            },
+            {
+                "name": "lucas-joao",
+                "id": 253837
+            },
+            {
+                "name": "zito-luvumbo",
+                "id": 1000150
+            },
+            {
+                "name": "gelson-dala",
+                "id": 825067
+            },
+            {
+                "name": "show",
+                "id": 933115
+            },
+            {
+                "name": "jonathan-buatu-mananga",
+                "id": 800348
+            },
+            {
+                "name": "hugo-marques",
+                "id": 59783
+            },
+            {
+                "name": "ary-papel",
+                "id": 333311
+            },
+            {
+                "name": "pedro-miguel",
+                "id": 1017970
+            },
+            {
+                "name": "helder-costa",
+                "id": 138891
+            },
+            {
+                "name": "gilberto",
+                "id": 1435399
+            },
+            {
+                "name": "mbala-nzola",
+                "id": 788061
+            },
+            {
+                "name": "capita",
+                "id": 1002150
+            },
+            {
+                "name": "mabululu",
+                "id": 333341
+            },
+            {
+                "name": "bruno-paz",
+                "id": 845821
+            },
+            {
+                "name": "antonio-hossi",
+                "id": 1387422
+            },
+            {
+                "name": "to-carneiro",
+                "id": 923882
+            },
+            {
+                "name": "gigli-ndefe",
+                "id": 228462
+            },
+            {
+                "name": "beni-mukendi",
+                "id": 1002367
+            },
+            {
+                "name": "yano",
+                "id": 307416
+            },
+            {
+                "name": "nelson-luz",
+                "id": 841743
+            },
+            {
+                "name": "estrela",
+                "id": 352872
+            },
+            {
+                "name": "zini",
+                "id": 1002334
+            },
+            {
+                "name": "loide-augusto",
+                "id": 1110708
+            },
+            {
+                "name": "quinito",
+                "id": 1064821
+            }
+        ],
+        "id": 4692
+    },
+    "togo": {
+        "players": [
+            {
+                "name": "abdou-ouattara",
+                "id": 1469651
+            },
+            {
+                "name": "kodjo-fo-doh-laba",
+                "id": 865839
+            },
+            {
+                "name": "kevin-denkey",
+                "id": 862470
+            },
+            {
+                "name": "euloge-fessou-placca",
+                "id": 307700
+            },
+            {
+                "name": "emmanuel-hackman",
+                "id": 818051
+            },
+            {
+                "name": "floyd-ayite",
+                "id": 51377
+            },
+            {
+                "name": "marouf-tchakei",
+                "id": 1006862
+            },
+            {
+                "name": "roger-aholou",
+                "id": 1008217
+            },
+            {
+                "name": "loic-bessile",
+                "id": 826213
+            },
+            {
+                "name": "roland-amouzou",
+                "id": 1469671
+            },
+            {
+                "name": "karim-dermane",
+                "id": 1130307
+            },
+            {
+                "name": "ihlas-bebou",
+                "id": 254297
+            },
+            {
+                "name": "wassiou-ouro-gneni",
+                "id": 1138588
+            },
+            {
+                "name": "djene",
+                "id": 307702
+            },
+            {
+                "name": "jacques-alaixys-romao",
+                "id": 14525
+            },
+            {
+                "name": "david-henen",
+                "id": 790765
+            },
+            {
+                "name": "tawfik-moukaila",
+                "id": 1196860
+            },
+            {
+                "name": "harissou-ouro-bodi",
+                "id": 1469681
+            },
+            {
+                "name": "samuel-asamoah",
+                "id": 258365
+            },
+            {
+                "name": "aziangbe-kodjo",
+                "id": 1168282
+            },
+            {
+                "name": "thibault-klidje",
+                "id": 1150445
+            },
+            {
+                "name": "atte-youssifou",
+                "id": 1064086
+            },
+            {
+                "name": "gnama-akate",
+                "id": 1099569
+            },
+            {
+                "name": "ouro-samsindin",
+                "id": 1102679
+            },
+            {
+                "name": "steven-mensah",
+                "id": 1127792
+            },
+            {
+                "name": "ismail-ouro-agoro",
+                "id": 1099571
+            },
+            {
+                "name": "kennedy-boateng",
+                "id": 845884
+            },
+            {
+                "name": "frederic-ananou",
+                "id": 842276
+            },
+            {
+                "name": "malcolm-barcola",
+                "id": 966618
+            },
+            {
+                "name": "mawouna-amevor",
+                "id": 106154
+            },
+            {
+                "name": "serge-nyuiadzi",
+                "id": 98208
+            }
+        ],
+        "id": 4836
+    },
+    "algeria": {
+        "players": [
+            {
+                "name": "abdelkader-bedrane",
+                "id": 906407
+            },
+            {
+                "name": "moustapha-zeghba",
+                "id": 888378
+            },
+            {
+                "name": "aissa-mandi",
+                "id": 122810
+            },
+            {
+                "name": "riyad-mahrez",
+                "id": 158213
+            },
+            {
+                "name": "youcef-belaili",
+                "id": 901827
+            },
+            {
+                "name": "rais-mbolhi",
+                "id": 75486
+            },
+            {
+                "name": "ramy-bensebaini",
+                "id": 577726
+            },
+            {
+                "name": "mohamed-tougai",
+                "id": 1018018
+            },
+            {
+                "name": "fares-chaibi",
+                "id": 1192318
+            },
+            {
+                "name": "mehdi-leris",
+                "id": 851222
+            },
+            {
+                "name": "zineddine-belaid",
+                "id": 1018822
+            },
+            {
+                "name": "ramiz-zerrouki",
+                "id": 989882
+            },
+            {
+                "name": "ismael-bennacer",
+                "id": 823733
+            },
+            {
+                "name": "baghdad-bounedjah",
+                "id": 785926
+            },
+            {
+                "name": "badredine-bouanani",
+                "id": 1153265
+            },
+            {
+                "name": "oussama-chita",
+                "id": 932999
+            },
+            {
+                "name": "rayan-ait-nouri",
+                "id": 931278
+            },
+            {
+                "name": "houcine-benayada",
+                "id": 972811
+            },
+            {
+                "name": "ahmed-touba",
+                "id": 856216
+            },
+            {
+                "name": "riad-benayad",
+                "id": 1007579
+            },
+            {
+                "name": "kevin-van-den-kerkhof",
+                "id": 1130602
+            },
+            {
+                "name": "adem-zorgane",
+                "id": 1000472
+            },
+            {
+                "name": "himad-abdelli",
+                "id": 945830
+            },
+            {
+                "name": "mohamed-el-amine-amoura",
+                "id": 1107591
+            },
+            {
+                "name": "loucif-haithem",
+                "id": 997780
+            },
+            {
+                "name": "mahious-aimen",
+                "id": 948350
+            },
+            {
+                "name": "hicham-boudaoui",
+                "id": 985923
+            },
+            {
+                "name": "billal-brahimi",
+                "id": 948250
+            },
+            {
+                "name": "islam-slimani",
+                "id": 238708
+            },
+            {
+                "name": "anthony-mandrea",
+                "id": 360868
+            },
+            {
+                "name": "nabil-bentaleb",
+                "id": 368120
+            },
+            {
+                "name": "haris-belkebla",
+                "id": 580642
+            },
+            {
+                "name": "said-benrahma",
+                "id": 354808
+            },
+            {
+                "name": "rachid-ghezzal",
+                "id": 123228
+            },
+            {
+                "name": "jaouen-hadjam",
+                "id": 1049534
+            },
+            {
+                "name": "sofiane-bendebka",
+                "id": 845609
+            },
+            {
+                "name": "adam-ounas",
+                "id": 818440
+            },
+            {
+                "name": "abdelkahar-kadri",
+                "id": 1007528
+            },
+            {
+                "name": "aouar-houssem",
+                "id": 846081
+            },
+            {
+                "name": "andy-delort",
+                "id": 84744
+            }
+        ],
+        "id": 4691
+    },
+    "cape-verde": {
+        "players": [
+            {
+                "name": "joao-paulo",
+                "id": 1001675
+            },
+            {
+                "name": "julio-tavares",
+                "id": 218652
+            },
+            {
+                "name": "vozinha",
+                "id": 307436
+            },
+            {
+                "name": "stopira",
+                "id": 59609
+            },
+            {
+                "name": "cle",
+                "id": 1151076
+            },
+            {
+                "name": "gilson-tavares",
+                "id": 1111215
+            },
+            {
+                "name": "telmo-arcanjo",
+                "id": 1035280
+            },
+            {
+                "name": "bebe",
+                "id": 124950
+            },
+            {
+                "name": "kevin-pina",
+                "id": 906838
+            },
+            {
+                "name": "willy-semedo",
+                "id": 889052
+            },
+            {
+                "name": "monteiro-jamiro",
+                "id": 815080
+            },
+            {
+                "name": "diney-borges",
+                "id": 784677
+            },
+            {
+                "name": "roberto-lopes",
+                "id": 147138
+            },
+            {
+                "name": "deroy-duarte",
+                "id": 921089
+            },
+            {
+                "name": "ryan-mendes",
+                "id": 52797
+            },
+            {
+                "name": "ivanildo-fernandes",
+                "id": 806515
+            },
+            {
+                "name": "kenny-rocha-santos",
+                "id": 867520
+            },
+            {
+                "name": "garry-rodrigues",
+                "id": 787429
+            },
+            {
+                "name": "andrade-leandro",
+                "id": 1048905
+            },
+            {
+                "name": "marcio-rosa",
+                "id": 892133
+            },
+            {
+                "name": "jovane-cabral",
+                "id": 845802
+            },
+            {
+                "name": "cuca",
+                "id": 1093294
+            },
+            {
+                "name": "patrick-andrade",
+                "id": 789070
+            },
+            {
+                "name": "logan-costa",
+                "id": 911853
+            },
+            {
+                "name": "david-tavares",
+                "id": 878494
+            },
+            {
+                "name": "bryan-silva-teixeira",
+                "id": 978064
+            },
+            {
+                "name": "dylan-tavares",
+                "id": 814125
+            },
+            {
+                "name": "lisandro-semedo",
+                "id": 803701
+            },
+            {
+                "name": "sixten-mohlin",
+                "id": 279543
+            },
+            {
+                "name": "steve-furtado",
+                "id": 889592
+            },
+            {
+                "name": "luis-henriques-de-barros-lopes",
+                "id": 1390389
+            }
+        ],
+        "id": 4753
+    },
+    "gabon": {
+        "players": [
+            {
+                "name": "guelor-kanga",
+                "id": 311696
+            },
+            {
+                "name": "david-sambissa",
+                "id": 280459
+            },
+            {
+                "name": "didier-ndong",
+                "id": 786029
+            },
+            {
+                "name": "aaron-appindangoye",
+                "id": 785850
+            },
+            {
+                "name": "anthony-oyono",
+                "id": 1106257
+            },
+            {
+                "name": "yohann-wachter",
+                "id": 842746
+            },
+            {
+                "name": "mario-lemina",
+                "id": 307284
+            },
+            {
+                "name": "moussounda-alex",
+                "id": 1141425
+            },
+            {
+                "name": "andre-poko",
+                "id": 177103
+            },
+            {
+                "name": "johann-obiang",
+                "id": 302640
+            },
+            {
+                "name": "babicka-shavy-warren",
+                "id": 1136280
+            },
+            {
+                "name": "wilfried-ebane-abessolo",
+                "id": 948237
+            },
+            {
+                "name": "ndoutoumo-roy",
+                "id": 1184178
+            },
+            {
+                "name": "axel-meye",
+                "id": 242537
+            },
+            {
+                "name": "medwin-biteghe",
+                "id": 906598
+            },
+            {
+                "name": "lloyd-palun",
+                "id": 146683
+            },
+            {
+                "name": "do-marcolino-alan",
+                "id": 1381229
+            },
+            {
+                "name": "patrick-orphe-mbina",
+                "id": 1085179
+            },
+            {
+                "name": "denis-bouanga",
+                "id": 760618
+            },
+            {
+                "name": "ngakoutou-yapende-yannis",
+                "id": 873051
+            },
+            {
+                "name": "jim-allevinah",
+                "id": 988632
+            },
+            {
+                "name": "aaron-salem-boupendza",
+                "id": 891419
+            },
+            {
+                "name": "jacques-ekomie",
+                "id": 1170532
+            },
+            {
+                "name": "anthony-mfa",
+                "id": 98752
+            },
+            {
+                "name": "pierre-emerick-aubameyang",
+                "id": 51498
+            },
+            {
+                "name": "louis-ameka-autchanga",
+                "id": 898964
+            },
+            {
+                "name": "amonome-jean-noel",
+                "id": 1142300
+            }
+        ],
+        "id": 4761
+    },
+    "tanzania": {
+        "players": [
+            {
+                "name": "novatus-dismas",
+                "id": 1103597
+            },
+            {
+                "name": "benno-david-kakolanya",
+                "id": 948401
+            },
+            {
+                "name": "ibrahim-hamad-bacca",
+                "id": 1469685
+            },
+            {
+                "name": "morice-abraham",
+                "id": 1141093
+            },
+            {
+                "name": "dickson-job",
+                "id": 1014888
+            },
+            {
+                "name": "mbwana-ally-samatta",
+                "id": 825088
+            },
+            {
+                "name": "george-mpole",
+                "id": 1195996
+            },
+            {
+                "name": "bakari-nondo",
+                "id": 1006431
+            },
+            {
+                "name": "simon-msuva",
+                "id": 919587
+            },
+            {
+                "name": "said-khamis",
+                "id": 1063751
+            },
+            {
+                "name": "mudathir-yahya",
+                "id": 985960
+            },
+            {
+                "name": "ally-kibwana-shomari",
+                "id": 1150163
+            },
+            {
+                "name": "abdul-suleiman",
+                "id": 1103596
+            },
+            {
+                "name": "mohamed-husseini",
+                "id": 973053
+            },
+            {
+                "name": "aishi-manula",
+                "id": 973037
+            },
+            {
+                "name": "salum-abubakar",
+                "id": 994633
+            },
+            {
+                "name": "sospeter-bajana",
+                "id": 1167500
+            },
+            {
+                "name": "himid-mao-mkami",
+                "id": 943787
+            },
+            {
+                "name": "mzamiru-yasin",
+                "id": 973067
+            },
+            {
+                "name": "george-tibar",
+                "id": 1016969
+            },
+            {
+                "name": "denis-kibu",
+                "id": 1125405
+            },
+            {
+                "name": "john-kelvin",
+                "id": 1146362
+            },
+            {
+                "name": "clement-mzize",
+                "id": 1469663
+            },
+            {
+                "name": "nickson-kibabage",
+                "id": 1010049
+            },
+            {
+                "name": "feisal-salum",
+                "id": 985961
+            },
+            {
+                "name": "banda-abdi",
+                "id": 894601
+            },
+            {
+                "name": "charles-david-luhende",
+                "id": 1411944
+            },
+            {
+                "name": "haji-mnoga",
+                "id": 958722
+            },
+            {
+                "name": "shomari-kapombe",
+                "id": 985958
+            },
+            {
+                "name": "john-bocco",
+                "id": 973061
+            },
+            {
+                "name": "kennedy-juma",
+                "id": 1102821
+            }
+        ],
+        "id": 4835
+    },
+    "zambia": {
+        "players": [
+            {
+                "name": "kings-kangwa",
+                "id": 986253
+            },
+            {
+                "name": "patson-daka",
+                "id": 865057
+            },
+            {
+                "name": "enock-mwepu",
+                "id": 881132
+            },
+            {
+                "name": "tresford-lawrence-mulenga",
+                "id": 875114
+            },
+            {
+                "name": "emmanuel-banda",
+                "id": 881133
+            },
+            {
+                "name": "lameck-banda",
+                "id": 911350
+            },
+            {
+                "name": "bendecit-chapeshi",
+                "id": 1083133
+            },
+            {
+                "name": "stoppila-sunzu",
+                "id": 51453
+            },
+            {
+                "name": "rodrick-kabwe",
+                "id": 880108
+            },
+            {
+                "name": "tandi-mwape",
+                "id": 1006324
+            },
+            {
+                "name": "frankie-musonda",
+                "id": 827262
+            },
+            {
+                "name": "kelvin-kapumbu",
+                "id": 1008553
+            },
+            {
+                "name": "prince-mumba",
+                "id": 1124134
+            },
+            {
+                "name": "shemmy-mayembe",
+                "id": 881134
+            },
+            {
+                "name": "larry-bwalya",
+                "id": 875105
+            },
+            {
+                "name": "benson-sakala",
+                "id": 875106
+            },
+            {
+                "name": "kelvin-kampamba",
+                "id": 1006326
+            },
+            {
+                "name": "edward-chilufya",
+                "id": 881135
+            },
+            {
+                "name": "evans-kangwa",
+                "id": 604444
+            },
+            {
+                "name": "toaster-nsabata",
+                "id": 880624
+            },
+            {
+                "name": "fashion-sakala",
+                "id": 876626
+            },
+            {
+                "name": "lubambo-musonda",
+                "id": 787465
+            },
+            {
+                "name": "mafwenta-golden",
+                "id": 1008549
+            },
+            {
+                "name": "clatous-chama",
+                "id": 958738
+            },
+            {
+                "name": "kennedy-musonda",
+                "id": 880642
+            },
+            {
+                "name": "dominic-chanda",
+                "id": 1083196
+            }
+        ],
+        "id": 4720
+    },
+    "gambia": {
+        "players": [
+            {
+                "name": "minteh-yankuba",
+                "id": 1400106
+            },
+            {
+                "name": "ablie-jallow",
+                "id": 886534
+            },
+            {
+                "name": "musa-barrow",
+                "id": 916680
+            },
+            {
+                "name": "sulayman-marreh",
+                "id": 238410
+            },
+            {
+                "name": "ebou-adams",
+                "id": 557614
+            },
+            {
+                "name": "muhammed-badammosi",
+                "id": 919496
+            },
+            {
+                "name": "muhammed-sanneh",
+                "id": 978741
+            },
+            {
+                "name": "hamza-barry",
+                "id": 238402
+            },
+            {
+                "name": "colley-ebrima",
+                "id": 928106
+            },
+            {
+                "name": "omar-colley",
+                "id": 238408
+            },
+            {
+                "name": "yusupha-bobb",
+                "id": 825984
+            },
+            {
+                "name": "james-gomez",
+                "id": 1020100
+            },
+            {
+                "name": "sanneh-bubacarr",
+                "id": 793312
+            },
+            {
+                "name": "jallow-lamin",
+                "id": 788834
+            },
+            {
+                "name": "ali-sowe",
+                "id": 238394
+            },
+            {
+                "name": "ibou-touray",
+                "id": 606856
+            },
+            {
+                "name": "darboe-ebrima",
+                "id": 1002902
+            },
+            {
+                "name": "abdoulie-sanyang",
+                "id": 991908
+            },
+            {
+                "name": "assan-ceesay",
+                "id": 842158
+            },
+            {
+                "name": "baboucarr-gaye",
+                "id": 807349
+            },
+            {
+                "name": "fadera-alieu",
+                "id": 1031548
+            },
+            {
+                "name": "saidy-janko",
+                "id": 348362
+            },
+            {
+                "name": "njie-sainey",
+                "id": 1022859
+            },
+            {
+                "name": "bubacarr-jobe",
+                "id": 964599
+            },
+            {
+                "name": "noah-sonko-sundberg",
+                "id": 279541
+            },
+            {
+                "name": "dawda-ngum",
+                "id": 964598
+            },
+            {
+                "name": "manneh-alasana",
+                "id": 873084
+            }
+        ],
+        "id": 4762
+    },
+    "congo-republic": {
+        "players": [
+            {
+                "name": "silvere-ganvoula",
+                "id": 787448
+            },
+            {
+                "name": "chandrel-massanga",
+                "id": 1083138
+            },
+            {
+                "name": "makouta-gaius",
+                "id": 847013
+            },
+            {
+                "name": "antoine-makoumbou",
+                "id": 920391
+            },
+            {
+                "name": "messie-biatoumoussoka",
+                "id": 939727
+            },
+            {
+                "name": "morgan-poaty",
+                "id": 850895
+            },
+            {
+                "name": "durel-avounou",
+                "id": 878635
+            },
+            {
+                "name": "gabriel-charpentier",
+                "id": 979043
+            },
+            {
+                "name": "pavelh-ndzila",
+                "id": 155650
+            },
+            {
+                "name": "vieljeux-prestige-mboungou",
+                "id": 923865
+            },
+            {
+                "name": "ravy-tsouka",
+                "id": 787644
+            },
+            {
+                "name": "ryan-bidounga",
+                "id": 869935
+            },
+            {
+                "name": "bryan-passi",
+                "id": 865799
+            },
+            {
+                "name": "deo-bassinga",
+                "id": 1464148
+            },
+            {
+                "name": "raddy-ovouka",
+                "id": 1111213
+            },
+            {
+                "name": "jose-dembi",
+                "id": 864774
+            },
+            {
+                "name": "francis-nzaba",
+                "id": 1158797
+            },
+            {
+                "name": "yann-mabella",
+                "id": 791049
+            },
+            {
+                "name": "varel-joviale-rozan",
+                "id": 923868
+            },
+            {
+                "name": "jordan-massengo",
+                "id": 112821
+            },
+            {
+                "name": "mick-ossete",
+                "id": 1083160
+            },
+            {
+                "name": "beni-makouana",
+                "id": 958865
+            },
+            {
+                "name": "bevic-moussiti-oko",
+                "id": 806520
+            },
+            {
+                "name": "christ-toulouenga",
+                "id": 1469662
+            },
+            {
+                "name": "thievy-bifouma",
+                "id": 148919
+            },
+            {
+                "name": "yhoan-andzouana",
+                "id": 605548
+            },
+            {
+                "name": "mavis-tchibota",
+                "id": 155668
+            },
+            {
+                "name": "nolan-mbemba",
+                "id": 577768
+            },
+            {
+                "name": "guy-mbenza",
+                "id": 979125
+            },
+            {
+                "name": "bradley-mazikou",
+                "id": 840392
+            },
+            {
+                "name": "mons-bassouamina",
+                "id": 942831
+            },
+            {
+                "name": "dylan-saint-louis",
+                "id": 788833
+            },
+            {
+                "name": "fernand-mayembo",
+                "id": 857267
+            },
+            {
+                "name": "julfin-ondongo",
+                "id": 923871
+            },
+            {
+                "name": "chance-mondzenga",
+                "id": 1501900
+            },
+            {
+                "name": "prince-ibara",
+                "id": 948343
+            },
+            {
+                "name": "ramaric-etou",
+                "id": 906734
+            },
+            {
+                "name": "warren-tchimbembe",
+                "id": 940360
+            },
+            {
+                "name": "christoffer-mafoumbi",
+                "id": 319941
+            }
+        ],
+        "id": 8040
+    },
+    "sierra-leone": {
+        "players": [
+            {
+                "name": "abu-komeh",
+                "id": 1481330
+            },
+            {
+                "name": "mustapha-bundu",
+                "id": 849623
+            },
+            {
+                "name": "alhassan-koroma",
+                "id": 990486
+            },
+            {
+                "name": "saidu-bah-kamara",
+                "id": 1169646
+            },
+            {
+                "name": "sullay-kaikai",
+                "id": 536318
+            },
+            {
+                "name": "emmanuel-samadiya",
+                "id": 1089936
+            },
+            {
+                "name": "jonathan-morsay",
+                "id": 837833
+            },
+            {
+                "name": "ibrahim-sesay",
+                "id": 1125155
+            },
+            {
+                "name": "alusine-pagal-koroma",
+                "id": 990497
+            },
+            {
+                "name": "alhaji-kamara",
+                "id": 257329
+            },
+            {
+                "name": "prince-barrie",
+                "id": 1006151
+            },
+            {
+                "name": "amadou-bakayoko",
+                "id": 548704
+            },
+            {
+                "name": "steven-caulker",
+                "id": 73685
+            },
+            {
+                "name": "saidu-fofanah",
+                "id": 1111463
+            },
+            {
+                "name": "kargbo-augustus",
+                "id": 917327
+            },
+            {
+                "name": "musa-kamara",
+                "id": 1006260
+            },
+            {
+                "name": "abu-bakarr-samura",
+                "id": 1119525
+            },
+            {
+                "name": "ron-williams",
+                "id": 1481335
+            },
+            {
+                "name": "mohamed-turay",
+                "id": 793174
+            },
+            {
+                "name": "sallieu-bah",
+                "id": 1539891
+            },
+            {
+                "name": "ibrahim-turay",
+                "id": 1481332
+            },
+            {
+                "name": "john-kamara",
+                "id": 278551
+            },
+            {
+                "name": "kamil-conteh",
+                "id": 1170160
+            },
+            {
+                "name": "osman-kakay",
+                "id": 830485
+            },
+            {
+                "name": "mohamed-kamara",
+                "id": 1006148
+            },
+            {
+                "name": "augustine-williams",
+                "id": 884205
+            },
+            {
+                "name": "alpha-turay",
+                "id": 1501894
+            },
+            {
+                "name": "abu-dumbuya",
+                "id": 1000101
+            },
+            {
+                "name": "alie-sesay",
+                "id": 383132
+            },
+            {
+                "name": "rodney-michael",
+                "id": 1126032
+            }
+        ],
+        "id": 4737
+    },
+    "liberia": {
+        "players": [
+            {
+                "name": "tonia-tisdell",
+                "id": 86995
+            },
+            {
+                "name": "william-jebor",
+                "id": 594834
+            },
+            {
+                "name": "mohammed-sangare",
+                "id": 920720
+            },
+            {
+                "name": "divine-teah",
+                "id": 1147211
+            },
+            {
+                "name": "brem-soumaoro",
+                "id": 592620
+            },
+            {
+                "name": "mohammed-kamara",
+                "id": 884538
+            },
+            {
+                "name": "oscar-dorley",
+                "id": 845721
+            },
+            {
+                "name": "eugene-dennis",
+                "id": 1382116
+            },
+            {
+                "name": "kpah-sherman",
+                "id": 986952
+            },
+            {
+                "name": "sampson-dweh",
+                "id": 1125779
+            },
+            {
+                "name": "nohan-kenneh",
+                "id": 1020747
+            },
+            {
+                "name": "njie-allen",
+                "id": 988647
+            },
+            {
+                "name": "marcus-macauley",
+                "id": 872633
+            },
+            {
+                "name": "prince-balde",
+                "id": 986334
+            },
+            {
+                "name": "mark-gibson",
+                "id": 1580157
+            },
+            {
+                "name": "joachim-adukor",
+                "id": 179151
+            },
+            {
+                "name": "mark-pabai",
+                "id": 963302
+            },
+            {
+                "name": "peter-wilson",
+                "id": 793330
+            },
+            {
+                "name": "justin-salmon",
+                "id": 1049621
+            },
+            {
+                "name": "boison-wynney",
+                "id": 1007859
+            },
+            {
+                "name": "terrence-tisdell",
+                "id": 991035
+            },
+            {
+                "name": "arago-jamal",
+                "id": 299904
+            },
+            {
+                "name": "molley-karpeh",
+                "id": 1201163
+            },
+            {
+                "name": "albert-korvah",
+                "id": 1536754
+            },
+            {
+                "name": "tommy-songo",
+                "id": 990676
+            },
+            {
+                "name": "moussa-sanoh",
+                "id": 227206
+            },
+            {
+                "name": "saah-moses-jr",
+                "id": 1536776
+            }
+        ],
+        "id": 8034
+    },
+    "madagascar": {
+        "players": [
+            {
+                "name": "adrien-melvin",
+                "id": 987181
+            },
+            {
+                "name": "fabien-boyer",
+                "id": 145267
+            },
+            {
+                "name": "razafindraibeharimihanta-nirina",
+                "id": 1119609
+            },
+            {
+                "name": "razakanirina-rakotohasimbola",
+                "id": 1481734
+            },
+            {
+                "name": "njiva-rakotoharimalala",
+                "id": 825043
+            },
+            {
+                "name": "carolus-andria",
+                "id": 880088
+            },
+            {
+                "name": "paulin-voavy",
+                "id": 51618
+            },
+            {
+                "name": "loic-lapoussin",
+                "id": 902987
+            },
+            {
+                "name": "rayan-raveloson",
+                "id": 757742
+            },
+            {
+                "name": "mamy-randrianarisoa",
+                "id": 987056
+            },
+            {
+                "name": "theodin-ramanjary",
+                "id": 1064087
+            },
+            {
+                "name": "marco-ilaimaharitra",
+                "id": 358198
+            },
+            {
+                "name": "jean-sylvio-ouassiero",
+                "id": 842254
+            },
+            {
+                "name": "tantely-randrianiaina",
+                "id": 1218862
+            },
+            {
+                "name": "zotsara-randriambololona",
+                "id": 1111986
+            },
+            {
+                "name": "olivier-tokinantenaina",
+                "id": 1389700
+            },
+            {
+                "name": "tendry-manovo-mataniah",
+                "id": 1390169
+            },
+            {
+                "name": "dorian-bertrand",
+                "id": 941665
+            },
+            {
+                "name": "julio-donisa",
+                "id": 829472
+            },
+            {
+                "name": "tantely-avotraniaina-rabarijaona",
+                "id": 1390167
+            },
+            {
+                "name": "ibrahim-amada",
+                "id": 933000
+            },
+            {
+                "name": "titouan-fortun",
+                "id": 1405936
+            },
+            {
+                "name": "arnaud-randrianantenaina",
+                "id": 1064105
+            },
+            {
+                "name": "tsilavina-fanomezantsoa",
+                "id": 1223756
+            },
+            {
+                "name": "hakim-abdallah",
+                "id": 877614
+            },
+            {
+                "name": "ando-manoelantsoa",
+                "id": 1501375
+            },
+            {
+                "name": "rado-rabemananjara",
+                "id": 1535607
+            },
+            {
+                "name": "rojo-andriamanjato",
+                "id": 1223502
+            },
+            {
+                "name": "romario-baggio",
+                "id": 985906
+            },
+            {
+                "name": "fabrice",
+                "id": 1127068
+            },
+            {
+                "name": "bastien-hery",
+                "id": 340261
+            },
+            {
+                "name": "lalaina-rafanomezantsoa",
+                "id": 1218861
+            },
+            {
+                "name": "romain-metanire",
+                "id": 138005
+            },
+            {
+                "name": "jerome-mombris",
+                "id": 156259
+            },
+            {
+                "name": "solom-raza",
+                "id": 1389703
+            },
+            {
+                "name": "jeremy-morel",
+                "id": 16429
+            },
+            {
+                "name": "kenji-van-boto",
+                "id": 318655
+            },
+            {
+                "name": "jean-razafindrakoto",
+                "id": 1459257
+            },
+            {
+                "name": "jean-martin-rakotonirina",
+                "id": 1389705
+            },
+            {
+                "name": "ando-rakotondrazaka",
+                "id": 985908
+            },
+            {
+                "name": "andrianirina-rajomazandry",
+                "id": 1064106
+            },
+            {
+                "name": "andriamirado-andrianarimanana",
+                "id": 987055
+            },
+            {
+                "name": "tiavina-rakotoarisoa",
+                "id": 1459261
+            }
+        ],
+        "id": 8035
+    },
+    "botswana": {
+        "players": [
+            {
+                "name": "lesenya-malapela",
+                "id": 998536
+            },
+            {
+                "name": "molaodi-tlhalefang",
+                "id": 1411685
+            },
+            {
+                "name": "kabelo-seakanyeng",
+                "id": 944009
+            },
+            {
+                "name": "mbatshi-elias",
+                "id": 1089777
+            },
+            {
+                "name": "tebogo-kopelang",
+                "id": 1219096
+            },
+            {
+                "name": "lebogang-ditsele",
+                "id": 990862
+            },
+            {
+                "name": "mosha-gaolaolwe",
+                "id": 932978
+            },
+            {
+                "name": "kitso-mangolo",
+                "id": 990666
+            },
+            {
+                "name": "mothusi-johnson",
+                "id": 990960
+            },
+            {
+                "name": "gape-mohutsiwa",
+                "id": 932971
+            },
+            {
+                "name": "alford-velaphi",
+                "id": 990480
+            },
+            {
+                "name": "thatayaone-ditlhokwe",
+                "id": 990687
+            },
+            {
+                "name": "thabang-sesinyi",
+                "id": 895139
+            },
+            {
+                "name": "thero-setsile",
+                "id": 990681
+            },
+            {
+                "name": "lemogang-maswena",
+                "id": 1015073
+            },
+            {
+                "name": "tumisang-orebonye",
+                "id": 990661
+            },
+            {
+                "name": "thatayaone-kgamanyane",
+                "id": 944008
+            },
+            {
+                "name": "gofaone-mabaaya",
+                "id": 990613
+            },
+            {
+                "name": "thabang-khuduga",
+                "id": 1501699
+            },
+            {
+                "name": "mothusi-cooper",
+                "id": 990958
+            },
+            {
+                "name": "omaatla-kebatho",
+                "id": 1015045
+            },
+            {
+                "name": "rudolph-mpho-kgaswane",
+                "id": 1015072
+            },
+            {
+                "name": "godiraone-modingwane",
+                "id": 1127442
+            },
+            {
+                "name": "eric-ookame",
+                "id": 1501691
+            },
+            {
+                "name": "goitseone-phoko",
+                "id": 1015009
+            },
+            {
+                "name": "moagi-sechele",
+                "id": 1119589
+            },
+            {
+                "name": "thato-kebue",
+                "id": 990682
+            }
+        ],
+        "id": 4747
+    },
+    "rwanda": {
+        "players": [
+            {
+                "name": "fiacre-ntwari",
+                "id": 1480131
+            },
+            {
+                "name": "olivier-kwizera",
+                "id": 895757
+            },
+            {
+                "name": "olivier-niyonzima",
+                "id": 990983
+            },
+            {
+                "name": "muhadjiri-hakizimana",
+                "id": 990963
+            },
+            {
+                "name": "thierry-manzi",
+                "id": 990679
+            },
+            {
+                "name": "lague-byiringiro",
+                "id": 990860
+            },
+            {
+                "name": "emmanuel-imanishimwe",
+                "id": 990556
+            },
+            {
+                "name": "christian-ishimwe",
+                "id": 1124487
+            },
+            {
+                "name": "isaac-mitima",
+                "id": 1537794
+            },
+            {
+                "name": "gilbert-mugisha",
+                "id": 948369
+            },
+            {
+                "name": "antoine-dominique-ndayishimiye",
+                "id": 1381329
+            },
+            {
+                "name": "antoine-ndayishimiye",
+                "id": 1480134
+            },
+            {
+                "name": "djihad-bizimana",
+                "id": 943252
+            },
+            {
+                "name": "blaise-nishimwe",
+                "id": 1124491
+            },
+            {
+                "name": "abeddy-biramahire",
+                "id": 967230
+            },
+            {
+                "name": "yannick-bizimana",
+                "id": 1089451
+            },
+            {
+                "name": "fred-muhozi",
+                "id": 1170964
+            },
+            {
+                "name": "ange-mutsinzi",
+                "id": 948342
+            },
+            {
+                "name": "innocent-nshuti",
+                "id": 967301
+            },
+            {
+                "name": "bonheur-mugisha",
+                "id": 1170963
+            },
+            {
+                "name": "ramadhan-niyibizi",
+                "id": 1536327
+            },
+            {
+                "name": "djabel-manishimwe",
+                "id": 948360
+            },
+            {
+                "name": "salomon-nirisarike",
+                "id": 797731
+            },
+            {
+                "name": "ally-niyonzima",
+                "id": 990489
+            },
+            {
+                "name": "ali-serumogo",
+                "id": 1480132
+            },
+            {
+                "name": "meddie-kagere",
+                "id": 940024
+            },
+            {
+                "name": "kevin-muhire",
+                "id": 948368
+            },
+            {
+                "name": "york-rafael",
+                "id": 845658
+            },
+            {
+                "name": "ally-serumogo",
+                "id": 1159814
+            },
+            {
+                "name": "bienvenue-mugenzi",
+                "id": 1481327
+            },
+            {
+                "name": "dominique-savio-nshuti",
+                "id": 990549
+            },
+            {
+                "name": "fitina-ombolenga",
+                "id": 990598
+            },
+            {
+                "name": "jean-bosco-ruboneka",
+                "id": 1100286
+            },
+            {
+                "name": "steve-rubanguka",
+                "id": 1089755
+            },
+            {
+                "name": "didier-mugisha",
+                "id": 1501385
+            },
+            {
+                "name": "abdul-rwatubyaye",
+                "id": 948344
+            },
+            {
+                "name": "hakim-sahabo",
+                "id": 1434757
+            },
+            {
+                "name": "hadji-iraguha",
+                "id": 1481329
+            },
+            {
+                "name": "yves-mugunga",
+                "id": 1124488
+            }
+        ],
+        "id": 8037
+    },
+    "ivory-coast": {
+        "players": [
+            {
+                "name": "jean-michael-seri",
+                "id": 305282
+            },
+            {
+                "name": "ibrahim-sangare",
+                "id": 843754
+            },
+            {
+                "name": "serge-aurier",
+                "id": 105697
+            },
+            {
+                "name": "abakar-sylla",
+                "id": 1170197
+            },
+            {
+                "name": "yahia-fofana",
+                "id": 877977
+            },
+            {
+                "name": "sebastien-haller",
+                "id": 149731
+            },
+            {
+                "name": "max-gradel",
+                "id": 16590
+            },
+            {
+                "name": "hassane-kamara",
+                "id": 351434
+            },
+            {
+                "name": "wilfried-kanon",
+                "id": 246251
+            },
+            {
+                "name": "wilfried-zaha",
+                "id": 111850
+            },
+            {
+                "name": "christian-kouame",
+                "id": 812946
+            },
+            {
+                "name": "jean-evrard-kouassi",
+                "id": 156008
+            },
+            {
+                "name": "diomande-ousmane",
+                "id": 1394342
+            },
+            {
+                "name": "idrissa-doumbia",
+                "id": 842255
+            },
+            {
+                "name": "franck-kessie",
+                "id": 359226
+            },
+            {
+                "name": "evan-ndicka",
+                "id": 848287
+            },
+            {
+                "name": "willy-boly",
+                "id": 139310
+            },
+            {
+                "name": "oumar-diakite",
+                "id": 1188191
+            },
+            {
+                "name": "jonathan-bamba",
+                "id": 595576
+            },
+            {
+                "name": "simon-deli",
+                "id": 326419
+            },
+            {
+                "name": "emmanuel-agbadou",
+                "id": 1013842
+            },
+            {
+                "name": "jeremie-boga",
+                "id": 367056
+            },
+            {
+                "name": "badra-ali-sangare",
+                "id": 37024
+            },
+            {
+                "name": "wilfried-singo",
+                "id": 978285
+            },
+            {
+                "name": "maxwel-cornet",
+                "id": 280439
+            },
+            {
+                "name": "simon-adingra",
+                "id": 1110842
+            },
+            {
+                "name": "odilon-kossounou",
+                "id": 973437
+            },
+            {
+                "name": "ghislain-konan",
+                "id": 831781
+            },
+            {
+                "name": "hamed-junior-traore",
+                "id": 892924
+            },
+            {
+                "name": "jean-eudes-aholou",
+                "id": 156004
+            },
+            {
+                "name": "jean-philippe-krasso",
+                "id": 940328
+            },
+            {
+                "name": "karim-konate",
+                "id": 1139103
+            },
+            {
+                "name": "eric-bailly",
+                "id": 606346
+            },
+            {
+                "name": "charles-ayayi",
+                "id": 1416346
+            },
+            {
+                "name": "diallo-amad",
+                "id": 971037
+            },
+            {
+                "name": "jean-philippe-gbamin",
+                "id": 326343
+            },
+            {
+                "name": "ira-eliezer-tape",
+                "id": 985924
+            },
+            {
+                "name": "souleyman-doumbia",
+                "id": 366760
+            },
+            {
+                "name": "kouassi-attohoula",
+                "id": 1183549
+            },
+            {
+                "name": "paul-akouokou",
+                "id": 839309
+            }
+        ],
+        "id": 4768
+    },
+    "guinea": {
+        "players": [
+            {
+                "name": "naby-keita",
+                "id": 365772
+            },
+            {
+                "name": "francois-kamano",
+                "id": 580800
+            },
+            {
+                "name": "ilaix-moriba",
+                "id": 962890
+            },
+            {
+                "name": "morgan-guilavogui",
+                "id": 990743
+            },
+            {
+                "name": "saidou-sow",
+                "id": 1063237
+            },
+            {
+                "name": "mohamed-camara",
+                "id": 881038
+            },
+            {
+                "name": "thierno-barry",
+                "id": 1134635
+            },
+            {
+                "name": "issiaga-sylla",
+                "id": 291695
+            },
+            {
+                "name": "mouctar-diakhaby",
+                "id": 797306
+            },
+            {
+                "name": "morlaye-sylla",
+                "id": 822492
+            },
+            {
+                "name": "serhou-guirassy",
+                "id": 328027
+            },
+            {
+                "name": "aguibou-camara",
+                "id": 906062
+            },
+            {
+                "name": "yakhouba-gnagna-barry",
+                "id": 1099731
+            },
+            {
+                "name": "seydouba-cisse",
+                "id": 906065
+            },
+            {
+                "name": "antoine-conte",
+                "id": 149733
+            },
+            {
+                "name": "ibrahim-kone",
+                "id": 47358
+            },
+            {
+                "name": "ibrahima-cisse",
+                "id": 135641
+            },
+            {
+                "name": "amadou-diawara",
+                "id": 788895
+            },
+            {
+                "name": "bafode-dansoko",
+                "id": 868208
+            },
+            {
+                "name": "jose-kante",
+                "id": 259359
+            },
+            {
+                "name": "kane-mamadou",
+                "id": 1176742
+            },
+            {
+                "name": "mohamed-bayo",
+                "id": 909318
+            },
+            {
+                "name": "yadaly-diaby",
+                "id": 1102099
+            },
+            {
+                "name": "mory-konate",
+                "id": 889927
+            },
+            {
+                "name": "dembo-sylla",
+                "id": 1397569
+            }
+        ],
+        "id": 4826
+    },
+    "equatorial-guinea": {
+        "players": [
+            {
+                "name": "jose-elo",
+                "id": 1429233
+            },
+            {
+                "name": "pedro-obiang",
+                "id": 46799
+            },
+            {
+                "name": "salvador",
+                "id": 259063
+            },
+            {
+                "name": "esteban-orozco",
+                "id": 1006433
+            },
+            {
+                "name": "luis-enrique-nsue",
+                "id": 1138481
+            },
+            {
+                "name": "federico-bikoro",
+                "id": 914161
+            },
+            {
+                "name": "josete-miranda",
+                "id": 990688
+            },
+            {
+                "name": "jesus-owono",
+                "id": 990659
+            },
+            {
+                "name": "ondo-charles",
+                "id": 1416384
+            },
+            {
+                "name": "nestor-senra",
+                "id": 1138478
+            },
+            {
+                "name": "saul-coco",
+                "id": 964466
+            },
+            {
+                "name": "basilio-ndong",
+                "id": 922372
+            },
+            {
+                "name": "santiago-bocari-eneme",
+                "id": 922371
+            },
+            {
+                "name": "carlos-akapo-martinez",
+                "id": 284179
+            },
+            {
+                "name": "marvin-anieboh",
+                "id": 949472
+            },
+            {
+                "name": "luis-asue",
+                "id": 1064103
+            },
+            {
+                "name": "oscar-siafa",
+                "id": 1006161
+            },
+            {
+                "name": "pablo-ganet",
+                "id": 786586
+            },
+            {
+                "name": "emilio-nsue",
+                "id": 30744
+            },
+            {
+                "name": "alex-balboa",
+                "id": 1167698
+            },
+            {
+                "name": "jannick-buyla",
+                "id": 914248
+            },
+            {
+                "name": "salomon-obama",
+                "id": 872877
+            },
+            {
+                "name": "dorian-hanza",
+                "id": 1160222
+            },
+            {
+                "name": "miguel-angel",
+                "id": 1110604
+            },
+            {
+                "name": "noe-ela",
+                "id": 1171516
+            },
+            {
+                "name": "ruben-belima",
+                "id": 331833
+            },
+            {
+                "name": "joanet-lopez",
+                "id": 1006908
+            },
+            {
+                "name": "javier-akapo",
+                "id": 1147360
+            },
+            {
+                "name": "cosme-anvene-ebang-ela",
+                "id": 922365
+            },
+            {
+                "name": "adrian-garrido",
+                "id": 1479065
+            },
+            {
+                "name": "aitor-lora",
+                "id": 1534448
+            }
+        ],
+        "id": 8032
+    },
+    "benin": {
+        "players": [
+            {
+                "name": "jordan-adeoti",
+                "id": 143803
+            },
+            {
+                "name": "junior-olaitan",
+                "id": 1124357
+            },
+            {
+                "name": "steve-mounie",
+                "id": 345035
+            },
+            {
+                "name": "rachid-moumini",
+                "id": 1472764
+            },
+            {
+                "name": "cebio-soukou",
+                "id": 142524
+            },
+            {
+                "name": "jodel-dossou",
+                "id": 333165
+            },
+            {
+                "name": "salim-bawa",
+                "id": 1381783
+            },
+            {
+                "name": "stephane-sessegnon",
+                "id": 16657
+            },
+            {
+                "name": "dokou-dodo",
+                "id": 1424434
+            },
+            {
+                "name": "tosin-aiyegun",
+                "id": 875548
+            },
+            {
+                "name": "olivier-verdon",
+                "id": 889680
+            },
+            {
+                "name": "cedric-hountondji",
+                "id": 342911
+            },
+            {
+                "name": "youssouf-assogba",
+                "id": 1000219
+            },
+            {
+                "name": "saturnin-allagbe",
+                "id": 785438
+            },
+            {
+                "name": "david-kiki",
+                "id": 798307
+            },
+            {
+                "name": "khaled-adenon",
+                "id": 32773
+            },
+            {
+                "name": "prince-ricardo-dossou",
+                "id": 1501064
+            },
+            {
+                "name": "marcellin-koukpo",
+                "id": 967402
+            },
+            {
+                "name": "matteo-ahlinvi",
+                "id": 881952
+            },
+            {
+                "name": "rabiou-sankamao",
+                "id": 1471541
+            },
+            {
+                "name": "david-tchetchao",
+                "id": 1528525
+            },
+            {
+                "name": "mickael-pote",
+                "id": 51557
+            },
+            {
+                "name": "desire-segbe-azankpo",
+                "id": 537852
+            },
+            {
+                "name": "tidjani-anaane",
+                "id": 919044
+            },
+            {
+                "name": "sessi-dalmeida",
+                "id": 369540
+            },
+            {
+                "name": "rodrigue-kossi",
+                "id": 972819
+            },
+            {
+                "name": "melvyn-doremus",
+                "id": 974819
+            },
+            {
+                "name": "hountondji-andreas",
+                "id": 1112796
+            },
+            {
+                "name": "hassane-imourane",
+                "id": 1214772
+            },
+            {
+                "name": "ange-chibozo",
+                "id": 1017539
+            },
+            {
+                "name": "mohamed-tijani",
+                "id": 978474
+            },
+            {
+                "name": "ryan-segon-adigo",
+                "id": 1069249
+            }
+        ],
+        "id": 4744
+    },
+    "namibia": {
+        "players": [
+            {
+                "name": "peter-shalulile",
+                "id": 943962
+            },
+            {
+                "name": "wendell-rudath",
+                "id": 1000354
+            },
+            {
+                "name": "ivan-kamberipa",
+                "id": 985976
+            },
+            {
+                "name": "absalom-limbondi",
+                "id": 985989
+            },
+            {
+                "name": "elmo-kambindu",
+                "id": 1064775
+            },
+            {
+                "name": "kennedy-amutenya",
+                "id": 1127087
+            },
+            {
+                "name": "deon-hotto",
+                "id": 895071
+            },
+            {
+                "name": "ananias-gebhardt",
+                "id": 936206
+            },
+            {
+                "name": "lloyd-junior-kazapua",
+                "id": 943964
+            },
+            {
+                "name": "aprocius-petrus",
+                "id": 1000097
+            },
+            {
+                "name": "stephanus-willy",
+                "id": 933419
+            },
+            {
+                "name": "dynamo-fredericks",
+                "id": 985975
+            },
+            {
+                "name": "denzil-haoseb",
+                "id": 936225
+            },
+            {
+                "name": "prins-menelik-tjiueza",
+                "id": 1103447
+            },
+            {
+                "name": "edmar-ronaldo-kamatuka",
+                "id": 1103456
+            },
+            {
+                "name": "charles-hambira",
+                "id": 943703
+            },
+            {
+                "name": "nyambe-ryan",
+                "id": 793958
+            },
+            {
+                "name": "petrus-shitembi",
+                "id": 985986
+            },
+            {
+                "name": "alfeus-handura",
+                "id": 973129
+            },
+            {
+                "name": "bethuel-muzeu",
+                "id": 1389695
+            },
+            {
+                "name": "riaan-hanamub",
+                "id": 985979
+            },
+            {
+                "name": "ngero-kaanjuka-katua",
+                "id": 1390780
+            },
+            {
+                "name": "joslin-kamatuka",
+                "id": 985988
+            },
+            {
+                "name": "wesley-katjiteo",
+                "id": 985984
+            },
+            {
+                "name": "brendon-neibeb",
+                "id": 1100471
+            },
+            {
+                "name": "marcel-papama",
+                "id": 985982
+            },
+            {
+                "name": "edward-maova",
+                "id": 1014904
+            }
+        ],
+        "id": 4832
+    },
+    "libya": {
+        "players": [
+            {
+                "name": "noureddine-al-gleib",
+                "id": 1116782
+            },
+            {
+                "name": "sobhi-al-mabrouk",
+                "id": 1386547
+            },
+            {
+                "name": "hamdou-elhouni",
+                "id": 805189
+            },
+            {
+                "name": "ahmed-el-trbi",
+                "id": 911426
+            },
+            {
+                "name": "muayid-ellafi",
+                "id": 879982
+            },
+            {
+                "name": "mohammed-al-munir",
+                "id": 212210
+            },
+            {
+                "name": "abdulmuyasser-bousheiba",
+                "id": 1170591
+            },
+            {
+                "name": "abdulsalam-diga",
+                "id": 1008859
+            },
+            {
+                "name": "salah-fakroun",
+                "id": 1008224
+            },
+            {
+                "name": "mouad-ellafi",
+                "id": 1100193
+            },
+            {
+                "name": "husain-taqtaq",
+                "id": 1123932
+            },
+            {
+                "name": "rabie-al-shadi",
+                "id": 1064101
+            },
+            {
+                "name": "mutassim-ellafi",
+                "id": 1118610
+            },
+            {
+                "name": "naji-drah",
+                "id": 1006477
+            },
+            {
+                "name": "saleh-taher",
+                "id": 879991
+            },
+            {
+                "name": "mohammed-al-tarhouni",
+                "id": 1150669
+            },
+            {
+                "name": "aymen-al-tihar",
+                "id": 1123525
+            },
+            {
+                "name": "osama-al-shreimy",
+                "id": 1381393
+            },
+            {
+                "name": "mutassim-boushnaf",
+                "id": 923751
+            },
+            {
+                "name": "mutassim-al-musrati",
+                "id": 868958
+            },
+            {
+                "name": "sanad-al-werfalli",
+                "id": 1591120
+            },
+            {
+                "name": "abdullah-al-sharif",
+                "id": 1008120
+            },
+            {
+                "name": "osama-beleid",
+                "id": 1111933
+            },
+            {
+                "name": "ali-yusuf",
+                "id": 1107439
+            },
+            {
+                "name": "taher-ben-amer",
+                "id": 1098852
+            },
+            {
+                "name": "mohammed-al-touhami",
+                "id": 1099409
+            },
+            {
+                "name": "aboulqasem-rajab",
+                "id": 1111890
+            },
+            {
+                "name": "muayid-jaddour",
+                "id": 1111908
+            },
+            {
+                "name": "mourad-al-wuhayshi",
+                "id": 1107444
+            },
+            {
+                "name": "shamikh-al-obaidi",
+                "id": 1099413
+            },
+            {
+                "name": "ismael-tajouri-shradi",
+                "id": 311370
+            },
+            {
+                "name": "suhaib-ben-suleiman",
+                "id": 906483
+            },
+            {
+                "name": "mouad-issa",
+                "id": 1099411
+            },
+            {
+                "name": "zakaria-al-haraish",
+                "id": 1004539
+            },
+            {
+                "name": "osama-al-sourait",
+                "id": 1161433
+            },
+            {
+                "name": "zeyad-al-elouani",
+                "id": 1008870
+            },
+            {
+                "name": "fadel-salama",
+                "id": 1407648
+            },
+            {
+                "name": "omar-al-khoja",
+                "id": 1111820
+            },
+            {
+                "name": "mohammed-al-ghoneimy",
+                "id": 1111813
+            },
+            {
+                "name": "mohammed-soula",
+                "id": 879980
+            },
+            {
+                "name": "mahmoud-al-shalui",
+                "id": 1111922
+            },
+            {
+                "name": "aboubakr-bouagila",
+                "id": 1006502
+            },
+            {
+                "name": "talal-farhat",
+                "id": 1015138
+            },
+            {
+                "name": "fahad-al-mesmari",
+                "id": 1180592
+            },
+            {
+                "name": "mahmoud-ben-wali",
+                "id": 879972
+            },
+            {
+                "name": "muftah-taqtaq",
+                "id": 911424
+            }
+        ],
+        "id": 4775
+    },
+    "lesotho": {
+        "players": [
+            {
+                "name": "mohlomi-makhetha",
+                "id": 1481741
+            },
+            {
+                "name": "thabo-lesaoana",
+                "id": 1090115
+            },
+            {
+                "name": "neo-mokhachane",
+                "id": 1006257
+            },
+            {
+                "name": "retselisitsoe-mopeli",
+                "id": 1480104
+            },
+            {
+                "name": "basia-makepe",
+                "id": 990508
+            },
+            {
+                "name": "tsepang-sefali",
+                "id": 1218851
+            },
+            {
+                "name": "sera-motebang",
+                "id": 990890
+            },
+            {
+                "name": "kopano-tseka",
+                "id": 990858
+            },
+            {
+                "name": "nkoto-masoabi",
+                "id": 990981
+            },
+            {
+                "name": "motlomelo-mkwanazi",
+                "id": 994639
+            },
+            {
+                "name": "sekhoane-moerane",
+                "id": 1006156
+            },
+            {
+                "name": "tshwarelo-bereng",
+                "id": 894855
+            },
+            {
+                "name": "jane-thaba-ntso",
+                "id": 990647
+            },
+            {
+                "name": "tsepo-toloane",
+                "id": 990667
+            },
+            {
+                "name": "thabo-mafatle",
+                "id": 1480103
+            },
+            {
+                "name": "katleho-makateng",
+                "id": 1218848
+            },
+            {
+                "name": "lemohang-lintsa",
+                "id": 1387906
+            },
+            {
+                "name": "khubetsoana-kamela",
+                "id": 1537506
+            },
+            {
+                "name": "thabo-matsoele",
+                "id": 1006788
+            },
+            {
+                "name": "teboho-letsema",
+                "id": 1536767
+            },
+            {
+                "name": "rethabile-mokokoana",
+                "id": 1006255
+            },
+            {
+                "name": "rethabile-senkoto",
+                "id": 1381470
+            },
+            {
+                "name": "thabang-malane",
+                "id": 1090114
+            },
+            {
+                "name": "tsiame-ramabele",
+                "id": 1480101
+            },
+            {
+                "name": "rethabile-rasethuntsa",
+                "id": 994637
+            },
+            {
+                "name": "lehlohonolo-fothoane",
+                "id": 994638
+            },
+            {
+                "name": "lisema-lebokollane",
+                "id": 994636
+            },
+            {
+                "name": "lesia-thetsane",
+                "id": 990671
+            },
+            {
+                "name": "lepheane-mofolo",
+                "id": 1536800
+            },
+            {
+                "name": "lebesa-lebesa",
+                "id": 1536802
+            }
+        ],
+        "id": 8033
+    },
+    "sudan": {
+        "players": [
+            {
+                "name": "mohamed-abdelrahman",
+                "id": 880019
+            },
+            {
+                "name": "mohamed-alhaj-komi",
+                "id": 1169809
+            },
+            {
+                "name": "altayeb-abdalla",
+                "id": 1104673
+            },
+            {
+                "name": "mohamed-abuaagla",
+                "id": 880502
+            },
+            {
+                "name": "ahmed-hamed-mahmoud",
+                "id": 1083676
+            },
+            {
+                "name": "hamza-dawood",
+                "id": 1014941
+            },
+            {
+                "name": "mohamed-saeed",
+                "id": 1103012
+            },
+            {
+                "name": "waleed-hamid",
+                "id": 1000824
+            },
+            {
+                "name": "monged-abuzaid",
+                "id": 880511
+            },
+            {
+                "name": "al-gozoli-nooh",
+                "id": 1104515
+            },
+            {
+                "name": "salaheldin-nemer",
+                "id": 880515
+            },
+            {
+                "name": "mohamed-mustafa",
+                "id": 1106361
+            },
+            {
+                "name": "bakhit-khamis",
+                "id": 880024
+            },
+            {
+                "name": "athar-eltahir",
+                "id": 880018
+            },
+            {
+                "name": "mustafa-elfadni",
+                "id": 1021156
+            },
+            {
+                "name": "abdelrazig-omer",
+                "id": 1017196
+            },
+            {
+                "name": "mohamed-al-rasheed",
+                "id": 1009584
+            },
+            {
+                "name": "yasir-mozamil",
+                "id": 990622
+            },
+            {
+                "name": "ammar-taifour",
+                "id": 1012602
+            },
+            {
+                "name": "muataz-hashem",
+                "id": 1481803
+            },
+            {
+                "name": "mustafa-karshoum",
+                "id": 990965
+            },
+            {
+                "name": "sharaf-eldin-shaiboub-ali",
+                "id": 880039
+            },
+            {
+                "name": "sofian-abdalla-osman",
+                "id": 1482809
+            },
+            {
+                "name": "wasel-al-fateh",
+                "id": 1481804
+            },
+            {
+                "name": "osman-mokhtar",
+                "id": 1182202
+            },
+            {
+                "name": "mazin-mohamedein",
+                "id": 1021134
+            },
+            {
+                "name": "dhiya-mahjoub",
+                "id": 1089786
+            },
+            {
+                "name": "siddig-gahdia",
+                "id": 1197671
+            },
+            {
+                "name": "mogtaby-faisal",
+                "id": 1536794
+            },
+            {
+                "name": "mohamed-abdelgader",
+                "id": 1174767
+            },
+            {
+                "name": "ramadan-agab",
+                "id": 880042
+            },
+            {
+                "name": "walieldin-khidir",
+                "id": 990652
+            },
+            {
+                "name": "saif-thierry",
+                "id": 1457866
+            },
+            {
+                "name": "salaheldin-adil",
+                "id": 990898
+            },
+            {
+                "name": "emad-ali",
+                "id": 1169806
+            },
+            {
+                "name": "awad-zayed",
+                "id": 1169803
+            }
+        ],
+        "id": 4734
+    },
+    "niger": {
+        "players": [
+            {
+                "name": "ali-mohamed",
+                "id": 856468
+            },
+            {
+                "name": "kassaly-daouda",
+                "id": 215180
+            },
+            {
+                "name": "issa-djibrilla",
+                "id": 1089932
+            },
+            {
+                "name": "ousmane-diabate",
+                "id": 918910
+            },
+            {
+                "name": "youssouf-oumarou",
+                "id": 1089931
+            },
+            {
+                "name": "philippe-boueye",
+                "id": 1049186
+            },
+            {
+                "name": "boubacar-goumey",
+                "id": 1097133
+            },
+            {
+                "name": "boubacar-abdoul-magid",
+                "id": 1083134
+            },
+            {
+                "name": "daniel-sosah",
+                "id": 1130110
+            },
+            {
+                "name": "amadou-sabo",
+                "id": 1006693
+            },
+            {
+                "name": "amadou-moutari",
+                "id": 218816
+            },
+            {
+                "name": "abdel-rahim-alhassane",
+                "id": 1120504
+            },
+            {
+                "name": "amadou-wonkoye",
+                "id": 794138
+            },
+            {
+                "name": "salim-abubakar",
+                "id": 1020900
+            },
+            {
+                "name": "karim-doudou",
+                "id": 892167
+            },
+            {
+                "name": "razak-seyni",
+                "id": 1006687
+            },
+            {
+                "name": "ousseni-badamassi",
+                "id": 1099412
+            },
+            {
+                "name": "abdoul-aziz-ibrahim",
+                "id": 1099390
+            },
+            {
+                "name": "abdoul-soumana",
+                "id": 1423940
+            },
+            {
+                "name": "boubacar-hainikoye",
+                "id": 973861
+            },
+            {
+                "name": "victorien-adebayor",
+                "id": 948741
+            },
+            {
+                "name": "abdoul-garba",
+                "id": 1000131
+            },
+            {
+                "name": "yac-diori",
+                "id": 899961
+            },
+            {
+                "name": "zakaryia-souleymane",
+                "id": 1000164
+            },
+            {
+                "name": "mahamadou-djibo",
+                "id": 1423905
+            },
+            {
+                "name": "kairou-amoustapha",
+                "id": 905503
+            },
+            {
+                "name": "adamou-ibrahim-djibo",
+                "id": 1097132
+            },
+            {
+                "name": "najeeb-yakubu",
+                "id": 905160
+            },
+            {
+                "name": "abdoulaye-boureima-katkore",
+                "id": 1000111
+            },
+            {
+                "name": "zakari-junior-lambo",
+                "id": 1124215
+            },
+            {
+                "name": "ibrahim-boubacar",
+                "id": 905511
+            },
+            {
+                "name": "abdoul-moumouni",
+                "id": 1096576
+            },
+            {
+                "name": "naim-van-attenhoven",
+                "id": 1110713
+            },
+            {
+                "name": "bachibou-koita",
+                "id": 579726
+            },
+            {
+                "name": "hassane-adamou-amadou",
+                "id": 1020449
+            },
+            {
+                "name": "abdoul-salam-boulhassane",
+                "id": 1160020
+            },
+            {
+                "name": "mahamane-cisse",
+                "id": 871710
+            }
+        ],
+        "id": 8031
+    },
+    "uganda": {
+        "players": [
+            {
+                "name": "aziz-kayondo",
+                "id": 1097124
+            },
+            {
+                "name": "timothy-awany",
+                "id": 866166
+            },
+            {
+                "name": "khalid-aucho",
+                "id": 866162
+            },
+            {
+                "name": "charles-lukwago",
+                "id": 933081
+            },
+            {
+                "name": "salim-jamal-magoola",
+                "id": 880510
+            },
+            {
+                "name": "livingstone-mulondo",
+                "id": 1150197
+            },
+            {
+                "name": "fahad-bayo",
+                "id": 1006193
+            },
+            {
+                "name": "milton-karisa",
+                "id": 897946
+            },
+            {
+                "name": "farouk-miya",
+                "id": 825019
+            },
+            {
+                "name": "rogers-mato-kassim",
+                "id": 1172367
+            },
+            {
+                "name": "richard-basangwa",
+                "id": 1103351
+            },
+            {
+                "name": "allan-kyambadde",
+                "id": 911521
+            },
+            {
+                "name": "byaruhanga-bobosi",
+                "id": 1097159
+            },
+            {
+                "name": "isma-mugulusi",
+                "id": 1103347
+            },
+            {
+                "name": "halid-lwaliwa",
+                "id": 1006194
+            },
+            {
+                "name": "joseph-ochaya",
+                "id": 866158
+            },
+            {
+                "name": "elvis-bwomono",
+                "id": 892082
+            },
+            {
+                "name": "travis-mutyaba",
+                "id": 1172369
+            },
+            {
+                "name": "derrick-kakooza",
+                "id": 1103354
+            },
+            {
+                "name": "muhammad-shaban",
+                "id": 866167
+            },
+            {
+                "name": "waiswa-moses",
+                "id": 876581
+            },
+            {
+                "name": "siraje-sentamu",
+                "id": 1457614
+            },
+            {
+                "name": "kenneth-semakula",
+                "id": 1103343
+            },
+            {
+                "name": "bevis-mugabi",
+                "id": 845899
+            },
+            {
+                "name": "allan-okello",
+                "id": 933067
+            },
+            {
+                "name": "okwi-emmanuel",
+                "id": 987037
+            },
+            {
+                "name": "martin-kizza",
+                "id": 1159762
+            },
+            {
+                "name": "marvin-youngman",
+                "id": 1197146
+            },
+            {
+                "name": "hakim-kiwanuka",
+                "id": 1381777
+            },
+            {
+                "name": "gavin-kizito",
+                "id": 1103335
+            },
+            {
+                "name": "steven-sserwadda",
+                "id": 933069
+            },
+            {
+                "name": "fred-gift",
+                "id": 1457623
+            },
+            {
+                "name": "isaac-muleme",
+                "id": 907333
+            },
+            {
+                "name": "steven-mukwala",
+                "id": 1124751
+            },
+            {
+                "name": "taddeo-lwanga",
+                "id": 922747
+            },
+            {
+                "name": "tibiita-laban",
+                "id": 1534934
+            }
+        ],
+        "id": 4726
+    },
+    "south-sudan": {
+        "players": [
+            {
+                "name": "valentino-yuel",
+                "id": 991165
+            },
+            {
+                "name": "tito-okello",
+                "id": 929445
+            },
+            {
+                "name": "peter-makoi",
+                "id": 1480144
+            },
+            {
+                "name": "chol-daniel",
+                "id": 990528
+            },
+            {
+                "name": "ajak-riak",
+                "id": 1386205
+            },
+            {
+                "name": "rashid-toha",
+                "id": 1381253
+            },
+            {
+                "name": "machop-chol",
+                "id": 1102629
+            },
+            {
+                "name": "geriga-atendele",
+                "id": 1381247
+            },
+            {
+                "name": "jackson-dwang",
+                "id": 1535688
+            },
+            {
+                "name": "mario-albano",
+                "id": 1500936
+            },
+            {
+                "name": "ramadan-diing",
+                "id": 990854
+            },
+            {
+                "name": "wani-ivan-adebo",
+                "id": 1089731
+            },
+            {
+                "name": "william-akio",
+                "id": 1120065
+            },
+            {
+                "name": "nevelo-yoseke",
+                "id": 358820
+            },
+            {
+                "name": "paul-mara",
+                "id": 1471460
+            },
+            {
+                "name": "agwa-okuot-obiech",
+                "id": 1064319
+            },
+            {
+                "name": "francis-odong",
+                "id": 1481749
+            },
+            {
+                "name": "jak-rek",
+                "id": 1480147
+            },
+            {
+                "name": "jackson-morgan",
+                "id": 1006024
+            },
+            {
+                "name": "data-elly",
+                "id": 1480148
+            },
+            {
+                "name": "manny-achol",
+                "id": 1089730
+            },
+            {
+                "name": "atende-lokosang",
+                "id": 1480143
+            },
+            {
+                "name": "emmanuel-loki",
+                "id": 1381237
+            },
+            {
+                "name": "david-chan",
+                "id": 1119544
+            },
+            {
+                "name": "david-omot-sebit",
+                "id": 1119552
+            },
+            {
+                "name": "samuel-malis",
+                "id": 1481750
+            },
+            {
+                "name": "joseph-malish-manase",
+                "id": 1381249
+            },
+            {
+                "name": "peter-maker-manyang",
+                "id": 1006008
+            },
+            {
+                "name": "majak-mawith",
+                "id": 944484
+            },
+            {
+                "name": "bernard-agele",
+                "id": 1381232
+            },
+            {
+                "name": "kenyi-wani",
+                "id": 1471434
+            },
+            {
+                "name": "joseph-dhata",
+                "id": 1481747
+            },
+            {
+                "name": "innocent-paul",
+                "id": 1536969
+            },
+            {
+                "name": "stephen-pawaar-lony",
+                "id": 1119626
+            },
+            {
+                "name": "william-gama",
+                "id": 1381230
+            },
+            {
+                "name": "ramadan-mayek",
+                "id": 1500932
+            },
+            {
+                "name": "rehan-angier",
+                "id": 1089732
+            },
+            {
+                "name": "mutwakil-abdulkarim",
+                "id": 1006013
+            },
+            {
+                "name": "wani-peter",
+                "id": 1480146
+            }
+        ],
+        "id": 88508
+    },
+    "sao-tome-and-principe": {
+        "players": [
+            {
+                "name": "luis-leal",
+                "id": 128464
+            },
+            {
+                "name": "dadigildo-portulez",
+                "id": 1382460
+            },
+            {
+                "name": "albertino-chum",
+                "id": 1500980
+            },
+            {
+                "name": "ricardo-fernandes",
+                "id": 1090664
+            },
+            {
+                "name": "luis-selemane",
+                "id": 1382451
+            },
+            {
+                "name": "adjeil-neves",
+                "id": 1091168
+            },
+            {
+                "name": "valter-rocha",
+                "id": 1382383
+            },
+            {
+                "name": "harramiz",
+                "id": 343591
+            },
+            {
+                "name": "adjakson-ramos",
+                "id": 1481331
+            },
+            {
+                "name": "marcos-barbeiro",
+                "id": 583490
+            },
+            {
+                "name": "ronaldo-afonso",
+                "id": 1480138
+            },
+            {
+                "name": "rogerio-fernandes",
+                "id": 1089047
+            },
+            {
+                "name": "luiz-adroir",
+                "id": 1480136
+            },
+            {
+                "name": "aderito-mata",
+                "id": 1090390
+            },
+            {
+                "name": "denilson-silva",
+                "id": 1500981
+            },
+            {
+                "name": "edmilson-viegas",
+                "id": 1089976
+            },
+            {
+                "name": "gilmar-tavinho",
+                "id": 1006846
+            },
+            {
+                "name": "leonildo-soares",
+                "id": 1006844
+            },
+            {
+                "name": "eduardo-varela",
+                "id": 1006854
+            },
+            {
+                "name": "mauro-santos",
+                "id": 1089978
+            },
+            {
+                "name": "kelve-semedo",
+                "id": 1481333
+            },
+            {
+                "name": "joazhifel-soares",
+                "id": 1006852
+            },
+            {
+                "name": "lucio-oliveira-pires",
+                "id": 1006842
+            },
+            {
+                "name": "ivonaldo-viegas",
+                "id": 1006840
+            },
+            {
+                "name": "elias-varela",
+                "id": 1119554
+            },
+            {
+                "name": "joel-neves",
+                "id": 1089975
+            },
+            {
+                "name": "eba-viegas",
+                "id": 1110221
+            },
+            {
+                "name": "aldair",
+                "id": 1382378
+            },
+            {
+                "name": "gue",
+                "id": 1110228
+            },
+            {
+                "name": "anastacio-braganca",
+                "id": 1382380
+            },
+            {
+                "name": "jardel-nazare",
+                "id": 1006841
+            },
+            {
+                "name": "nilton-pequeno",
+                "id": 1111629
+            },
+            {
+                "name": "ronaldo-silva",
+                "id": 1536821
+            },
+            {
+                "name": "tinho",
+                "id": 1089980
+            }
+        ],
+        "id": 33813
+    }
+}

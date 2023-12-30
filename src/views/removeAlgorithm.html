@@ -8,11 +8,11 @@
     <title>Remove Algorithms</title>
 </head>
 <body>
-    <div class="col-8" id="left">
+    <div class="col-4" id="left">
         <ul class="algorithms list-unstyled mb-0 mt-2">
         </ul>
     </div>
-    <div class="col-4 confirmation_section" id="right">
+    <div class="col-8 confirmation_section" id="right">
         <div class="d-flex descriptions">
                 <div class="card">
                     <div class="card-body">
@@ -24,11 +24,7 @@
 
     <script>    
         const {ipcRenderer} = require('electron');
-
-        ipcRenderer.on('new-data-from-database-removed',(event,algorithms)=>
-        {
-            createAlgorithms(algorithms);
-        })
+        let algorithm
 
         ipcRenderer.on('create-algorithm-list', (event,args)=>
         {
@@ -37,6 +33,7 @@
         
         function createAlgorithms(algorithms) 
     {
+        algorithm =algorithms
     var algorithm_lis =''
     algorithms.forEach((c)=>
     {
@@ -50,13 +47,13 @@
     document.querySelector('.algorithms').innerHTML=algorithm_lis;
     }//create algorithms section
 
-        function removeConfirmation (id)
+        function removeConfirmation(id)
         {
             var description_lis =`<div class="d-flex descriptions">
                     <div class="w-75">
                         <div class="card">
                             <div class="card-body">
-                              Are you sure about this desicion? Once you clik on the bottom the action its irreversible.
+                              You will delete ${algorithm[id]['name']}, are you sure about this desicion? Once you clik on the bottom the action its irreversible.
                             </div>
                         </div>
                     </div>
@@ -66,7 +63,11 @@
 
     function removeAlgorithm(id)
     {
-        ipcRenderer.send('remove-algorithm-request',id);
+        var result = window.confirm("Are you really sure about that?")
+        if (result === true)
+        {
+            ipcRenderer.send('remove-algorithm-request',id)
+        }
     }
 </script>
 </body>
