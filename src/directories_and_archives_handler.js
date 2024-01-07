@@ -14,7 +14,7 @@ async function createArchive(name,direction,data)
 {
     const pathToFile = path.join(direction, name+".json");
     await fs.writeFile(pathToFile, JSON.stringify(data));
-}
+}// function to create json archives
 
 async function chargeFiles(type)
 {
@@ -37,14 +37,14 @@ async function chargeFiles(type)
      {
         console.log("error "+ e)
      }
-}
+}// function to get result or config files
 
 async function opneFile( rute)
 {
     const dataJson = await fs.readFile(rute);
     const data = JSON.parse(dataJson);
     return data;
-}
+}// function to charhe a reusult or config archives
 
 module.exports =
 {

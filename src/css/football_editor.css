@@ -45,63 +45,6 @@
     margin-top: 12px;
 }
 
-.search_section img.avatar{
-    width: 50px;
-    height: 50px;
-}
-
-.results img.avatar{
-    width: 1200px;
-    height: 900px;
-}
-
-.descriptions img.bracket
-{
-    width: 1200px;
-    height: 900px;
-}
-
-.searcher {
-    position: absolute;
-    display: flex;
-    padding: 15px;
-}
-
-.searcher input {
-    width: 0px;
-    height: 40px;
-    padding: 0 10px;
-    font-size: 18px;
-    color: black;
-    outline: none;
-    border: 1px silver;
-    border-radius: 30px;
-    transition: all 0.6s ease;
-}
-
-.searcher .mybutton{
-    position: absolute;
-    top: 15;
-    right: 0;
-    background-color: rgb(177, 175, 175);
-    width: 50pdx;
-    height: 42px;
-    line-height: 30px;
-    text-align: center;
-    color: white;
-    font-size: 20px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.searcher:hover input{
-    width: 280px;
-}
-
-.searcher input:focus{
-    width: 280px;
-}
-
 
 .modalities .btn-primary{
     margin-right: 4px;
@@ -134,37 +77,6 @@
     justify-content: center;
     display: flex;
     background-color: #b3b2b2;
-}
-
-div#contenedor{
-    width: -moz-fit-content;
-    width: fit-content;
-    background-color: lightskyblue; 
-}
-
-div#contenedor .card
-{
-    background-color: lightskyblue;
-    border: lightskyblue;
-}
-
-.player input{
-    appearance: none;
-    background-color: #C3C3C3;
-    border:2px solid #C3C3C3;
-    width:15px;
-    height: 15px;
-    border-radius:7px;
-    outline-style: none;
-}
-
-.player input:checked{
-    background-color: #8F8F8F;
-}
-
-.player input[type="radio"]
-{
-    border-radius: 7px;
 }
 
 .selector select option:hover{
@@ -234,13 +146,52 @@ div#contenedor .card
     background-color: silver;
 }
 
-.results{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: larger;
-    color: black;
+.container{
+    position: relative;
+    text-align: center;
 }
 
-.results img.avatar{
-    width: 1090px;
-    height: 1000px;
+.switch
+{
+    position: relative;
+    display: inline-block;
+    width: 90px;
+    height: 40px;
+    margin: 0 10px;
 }
+
+.slider
+{
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+    border-radius: 24px;
+}
+.switch input {display: none;}
+
+.slider::before{
+    position: absolute;
+    content: '';
+    height: 30px;
+    width: 30px;
+    left: 5px;
+    bottom: 5px;
+    background-color: white;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+
+input:checked + .slider{
+    background-color: #200;
+}
+
+input:checked +.slider::before
+{
+    transform: translateX(50px);
+}
+

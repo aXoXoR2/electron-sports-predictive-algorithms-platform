@@ -2,6 +2,7 @@ const fs = require('fs/promises');
 const path = require('path');
 const { stringify } = require('querystring');
 const {spawnSync} = require("child_process");
+const { request } = require('http');
 
 let algorithms;
 let descriptions;
@@ -9,7 +10,7 @@ let modalities
 
 async function chargeModalities()
 {
-    const modalities = await readJson(path.join(__dirname,"./algorithms_modalities.json"));
+    modalities = await readJson(path.join(__dirname,"./algorithms_modalities.json"));
     return modalities
 } // function that charge algorithm modalitie
 
@@ -29,11 +30,13 @@ async function readJson(rute)
     return data;
 }// tool for read json
 
-async function modalitieSelection(modalitie,data)
+async function modalitieSelection(modalitie,data,id)
 {
+    await chargeData()
     const algorithmSelection = await readJson(path.join(__dirname,"./algorithm_selection.json"));
     algorithmSelection['modalitie'] = modalitie.toString();
     algorithmSelection["data"] = data
+    algorithmSelection['algorithm'] = algorithms[id]["name"]
     await fs.writeFile(path.join(__dirname,"./algorithm_selection.json"),JSON.stringify(algorithmSelection));
     return 
 }// change configuration parameters for algorithm execution
@@ -64,7 +67,7 @@ async function algorithmSelectionJson(id)
     return 
 }// here it's saved the algorithm selection
 
-async function addAlgorithm(name,lenguage,brief_description,about,Inputs_and_Outputs)
+async function addAlgorithm(name,lenguage,brief_description,about,Inputs_and_Outputs,Modalities) 
 {
     await chargeData()
     algorithms.push(
@@ -82,8 +85,17 @@ async function addAlgorithm(name,lenguage,brief_description,about,Inputs_and_Out
             'Inputs_and_Outputs': Inputs_and_Outputs
         }
     );
+    let modalitie = Modalities.split(',')
+    
+    modalities.push(
+        {
+            'id':modalities.length.toString(),
+            'modalities': modalitie
+        }
+    )
     await fs.writeFile(path.join(__dirname,"./algorithms.json"),JSON.stringify(algorithms));
     await fs.writeFile(path.join(__dirname,"./descriptions.json"),JSON.stringify(descriptions));
+    await fs.writeFile(path.join(__dirname,"./algorithms_modalities.json"),JSON.stringify(modalities));
 }// function to add algortihm to the database
 
 async function removeAlgorithm(id)
@@ -99,9 +111,10 @@ async function removeAlgorithm(id)
     }
     await fs.writeFile(path.join(__dirname,"./algorithms.json"),JSON.stringify(algorithms));
     await fs.writeFile(path.join(__dirname,"./descriptions.json"),JSON.stringify(descriptions));
+    await await fs.writeFile(path.join(__dirname,"./algorithms_modalities.json"),JSON.stringify(modalities));
 }// function to remove algorithm from database
 
-async function editAlgorithm(id,name,lenguage,brief_description,about,Inputs_and_Outputs)
+async function editAlgorithm(id,name,lenguage,brief_description,about,Inputs_and_Outputs,Modalities)
 {
     await chargeData()
 
@@ -114,8 +127,13 @@ async function editAlgorithm(id,name,lenguage,brief_description,about,Inputs_and
     descriptions[id]['about'] = about,
     descriptions[id]['Inputs_and_Outputs']= Inputs_and_Outputs
 
+    let modalitie = Modalities.split(',')
+    
+    modalities[id]["modalities"] = modalitie
+
     await fs.writeFile(path.join(__dirname,"./algorithms.json"),JSON.stringify(algorithms));
     await fs.writeFile(path.join(__dirname,"./descriptions.json"),JSON.stringify(descriptions));
+    await fs.writeFile(path.join(__dirname,"./algorithms_modalities.json"),JSON.stringify(modalities));
 }// function to edit algorithms
 
 async function checkDb()
@@ -130,9 +148,25 @@ async function checkDb()
         descriptions.pop();
     }
 }
-async function convertData()
+async function convertData(id)
 {
-    const pythonProcess = await spawnSync('python',['src/db/data_converter.py','json_to_csv']); 
+    algorithm_name = ""
+    await chargeData()
+    
+    for(var i=0; i<algorithms.length; i)
+    {
+        if (algorithms[i].id == id)
+        {
+            algorithm_name = algorithms[i].name
+            break 
+        }
+    }
+    if(algorithm_name == "football-simulator-qatar-2022")
+    {
+        const conversion = await spawnSync('python',['src/db/data_converter.py','json_to_csv']);
+        const images = await spawnSync('python',['src/db/data_converter.py','create_images']);
+    } 
+    
 }// request for convert data to csv and after to imagees
 
 async function chargeDataOfModalitie(id)
@@ -149,102 +183,127 @@ async function chargeDataOfModalitie(id)
             break 
         }
     }
-    root_dir = ""
-    splited_direction = __dirname.split('\\')
-    
-    for ( var i = 0; i < splited_direction.length; i++)
-    {
-        if (splited_direction[i] == "src")
-        {
-            break
-        }
-        root_dir = root_dir +splited_direction[i] +"/"
-    }
-    
     if(algorithm_name == "football-simulator-qatar-2022")
     {
+        edit = {}
         let lineups= {}
         let players = {}
-        const tournaments = await readJson(path.join(root_dir,"src/db/scrapper/tournaments_urls_and_local_locations.json"));
-        for (var i =0 ; i < tournaments.length ; i ++)
+        let buffer
+        let result_parsed
+
+        try 
         {
-            try {
-            var region_lineups= await readJson(path.join(root_dir,"src/db/scrapper/"+tournaments[i].name+"_lineups.json"))
-            var region_players = await readJson(path.join(root_dir,"src/db/scrapper/"+tournaments[i].name+"_players.json"))
-            lineups[tournaments[i].name]=region_lineups
-            players[tournaments[i].name]=region_players
+            edit["request"] = "get_data"
+            edit["type"] = "lineups"
+            await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
+            var pythonProcess= await spawnSync('python',['src/db/scrapper/handler_scrapper.py', "request_handler",'src/db/edit_parameters.json','src/db/edit_results.json']);
+            
+            result = pythonProcess.stdout?.toString()?.trim();
+            error = pythonProcess.stderr?.toString()?.trim();  
+        
+            let status = result === 'OK';
+            
+            if(status)
+            {
+                buffer = await fs.readFile("src/db/edit_results.json");
+                result_parsed = JSON.parse(buffer);
             }
-            catch{
-                lineups[tournaments[i].name]=[]
-                players[tournaments[i].name]=[]
+            else 
+            {
+                console.log(error);
+                return "Server Error";
             }
-        }    
+            
+            lineups=result_parsed
+
+            edit = {}
+            edit["request"] = "get_data"
+            edit["type"] = "players"
+            await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
+            var pythonProcess = await spawnSync('python',['src/db/scrapper/handler_scrapper.py', "request_handler",'src/db/edit_parameters.json','src/db/edit_results.json']);
+            
+            result = pythonProcess.stdout?.toString()?.trim();
+            error = pythonProcess.stderr?.toString()?.trim();  
+        
+            status = result === 'OK';
+            
+            if(status)
+            {
+                buffer = await fs.readFile("src/db/edit_results.json");
+                result_parsed = JSON.parse(buffer);
+            }
+            else 
+            {
+                console.log(error);
+                return "Server Error";
+            }
+            
+            players=result_parsed       
+        }
+        catch
+        {
+            console.log("Error reading data from scrapper")
+        }  
         data["players"]=players
         data["lineups"]=lineups
     }
+
     return data
 }//Is a function that depends of algorithm type. Charge the necesary data for the algorithm modalities
 // It send a request to the api of the algorithm
 
-async function editData( id , data) 
+async function editData(id , data) 
 {
     let pythonProcess
     name_algorithm = algorithms[id]["name"]
 
     if (name_algorithm == "football-simulator-qatar-2022")
     {
+        let edit = await readJson(path.join(__dirname,"./edit_parameters.json"));
+        edit = {}
         if (data[0]== "lineup")
         {
-            let edit = await readJson(path.join(__dirname,"./edit_parameters.json"));
-            edit = {}
+            if(!data[2])
+            {
+                edit["request"] = "last_lineup"
+                edit["team_name"] = data[1]
+            }
+            else{
+                edit["request"] = "edit_lineup"
             edit["team_name"] = data[1]
             edit ["new_lineup"] = data[2]
-            await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
-
-            pythonProcess = spawnSync('python',['src/db/scrapper/scrapper.py','edit_lineup','src/db/edit_parameters.json','src/db/edit_results.json']);   
-            return await chargeDataOfModalitie(id) 
+            }
         }
         else
         {
             if(data[0] == "player")
             {
-                let edit = await readJson(path.join(__dirname,"./edit_parameters.json"));
-                edit = {}
+                edit["request"] = "add_player"
                 edit["player_id"] = data[1]
                 edit["player_name"] = data[2]
-                await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
-                pythonProcess =  spawnSync('python',['src/db/scrapper/scrapper.py','add_player','src/db/edit_parameters.json','src/db/edit_results.json']);
-                return await chargeDataOfModalitie(id) 
             }
             else
             {
                 if (data[0]== "scrap_team")
                 {
-                    let edit = await readJson(path.join(__dirname,"./edit_parameters.json"));
-                    edit = {}
+                    edit["request"] = "scrap_team"
                     edit["team_name"] = data[1]
                     edit["option"] =data[2]
-                    await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
-                
-                    pythonProcess =  spawnSync('python',['src/db/scrapper/scrapper.py','scrap_team','src/db/edit_parameters.json','src/db/edit_results.json']);
-                    return await chargeDataOfModalitie(id) 
                 }
                 else
                 {
                     if(data[0]=="scrap_region")
                     {
-                    let edit = await readJson(path.join(__dirname,"./edit_parameters.json"));
-                    edit = {}
+                    edit["request"] = "scrap_region"
                     edit["region_name"] = data[1]
-                    await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
-                
-                    pythonProcess =  spawnSync('python',['src/db/scrapper/scrapper.py','scrap_region','src/db/edit_parameters.json','src/db/edit_results.json']);
-                    console.log("OUT")
-                    return await chargeDataOfModalitie(id) 
                     }
                 }
             }
         }
+
+        await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
+        pythonProcess = spawnSync('python',['src/db/scrapper/handler_scrapper.py','request_handler','src/db/edit_parameters.json','src/db/edit_results.json']);   
+        return await chargeDataOfModalitie(id) 
     }
     result = pythonProcess.stdout?.toString()?.trim();
     error = pythonProcess.stderr?.toString()?.trim(); 
@@ -268,12 +327,13 @@ async function searchData(id , data)
     name_algorithm = algorithms[id]["name"]
     if (name_algorithm == "football-simulator-qatar-2022")
     {
-        let search = await readJson(path.join(__dirname,"./search_parameters.json"));
+        let search = await readJson(path.join(__dirname,"./edit_parameters.json"));
         search = {}
+        search["request"] = "search_player"
         search["player_name"] = data[0]
-        await fs.writeFile(path.join(__dirname,"./search_parameters.json"),JSON.stringify(search));
+        await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(search));
 
-        const pythonProcess =  spawnSync('python',['src/db/scrapper/scrapper.py','search_player','src/db/search_parameters.json','src/db/search_results.json']); 
+        const pythonProcess =  spawnSync('python',['src/db/scrapper/handler_scrapper.py','request_handler','src/db/edit_parameters.json','src/db/edit_results.json']); 
         
         result = pythonProcess.stdout?.toString()?.trim();
         error = pythonProcess.stderr?.toString()?.trim();  
@@ -282,7 +342,7 @@ async function searchData(id , data)
         
         if(status)
         {
-            const buffer = await fs.readFile("src/db/search_results.json");
+            const buffer = await fs.readFile("src/db/edit_results.json");
             const result_parsed = JSON.parse(buffer);
             return result_parsed;
         }

@@ -1,27 +1,27 @@
 {
     "spain": {
         "att": [
-            "dani-olmo",
+            "ferran-torres",
             "alvaro-morata"
         ],
         "def": [
             "daniel-carvajal",
             "robin-le-normand",
-            "aymeric-laporte",
+            "inigo-martinez",
             "jose-luis-gaya"
         ],
         "goalkeeper": "unai-simon",
         "mid": [
             "gavi",
-            "alejandro-baena",
-            "yeremy-pino",
+            "rodri",
+            "fabian-ruiz",
             "nico-williams"
         ]
     },
     "scotland": {
         "att": [],
         "def": [
-            "patterson-nathan",
+            "mcgin",
             "jack-hendry",
             "scott-mckenna",
             "greg-taylor"

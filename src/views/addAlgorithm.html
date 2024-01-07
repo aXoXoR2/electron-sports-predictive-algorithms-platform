@@ -29,6 +29,10 @@
             <input type="text" id="Inputs_and_Outputs" class="form-control"
             placeholder="Information about input and output">
         </div>
+        <div class="form-group">    
+            <input type="text" id="Modalities" class="form-control"
+            placeholder="Algorithm execution modalities">
+        </div>
         <button class="btn btn-primary btn-block">
             Add
         </button>
@@ -45,8 +49,9 @@
         const brief_descriptionAlgorithm = document.querySelector('#brief_description').value;
         const aboutAlgorithm = document.querySelector('#about').value;
         const Inputs_and_OutputsAlgorithm = document.querySelector('#Inputs_and_Outputs').value;
+        const Modalities = document.querySelector('#Modalities').value;
 
-        ipcRenderer.send('new-algorithm', nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
+        ipcRenderer.send('new-algorithm', nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm,Modalities)
 
         });
 

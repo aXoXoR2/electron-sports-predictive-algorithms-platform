@@ -62,8 +62,6 @@ def json_to_csv():
             unique_teams = []
             [unique_teams.append(team) for team in groups[i] if team not in unique_teams]
             groups[i] = unique_teams
-        
-    print(groups)
     
     df = pd.DataFrame(columns=column)
     column.__delitem__(0)
@@ -77,9 +75,16 @@ def json_to_csv():
         df.loc[len(df)] = newline
         df.to_csv("src/db/results/algorithm_results.csv", index=False)
         
-    create_images(column, groups)
+    return column, groups
 
 if sys.argv[1]== "json_to_csv":
-    json_to_csv()
+    column,groups = json_to_csv()
+    json_result = json.dumps({"column":column,"groups":groups},indent=4)
+    with open("src/db/conversion_utils.json", 'w') as outfile:
+        outfile.write(json_result)
+if sys.argv[1]== "create_images":
+    json_args = open("src/db/conversion_utils.json")
+    data_conversion = json.load(json_args)
+    create_images(data_conversion["column"],data_conversion["groups"])
 print("OK")
 sys.stdout.flush()

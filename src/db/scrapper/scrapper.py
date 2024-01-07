@@ -4,8 +4,6 @@ import ast
 import os
 from lineups import scrap_lineup
 from lineups import get_national_selection_last_lineup
-import os
-import sys
 
 
 def search_irregularities(tournament_location,tournament_name): # search for players not convocated in the previous data
@@ -178,7 +176,7 @@ def search_and_actualize_changes(name = "all"):# method for actualize convocator
                 get_national_selections(i["name"],pages)
                 scrap_all_national_selections(i["name"])
                 search_irregularities(i["location"],i["name"]) 
-                scrap_lineup(i["name"],i["URL"],HEADERS)
+                scrap_lineup(i["name"],HEADERS)
             else:
                 scrap_all_national_selections(i["name"])
                 
@@ -191,7 +189,7 @@ def search_and_actualize_changes(name = "all"):# method for actualize convocator
                     get_national_selections(i["name"],pages)
                     scrap_all_national_selections(i["name"])
                     search_irregularities(i["location"],i["name"])
-                    scrap_lineup(i["name"],i["URL"],HEADERS)
+                    scrap_lineup(i["name"],HEADERS)
                 else:
                     scrap_all_national_selections(i["name"])
                 break
@@ -212,7 +210,7 @@ def search_and_actualize_only_one_selection_reboot(name):
                     get_national_selections(i["name"],pages)
                     scrap_selection(i,selections,j)
                     search_irregularities(i["location"],i["name"]) 
-                    get_national_selection_last_lineup(i["name"],i["URL"],j)
+                    get_national_selection_last_lineup(i["name"],j,selections[j]["id"])
                     return
     
 def search_and_actualize_only_one_selection(name): #method used for actualize only one seletion
@@ -331,40 +329,20 @@ def edit_lineup(team_name , new_lineup):#method to do a change in a lineup
     json.dump(data, lineups_file,indent=4)
     lineups_file.close()
 
-
-
-if sys.argv[1]== "scrap_team":
-    json_args = open(sys.argv[2])
-    data_selection = json.load(json_args)
-    if data_selection['option']=='reboot':
-        search_and_actualize_only_one_selection_reboot(data_selection["team_name"])
-    else:
-        search_and_actualize_only_one_selection(data_selection["team_name"])
+def get_data(type):
+    out_file_tournament = open(os.getcwd()+"/src/db/scrapper/tournaments_urls_and_local_locations.json")
+    tournaments = json.load(out_file_tournament)
+    out_file_tournament.close()
     
-elif sys.argv[1]== "scrap_region":
-    json_args = open(sys.argv[2])
-    data_selection = json.load(json_args)
-    search_and_actualize_changes(data_selection["region_name"])
-
-elif sys.argv[1]== "search_player":
-    json_args = open(sys.argv[2])
-    data_selection = json.load(json_args)
-    response = look_for_players(data_selection["player_name"])
-    json_result = json.dumps(response,indent=4)
-    with open(sys.argv[3], 'w') as outfile:
-        outfile.write(json_result)
-
-elif sys.argv[1]== "add_player":
-    json_args = open(sys.argv[2])
-    data_selection = json.load(json_args)
-    add_player(data_selection["player_id"],data_selection["player_name"])
-
-elif sys.argv[1]== "edit_lineup":
-    json_args = open(sys.argv[2])
-    data_selection = json.load(json_args)
-    edit_lineup(data_selection["team_name"],data_selection["new_lineup"])
+    data_type = {}
     
-print("OK")
-sys.stdout.flush()  
+    for i in tournaments:
+        data_outfile = open(os.getcwd()+"/src/db/scrapper/"+i["name"]+"_"+type+".json")
+        data = json.load(data_outfile)
+        data_outfile.close()
+        data_type[i["name"]] = data
+    
+    return data_type
+        
 
 

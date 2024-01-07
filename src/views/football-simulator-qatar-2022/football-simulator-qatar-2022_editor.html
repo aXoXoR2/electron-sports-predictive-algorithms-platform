@@ -112,12 +112,40 @@
             lineups_section+= `</select>
             <button class= "btn btn-outline-dark"> Select</button>
         </form>
-    </div>
-</div>`     
+    </div>`
+    if(region != "world_cup_qatar_2022")
+            {
+                lineups_section += `<div class="w-0 mx-auto">
+                    <input type="button" value ="Get This Team Last Lineup" data-nombre="lineup" class="btn btn-primary">
+                </div>`
+            }   
+    lineups_section+= `</div>`     
             document.querySelector('.search_section').innerHTML = lineups_section
             const form =document.querySelector('form');
 
             const secondary_btn = document.querySelector('.btn-secondary');
+            let botones_primary = document.querySelectorAll(".btn-primary")
+        
+        botones_primary.forEach((item)=>
+        {
+            item.addEventListener("click",(e)=>
+            {
+                const name = e.target.dataset['nombre']
+                if(name == "lineup")
+            {
+                const selection = document.getElementById('team');
+                try{
+                var value = selection.options[selection.selectedIndex].value;              
+                e.preventDefault()
+                ipcRenderer.send('edit-data-request',["lineup", value])
+                }
+                catch{
+                    e.preventDefault()
+                    alert('Please select a team')
+                }
+            }
+            })
+        })
 
             secondary_btn.addEventListener('click', e=>
             {
@@ -191,7 +219,7 @@
                       
             document.querySelector('.search_section').innerHTML = lineups_section
             const btn=document.querySelector('.btn-outline-dark');
-
+        
             const secondary_btn = document.querySelector('.btn-secondary');
 
             secondary_btn.addEventListener('click', e=>

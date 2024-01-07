@@ -4,19 +4,16 @@ import json
 #endregion
 
 #region import projects root archives format : project.(algorithm_name).archive_name
-import projects.FIFA_World_Cup_2022.futbol_simulator as FS
+import FIFA_World_Cup_2022.futbol_simulator as FS
 #endregion
 
 def run():
     json_args = open(sys.argv[2])
     data_selection = json.load(json_args)
-    data = open('src/db/algorithms.json')
-    id = int(data_selection["id"])
-    data_algorithm =  json.load(data)
-    algorithm = data_algorithm[id]
+    data_algorithm = data_selection["algorithm"]
     response = ""
     
-    if algorithm["name"]== "football-simulator-qatar-2022":
+    if data_algorithm== "football-simulator-qatar-2022":
         modalitie = data_selection["modalitie"].lower()
         teams = data_selection["data"]["teams"]
         groups = data_selection["data"]["groups"]

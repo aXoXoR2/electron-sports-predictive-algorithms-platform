@@ -3,7 +3,7 @@ const {app, BrowserWindow,ipcMain, Menu,screen} =require('electron');
 const path = require('path');
 const {spawnSync} = require("child_process");
 const { run} = require ('./js_algorithm_runner.js');
-const { exit, config } = require('process');
+const { exit} = require('process');
 const {convertData,ovewriteFile,chargeConfig,chargeResults, editData,chargeDataOfModalitie,getId,modalitieSelection,chargeModalities,algorithmSelectionJson,chargeData,removeAlgorithm,editAlgorithm,addAlgorithm, checkDB, searchData} = require ('./db/db_managment.js');
 const {opneFile,chargeFiles,createArchive} = require('./directories_and_archives_handler.js')
 //#endregion
@@ -53,20 +53,30 @@ function createPrimaryWindow()
 
     ipcMain.on('execute-algorithm-request', async(event,name_modalitie,data)=>
     {
-        const id = await getId();
+        const algorithm_id = await getId();
         primaryWindow[0].webContents.send('wait-until-done');
-        await modalitieSelection(name_modalitie,data);
-        await run(algorithms_and_descriptions[0][id]["lenguage"]);
-        const direction = 'views/'+algorithms_and_descriptions[0][id]["name"]+ '/'+algorithms_and_descriptions[0][id]["name"]+'_results.html'
-        Menu.setApplicationMenu(menuResult)
-        primaryWindow[0].loadFile(path.join(__dirname, direction));
-        ipcMain.on('result-comunication', async()=>
+        await modalitieSelection(name_modalitie,data,algorithm_id);
+        let configuration = await chargeConfig()
+        delete configuration.id
+        let results = await run(algorithms_and_descriptions[0][algorithm_id]["lenguage"],configuration);
+        if (results != "Server Error")
         {
-            await convertData()
-            let results = await chargeResults()
-            primaryWindow[0].webContents.send('results-csv',results);
-        })
-        //enviar los resultados de la ejecución
+            await ovewriteFile("results",results)
+            const direction = 'views/'+algorithms_and_descriptions[0][algorithm_id]["name"]+ '/'+algorithms_and_descriptions[0][algorithm_id]["name"]+'_results.html'
+            Menu.setApplicationMenu(menuResult)
+            primaryWindow[0].loadFile(path.join(__dirname, direction));
+            ipcMain.on('result-comunication', async()=>
+            {
+                await convertData(algorithm_id)
+                let results = await chargeResults()
+                primaryWindow[0].webContents.send('results-csv',results);
+            })//enviar los resultados de la ejecución
+        }
+        else 
+        {
+            window.alert(results)
+        }
+        
     })//handle algorithm execution request
 
     ipcMain.on('charge-view-request', async(event,type)=>
@@ -121,13 +131,14 @@ function createPrimaryWindow()
             var rute = path.join(__dirname, '../config_saved/'+files[index]);
         }
         var data = await opneFile(rute)
-        var algorithm_name = data["algorithm"]
-        delete data.algorithm
-        
+        var algorithm_name = data["algorithm"] 
+             
         if(type == 'results')
         {
+            delete data.algorithm
             await ovewriteFile(type,data["results"])
             let new_configuration = data["configuration"]
+            new_configuration["algorithm"] = algorithm_name
             let id 
             for (var i=0; i<algorithms_and_descriptions[0].length;i++)
             {
@@ -143,13 +154,14 @@ function createPrimaryWindow()
             primaryWindow[0].loadFile(path.join(__dirname,'views/'+algorithm_name+'/'+algorithm_name+'_results.html'))
             ipcMain.on('result-comunication', async()=>
             {
-                await convertData(); 
+                await convertData(id); 
                 let results = await chargeResults()
                 primaryWindow[0].webContents.send('results-csv',results);
             })
         }
         if(type == 'config')
         {
+
             let id 
             for (var i=0; i<algorithms_and_descriptions[0].length;i++)
             {
@@ -264,9 +276,9 @@ function createAddWindow()
         addWindow=null;
     })
 
-    ipcMain.on('new-algorithm', async(event,name,lenguage,brief_description,about,Inputs_and_Outputs)=>
+    ipcMain.on('new-algorithm', async(event,name,lenguage,brief_description,about,Inputs_and_Outputs,Modalities)=>
 {
-    await addAlgorithm(name,lenguage,brief_description,about,Inputs_and_Outputs);
+    await addAlgorithm(name,lenguage,brief_description,about,Inputs_and_Outputs,Modalities);
     await checkDB();
     algorithms_and_descriptions = await chargeData();
     primaryWindow[0].webContents.send('new-data-from-database-added',algorithms_and_descriptions[0]);
@@ -288,7 +300,6 @@ function createEditWindow()
                 contextIsolation:false
             },
         })
-    editWindow.setMenu(null);
     editWindow.loadFile(path.join(__dirname, 'views/editAlgorithm.html'));
     editWindow.on('closed',()=>
     {
@@ -300,14 +311,15 @@ function createEditWindow()
         editWindow.webContents.send('create-algorithm-list',algorithms_and_descriptions[0]);
     });
 
-    ipcMain.on('information-request',(event,id)=>
-    {
-        editWindow.webContents.send('all-algorithm-information',algorithms_and_descriptions[0][id],algorithms_and_descriptions[1][id]);
+    ipcMain.on('information-request',async(event,id)=>
+    { 
+        modalities = await chargeModalities()
+        editWindow.webContents.send('all-algorithm-information',algorithms_and_descriptions[0][id],algorithms_and_descriptions[1][id],modalities[id]);
     })
 
-    ipcMain.on('edited-algorithm', async(event,id,name,lenguage,brief_description,about,Inputs_and_Outputs)=>
+    ipcMain.on('edited-algorithm', async(event,id,name,lenguage,brief_description,about,Inputs_and_Outputs,Modalities)=>
     {
-        await editAlgorithm(id,name,lenguage,brief_description,about,Inputs_and_Outputs)
+        await editAlgorithm(id,name,lenguage,brief_description,about,Inputs_and_Outputs,Modalities)
         algorithms_and_descriptions = await chargeData()
         primaryWindow.webContents.send('new-data-from-database',algorithms_and_descriptions[0]);
         editWindow.close();
@@ -398,13 +410,14 @@ function createSaveFileWindow(type,data) // window used for recieve file name to
 
 async function saveResults()// save results function from Menu
 {
+    let data = {}
+    
     let results = await chargeResults();
     let config = await chargeConfig();
     delete config.id;
-    let data = {}
-    const id =await getId();
+    data["algorithm"] = config["algorithm"]
+    delete config.algorithm;
 
-    data["algorithm"] = algorithms_and_descriptions[0][id]["name"];
     data["results"] = results;
     data["configuration"] = config
     createSaveFileWindow("results",data);
@@ -412,13 +425,8 @@ async function saveResults()// save results function from Menu
 
 async function saveConfiguration()// save configuration function from Menu
 {
-    let id = await getId();
-    let algorithm_name = algorithms_and_descriptions[0][id]["name"]
-
     let configuration = await chargeConfig();
     delete configuration.id;
-    configuration["algorithm"] = algorithm_name
-
     createSaveFileWindow("config",configuration)
 }
 

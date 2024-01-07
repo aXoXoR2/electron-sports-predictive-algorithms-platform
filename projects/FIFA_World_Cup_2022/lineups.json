@@ -1,192 +1,40 @@
 {
-    "bosnia-and-herzegovina": {
+    "angola": {
         "att": [
-            "said-hamulic",
-            "ermedin-demirovic",
-            "smail-prevljak"
+            "milson",
+            "zito-luvumbo",
+            "mabululu"
         ],
         "def": [
-            "jusuf-gazibegovic",
-            "renato-gojkovic",
-            "dennis-hadzikadunic",
-            "nihad-mujakic"
+            "to-carneiro",
+            "jonathan-buatu-mananga",
+            "kialonda-gaspar",
+            "loide-augusto"
         ],
-        "goalkeeper": "kenan-piric",
+        "goalkeeper": "neblu",
         "mid": [
-            "gojko-cimirot",
-            "ivan-basic",
-            "haris-hajradinovic"
+            "fredy",
+            "keliano-manuel",
+            "show"
         ]
     },
-    "burkina-faso": {
+    "aston-villa": {
         "att": [
-            "hassane-bande"
+            "leon-bailey",
+            "diaby-moussa",
+            "ollie-watkins"
         ],
         "def": [
-            "edmond-tapsoba",
-            "steeve-yago",
-            "issoufou-dayo"
+            "ezri-konsa",
+            "diego-carlos",
+            "clement-lenglet",
+            "alex-moreno"
         ],
-        "goalkeeper": "herve-koffi",
+        "goalkeeper": "emiliano-martinez",
         "mid": [
-            "ismahila-ouedraogo",
-            "guiebre-abdoul",
-            "ibrahim-blati-toure",
-            "stephane-aziz-ki",
-            "cedric-badolo",
-            "dango-ouattara"
-        ]
-    },
-    "cuba": {
-        "att": [
-            "yunior-perez",
-            "alejandro-delgado"
-        ],
-        "def": [
-            "fabian-gloor",
-            "orlando-calvo",
-            "dariel-morejon-rodriguez"
-        ],
-        "goalkeeper": "raiko-arozarena",
-        "mid": [
-            "paradela-luis",
-            "espino-karel",
-            "romario-torrez",
-            "reidel-sanchez",
-            "daniel-diaz"
-        ]
-    },
-    "ecuador": {
-        "att": [
-            "junior-sornoza",
-            "rodriguez-kevin"
-        ],
-        "def": [
-            "angelo-preciado",
-            "felix-torres",
-            "robert-arboleda",
-            "willian-pacho"
-        ],
-        "goalkeeper": "alexander-dominguez",
-        "mid": [
-            "carlos-gruezo",
-            "moises-caicedo",
-            "angel-mena",
-            "kendry-paez"
-        ]
-    },
-    "france": {
-        "att": [
-            "ousmane-dembele",
-            "antoine-griezmann",
-            "randal-kolo-muani",
-            "olivier-giroud"
-        ],
-        "def": [
-            "jules-kounde",
-            "william-saliba",
-            "lucas-hernandez",
-            "theo-hernandez"
-        ],
-        "goalkeeper": "brice-samba",
-        "mid": [
-            "youssouf-fofana",
-            "adrien-rabiot"
-        ]
-    },
-    "haiti": {
-        "att": [
-            "frantzdy-pierrot"
-        ],
-        "def": [
-            "carlens-arcus",
-            "ricardo-ade",
-            "jerome-mechack",
-            "alex-christian-junior",
-            "alexis-djimy-bend"
-        ],
-        "goalkeeper": "johny-placide",
-        "mid": [
-            "carl-fred-sainte",
-            "louicius-don-deedson",
-            "mikael-cantave",
-            "fafa-picault"
-        ]
-    },
-    "israel": {
-        "att": [
-            "khalaili-anan",
-            "tai-baribo",
-            "dean-david"
-        ],
-        "def": [
-            "avishai-cohen",
-            "stav-lemkin",
-            "raz-shlomo",
-            "ofir-davidzada"
-        ],
-        "goalkeeper": "daniel-peretz",
-        "mid": [
-            "gabi-kanikovski",
-            "dor-peretz",
-            "gadi-kinda"
-        ]
-    },
-    "madagascar": {
-        "att": [
-            "clement-couturier",
-            "njiva-rakotoharimalala"
-        ],
-        "def": [
-            "romain-metanire",
-            "razafindraibeharimihanta-nirina",
-            "thomas-fontaine",
-            "kenji-van-boto",
-            "rayan-raveloson"
-        ],
-        "goalkeeper": "adrien-melvin",
-        "mid": [
-            "marco-ilaimaharitra",
-            "dorian-bertrand",
-            "loic-lapoussin"
-        ]
-    },
-    "morocco": {
-        "att": [
-            "hakim-ziyech",
-            "amine-adli",
-            "youssef-en-nesyri"
-        ],
-        "def": [
-            "hakimi-achraf",
-            "nayef-aguerd",
-            "romain-saiss",
-            "noussair-mazraoui"
-        ],
-        "goalkeeper": "bono",
-        "mid": [
-            "bilal-el-khannouss",
-            "sofyan-amrabat",
-            "amine-harit"
-        ]
-    },
-    "trinidad-and-tobago": {
-        "att": [
-            "gill-real"
-        ],
-        "def": [
-            "shannon-gomez",
-            "aubrey-david",
-            "justin-garcia",
-            "andre-raymond"
-        ],
-        "goalkeeper": "denzil-smith",
-        "mid": [
-            "jones-alvin",
-            "reon-moore",
-            "daniel-phillips",
-            "rampersad-andre",
-            "nathaniel-james"
+            "john-mcginn",
+            "douglas-luiz",
+            "jacob-ramsey"
         ]
     }
 }

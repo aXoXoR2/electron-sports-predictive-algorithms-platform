@@ -76,6 +76,15 @@ input {
     align-items: center;
     justify-content: center;
     margin: 0 auto;
+    width: 50px;
+}
+
+.form-group input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 500px;
 }
 
 label {

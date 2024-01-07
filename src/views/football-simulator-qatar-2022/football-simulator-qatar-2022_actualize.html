@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../css/football.css">
+    <link rel="stylesheet" href="../../css/football_editor.css">
     <title>Futbol Simulator Scrapper</title>
 </head>
 <body onload="comunication()">
@@ -92,6 +92,13 @@
 
             var lineups_section = `<div class ="text-center mb-4">
                 <h3> Select one Team to see lineup </h3>
+                <div class="w-0 mx-auto container">
+                    <h4> Reboot</h4>
+                    <label class="switch">
+                    <input type="checkbox" checked name="reboot">
+                    <span class="slider"> </span>
+                    </label>
+                </div>
             </div>
             <div class ="w-25 mx-auto">
                 <button class= "btn btn-secondary"> Back</button>
@@ -107,8 +114,10 @@
             <button class= "btn btn-outline-dark"> Select</button>
         </form>
     </div>
-</div>`     
+</div>`   
+
             document.querySelector('.search_section').innerHTML = lineups_section
+
             const form =document.querySelector('form');
 
             const secondary_btn = document.querySelector('.btn-secondary');
@@ -120,18 +129,33 @@
 
             form.addEventListener('submit', e => 
             {
+                let reboot = document.querySelector('input[name="reboot"]:checked');
                 try 
                 {
                     const selection = document.getElementById('team');
                     var value = selection.options[selection.selectedIndex].value;              
                     e.preventDefault()
-                    let result =window.confirm('Are you sure you want to scrap this team? Players valorations will be actualized with their actal stats and may take a few minutes')
-                    if(result) 
-                    {               
-                        ipcRenderer.send('edit-data-request', ["scrap_team",value,''])
+                    try 
+                    {   
+                        reboot.value
+                        let result =window.confirm('Are you sure you want to scrap this team? It will be rebooted and may take a few minutes.')                 
+                        if(result)
+                        {
+                            ipcRenderer.send('edit-data-request', ["scrap_team",value,'reboot'])
+                        }  
                     }
-                }
-                catch {
+                    catch
+                    {
+                        let result =window.confirm('Are you sure you want to scrap this team? Players valorations will be actualized with their actual stats and may take a few minutes')             
+                        
+                        if(result)
+                        {
+                            ipcRenderer.send('edit-data-request', ["scrap_team",value,''])
+                        }
+                    }  
+                }                   
+                catch
+                {
                     e.preventDefault()
                     alert('Please select a selection for scrap')
                 }

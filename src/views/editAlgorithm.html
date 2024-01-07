@@ -48,14 +48,19 @@
         ipcRenderer.send('information-request',id);
        }
 
-       ipcRenderer.on('all-algorithm-information', (event, algorithm, description)=>
+       ipcRenderer.on('all-algorithm-information', (event, algorithm, description, modalities)=>
        {
-        deployDescriptions(algorithm, description);
+        deployDescriptions(algorithm, description,modalities);
        });
 
-       function deployDescriptions(algorithm,description)
+       function deployDescriptions(algorithm,description,modalities)
        {
-            
+        console.log(modalities)
+            let modalitie = modalities["modalities"][0]
+            for (let i = 1; i < modalities["modalities"].length; i++)
+            {
+                modalitie += ","+modalities["modalities"][i]
+            }
         var description_lis =`<form class=" @p-4">
             <div class ="form-group">
                 <label>Algorithm's Name: <input type="text" id="name" value= "${algorithm['name']}" class="form-control"
@@ -77,6 +82,10 @@
                 <label>Information about input and output: <input type="text" id="Inputs_and_Outputs" value= "${description['Inputs_and_Outputs']}" class="form-control"
                 /> </label><br/> 
             </div>
+            <div class="form-group">    
+                <label>Algorithm Modalities: <input type="text" id="Modalities" value= "${modalitie}" class="form-control"
+                /> </label><br/> 
+            </div>
             <button class="btn btn-primary btn-block">
                 Edit
             </button>
@@ -92,9 +101,9 @@
         const brief_descriptionAlgorithm = document.querySelector('#brief_description').value;
         const aboutAlgorithm = document.querySelector('#about').value;
         const Inputs_and_OutputsAlgorithm = document.querySelector('#Inputs_and_Outputs').value;
-
+        const Modalities = document.querySelector('#Modalities').value;
         
-        editAlgoritm(algorithm['id'], nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
+        editAlgoritm(algorithm['id'], nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm,Modalities)
         e.preventDefault()
     });
        }
@@ -114,12 +123,12 @@
             document.querySelector('.algorithms').innerHTML=algorithm_lis;      
         }
 
-        function editAlgoritm(id, nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
+        function editAlgoritm(id, nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm, Modalities)
         {
             let result = window.confirm('Are you sure you want to edit this algorithm?');
             if (result === true)
             {
-                ipcRenderer.send('edited-algorithm',id, nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm)
+                ipcRenderer.send('edited-algorithm',id, nameAlgorithm,lenguageAlgorithm,brief_descriptionAlgorithm,aboutAlgorithm,Inputs_and_OutputsAlgorithm,Modalities)
             }
         }
 
