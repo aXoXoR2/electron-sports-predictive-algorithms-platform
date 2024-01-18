@@ -2892,6 +2892,14 @@
             "position": "D",
             "tactical": "74",
             "technical": "54"
+        },
+        "hugo-duro": {
+            "attack": "68",
+            "creativity": "46",
+            "defending": "23",
+            "position": "M",
+            "tactical": "49",
+            "technical": "43"
         }
     },
     "serbia": {

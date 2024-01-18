@@ -24,7 +24,6 @@ async function run(lenguage,configuration)
     }
     else 
     {
-        console.log(error);
         return "Server Error";
     }
 }

@@ -195,20 +195,12 @@
                 "id": 831799
             },
             {
-                "name": "lo-celso-giovani",
-                "id": 798835
-            },
-            {
                 "name": "lautaro-martinez",
                 "id": 823984
             },
             {
                 "name": "german-pezzella",
                 "id": 158241
-            },
-            {
-                "name": "julian-alvarez",
-                "id": 944656
             },
             {
                 "name": "leandro-paredes",
@@ -233,6 +225,14 @@
             {
                 "name": "lucas-ocampos",
                 "id": 155702
+            },
+            {
+                "name": "lo-celso-giovani",
+                "id": 798835
+            },
+            {
+                "name": "julian-alvarez",
+                "id": 944656
             }
         ],
         "id": 4819

@@ -1,6 +1,62 @@
 {
     "column": [
-        "winner"
+        "1st Group",
+        "2nd Group",
+        "8th Finals",
+        "4th Finals",
+        "Semi Finals",
+        "Final",
+        "Winner",
+        "Third"
     ],
-    "groups": {}
+    "groups": {
+        "A": [
+            "netherlands",
+            "senegal",
+            "ecuador",
+            "qatar"
+        ],
+        "B": [
+            "usa",
+            "wales",
+            "iran",
+            "england"
+        ],
+        "C": [
+            "mexico",
+            "poland",
+            "saudi-arabia",
+            "argentina"
+        ],
+        "D": [
+            "denmark",
+            "tunisia",
+            "australia",
+            "france"
+        ],
+        "E": [
+            "germany",
+            "japan",
+            "costa-rica",
+            "spain"
+        ],
+        "F": [
+            "belgium",
+            "canada",
+            "croatia",
+            "morocco"
+        ],
+        "G": [
+            "switzerland",
+            "cameroon",
+            "serbia",
+            "brazil"
+        ],
+        "H": [
+            "uruguay",
+            "south-korea",
+            "ghana",
+            "portugal"
+        ]
+    }
 }

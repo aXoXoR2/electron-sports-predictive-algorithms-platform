@@ -43,10 +43,11 @@ def get_lineups(lineups, team_id,team_slug,HEADERS):
         players= team_lineups["away"]["players"]
     else:
         players= team_lineups["home"]["players"]
+    
     lineup = get_lineup(players)
     lineups[team_slug] = lineup
     
-    return lineups
+    return lineups,players
     
 def scrap_lineup(name,HEADERS):
     
@@ -61,7 +62,7 @@ def scrap_lineup(name,HEADERS):
                 selections = json.load(out_file)
                 out_file.close()
                 for j in selections.keys():
-                    lineups = get_lineups(lineups,selections[j]["id"],j,HEADERS)
+                    lineups,players = get_lineups(lineups,selections[j]["id"],j,HEADERS)
         
     lineup_file = open(os.getcwd()+"/src/db/scrapper/"+ name+"_lineups"+".json",'w')
     json.dump(lineups, lineup_file,indent=4)
@@ -90,12 +91,12 @@ def get_national_selection_last_lineup(team_name):
                     lineups= json.load(lineup_file)
                     lineup_file.close()
                    
-                    new_lineup = get_lineups(lineups,selections[j]["id"],team_name,HEADERS)
-                   
+                    new_lineup,players = get_lineups(lineups,selections[j]["id"],team_name,HEADERS)
+                    
                     new_lineup_file = open(os.getcwd()+"/src/db/scrapper/"+i["name"]+"_lineups.json","w")
                     json.dump(new_lineup,new_lineup_file,indent=4)
                     new_lineup_file.close()
-                    return 
+                    return players
     
     
     

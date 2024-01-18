@@ -19,7 +19,8 @@ def run():
         groups = data_selection["data"]["groups"]
         players = data_selection["data"]["players"]
         lineups = data_selection["data"]["lineups"]
-        FS.run(modalitie,teams,groups,players,lineups)
+        format = data_selection["data"]["format"]
+        FS.run(modalitie,teams,groups,players,lineups,format)
         with open( "projects/FIFA_World_Cup_2022/results.json") as outfile:
             response = json.load(outfile)
         

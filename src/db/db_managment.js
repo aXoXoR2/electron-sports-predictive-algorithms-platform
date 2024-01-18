@@ -302,16 +302,15 @@ async function editData(id , data)
         }
 
         await fs.writeFile(path.join(__dirname,"./edit_parameters.json"),JSON.stringify(edit));
-        pythonProcess = spawnSync('python',['src/db/scrapper/handler_scrapper.py','request_handler','src/db/edit_parameters.json','src/db/edit_results.json']);   
-        return await chargeDataOfModalitie(id) 
+        pythonProcess = spawnSync('python',['src/db/scrapper/handler_scrapper.py','request_handler','src/db/edit_parameters.json','src/db/edit_results.json']);
     }
     result = pythonProcess.stdout?.toString()?.trim();
     error = pythonProcess.stderr?.toString()?.trim(); 
 
     const status = result === 'OK';
-        
     if(status)
     {
+        
         new_data=  await chargeDataOfModalitie(id)
         return new_data
     }

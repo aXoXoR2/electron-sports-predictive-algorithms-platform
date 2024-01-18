@@ -9,16 +9,21 @@ def create_images(columns,groups):
     
     df = pd.read_csv('src/db/results/algorithm_results.csv')
     if groups != {}:
+        group_keys = []
+        for i in df.keys():
+            if i[len(i)-5 : len(i)] == "Group":
+                group_keys.append(i)
         for g in groups.keys():
             df1 = df[df['Team'].isin(groups[g])]
-            labels = [i for i in df1["Team"]]
+            labels = [i.capitalize() for i in df1["Team"]]
+            
             fig, ax = plt.subplots(figsize=(10,10))
-            ax = sns.heatmap(data=df1[["1st Group","2nd Group"]],vmin=0,vmax=1,linewidths=2, linewidth='.5',yticklabels=labels, annot=True, cmap="crest")
+            ax = sns.heatmap(data=df1[group_keys],vmin=0,vmax=1,linewidths=2, linewidth='.5',yticklabels=labels, annot=True, cmap="crest")
             plt.savefig(f"src/db/results/{g}.jpg", dpi=1000 )
             plt.close()
-        
-        columns.remove('1st Group')
-        columns.remove('2nd Group')
+            
+        for i in group_keys:
+            columns.remove(i)
         
         labels = [i for i in df["Team"]]
         fig, ax = plt.subplots(figsize=(10,10))
@@ -28,7 +33,7 @@ def create_images(columns,groups):
         
         
     else:
-        labels = [i for i in df["Team"]]
+        labels = [i.capitalize() for i in df["Team"]]
         fig, ax = plt.subplots(figsize=(10,10))
         ax = sns.heatmap(data=df[columns],vmin=0,vmax=1,linewidths=2, linewidth='.5',yticklabels=labels, annot=True, cmap="crest")
         plt.savefig(f"src/db/results/algorithm_results.jpg", dpi=1000 )
@@ -48,7 +53,7 @@ def json_to_csv():
         
     for i in data:
         for key in data[i]:
-            if key == "1st Group":
+            if key == "1st Group" or key =="1 in Group":
                 there_group = True
             column.append(key)
         break
@@ -76,6 +81,8 @@ def json_to_csv():
         df.to_csv("src/db/results/algorithm_results.csv", index=False)
         
     return column, groups
+
+
 
 if sys.argv[1]== "json_to_csv":
     column,groups = json_to_csv()

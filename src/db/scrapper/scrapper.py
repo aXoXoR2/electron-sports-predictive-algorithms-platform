@@ -5,6 +5,14 @@ import os
 from lineups import scrap_lineup
 from lineups import get_national_selection_last_lineup
 
+def obtain_slug(nation):
+    result = ""
+    for i in nation:
+        if i == " ":
+            result+= "-"
+        else:
+            result+= i.lower()
+    return result
 
 def search_irregularities(tournament_location,tournament_name): # search for players not convocated in the previous data
     
@@ -239,8 +247,12 @@ def add_player(player_id,player_name):#method to add a player in his national se
     HEADERS = ast.literal_eval(headers_string)
     NationURL = "https://api.sofascore.com/api/v1/player/"+str(player_id)+"/national-team-statistics"
     response = requests.get(NationURL,headers=HEADERS)
-    
-    player_nationality =response.json()["statistics"][0]["team"]["slug"]
+    if response.json()["statistics"] == []:
+        NationURL = "https://api.sofascore.com/api/v1/player/"+str(player_id)
+        response = requests.get(NationURL,headers=HEADERS)
+        player_nationality = obtain_slug(response.json()["player"]["country"]["name"])
+    else:
+        player_nationality =response.json()["statistics"][0]["team"]["slug"]
     region= ""
     founded = False
     location =""
@@ -344,5 +356,53 @@ def get_data(type):
     
     return data_type
         
-
+def save_players(players, team_name):
+    
+    founded = False
+    out_file_tournament = open(os.getcwd()+"/src/db/scrapper/tournaments_urls_and_local_locations.json")
+    tournaments = json.load(out_file_tournament)
+    out_file_tournament.close()
+    
+    for i in tournaments:
+        if i["name"] != "world_cup_qatar_2022":
+            out_file = open(os.getcwd()+"/src/db/scrapper/"+i["location"]+"/"+i["name"]+"_selections.json")
+            selections = json.load(out_file)
+            out_file.close()
+            for j in selections.keys():
+                if j == team_name:
+                    region = i["name"]
+                    location = i["location"]
+                    
+                    out_file = open(os.getcwd()+"/src/db/scrapper/"+region+"_players.json")
+                    new_players= json.load(out_file)
+                    out_file.close()
+    
+                    selections_outfile = open(os.getcwd()+"/src/db/scrapper/"+location +"/"+region+"_selections.json")
+                    selections = json.load(selections_outfile)
+                    selections_outfile.close()
+                    count = 0
+                    for k in players:
+                        is_in_it = False
+                        new_players = scrapper_player_stats(k["player"]["id"],k["player"]["slug"],team_name, new_players)
+                        for i in selections[team_name]["players"]:
+                            if i["id"] == k["player"]["id"]:
+                                is_in_it = True
+                                break
+                        count+=1
+                        if not is_in_it:
+                            selections[team_name]["players"].append({"name":k["player"]["slug"] , "id":k["player"]["id"]})
+                        if count == 11:
+                            break
+                        
+                    founded = True
+                    break
+            if founded:
+                break
+    
+    players_file = open(os.getcwd()+"/src/db/scrapper/"+region+"_players.json",'w')
+    json.dump(new_players, players_file,indent=4)
+    players_file.close()
+    
+    selections_outfile =open(os.getcwd()+"/src/db/scrapper/"+location +"/"+region+"_selections.json", 'w')
+    json.dump(selections, selections_outfile,indent=4)
 

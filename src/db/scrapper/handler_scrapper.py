@@ -29,8 +29,9 @@ def request_handler():
         sc.edit_lineup(data_selection["team_name"],data_selection["new_lineup"])
     
     elif data_selection["request"]== "last_lineup":
-        lp.get_national_selection_last_lineup(data_selection["team_name"])
-    
+        players = lp.get_national_selection_last_lineup(data_selection["team_name"])
+        sc.save_players(players,data_selection["team_name"])
+
     elif data_selection["request"]== "get_data":
         response=sc.get_data(data_selection["type"])
         json_result = json.dumps(response,indent=4)

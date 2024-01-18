@@ -74,7 +74,7 @@ function createPrimaryWindow()
         }
         else 
         {
-            window.alert(results)
+            alert(results)
         }
         
     })//handle algorithm execution request

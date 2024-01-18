@@ -1,40 +1,40 @@
 {
-    "angola": {
+    "albania": {
         "att": [
-            "milson",
-            "zito-luvumbo",
-            "mabululu"
+            "mirlind-daku",
+            "myrto-uzuni"
         ],
         "def": [
-            "to-carneiro",
-            "jonathan-buatu-mananga",
-            "kialonda-gaspar",
-            "loide-augusto"
+            "ivan-balliu",
+            "ardian-ismajli",
+            "berat-djimsiti",
+            "mitaj-mario"
         ],
-        "goalkeeper": "neblu",
+        "goalkeeper": "thomas-strakosha",
         "mid": [
-            "fredy",
-            "keliano-manuel",
-            "show"
+            "keidi-bare",
+            "kristjan-asllani",
+            "nedim-bajrami",
+            "jasir-asani"
         ]
     },
-    "aston-villa": {
+    "argentina": {
         "att": [
-            "leon-bailey",
-            "diaby-moussa",
-            "ollie-watkins"
+            "lionel-messi",
+            "julian-alvarez"
         ],
         "def": [
-            "ezri-konsa",
-            "diego-carlos",
-            "clement-lenglet",
-            "alex-moreno"
+            "nahuel-molina",
+            "cristian-romero",
+            "nicolas-otamendi",
+            "marcos-acuna"
         ],
         "goalkeeper": "emiliano-martinez",
         "mid": [
-            "john-mcginn",
-            "douglas-luiz",
-            "jacob-ramsey"
+            "lo-celso-giovani",
+            "enzo-fernandez",
+            "rodrigo-de-paul",
+            "alexis-mac-allister"
         ]
     }
 }
